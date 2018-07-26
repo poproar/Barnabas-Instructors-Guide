@@ -231,7 +231,7 @@ N/A
 ## Final Assessment, project or product
 Ability of the robot to knock the plastic cup placed 8" away from the robot off the edge of the table  
 
----
+___
 
 # SESSION 2 – Building our First Robot
 
