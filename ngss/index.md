@@ -1,7 +1,8 @@
 # Day 1 of 16  Introduction to Robotics               
 > Suggested Time: 60-75 minutes
+
 ## Disciplinary Core Ideas: 
-ETS1.B:  Developing Possible Solutions:  Research on a problem should be carried out before beginning to design a solution.  (3-5-ETS1-2)
+- ETS1.B:  Developing Possible Solutions:  Research on a problem should be carried out before beginning to design a solution.  (3-5-ETS1-2)
 
 ## Learning Target:
 We will identify the basic parts of a robot, and we will work together to build, learn, teach, and inspire.
@@ -10,71 +11,71 @@ We will identify the basic parts of a robot, and we will work together to build,
 What are the similarities and differences between robots and humans?
 
 ## Key/Academic Vocabulary:
-Barnabas
-Community
-Encouragement
-Inspire
-Goal
+- Barnabas
+- Community
+- Encouragement
+- Inspire
+- Goal
 
 ## Materials:
-Barnabas Lesson 1 worksheet
-Robot drawing
-Writing utensil
-Computer
-Projector
+- Barnabas Lesson 1 worksheet
+- Robot drawing
+- Writing utensil
+- Computer
+- Projector
 
 ## Additional Resources:
 Scratch "paper doll" robot as demonstration: https://scratch.mit.edu/projects/124980272/#player
 
 ## Depth of Knowledge Levels Addressed
-See Appendix B
-Level 1:  Recall and Reproduction
-Level 2:  Skills and Concepts
-Level 3:  Strategic Thinking and Reasoning
-Level 4:  Extended Thinking
+> See Appendix B
+- Level 1:  Recall and Reproduction
+- Level 2:  Skills and Concepts
+- Level 3:  Strategic Thinking and Reasoning
+- Level 4:  Extended Thinking
 
 ## Barriers to Learning: 
-Minimal understanding of metaphors (robot to human)
+Minimal understanding of metaphors (robot to human)  
 Lack of exposure to robots and their properties (e.g.  They are machines; they take commands in the form of code; they are not human; they can perform repetitive action)
 
 ## Anticipatory Set:
-Student definitions or examples of encouragement and community
+Student definitions or examples of encouragement and community  
 Student understanding of functions of the human body parts:  body, brain, heart, and soul
 
 ## Lesson Plans:
-Keep multiple:  ways of representation, ways of action and expression, and methods of engagement in mind.
-Make sure the classroom is set up in a community-building environment (chairs set in a circle, carpet space to sit in a circle, etc.)
+Keep multiple:  ways of representation, ways of action and expression, and methods of engagement in mind.  
+Make sure the classroom is set up in a community-building environment (chairs set in a circle, carpet space to sit in a circle, etc.)  
 Explain the overall goal of the Barnabas program:  Creating a robot through encouragement and community, while exploring the four types of engineering (mechanical, electrical, hardware, and software). 
-Discuss the meaning of Barnabas ("Son of Encouragement") and prompt students to provide examples of encouragement
+Discuss the meaning of Barnabas ("Son of Encouragement") and prompt students to provide examples of encouragement  
 Discuss the meaning of community and prompt students to provide examples of community (classroom, neighborhood, sports team, cultural/religious community)
-Present the essential question of the day:  "What are the similarities and differences between a robot and a human?"
-Go over the four goals of the class:  Build, Learn, Teach, and Inspire
-What are we building? (A robot)
-What will we learn? (The 4 types of engineering, encouragement, community building skills)
-Who will teach the class? (Everyone teaches each other in this collaborative learning environment)
-What does it mean to inspire? How will you inspire each other in this process? (Responses may vary)
+Present the essential question of the day:  "What are the similarities and differences between a robot and a human?"  
+Go over the four goals of the class:  Build, Learn, Teach, and Inspire  
+What are we building? (A robot)  
+What will we learn? (The 4 types of engineering, encouragement, community building skills)  
+Who will teach the class? (Everyone teaches each other in this collaborative learning environment)  
+What does it mean to inspire? How will you inspire each other in this process? (Responses may vary)  
 
 ## Anticipatory Set:  What makes a robot function? (the program, circuit board, batteries, physical body/casing)
-Go over the four parts of the human body:  Brain, Body, Heart, and Soul - What is the function of each of these parts?
-Take out the robot poster (or access digital "paper doll" robot via Scratch). Which part of the robot has a similar function to that of the human body (Brain, Body, Heart, and Soul)
-Briefly explain the 4 parts of the robot in relation to the 4 types of engineering:
-Soul/Program - Software Engineering
-Heart/Batteries - Electrical Engineering
-Body/Casing - Mechanical Engineering
-Brain/Circuit board - Hardware Engineering
+Go over the four parts of the human body:  Brain, Body, Heart, and Soul - What is the function of each of these parts?  
+Take out the robot poster (or access digital "paper doll" robot via Scratch). Which part of the robot has a similar function to that of the human body (Brain, Body, Heart, and Soul)  
+Briefly explain the 4 parts of the robot in relation to the 4 types of engineering:  
+- Soul/Program - Software Engineering
+- Heart/Batteries - Electrical Engineering
+- Body/Casing - Mechanical Engineering
+- Brain/Circuit board - Hardware Engineering
 Allow students to respond to the debriefing questions
 Closing circle/debrief - Discuss the EQ of the day.
 
 ## Monitor: Check for Understanding/Formative Assessment
-Students explain how/why robot and human parts are similar
+Students explain how/why robot and human parts are similar  
 Students provide examples of encouragement and community
 
 ## Reteaching Ideas: (for students who didn’t understand the first time)
-Show Free BrainPop video about Robots: https://www.brainpop.com/technology/computerscience/robots/  (Video available in Spanish and French only with paid language-specific BrainPop log-in)
+Show Free BrainPop video about Robots: https://www.brainpop.com/technology/computerscience/robots/  (Video available in Spanish and French only with paid language-specific BrainPop log-in)  
 Show examples of robots 
-"Big Hero 6" when Baymax became evil: https://goo.gl/UX3XEs
-In "Toy Story" when Buzz Lightyear was set to Spanish mode: https://youtu.be/iG9VLxlccx4
-"The Last Bastion" by Blizzard Entertainment about a robot that was coded for evil   but turns good: https://goo.gl/jsvCV6 
+- "Big Hero 6" when Baymax became evil: https://goo.gl/UX3XEs
+- In "Toy Story" when Buzz Lightyear was set to Spanish mode: https://youtu.be/iG9VLxlccx4
+- "The Last Bastion" by Blizzard Entertainment about a robot that was coded for evil   but turns good: https://goo.gl/jsvCV6 
 
 ## Independent Practice
 Student drawing of robots and label the 4 parts
@@ -84,24 +85,23 @@ The labeled final drawing of the student’s favorite robot
 
 ---
 # SESSION 1 - Introduction to Robotics
- 
-## LEARNING TARGET:  We will identify the basic parts of a robot ,and we will work together to build, learn, teach, and inspire!
+> LEARNING TARGET:  We will identify the basic parts of a robot ,and we will work together to build, learn, teach, and inspire!
  
 ## STEP 1:  The meaning of "Barnabas"
-·      Barnabas means "Son of Encouragement."
-·      Barnabas was a community builder.
-🗨 or ✎:  What does "encouragement" mean to you? How do you encourage others?
-🗨 or ✎:  What does "community" mean you? Name or draw 2 communities of which you are a part and your role in each of them.
+- Barnabas means "Son of Encouragement."
+· Barnabas was a community builder.
+🗨 or ✎:  What does "encouragement" mean to you? How do you encourage others?  
+🗨 or ✎:  What does "community" mean you? Name or draw 2 communities of which you are a part and your role in each of them.  
 
 ## STEP 2:  Understanding our goals.
-🗨 or ✎:  What will we BUILD throughout this program?
-🗨 or ✎:  What will we LEARN?
-🗨 or ✎:  Who will TEACH the class?
-🗨 or ✎:  How will we INSPIRE each other during this process?
+🗨 or ✎:  What will we BUILD throughout this program?  
+🗨 or ✎:  What will we LEARN?  
+🗨 or ✎:  Who will TEACH the class?  
+🗨 or ✎:  How will we INSPIRE each other during this process?  
 
 ## STEP 3:  What is a robot?
-🗨:  What do you know about robots? 
-🗨 or ✎:  What do robots help us do?
+🗨:  What do you know about robots?  
+🗨 or ✎:  What do robots help us do?  
 
 ## STEP 4:  What are the parts of a robot?
  ✎:  Write down the four parts necessary for a robot to function.
@@ -109,20 +109,21 @@ The labeled final drawing of the student’s favorite robot
 2. 
 3. 
 4. 
-:   Draw today’s robot and label it with the above parts. 
+
+Draw today’s robot and label it with the above parts. 
  
 The four basic parts of a robot represent the four branches of engineering.  Draw a straight line to connect each part of the robot to the type of engineering that it represents.
           
-Circuit board   ●   ● Mechanical Engineering
-Casing          ●   ● Electrical Engineering
-Program         ●   ● Hardware Engineering
-Batteries       ●   ● Software Engineering
+Circuit board   ●   ● Mechanical Engineering  
+Casing          ●   ● Electrical Engineering  
+Program         ●   ● Hardware Engineering  
+Batteries       ●   ● Software Engineering  
 
 ✎:  Write down four basic parts of a human that can be likened to the robot parts above.
-1.    2.    3.     4.
+1.  2.  3.  4.  
 🗨 or ✎:  Label the corresponding human parts on your robot drawing above.
 
-DEBRIEF
+### DEBRIEF
 ✎:  What are the similarities and differences between robots and humans?
 🗨 or ✎:  How can you help make our class a good learning community?
 
@@ -172,11 +173,11 @@ Optional: document camera
 ## Additional Resources:
 
 ## Depth of Knowledge Levels Addressed
-See Appendix B
-Level 1:  Recall and Reproduction
-Level 2:  Skills and Concepts
-Level 3:  Strategic Thinking and Reasoning
-Level 4:  Extended Thinking
+> See Appendix B
+- Level 1:  Recall and Reproduction
+- Level 2:  Skills and Concepts
+- Level 3:  Strategic Thinking and Reasoning
+- Level 4:  Extended Thinking
 
 ## Barriers to Learning: 
 Lack of fine motor skills
@@ -255,15 +256,14 @@ Test it out with the Arduino board
 ## STEP 6: Final robot design
 ✎ or : Draw your group’s final robot design and describe how the materials were used. Did you borrow any items from (an)other group(s)? 
 
-DEBRIEF
-🗨 or ✎: What did you learn about servo motors?
-🗨 or ✎: Why is design important?
-🗨 or ✎: What did you learn about building your robot’s body?
-🗨 or ✎: Did you work well as a team?  Why or why not?
-🗨 or ✎: Did you work well with other teams?  Why or why not?
+### DEBRIEF
+🗨 or ✎: What did you learn about servo motors?  
+🗨 or ✎: Why is design important?  
+🗨 or ✎: What did you learn about building your robot’s body?  
+🗨 or ✎: Did you work well as a team?  Why or why not?  
+🗨 or ✎: Did you work well with other teams?  Why or why not?  
 
 # Day 3 of 16 - Building our Robot’s Body
-
 # Day 4 of 16 - Advanced C.A.D.      
 > Suggested Time: 60-75 minutes
 
@@ -271,77 +271,78 @@ DEBRIEF
 Define a simple design problem that can be solved through the development of an object, tool, process, or system and includes several criteria for success and constraints on materials, time, or cost. (3-5-ETS1-1) 
 
 ## Cross-Cutting Concepts:
-Connections to Engineering, Technology, and Applications of Science: Influence of Engineering, Technology, and Science on Society and the Natural World
-Engineers improve existing technologies or develop new ones. (4-PS3-4)
+Connections to Engineering, Technology, and Applications of Science: Influence of Engineering, Technology, and Science on Society and the Natural World Engineers improve existing technologies or develop new ones. (4-PS3-4)
 
 ## Learning Target
 We will learn to design our robot’s body using Computer-Aided Design (C.A.D.).
-Essential Question(s) 
+
+## Essential Question(s) 
 What challenges can Computer-Aided Design (C.A.D.) present for a beginning user?
 
 ## Key/Academic Vocabulary:
-Computer-Aided Design (C.A.D.)
-Left-click
-Right-click
-Rotating
-Translating
-Zoom
-Axis
+- Computer-Aided Design (C.A.D.)
+- Left-click
+- Right-click
+- Rotating
+- Translating
+- Zoom
+- Axis
 
 ## Materials:
-Barnabas Lesson 3 & 4 worksheets
-Computer
-Internet connection
-Onshape.com website
-NOTE: teacher must create an onshape.com account ahead of time for the entire class to use.  All students will need access to the password.
-Computer mouse for each device (ideal, but optional)
-Whiteboard or poster (for posting the class onshape.com username and password)
+- Barnabas Lesson 3 & 4 worksheets
+- Computer
+- Internet connection
+- Onshape.com website
+- *NOTE*: teacher must create an onshape.com account ahead of time for the entire class to use.  All students will need access to the password.
+- Computer mouse for each device (ideal, but optional)
+- Whiteboard or poster (for posting the class onshape.com username and password)
 
 ## Additional Resources
-Direct link to "Barnabas-Bot 2.2" template in onshape.com: https://goo.gl/DlDJ53 
-Tutorials:
+Direct link to "Barnabas-Bot 2.2" template in onshape.com: https://goo.gl/DlDJ53  
+
+### Tutorials:
 Designing your Barnabas-Bot: https://youtu.be/L7ud2i_yfRI
 Fixing your "B": https://youtu.be/aynBOY_6TBM
 
 ## Depth of Knowledge Levels Addressed
-See Appendix B
-Level 1:  Recall and Reproduction
-Level 2:  Skills and Concepts
-Level 3:  Strategic Thinking and Reasoning
-Level 4:  Extended Thinking
+> See Appendix B
+- Level 1:  Recall and Reproduction
+- Level 2:  Skills and Concepts
+- Level 3:  Strategic Thinking and Reasoning
+- Level 4:  Extended Thinking
 
 ## Barriers to Learning: 
-Minimal understanding of 3-D concepts and geometric solids
-Minimal understanding of abstract perception
-Minimal understanding of angles (0°, 90°, 180°, 270°)
-Difficulty visualizing the possible axes of a 3-D object
+Minimal understanding of 3-D concepts and geometric solids  
+Minimal understanding of abstract perception  
+Minimal understanding of angles (0°, 90°, 180°, 270°)  
+Difficulty visualizing the possible axes of a 3-D object  
 
 ## Anticipatory Set:
-Students play with a physical geometric solid - rotating and translating the objects on an axis in varying degrees and talking about how the perception of the object changes
+Students play with a physical geometric solid - rotating and translating the objects on an axis in varying degrees and talking about how the perception of the object changes  
 Set the norm for frustration tolerance
 
 ## Lesson Plans:
-Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.
-Welcome students to the community building environment (ie. students sitting in a circle)
-Describe the goal of today: using C.A.D. to design the front plate of the robot
-Review the four parts of a robot and how it relates to the human body
-Anticipatory set (10 minutes): hand everyone a block or geometric shape and teach the vocabulary words: axis, rotate, translate, zoom 
-Students hold the shape in their hands with the top and bottom faces of the object between the thumb and index finger to create the axis
-Students rotate the object on the axis by 90, 180, 270 degrees
-Students change the perspective by rotating the hand that is holding the object (looking at the object from the top or bottom of the axis)
-Physically bring the object closer to farther away from the face to imitate zooming in and out on the screen
-Quick 2-minute discussion of how the perspective changes and checking for understanding
-Ask students to go to the website: www.onshape.com and follow instructions on the student worksheet
-Post the username and password to the class onshape.com account
-Show the students how to Right Click (R-Click) on the devices that they will use
-If you would like the students to name their public copies of the template with something other than "BARNABAS-BOT 2.2 [First and Last Name]," let them know your preferred naming convention before/when they get to Step 4 on the worksheet.
-Give students 35 minutes to work following the instructions on the worksheet
-Remind students to save their file and reconvene. If they are not finished, they have the entire next lesson to complete the task.
-Closing circle/debrief - Discuss the EQ of the day.
+Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
+Welcome students to the community building environment (ie. students sitting in a circle)  
+Describe the goal of today: using C.A.D. to design the front plate of the robot  
+Review the four parts of a robot and how it relates to the human body  
+Anticipatory set (10 minutes): hand everyone a block or geometric shape and teach the vocabulary words: axis, rotate, translate, zoom   
+Students hold the shape in their hands with the top and bottom faces of the object between the thumb and index finger to create the axis  
+Students rotate the object on the axis by 90, 180, 270 degrees  
+Students change the perspective by rotating the hand that is holding the object (looking at the object from the top or bottom of the axis)  
+Physically bring the object closer to farther away from the face to imitate zooming in and out on the screen  
+Quick 2-minute discussion of how the perspective changes and checking for understanding  
+Ask students to go to the website: www.onshape.com and follow instructions on the student worksheet  
+Post the username and password to the class onshape.com account  
+Show the students how to Right Click (R-Click) on the devices that they will use  
+If you would like the students to name their public copies of the template with something other than "BARNABAS-BOT 2.2 [First and Last Name]," let them know your   preferred naming convention before/when they get to Step 4 on the worksheet.  
+Give students 35 minutes to work following the instructions on the worksheet  
+Remind students to save their file and reconvene. If they are not finished, they have the entire next lesson to complete the task.  
+Closing circle/debrief - Discuss the EQ of the day.  
 
 ## Monitor: Check for Understanding/Formative Assessment
-Left- and right-clicking
-Rotating and inserting the additional parts to the body
+Left- and right-clicking  
+Rotating and inserting the additional parts to the body  
 
 ## Reteaching Ideas: (for students who didn’t understand the first time)
 Show students simulation of cube rotating on its axis: https://www.youtube.com/watch?v=gBg4-lJ19Gg 
@@ -354,7 +355,7 @@ Every student’s robot should be personalized after the 4th lesson
 
 ---
 # SESSION 3 - BUILDING OUR ROBOT’S BODY
-## OVERVIEW: We will learn how to design your robot’s body using Computer-Aided Design (C.A.D.).  We will use these files to 3-D print your one-of-a-kind robot!
+> OVERVIEW: We will learn how to design your robot’s body using Computer-Aided Design (C.A.D.).  We will use these files to 3-D print your one-of-a-kind robot!
 
 ## STEP 1: Getting Started
 🖥 :  Go to www.onshape.com.   
@@ -381,7 +382,7 @@ Then, click on "Copy Workspace."  Title your copy: "BARNABAS-BOT 2.2 – [YOUR F
 4. Translating (Method 2): If you are using a mouse with a scroll wheel, click the wheel to translate the front plate (move it around)
 5. Zoom: Scroll with your mouse (or pinch on a trackpad) to zoom in and out
 
-Go to the FRONT VIEW
+Go to the FRONT VIEW  
 Press the "F" key to ZOOM TO FIT.  It should look like this:
 
 ## STEP 6: Customizing The Front Plate
@@ -407,9 +408,9 @@ Press the "F" key to ZOOM TO FIT.  It should look like this:
 ## STEP 7: Create An Assembly File
 🖥 : Selecting your robot’s head
 1. Look at the following files:
- "robot dome head"
-"robot head mike1"
-"robot head mike3"
+   - "robot dome head"
+   - "robot head mike1"
+   - "robot head mike3"
 2. Select the head that you would like to use for your robot, and write it down
 
 🖥 : Create an assembly file
@@ -450,16 +451,15 @@ Using the new tool, called the "Fasten Mate," you can click on two faces, and it
  
 🖥 : If you have time, try adding ears!
 
-DEBRIEF
+### DEBRIEF
  
-🗨 or ✎: What does C.A.D. stand for?
-🗨 or ✎: What can we do with a C.A.D. file?
-🗨 or ✎: What was the most difficult part of today’s class?
-🗨 or ✎: What was your favorite part about today’s class?
+🗨 or ✎: What does C.A.D. stand for?  
+🗨 or ✎: What can we do with a C.A.D. file?  
+🗨 or ✎: What was the most difficult part of today’s class?  
+🗨 or ✎: What was your favorite part about today’s class?  
 
 # SESSION 4 – ADVANCED C.A.D.
- 
-## OVERVIEW: We will learn how to add shapes to our robots’ front plates.
+> OVERVIEW: We will learn how to add shapes to our robots’ front plates.
  
 ## STEP 1: Getting Started
 🖥 : Go to www.onshape.com.  Log into your account and open your robot project.
@@ -477,7 +477,7 @@ A drawing will be automatically created
 
 Double click on the text boxes to edit the text. Write your name as well as your robot's name.
  
-DEBRIEF 
+### DEBRIEF 
 🗨 or ✎: What constraints or challenges did you have to keep in mind in designing your robot?
 
 ---
@@ -488,7 +488,7 @@ DEBRIEF
 Constructing Explanations and Designing Solutions: Apply scientific ideas to solve design problems. (4-PS3-4)
 
 ## Cross-Cutting Concepts: 
-Science is a Human Endeavor: People’s needs and wants change over time, as do their demands for new and improved technologies. (3-5-ETS1-1)
+Science is a Human Endeavor: People’s needs and wants change over time, as do their demands for new and improved technologies. (3-5-ETS1-1)  
 Science affects everyday life. (4-PS3-4)
 
 ## Learning Target
@@ -498,27 +498,27 @@ We will learn the parts and properties of a 3-D printer.
 What are the limitations of 3-D printing?
 
 ## Key/Academic Vocabulary:
-Filament
-Extruder
-Bed
+- Filament
+- Extruder
+- Bed
 Cartridge
-
+- 
 ## Materials:
-Barnabas Lesson 5 worksheet
-Portable 3-D printer
-If a 3-D printer is not available for students to see, opt for the video
-Document camera
+- Barnabas Lesson 5 worksheet
+- Portable 3-D printer
+- If a 3-D printer is not available for students to see, opt for the video
+- Document camera
 
 ## Additional Resources
-Video: 3-D Printer and How it is Made https://youtu.be/f4RGU2jXQiE
+Video: 3-D Printer and How it is Made https://youtu.be/f4RGU2jXQiE  
 Video: 3-D Printer in Action https://youtu.be/Gwro2HzxMgw
 
 ## Depth of Knowledge Levels Addressed
-See Appendix B
-Level 1:  Recall and Reproduction
-Level 2:  Skills and Concepts
-Level 3:  Strategic Thinking and Reasoning
-Level 4:  Extended Thinking
+> See Appendix B
+- Level 1:  Recall and Reproduction
+- Level 2:  Skills and Concepts
+- Level 3:  Strategic Thinking and Reasoning
+- Level 4:  Extended Thinking
 
 ## Barriers to Learning: 
 There shouldn’t be any barriers in this lesson
@@ -557,7 +557,7 @@ Drawing of robot with color schemes to be used for painting in the next session
 ---
 # SESSION 5 – 3-D PRINTING & DESIGN
 
-## OVERVIEW: We will enter the world of 3-D printing!
+> OVERVIEW: We will enter the world of 3-D printing!
 
 ## STEP 1: Draw a diagram of a 3-D printer
 ✎ and : Follow the instructor’s drawing and label as necessary.
@@ -586,7 +586,7 @@ Name: _______________________________________________________________________
 
 ✎ and : Draw and color the robot you designed so you are ready to paint next session. You may also design or add extra pieces with construction paper and glue. Make sure you know which supplies will be available. 
 
-DEBRIEF
+### DEBRIEF
 🗨 or ✎: Which aspects of 3-D printing were challenging for you?
 🗨 or ✎: What would you print, if you could create and print anything? Why would you print that object?
 
@@ -617,11 +617,11 @@ Newspaper or scratch paper to protect work surfaces
 ## Additional Resources:
 
 ## Depth of Knowledge Levels Addressed:
-See Appendix B
-Level 1:  Recall and Reproduction
-Level 2:  Skills and Concepts
-Level 3:  Strategic Thinking and Reasoning
-Level 4:  Extended Thinking
+> See Appendix B
+- Level 1:  Recall and Reproduction
+- Level 2:  Skills and Concepts
+- Level 3:  Strategic Thinking and Reasoning
+- Level 4:  Extended Thinking
 
 ## Barriers to Learning: 
 Fine motor skills
@@ -655,7 +655,7 @@ All parts are painted and decorated
 ---
 # SESSION 6 – TIME TO PAINT!
 
-## OVERVIEW: Today, we will paint our robots.  We typically use acrylic paint.  Make sure that you follow your teacher’s instructions on how to paint.  Have fun!
+> OVERVIEW: Today, we will paint our robots.  We typically use acrylic paint.  Make sure that you follow your teacher’s instructions on how to paint.  Have fun!
 
 ---
 # Day 7 of 16 - Exploring the Robot’s Heart          
@@ -699,11 +699,11 @@ How to build the 3V LED circuit: https://youtu.be/5P-3rSK79Uo
 BrainPop video on "Electric Circuits": https://www.brainpop.com/technology/energytechnology/electriccircuits/ 
 
 ## Depth of Knowledge Levels Addressed
-See Appendix B
-Level 1:  Recall and Reproduction
-Level 2:  Skills and Concepts
-Level 3:  Strategic Thinking and Reasoning
-Level 4:  Extended Thinking
+> See Appendix B
+- Level 1:  Recall and Reproduction
+- Level 2:  Skills and Concepts
+- Level 3:  Strategic Thinking and Reasoning
+- Level 4:  Extended Thinking
 
 ## Barriers to Learning: 
 Understanding of circuitry and electricity flow
@@ -747,7 +747,7 @@ A completed circuit with a lighted LED
 # SESSION 7 – 
 EXPLORING THE ROBOT’S HEART
  
-## OVERVIEW: We will  learn how the "heart" of the robot works.  Remember, the "heart" refers to the battery of a robot.  We will explore the area of electrical engineering.  Have fun!
+> OVERVIEW: We will  learn how the "heart" of the robot works.  Remember, the "heart" refers to the battery of a robot.  We will explore the area of electrical engineering.  Have fun!
 
 ## STEP 1: Robot review
  and ✎: Make a simple sketch of your robot.  Label the 4 main parts of a robot.
@@ -796,7 +796,7 @@ Make a circuit that uses 4.5V.
 Make a circuit that turns on two lights at the same time.
 Make a circuit that turns on three or more lights at the same time!
 
-DEBRIEF
+### DEBRIEF
 🗨 and ✎: What color does your LED shine?
 🗨 and ✎: What is the total voltage necessary to light the LED?
 🗨 and ✎: What happens when the wire connections are too loose or too tight?
@@ -849,11 +849,11 @@ How a breadboard works: https://youtu.be/QFm8Gkofgs8
 Build the 5V LED circuit: https://youtu.be/iY3Ygg6Ucq0
 
 ## Depth of Knowledge Levels Addressed
-See Appendix B
-Level 1:  Recall and Reproduction
-Level 2:  Skills and Concepts
-Level 3:  Strategic Thinking and Reasoning
-Level 4:  Extended Thinking
+> See Appendix B
+- Level 1:  Recall and Reproduction
+- Level 2:  Skills and Concepts
+- Level 3:  Strategic Thinking and Reasoning
+- Level 4:  Extended Thinking
 
 ## Barriers to Learning: 
 Fine motor skills
@@ -891,7 +891,7 @@ The breadboard circuit is complete with a LED that is able to light up
 ---
 # SESSION 8 – INTRODUCTION TO BREADBOARDS
  
-## OVERVIEW: Today, we will learn about breadboards.  Breadboards helps us make circuits in a way where we can make strong connections without needing to hold the wires together.  
+> OVERVIEW: Today, we will learn about breadboards.  Breadboards helps us make circuits in a way where we can make strong connections without needing to hold the wires together.  
  
 ## STEP 1: Introducing the breadboard
 Take a look at the picture of the breadboard below:
@@ -940,7 +940,7 @@ If the voltage is 5V, what is the current when you use the 470 Ohm resistor?
 
 🗨 or ✎: Have you seen a light switch that turns like a timer dial?  Think about how you might build something like that based on what you have learned.
 
-DEBRIEF
+### DEBRIEF
 🗨 and ✎: What are the benefits of designing circuitry with a breadboard?
 🗨 and ✎: How has breadboarding changed the way a person creates a circuit?
 
@@ -985,11 +985,11 @@ Easy - https://youtu.be/i2l7I9PdE2o
 Advanced - https://youtu.be/bBSZ8REdUYA
 
 ## Depth of Knowledge Levels Addressed
-See Appendix B
-Level 1:  Recall and Reproduction
-Level 2:  Skills and Concepts
-Level 3:  Strategic Thinking and Reasoning
-Level 4:  Extended Thinking
+> See Appendix B
+- Level 1:  Recall and Reproduction
+- Level 2:  Skills and Concepts
+- Level 3:  Strategic Thinking and Reasoning
+- Level 4:  Extended Thinking
 
 ## Barriers to Learning: 
 Understanding that programs are fast and need pauses
@@ -1026,7 +1026,7 @@ Blinking LED connected to the breadboard
 ---
 # SESSION 9 – THE BLINKING LIGHT CHALLENGE
  
-## OVERVIEW: This week, we will be creating a light circuit for your robot. 
+> OVERVIEW: This week, we will be creating a light circuit for your robot. 
  
 ## STEP 1: What is a power indicator?
 What typically happens when you turn on electronics (cell phone, computer, tv, etc.)?
@@ -1089,7 +1089,7 @@ CHALLENGE 4: Write a program that makes blinks 5 times fast, 5 times slow, and r
 CHALLENGE 5: Write a program that can match these light patterns below.
 CHALLENGE 6: Create your own light patterns and challenge your classmates to program them!
 
-DEBRIEF
+### DEBRIEF
 🗨 and ✎: What pin number on the Arduino board controls the light?
 
 ---
@@ -1118,11 +1118,11 @@ Same setup as Lesson 9
 ## Additional Resources
 
 ## Depth of Knowledge Levels Addressed
-See Appendix B
-Level 1:  Recall and Reproduction
-Level 2:  Skills and Concepts
-Level 3:  Strategic Thinking and Reasoning
-Level 4:  Extended Thinking
+> See Appendix B
+- Level 1:  Recall and Reproduction
+- Level 2:  Skills and Concepts
+- Level 3:  Strategic Thinking and Reasoning
+- Level 4:  Extended Thinking
 
 ## Barriers to Learning: 
 Understanding the pauses necessary in coding
@@ -1168,7 +1168,7 @@ Student has a completed, decodable message.
 3. In between a dash or dot within the same letter, turn the light off for 100 ms.
 4. When you write a new letter, turn the light off for 1000 ms.
 
-DEBRIEF
+### DEBRIEF
 🗨 and ✎: What are the benefits of designing circuitry with a breadboard?
 🗨 and ✎: How has breadboarding changed the way a person creates a circuit?
 
@@ -1203,11 +1203,11 @@ Instructions online: http://tinyurl.com/hvn4ztp
 How to assemble your Barnabas-Bot motors: https://youtu.be/Bq8QKORWx4k
 
 ## Depth of Knowledge Levels Addressed
-See Appendix B
-Level 1:  Recall and Reproduction
-Level 2:  Skills and Concepts
-Level 3:  Strategic Thinking and Reasoning
-Level 4:  Extended Thinking
+> See Appendix B
+- Level 1:  Recall and Reproduction
+- Level 2:  Skills and Concepts
+- Level 3:  Strategic Thinking and Reasoning
+- Level 4:  Extended Thinking
 
 ## Barriers to Learning: 
 Fine motor skills and patience
@@ -1270,11 +1270,11 @@ Programming your buzzer: https://youtu.be/DjNMpiLLQb4
 "Happy Birthday" Piano Tutorial (for comparison): https://goo.gl/DZUBAa
 
 ## Depth of Knowledge Levels Addressed
-See Appendix B
-Level 1:  Recall and Reproduction
-Level 2:  Skills and Concepts
-Level 3:  Strategic Thinking and Reasoning
-Level 4:  Extended Thinking
+> See Appendix B
+- Level 1:  Recall and Reproduction
+- Level 2:  Skills and Concepts
+- Level 3:  Strategic Thinking and Reasoning
+- Level 4:  Extended Thinking
 
 ## Barriers to Learning: 
 Students with hearing difficulties or trouble differentiating sound frequencies
@@ -1310,7 +1310,7 @@ The buzzer plays a song that the student has created
 ---
 # SESSION 12 - THE BUZZER
  
-## OVERVIEW: You will learn how to use a buzzer to play music! 
+> OVERVIEW: You will learn how to use a buzzer to play music! 
  
 ## STEP 1: Building your circuit
 We will not be taking our circuits apart from last week.  Instead, we will be ADDING to them!
@@ -1362,7 +1362,7 @@ Note that there are both low notes and high notes on this one!
 CHALLENGE #5: Work with your neighbor to play a song together!
 CHALLENGE #6: Write your own song!
  
-DEBRIEF 
+### DEBRIEF 
 🗨 and ✎: What patterns did you find in today’s coding activities?
 🗨 and ✎: What relationships can be found between patterns and music?
 
@@ -1392,11 +1392,11 @@ Wiring your first servo motor: https://youtu.be/iTdQKmu6R1o
 Programming your servo motor: https://youtu.be/qSbMojcwunk
 
 ## Depth of Knowledge Levels Addressed
-See Appendix B
-Level 1:  Recall and Reproduction
-Level 2:  Skills and Concepts
-Level 3:  Strategic Thinking and Reasoning
-Level 4:  Extended Thinking
+> See Appendix B
+- Level 1:  Recall and Reproduction
+- Level 2:  Skills and Concepts
+- Level 3:  Strategic Thinking and Reasoning
+- Level 4:  Extended Thinking
 ## Barriers to Learning: 
 Understanding angles (0°-180°)
 
@@ -1430,7 +1430,7 @@ Robot with head and arms movement with possible inclusion of music and blinking 
 ---
 # SESSION 13 – MAKE YOUR ROBOT WAVE!
  
-## OVERVIEW: We will make your robot wave (or shake his/her head). 
+> OVERVIEW: We will make your robot wave (or shake his/her head). 
  
 ## STEP 1: Introduction to servos
 The servo motor has an axle that rotates 180 degrees.  It only moves along that circular path.
@@ -1466,7 +1466,7 @@ CHALLENGE #1: Make your robot wave AND light up at the same time.
 CHALLENGE #2: Make your robot turn his light on while it is moving, but turn his light off while he is stopped.
 CHALLENGE #3: Make your robot light up, play music, and move all at the same time!
 
-DEBRIEF
+### DEBRIEF
 🗨 and ✎: What can limit a robot’s movements? 
 
 ---
@@ -1501,11 +1501,11 @@ Wiring all 3 servo motors: https://youtu.be/7oYKnPWtt2E
 Making your robot light up, sing and dance: https://youtu.be/HYT9UPo5FmE
 
 ## Depth of Knowledge Levels Addressed
-See Appendix B
-Level 1:  Recall and Reproduction
-Level 2:  Skills and Concepts
-Level 3:  Strategic Thinking and Reasoning
-Level 4:  Extended Thinking
+> See Appendix B
+- Level 1:  Recall and Reproduction
+- Level 2:  Skills and Concepts
+- Level 3:  Strategic Thinking and Reasoning
+- Level 4:  Extended Thinking
 ## Barriers to Learning: 
 
 ## Anticipatory Set:
@@ -1540,7 +1540,7 @@ Closing circle/debrief - Discuss the EQ of the day.
 ---
 # SESSION 14 through 16- BUILDING YOUR FINAL CIRCUIT
  
-## OVERVIEW: This week, we will be putting it all together.  By the end of this section, your robot will dance, light up and play music!
+> OVERVIEW: This week, we will be putting it all together.  By the end of this section, your robot will dance, light up and play music!
  
 ## STEP 1: Final robot assembly
 If you haven’t already, assemble the rest of the servo motors.  You should have 3 total.  Remember that each servo motor has two 7/16" servo screws.
@@ -1559,7 +1559,7 @@ Tell us the hardest part about designing your robot.
 Tell us the part that you enjoyed the most about building your robot.
 Tell us what you learned about yourself during this class.
 
-DEBRIEF 
+### DEBRIEF 
 🗨 and ✎: What patterns did you find in today’s coding activities?
 
 ---
