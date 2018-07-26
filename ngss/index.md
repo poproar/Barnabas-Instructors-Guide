@@ -82,11 +82,12 @@ Student drawing of robots and label the 4 parts
 
 ## Final Assessment, project or product
 The labeled final drawing of the student’s favorite robot
-
+
 ---
+
 # SESSION 1 - Introduction to Robotics
 > LEARNING TARGET:  We will identify the basic parts of a robot ,and we will work together to build, learn, teach, and inspire!
- 
+
 ## STEP 1:  The meaning of "Barnabas"
 - Barnabas means "Son of Encouragement."
 - Barnabas was a community builder.
@@ -134,6 +135,7 @@ The four basic parts of a robot represent the four branches of engineering.  Dra
 🗨 or ✎:  How can you help make our class a good learning community?  
 
 ---
+
 # Day 2 of 16 - Building our First Robot    
 > Suggested Time: 60-75 minutes
 
@@ -228,8 +230,9 @@ N/A
 
 ## Final Assessment, project or product
 Ability of the robot to knock the plastic cup placed 8" away from the robot off the edge of the table  
-
+
 ---
+
 # SESSION 2 – Building our First Robot
 
 ## STEP 1: Our first robot challenge!
@@ -239,7 +242,7 @@ Your team will also be given a bag of household items
 Your job will be to work together to build a robot that can hit a plastic cup that is 8 inches away off the edge of the table  
 Each bag contains different items, so you may need to share parts with other groups   
 We have a common goal of all groups succeeding, so remember to work together  
- 
+
 ## STEP 2: Robot review
 🗨: What are the 4 main parts of a robot?  
 ✎: Fill in the blanks below:  
@@ -247,21 +250,21 @@ The things in the bag and the servo motor are the robot’s ____________________
 The Arduino controller is the robot’s _______________________________________  
 The battery is the robot’s ________________________________________________  
 The program on the Arduino is the robot’s ___________________________________  
- 
+
 ## STEP 3: Designing your first robot
 🗨 ✎ : Look at your parts together and think about how you can build a robot to achieve the challenge. Individually, write or draw your robot design with the materials provided.
- 
+
 ## STEP 4: Designing our first robot
 🗨 ✎ : Share your design with your team and come up with a common design that you would like to build together.
- 
+
 ## STEP 5: Build it
 Every team member participates in the building process  
 Discuss ideas and modifications respectfully  
 Test it out with the Arduino board  
- 
+
 ## STEP 6: Final robot design
 ✎ or : Draw your group’s final robot design and describe how the materials were used. Did you borrow any items from (an)other group(s)?  
-
+
 ### DEBRIEF
 🗨 or ✎: What did you learn about servo motors?  
 🗨 or ✎: Why is design important?  
@@ -360,6 +363,7 @@ Students work on their individual files to put the robot together and to design 
 Every student’s robot should be personalized after the 4th lesson
 
 ---
+
 # SESSION 3 - BUILDING OUR ROBOT’S BODY
 > OVERVIEW: We will learn how to design your robot’s body using Computer-Aided Design (C.A.D.).  We will use these files to 3-D print your one-of-a-kind robot!
 
@@ -368,7 +372,7 @@ Every student’s robot should be personalized after the 4th lesson
 
 ## STEP 2: Log Into Your Class Account
 🖥 : Log in using the username and password that your teacher has created for the class.  
- 
+
 ## STEP 3: Search For Barnabas-Bot
 🖥 : Login to your account and click on "Public" on the left side of your screen. 
 
@@ -402,7 +406,7 @@ Press the "F" key to ZOOM TO FIT.  It should look like this:
 1. R-CLICK on the "B" and click on "Edit Sketch 1"
 2. Click on one of the 4 blue corners of the rectangle around the B (they are small, you may need to zoom in to see them clearly), and drag the blue rectangle up or down
 3. Click on the green checkmark  to save your changes.
- 
+
 🖥 : Change the text
 1. R-CLICK on the "B" and L-CLICK on "Edit Sketch 1"
 2. R-CLICK on the "B" again and L-CLICK on "Edit Text"
@@ -410,7 +414,7 @@ Press the "F" key to ZOOM TO FIT.  It should look like this:
 4. Now change the text to "BARNABAS".  You’ll see that it doesn’t fit on the face plate.  How can you make it fit? (Change the size of the text to 0.3 or less)
 5. Click on the green checkmark and see if it changes!
 6. Now change the text to whatever you want!  It can be a single letter, or multiple letters.  Play with different text sizes.  Make sure that all of the text fits on the robot!  Remember to click on the green checkmark to save your changes.
- 
+
 ## STEP 7: Create An Assembly File
 🖥 : Selecting your robot’s head
 1. Look at the following files:
@@ -438,7 +442,7 @@ Press the "F" key to ZOOM TO FIT.  It should look like this:
 1. Using the same process as you followed before, insert the head that you have selected 
 
 🖥 : Insert your left arm and align it
- 
+
 🖥 : Insert your right arm
 1. Rotate the arm in order for it to align correctly
 2. Click on the arm to show the rotation tool
@@ -454,7 +458,7 @@ Using the new tool, called the "Fasten Mate," you can click on two faces, and it
 5. Now it should look like this!
 
 🖥 : Now repeat the same process to insert the other hand
- 
+
 🖥 : If you have time, try adding ears!
 
 ### DEBRIEF
@@ -466,13 +470,13 @@ Using the new tool, called the "Fasten Mate," you can click on two faces, and it
 
 # SESSION 4 – ADVANCED C.A.D.
 > OVERVIEW: We will learn how to add shapes to our robots’ front plates.
- 
+
 ## STEP 1: Getting Started
 🖥 : Go to www.onshape.com.  Log into your account and open your robot project.
- 
+
 ## STEP 2: Adding Shapes
 🖥 : Go to https://app.schoology.com/page/635966221 and watch the video to learn how to add shapes to your robot’s front plate.
- 
+
 ## STEP 3: Create a Mechanical Drawing
 🖥 : R-CLICK on the assembly file tab that you just created
 Click on "Create drawing of ... "
@@ -487,6 +491,7 @@ Double click on the text boxes to edit the text. Write your name as well as your
 🗨 or ✎: What constraints or challenges did you have to keep in mind in designing your robot?
 
 ---
+
 # Day 5 of 16 - 3-D Printing and Design    
 > Suggested Time: 60-75 minutes
 
@@ -561,6 +566,7 @@ Answering questions in Steps 3, 4, and 5
 Drawing of robot with color schemes to be used for painting in the next session
 
 ---
+
 # SESSION 5 – 3-D PRINTING & DESIGN
 
 > OVERVIEW: We will enter the world of 3-D printing!
@@ -587,16 +593,17 @@ Drawing of robot with color schemes to be used for painting in the next session
 ✎: Name your robot.  
 ✎: Describe the purpose of your robot.  
 ✎: Describe your robot’s target audience.  
-
+
 Name: _______________________________________________________________________
 
 ✎ and : Draw and color the robot you designed so you are ready to paint next session. You may also design or add extra pieces with construction paper and glue. Make sure you know which supplies will be available.  
-
+
 ### DEBRIEF
 🗨 or ✎: Which aspects of 3-D printing were challenging for you?  
 🗨 or ✎: What would you print, if you could create and print anything? Why would you print that object?  
 
----
+---
+
 # Day 6 of 16 - Time to Paint!  
 > Suggested Time: 60-75 minutes
 
@@ -659,11 +666,13 @@ Students painting and carrying out their designs
 All parts are painted and decorated
 
 ---
+
 # SESSION 6 – TIME TO PAINT!
 
 > OVERVIEW: Today, we will paint our robots.  We typically use acrylic paint.  Make sure that you follow your teacher’s instructions on how to paint.  Have fun!
 
 ---
+
 # Day 7 of 16 - Exploring the Robot’s Heart          
 > Suggested Time: 60-75 minutes
 
@@ -750,8 +759,9 @@ Creating a circuit in groups of 2-3 students and drawing the schematic
 A completed circuit with a lighted LED  
 
 ---
+
 # SESSION 7 – EXPLORING THE ROBOT’S HEART
- 
+
 > OVERVIEW: We will  learn how the "heart" of the robot works.  Remember, the "heart" refers to the battery of a robot.  We will explore the area of electrical engineering.  Have fun!
 
 ## STEP 1: Robot review
@@ -766,11 +776,11 @@ A completed circuit with a lighted LED
 🗨 and ✎: What is a circuit?  
 
 ## STEP 3: More about circuits 
- 
+
 🗨 or ✎: What is a schematic?  
 🗨 and ✎: What is the difference between a closed circuit and an open circuit?  
 🗨 and ✎: What happens when there is a short circuit?  
- 
+
 ## STEP 4: Reading our first schematic
 Review the schematic below.   
 
@@ -780,7 +790,7 @@ The triangle-like symbol (L1) represents a LED (Light Emitting Diode)
 Both V1 and L1 are components.  
 Notice that there are positive and negative sides on both components.  You will need to pay attention to these when you start building the schematic, because they need to match up, like they do in the schematic.  
 Draw a path through the "circulation loop" on your schematic.  It should start at the positive side of the heart and end on the negative side of the heart.  
- 
+
 ## STEP 5: Building our first circuit
 Take out your AA battery and AA battery holder.  Check the voltage on the battery.  It should match the voltage label on your schematic.  
 Place your AA battery into the battery holder.  Make sure that it is in the right direction.  The red wire should be connected to the positive side of the battery, and the black wire should be connected to negative side of the battery.  
@@ -795,7 +805,7 @@ Now think about how we can get our LED to light up.
 One way to address our issue is to combine two batteries.  Review the new schematic below.  You’ll see that we now have two batteries, which will double our total voltage to the LED.  
 
 Find a partner and build your new circuit based on the schematic.  Remember to keep track of the positive and negative sides of all your components.  The connections need to match your schematic! 
- 
+
 ## STEP 8: Bonus Challenges
 Make a circuit that uses 4.5V.  
 Make a circuit that turns on two lights at the same time.  
@@ -806,7 +816,8 @@ Make a circuit that turns on three or more lights at the same time!
 🗨 and ✎: What is the total voltage necessary to light the LED?  
 🗨 and ✎: What happens when the wire connections are too loose or too tight?  
 
----
+---
+
 # Day 8 of 16 - Introduction to Breadboards   
 > Suggested Time:  60-75 minutes
 
@@ -893,11 +904,12 @@ Students breadboarding following the schematic
 ## Final Assessment, project or product
 The breadboard circuit is complete with a LED that is able to light up
 
----
+---
+
 # SESSION 8 – INTRODUCTION TO BREADBOARDS
- 
+
 > OVERVIEW: Today, we will learn about breadboards.  Breadboards helps us make circuits in a way where we can make strong connections without needing to hold the wires together.  
- 
+
 ## STEP 1: Introducing the breadboard
 Take a look at the picture of the breadboard below:
 
@@ -908,12 +920,12 @@ Draw a line that connects A1, B1, C1, D1 and E1.
 Draw a line that connects A2, B2, C2, D2 and E2  
 Draw a line that connects F1, G1, H1, I1 and J1  
 Draw in the rest of the wires.  How many total wires do you end up with?  
- 
+
 ## STEP 2: Our first breadboard circuit
 Using what you’ve learned, now use the breadboard to make your 3V LED circuit.   
- 
+
 The goal here is to create a circuit that stays on without you needing to hold on to any wires.  HINT: You can stick the AA battery holder wires and LED wires directly into the breadboard.  
- 
+
 ## STEP 3: Increasing the voltage
 Now that we have learned how we use schematics to plan circuits, and how to actually build them, we will look at increasing the voltage, because our robot is going to need more than 1.5V to run!
 Review this new schematic  
@@ -924,22 +936,22 @@ What is the voltage of this new circuit?
 Notice R1.  R1 is a resistor.  The value is 10K Ohm, or 10,000 Ohm.  Do you remember when we need to use resistors?  
 
 On the schematic, trace the path where electricity will flow.  It should start at 5V and end with GND.  
- 
+
 Now build this circuit using your breadboard.  HINT: You will need your 10K Ohm resistor (it has an orange stripe).  You will also need two bread-board wires.  Use a red and black one for this challenge.  
 Once you are done, you’ll notice that the light does not turn on.  This is because you need to provide a main power source.  In this case, our 9V battery will be our main power source.  The Arduino will then take the 9V and reduce it to 5V for our robot.  This reduction in voltage is called "step-down" voltage regulation.  Sometimes you will have a circuit that increases the source voltage, which is called "step-up" voltage regulation.
 Plug the 9V battery into the 9V battery holder, and stick it into the round power connector.  Your light should now turn on!  
- 
+
 ## STEP 4: Review questions
 💭 and ✎: The higher the resistor, the lower the flow of electricity.  The lower the resistor, the higher the flow of electricity.  If we change the resistance from 10K to 470 Ohm, what do you think will happen to the light?  
- 
+
 Try replacing the 10K Ohm resistor with the 470 Ohm resistor.  What happens to the light?  
 Put the 10K Ohm resistor back into your circuit.  
 
 The flow of electricity is called current.  If you have a lot of flow, you have high current.  If you have a little flow, you have low current.  You can actually calculate this current using a formula, called Ohms Law.  This is an important tool for engineers when they design circuits.  The formula is:
- 
+
 V (Voltage) = I (Current) x R (Resistance).   
 The unit is Amps.  
- 
+
 If the voltage is 5V, what is the current when you use the 10K Ohm resistor?  
 If the voltage is 5V, what is the current when you use the 470 Ohm resistor?  
 
@@ -950,6 +962,7 @@ If the voltage is 5V, what is the current when you use the 470 Ohm resistor?
 🗨 and ✎: How has breadboarding changed the way a person creates a circuit?  
 
 ---
+
 # Day 9 of 16 - The Blinking Light Challenge   
 > Suggested Time:  60-75 minutes
 
@@ -1029,10 +1042,11 @@ Student create the circuit and write a program to turn on and off the LED
 Blinking LED connected to the breadboard  
 
 ---
+
 # SESSION 9 – THE BLINKING LIGHT CHALLENGE
- 
+
 > OVERVIEW: This week, we will be creating a light circuit for your robot. 
- 
+
 ## STEP 1: What is a power indicator?
 What typically happens when you turn on electronics (cell phone, computer, tv, etc.)?
 
@@ -1054,7 +1068,7 @@ Make sure that your drawing is correct.  Once you have it confirmed, go ahead an
 ## STEP 3: Connecting your Arduino
 You are now ready to connect your Arduino to your computer so that you can start programming!  
 Using the USB cable, plug in the Arduino to your computer.  Make sure to first unplug any other batteries that are connected to your Arduino when you do this.  
- 
+
 ## STEP 4: Opening the Software
 Open the Arduino software by clicking on the Arduino icon on your computer desktop.  
 Wait for the software to open  
@@ -1098,6 +1112,7 @@ CHALLENGE 6: Create your own light patterns and challenge your classmates to pro
 🗨 and ✎: What pin number on the Arduino board controls the light?  
 
 ---
+
 # Day 10 of 16 - Blinking in Code     
 > Suggested Time:  60-75 minutes
 
@@ -1164,8 +1179,9 @@ Student practicing different letters to code.
 Student has a completed, decodable message.  
 
 ---
+
 # SESSION 10 – BLINKING IN CODE
- 
+
 ## STEP 1: Morse Code
 Before there were cell phones, we used to use a telegraph to send information using short and long taps.  In the past, people have also used light signals to make short and long blinks.  
 Using the table below, try to program a word by turning your light on and off.  Once you are done, see if another student can guess what you coding.  
@@ -1180,6 +1196,7 @@ You’ll need to following information to complete the challenge:
 🗨 and ✎: How has breadboarding changed the way a person creates a circuit?  
 
 ---
+
 # Day 11 of 16 - Assembling your Robot    
 > Suggested Time:  60-75 minutes
 
@@ -1246,6 +1263,7 @@ Putting the robot together
 Completed robot with head and arms connected to servo motors  
 
 ---
+
 # Day 12 of 16 - The Buzzer      
 > Suggested Time:  60-75 minutes
 
@@ -1316,10 +1334,11 @@ Creating the songs Twinkle Twinkle Little Star, Happy Birthday, or Mary had a Li
 The buzzer plays a song that the student has created  
 
 ---
+
 # SESSION 12 - THE BUZZER
- 
+
 > OVERVIEW: You will learn how to use a buzzer to play music! 
- 
+
 ## STEP 1: Building your circuit
 We will not be taking our circuits apart from last week.  Instead, we will be ADDING to them!  
 Build the following circuit based on the schematic below.  Hints: You will need a resistor, a buzzer and two jumper wires.  Can you predict which is the positive side of the buzzer?  
@@ -1369,12 +1388,13 @@ CHALLENGE #4: Play the "Super Mario Brothers" Theme Song!
 Note that there are both low notes and high notes on this one!  
 CHALLENGE #5: Work with your neighbor to play a song together!  
 CHALLENGE #6: Write your own song!  
- 
+
 ### DEBRIEF 
 🗨 and ✎: What patterns did you find in today’s coding activities?  
 🗨 and ✎: What relationships can be found between patterns and music?  
 
 ---
+
 # Day 13 of 16 - Make Your Robot Wave!    
 > Suggested Time:  60-75 minutes
 
@@ -1437,10 +1457,11 @@ Practice 3-5 and challenges 1-3
 Robot with head and arms movement with possible inclusion of music and blinking LED.  
 
 ---
+
 # SESSION 13 – MAKE YOUR ROBOT WAVE!
- 
+
 > OVERVIEW: We will make your robot wave (or shake his/her head). 
- 
+
 ## STEP 1: Introduction to servos
 The servo motor has an axle that rotates 180 degrees.  It only moves along that circular path.  
 Explain the significance of the 3 wires on the PWM wires coming out of the servos. 5V (RED) powers the servo motor.  GND (BROWN) is ground, and the orange wire gives information.  The Arduino uses the orange wire to tell the motor what degree to turn to.  We call the yellow wire, SIGNAL.  
@@ -1479,6 +1500,7 @@ CHALLENGE #3: Make your robot light up, play music, and move all at the same tim
 🗨 and ✎: What can limit a robot’s movements?  
 
 ---
+
 # Day 14, 15, 16 of 16 - Building Your Final Circuit 
 > Suggested Time:  60-75 minutes each
 
@@ -1548,10 +1570,11 @@ Closing circle/debrief - Discuss the EQ of the day.
 ## Final Assessment, project or product
 
 ---
+
 # SESSION 14 through 16- BUILDING YOUR FINAL CIRCUIT
- 
-> OVERVIEW: This week, we will be putting it all together.  By the end of this section, your robot will dance, light up and play music!
- 
+
+> OVERVIEW: This week, we will be putting it all together.  By the end of this section, your robot will dance, light up and play music!  
+
 ## STEP 1: Final robot assembly
 If you haven’t already, assemble the rest of the servo motors.  You should have 3 total.  Remember that each servo motor has two 7/16" servo screws.  
 If you haven’t already, make sure that all 3 motors are wired up.  See the wiring diagram below.  
@@ -1573,6 +1596,7 @@ Tell us what you learned about yourself during this class.
 🗨 and ✎: What patterns did you find in today’s coding activities?  
 
 ---
+
 # Appendix A
 
 Questions to Consider when planning in order to meet the needs of ALL Students.
@@ -1591,4 +1615,5 @@ Multiple Ways of Action and Expression
 How will students demonstrate what they have learned?  
 
 ---
+
 # Appendix B: DOK Levels
