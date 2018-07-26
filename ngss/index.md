@@ -113,12 +113,13 @@ The labeled final drawing of the student’s favorite robot
 Draw today’s robot and label it with the above parts.  
 
 The four basic parts of a robot represent the four branches of engineering.  Draw a straight line to connect each part of the robot to the type of engineering that it represents.  
-|Part|||Engineering|
-|---:|:---:|:---:|:---|
-|Circuit board|●|●|Mechanical|
-|Casing       |●|●|Electrical|
-|Program      |●|●|Hardware|
-|Batteries    |●|●|Software|
+
+|Part         |     |     |Engineering|
+|    ---:     |:---:|:---:|   :---    |
+|Circuit board|  ●  |  ●  |Mechanical |
+|Casing       |  ●  |  ●  |Electrical |
+|Program      |  ●  |  ●  |Hardware   |
+|Batteries    |  ●  |  ●  |Software   |
 
 ✎:  Write down four basic parts of a human that can be likened to the robot parts above.  
 1.  
