@@ -1,7 +1,7 @@
 # Day 1 of 16  Introduction to Robotics               
 > Suggested Time: 60-75 minutes  
 
-## Disciplinary Core Ideas: 
+## Disciplinary Core Ideas:
 - ETS1.B:  Developing Possible Solutions:  Research on a problem should be carried out before beginning to design a solution.  (3-5-ETS1-2)
 
 ## Learning Target:
@@ -55,7 +55,8 @@ What will we learn? (The 4 types of engineering, encouragement, community buildi
 Who will teach the class? (Everyone teaches each other in this collaborative learning environment)  
 What does it mean to inspire? How will you inspire each other in this process? (Responses may vary)  
 
-## Anticipatory Set:  What makes a robot function? (the program, circuit board, batteries, physical body/casing)
+## Anticipatory Set:
+What makes a robot function? (the program, circuit board, batteries, physical body/casing)  
 Go over the four parts of the human body:  Brain, Body, Heart, and Soul - What is the function of each of these parts?  
 Take out the robot poster (or access digital "paper doll" robot via Scratch). Which part of the robot has a similar function to that of the human body (Brain, Body, Heart, and Soul)  
 Briefly explain the 4 parts of the robot in relation to the 4 types of engineering:  
@@ -568,7 +569,6 @@ Drawing of robot with color schemes to be used for painting in the next session
 ___
 
 # SESSION 5 – 3-D PRINTING & DESIGN
-
 > OVERVIEW: We will enter the world of 3-D printing!
 
 ## STEP 1: Draw a diagram of a 3-D printer
@@ -668,7 +668,6 @@ All parts are painted and decorated
 ___
 
 # SESSION 6 – TIME TO PAINT!
-
 > OVERVIEW: Today, we will paint our robots.  We typically use acrylic paint.  Make sure that you follow your teacher’s instructions on how to paint.  Have fun!
 
 ___
@@ -761,7 +760,6 @@ A completed circuit with a lighted LED
 ___
 
 # SESSION 7 – EXPLORING THE ROBOT’S HEART
-
 > OVERVIEW: We will  learn how the "heart" of the robot works.  Remember, the "heart" refers to the battery of a robot.  We will explore the area of electrical engineering.  Have fun!
 
 ## STEP 1: Robot review
@@ -884,7 +882,8 @@ Welcome students to the community building environment (ie. students sitting in 
 Describe the goal of today: Using the concept of circuitry from last session, we will use a breadboard to light up the LED  
 Review circuits, positive and negative sides, having enough power  
 
-## Anticipatory set: Demonstrate the breadboard with a lighted LED
+## Anticipatory set:
+Demonstrate the breadboard with a lighted LED  
 Introduce the materials that will be used today, focusing on the breadboard.  
 Explain the organization of the breadboard and their specific placement  
 Ask students to go to their seats and distribute Lesson 8’s worksheet and breadboard for students. Complete Step 1 together.  
@@ -907,7 +906,6 @@ The breadboard circuit is complete with a LED that is able to light up
 ___
 
 # SESSION 8 – INTRODUCTION TO BREADBOARDS
-
 > OVERVIEW: Today, we will learn about breadboards.  Breadboards helps us make circuits in a way where we can make strong connections without needing to hold the wires together.  
 
 ## STEP 1: Introducing the breadboard
@@ -967,8 +965,8 @@ ___
 > Suggested Time:  60-75 minutes
 
 ## Disciplinary Core Ideas:
-ETS1.B: Developing Possible Solutions: Tests are often designed to identify failure points or difficulties, which suggest the elements of the design that need to be improved. (3-5-ETS1-3)
-ETS1.C: Optimizing the Design Solution: Different solutions need to be tested in order to determine which of them best solves the problem, given the criteria and the constraints. (3-5-ETS1-3)
+- ETS1.B: Developing Possible Solutions: Tests are often designed to identify failure points or difficulties, which suggest the elements of the design that need to be improved. (3-5-ETS1-3)
+- ETS1.C: Optimizing the Design Solution: Different solutions need to be tested in order to determine which of them best solves the problem, given the criteria and the constraints. (3-5-ETS1-3)
 
 ## Cross-Cutting Concepts: 
 Energy and Matter: Energy can be transferred in various ways and between objects. (4-PS3-1),(4-PS3-2),(4-PS3-3),(4-PS3-4)
@@ -1021,7 +1019,7 @@ Keep multiple: ways of representation, ways of action and expression, and method
 Welcome students to the community building environment (ie. students sitting in a circle)  
 Describe the goal of today: build a circuit with an LED and code a program to make flash  
 
-## Anticipatory set: 
+## Anticipatory set:
 Understanding coding: Ask students to draw a circle in the air with their arm 3x in their spot. Ask them to describe the steps used to draw their circle with their arm. Teacher demonstrates following the students’ directions to complete the action. (Lift arm - which direction?, rotate - which degree?, how many times? How fast, etc.) Every action needs to be explicit. Let students know that computers like simple directions and it does exactly what it is told.  
 Explain to students that they will continue to build a circuit with the arduino board like last session. This time, however, it will be powered by the computer using a USB instead of being powered by batteries.  
 After the breadboard has been wired correctly, students shift to the computer to plug in their arduino boards, following the directions on the worksheet.  
@@ -1044,7 +1042,6 @@ Blinking LED connected to the breadboard
 ___
 
 # SESSION 9 – THE BLINKING LIGHT CHALLENGE
-
 > OVERVIEW: This week, we will be creating a light circuit for your robot. 
 
 ## STEP 1: What is a power indicator?
@@ -1336,7 +1333,6 @@ The buzzer plays a song that the student has created
 ___
 
 # SESSION 12 - THE BUZZER
-
 > OVERVIEW: You will learn how to use a buzzer to play music! 
 
 ## STEP 1: Building your circuit
@@ -1399,7 +1395,7 @@ ___
 > Suggested Time:  60-75 minutes
 
 ## Disciplinary Core Ideas: 
-ETS1.B: Developing Possible Solutions: Tests are often designed to identify failure points or difficulties, which suggest the elements of the design that need to be improved. (3-5-ETS1-3)  
+- ETS1.B: Developing Possible Solutions: Tests are often designed to identify failure points or difficulties, which suggest the elements of the design that need to be improved. (3-5-ETS1-3)  
 
 ## Cross-Cutting Concepts:
 Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3-4)  
@@ -1459,7 +1455,6 @@ Robot with head and arms movement with possible inclusion of music and blinking 
 ___
 
 # SESSION 13 – MAKE YOUR ROBOT WAVE!
-
 > OVERVIEW: We will make your robot wave (or shake his/her head). 
 
 ## STEP 1: Introduction to servos
@@ -1572,7 +1567,6 @@ Closing circle/debrief - Discuss the EQ of the day.
 ___
 
 # SESSION 14 through 16- BUILDING YOUR FINAL CIRCUIT
-
 > OVERVIEW: This week, we will be putting it all together.  By the end of this section, your robot will dance, light up and play music!  
 
 ## STEP 1: Final robot assembly
