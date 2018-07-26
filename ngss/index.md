@@ -89,7 +89,7 @@ The labeled final drawing of the student’s favorite robot
  
 ## STEP 1:  The meaning of "Barnabas"
 - Barnabas means "Son of Encouragement."
-· Barnabas was a community builder.
+- Barnabas was a community builder.
 🗨 or ✎:  What does "encouragement" mean to you? How do you encourage others?  
 🗨 or ✎:  What does "community" mean you? Name or draw 2 communities of which you are a part and your role in each of them.  
 
@@ -105,30 +105,32 @@ The labeled final drawing of the student’s favorite robot
 
 ## STEP 4:  What are the parts of a robot?
  ✎:  Write down the four parts necessary for a robot to function.
-1. 
-2. 
-3. 
-4. 
+1. _
+2. _
+3. _
+4. _
 
-Draw today’s robot and label it with the above parts. 
- 
-The four basic parts of a robot represent the four branches of engineering.  Draw a straight line to connect each part of the robot to the type of engineering that it represents.
-          
-Circuit board   ●   ● Mechanical Engineering  
-Casing          ●   ● Electrical Engineering  
-Program         ●   ● Hardware Engineering  
-Batteries       ●   ● Software Engineering  
+Draw today’s robot and label it with the above parts.  
+
+The four basic parts of a robot represent the four branches of engineering.  Draw a straight line to connect each part of the robot to the type of engineering that it represents.  
+|Part|||Engineering|
+|---:|:---:|:---:|:---|
+|Circuit board|●|●|Mechanical|
+|Casing       |●|●|Electrical|
+|Program      |●|●|Hardware|
+|Batteries    |●|●|Software|
 
 ✎:  Write down four basic parts of a human that can be likened to the robot parts above.
 1.  
 2.  
 3.  
 4.  
-🗨 or ✎:  Label the corresponding human parts on your robot drawing above.
+
+🗨 or ✎:  Label the corresponding human parts on your robot drawing above.  
 
 ### DEBRIEF
-✎:  What are the similarities and differences between robots and humans?
-🗨 or ✎:  How can you help make our class a good learning community?
+✎:  What are the similarities and differences between robots and humans?  
+🗨 or ✎:  How can you help make our class a good learning community?  
 
 ---
 # Day 2 of 16 - Building our First Robot    
@@ -142,13 +144,13 @@ Batteries       ●   ● Software Engineering
 - ETS1.C: Optimizing the Design Solution: Different solutions need to be tested in order to determine which of them best solves the problem, given the criteria and the constraints. (3-5-ETS1-3)
 
 ## Cross-Cutting Concepts: 
-Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3-4)
+Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3-4)  
 
 ## Learning Target:
-We will build a simple robot using everyday materials.
+We will build a simple robot using everyday materials.  
 
 ## Essential Question(s):
-What is necessary of all community members to achieve a common goal?
+What is necessary of all community members to achieve a common goal?  
 
 ## Key/Academic Vocabulary:
 - Servo motor
