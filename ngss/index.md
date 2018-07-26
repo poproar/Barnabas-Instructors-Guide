@@ -120,7 +120,7 @@ The four basic parts of a robot represent the four branches of engineering.  Dra
 |Program      |●|●|Hardware|
 |Batteries    |●|●|Software|
 
-✎:  Write down four basic parts of a human that can be likened to the robot parts above.
+✎:  Write down four basic parts of a human that can be likened to the robot parts above.  
 1.  
 2.  
 3.  
@@ -380,9 +380,8 @@ Then, click on "Copy Workspace."  Title your copy: "BARNABAS-BOT 2.2 – [YOUR F
 ## STEP 5: Viewing
 🖥 : You should be on the "robot body front plate" tab (it is the first of the tabs on the bottom of your screen).  You should see the following shape:  
 
-1. 
-  1. Rotating using Method 1: Click on the arrows surrounding the cube on the top-left of the screen to rotate the face plate.
-  2. Rotating using Method 2: Click on the "Front," "Back," or "Left" buttons on the cube on the top-left of the screen.
+1.  1. Rotating using Method 1: Click on the arrows surrounding the cube on the top-left of the screen to rotate the face plate.
+    1. Rotating using Method 2: Click on the "Front," "Back," or "Left" buttons on the cube on the top-left of the screen.
 2. Rotating (Method 2): R-CLICK (right click) on a part of the cube that you want to move with the mouse.
 3. Translating (Method 1): Hold down CTRL and R-CLICK on the cube to move it around.
 4. Translating (Method 2): If you are using a mouse with a scroll wheel, click the wheel to translate the front plate (move it around)
@@ -458,7 +457,7 @@ Using the new tool, called the "Fasten Mate," you can click on two faces, and it
 🖥 : If you have time, try adding ears!
 
 ### DEBRIEF
- 
+
 🗨 or ✎: What does C.A.D. stand for?  
 🗨 or ✎: What can we do with a C.A.D. file?  
 🗨 or ✎: What was the most difficult part of today’s class?  
@@ -507,8 +506,8 @@ What are the limitations of 3-D printing?
 - Filament
 - Extruder
 - Bed
-Cartridge
-- 
+- Cartridge
+
 ## Materials:
 - Barnabas Lesson 5 worksheet
 - Portable 3-D printer
@@ -517,7 +516,7 @@ Cartridge
 
 ## Additional Resources
 Video: 3-D Printer and How it is Made https://youtu.be/f4RGU2jXQiE  
-Video: 3-D Printer in Action https://youtu.be/Gwro2HzxMgw
+Video: 3-D Printer in Action https://youtu.be/Gwro2HzxMgw  
 
 ## Depth of Knowledge Levels Addressed
 > See Appendix B
@@ -750,8 +749,7 @@ Creating a circuit in groups of 2-3 students and drawing the schematic
 A completed circuit with a lighted LED  
 
 ---
-# SESSION 7 – 
-EXPLORING THE ROBOT’S HEART
+# SESSION 7 – EXPLORING THE ROBOT’S HEART
  
 > OVERVIEW: We will  learn how the "heart" of the robot works.  Remember, the "heart" refers to the battery of a robot.  We will explore the area of electrical engineering.  Have fun!
 
@@ -1143,7 +1141,8 @@ Keep multiple: ways of representation, ways of action and expression, and method
 Welcome students to the community building environment (ie. students sitting in a circle)  
 Describe the goal of today: create a mystery message using Morse Code  
 
-## Anticipatory set: Show students the blinking lights and let them know that it has a hidden message. Take a look at the Morse Code decoder and decode the message together.
+## Anticipatory set:
+Show students the blinking lights and let them know that it has a hidden message. Take a look at the Morse Code decoder and decode the message together.  
 Give students 2 minutes to think of a message they would like to send and to whom they would send it.  
 Let students set up their breadboard, arduino board, and computer, and start coding their secret message.  
 When they have completed a message, they can share with a partner who has finished, to try to decode each other’s messages.  
