@@ -1,5 +1,5 @@
 # Day 1 of 16  Introduction to Robotics               
-> Suggested Time: 60-75 minutes
+> Suggested Time: 60-75 minutes  
 
 ## Disciplinary Core Ideas: 
 - ETS1.B:  Developing Possible Solutions:  Research on a problem should be carried out before beginning to design a solution.  (3-5-ETS1-2)
