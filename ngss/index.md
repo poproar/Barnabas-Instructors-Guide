@@ -83,7 +83,7 @@ Student drawing of robots and label the 4 parts
 ## Final Assessment, project or product
 The labeled final drawing of the student’s favorite robot
 
----
+___
 
 # SESSION 1 - Introduction to Robotics
 > LEARNING TARGET:  We will identify the basic parts of a robot ,and we will work together to build, learn, teach, and inspire!
@@ -134,7 +134,7 @@ The four basic parts of a robot represent the four branches of engineering.  Dra
 ✎:  What are the similarities and differences between robots and humans?  
 🗨 or ✎:  How can you help make our class a good learning community?  
 
----
+___
 
 # Day 2 of 16 - Building our First Robot    
 > Suggested Time: 60-75 minutes
@@ -362,7 +362,7 @@ Students work on their individual files to put the robot together and to design 
 ## Final Assessment, project or product
 Every student’s robot should be personalized after the 4th lesson
 
----
+___
 
 # SESSION 3 - BUILDING OUR ROBOT’S BODY
 > OVERVIEW: We will learn how to design your robot’s body using Computer-Aided Design (C.A.D.).  We will use these files to 3-D print your one-of-a-kind robot!
@@ -490,7 +490,7 @@ Double click on the text boxes to edit the text. Write your name as well as your
 ### DEBRIEF 
 🗨 or ✎: What constraints or challenges did you have to keep in mind in designing your robot?
 
----
+___
 
 # Day 5 of 16 - 3-D Printing and Design    
 > Suggested Time: 60-75 minutes
@@ -565,7 +565,7 @@ Answering questions in Steps 3, 4, and 5
 ## Final Assessment, project or product
 Drawing of robot with color schemes to be used for painting in the next session
 
----
+___
 
 # SESSION 5 – 3-D PRINTING & DESIGN
 
@@ -602,7 +602,7 @@ Name: _______________________________________________________________________
 🗨 or ✎: Which aspects of 3-D printing were challenging for you?  
 🗨 or ✎: What would you print, if you could create and print anything? Why would you print that object?  
 
----
+___
 
 # Day 6 of 16 - Time to Paint!  
 > Suggested Time: 60-75 minutes
@@ -665,13 +665,13 @@ Students painting and carrying out their designs
 ## Final Assessment, project or product
 All parts are painted and decorated
 
----
+___
 
 # SESSION 6 – TIME TO PAINT!
 
 > OVERVIEW: Today, we will paint our robots.  We typically use acrylic paint.  Make sure that you follow your teacher’s instructions on how to paint.  Have fun!
 
----
+___
 
 # Day 7 of 16 - Exploring the Robot’s Heart          
 > Suggested Time: 60-75 minutes
@@ -758,7 +758,7 @@ Creating a circuit in groups of 2-3 students and drawing the schematic
 ## Final Assessment, project or product
 A completed circuit with a lighted LED  
 
----
+___
 
 # SESSION 7 – EXPLORING THE ROBOT’S HEART
 
@@ -816,7 +816,7 @@ Make a circuit that turns on three or more lights at the same time!
 🗨 and ✎: What is the total voltage necessary to light the LED?  
 🗨 and ✎: What happens when the wire connections are too loose or too tight?  
 
----
+___
 
 # Day 8 of 16 - Introduction to Breadboards   
 > Suggested Time:  60-75 minutes
@@ -904,7 +904,7 @@ Students breadboarding following the schematic
 ## Final Assessment, project or product
 The breadboard circuit is complete with a LED that is able to light up
 
----
+___
 
 # SESSION 8 – INTRODUCTION TO BREADBOARDS
 
@@ -961,7 +961,7 @@ If the voltage is 5V, what is the current when you use the 470 Ohm resistor?
 🗨 and ✎: What are the benefits of designing circuitry with a breadboard?  
 🗨 and ✎: How has breadboarding changed the way a person creates a circuit?  
 
----
+___
 
 # Day 9 of 16 - The Blinking Light Challenge   
 > Suggested Time:  60-75 minutes
@@ -1041,7 +1041,7 @@ Student create the circuit and write a program to turn on and off the LED
 ## Final Assessment, project or product
 Blinking LED connected to the breadboard  
 
----
+___
 
 # SESSION 9 – THE BLINKING LIGHT CHALLENGE
 
@@ -1111,7 +1111,7 @@ CHALLENGE 6: Create your own light patterns and challenge your classmates to pro
 ### DEBRIEF
 🗨 and ✎: What pin number on the Arduino board controls the light?  
 
----
+___
 
 # Day 10 of 16 - Blinking in Code     
 > Suggested Time:  60-75 minutes
@@ -1178,7 +1178,7 @@ Student practicing different letters to code.
 ## Final Assessment, project or product
 Student has a completed, decodable message.  
 
----
+___
 
 # SESSION 10 – BLINKING IN CODE
 
@@ -1195,7 +1195,7 @@ You’ll need to following information to complete the challenge:
 🗨 and ✎: What are the benefits of designing circuitry with a breadboard?  
 🗨 and ✎: How has breadboarding changed the way a person creates a circuit?  
 
----
+___
 
 # Day 11 of 16 - Assembling your Robot    
 > Suggested Time:  60-75 minutes
@@ -1262,7 +1262,7 @@ Putting the robot together
 ## Final Assessment, project or product
 Completed robot with head and arms connected to servo motors  
 
----
+___
 
 # Day 12 of 16 - The Buzzer      
 > Suggested Time:  60-75 minutes
@@ -1333,7 +1333,7 @@ Creating the songs Twinkle Twinkle Little Star, Happy Birthday, or Mary had a Li
 ## Final Assessment, project or product
 The buzzer plays a song that the student has created  
 
----
+___
 
 # SESSION 12 - THE BUZZER
 
@@ -1393,7 +1393,7 @@ CHALLENGE #6: Write your own song!
 🗨 and ✎: What patterns did you find in today’s coding activities?  
 🗨 and ✎: What relationships can be found between patterns and music?  
 
----
+___
 
 # Day 13 of 16 - Make Your Robot Wave!    
 > Suggested Time:  60-75 minutes
@@ -1456,7 +1456,7 @@ Practice 3-5 and challenges 1-3
 ## Final Assessment, project or product
 Robot with head and arms movement with possible inclusion of music and blinking LED.  
 
----
+___
 
 # SESSION 13 – MAKE YOUR ROBOT WAVE!
 
@@ -1499,7 +1499,7 @@ CHALLENGE #3: Make your robot light up, play music, and move all at the same tim
 ### DEBRIEF
 🗨 and ✎: What can limit a robot’s movements?  
 
----
+___
 
 # Day 14, 15, 16 of 16 - Building Your Final Circuit 
 > Suggested Time:  60-75 minutes each
@@ -1569,7 +1569,7 @@ Closing circle/debrief - Discuss the EQ of the day.
 
 ## Final Assessment, project or product
 
----
+___
 
 # SESSION 14 through 16- BUILDING YOUR FINAL CIRCUIT
 
@@ -1595,7 +1595,7 @@ Tell us what you learned about yourself during this class.
 ### DEBRIEF 
 🗨 and ✎: What patterns did you find in today’s coding activities?  
 
----
+___
 
 # Appendix A
 
@@ -1614,6 +1614,6 @@ Some need to write, others need to talk through ideas first before they understa
 Multiple Ways of Action and Expression  
 How will students demonstrate what they have learned?  
 
----
+___
 
 # Appendix B: DOK Levels
