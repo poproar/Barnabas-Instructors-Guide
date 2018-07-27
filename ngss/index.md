@@ -46,11 +46,11 @@ Students explain how/why robot and human parts are similar
 Students provide examples of encouragement and community
 
 ## Lesson Materials
-- Barnabas Lesson 1 worksheet
-- Robot drawing
-- Writing utensil
-- Computer
-- Projector
+- [ ] Barnabas Lesson 1 worksheet
+- [ ] Robot drawing
+- [ ] Writing utensil
+- [ ] Computer
+- [ ] Projector
 
 ___
 
