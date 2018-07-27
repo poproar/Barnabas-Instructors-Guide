@@ -1,4 +1,4 @@
-# Day 1 of 16  Introduction to Robotics               
+# Day 1 of 16  Introduction to Robotics
 > Suggested Time: 60-75 minutes  
 
 ## Disciplinary Core Ideas:
@@ -16,13 +16,6 @@ What are the similarities and differences between robots and humans?
 - Encouragement
 - Inspire
 - Goal
-
-## Materials:
-- Barnabas Lesson 1 worksheet
-- Robot drawing
-- Writing utensil
-- Computer
-- Projector
 
 ## Additional Resources:
 Scratch "paper doll" robot as demonstration: https://scratch.mit.edu/projects/124980272/#player
@@ -84,6 +77,13 @@ Student drawing of robots and label the 4 parts
 ## Final Assessment, project or product
 The labeled final drawing of the student’s favorite robot
 
+## Materials:
+- Barnabas Lesson 1 worksheet
+- Robot drawing
+- Writing utensil
+- Computer
+- Projector
+
 ___
 
 # SESSION 1 - Introduction to Robotics
@@ -137,7 +137,7 @@ The four basic parts of a robot represent the four branches of engineering.  Dra
 
 ___
 
-# Day 2 of 16 - Building our First Robot    
+# Day 2 of 16 - Building our First Robot
 > Suggested Time: 60-75 minutes
 
 ## Disciplinary Core Ideas: 
@@ -160,24 +160,6 @@ What is necessary of all community members to achieve a common goal?
 - Servo motor
 - Arduino board
 - Battery
-
-## Materials:
-- Barnabas Lesson 2 worksheet
-- A Ziploc bag of recycled materials for each group (materials vary from group to group).  For example:
-- Masking tape
-- Pipe cleaners
-- Strips of paper
-- Paper clips
-- Clothes pins
-- Popsicle sticks
-- Pennies
-- 1 Servo motor per group
-- 1 Arduino board for every 3-4 groups of 3-4 students (groups must share)
-- 9-Volt battery 
-- 1 Plastic cup for every 3-4 groups of 3-4 students (to be knocked over; groups must share)
-- 1 Ruler for every 3-4 groups of 3-4 students (must share)
-- Writing utensils
-- Optional: document camera
 
 ## Additional Resources:
 
@@ -232,6 +214,24 @@ N/A
 ## Final Assessment, project or product
 Ability of the robot to knock the plastic cup placed 8" away from the robot off the edge of the table  
 
+## Materials:
+- Barnabas Lesson 2 worksheet
+- A Ziploc bag of recycled materials for each group (materials vary from group to group).  For example:
+- Masking tape
+- Pipe cleaners
+- Strips of paper
+- Paper clips
+- Clothes pins
+- Popsicle sticks
+- Pennies
+- 1 Servo motor per group
+- 1 Arduino board for every 3-4 groups of 3-4 students (groups must share)
+- 9-Volt battery 
+- 1 Plastic cup for every 3-4 groups of 3-4 students (to be knocked over; groups must share)
+- 1 Ruler for every 3-4 groups of 3-4 students (must share)
+- Writing utensils
+- Optional: document camera
+
 ___
 
 # SESSION 2 – Building our First Robot
@@ -273,8 +273,8 @@ Test it out with the Arduino board
 🗨 or ✎: Did you work well as a team?  Why or why not?  
 🗨 or ✎: Did you work well with other teams?  Why or why not?  
 
-# Day 3 of 16 - Building our Robot’s Body  
-# Day 4 of 16 - Advanced C.A.D.  
+# Day 3 of 16 - Building our Robot’s Body
+# Day 4 of 16 - Advanced C.A.D.
 > Suggested Time: 60-75 minutes 
 
 ## Science and Engineering Practices:
@@ -297,15 +297,6 @@ What challenges can Computer-Aided Design (C.A.D.) present for a beginning user?
 - Translating
 - Zoom
 - Axis
-
-## Materials:
-- Barnabas Lesson 3 & 4 worksheets
-- Computer
-- Internet connection
-- Onshape.com website
-- *NOTE*: teacher must create an onshape.com account ahead of time for the entire class to use.  All students will need access to the password.
-- Computer mouse for each device (ideal, but optional)
-- Whiteboard or poster (for posting the class onshape.com username and password)
 
 ## Additional Resources
 Direct link to "Barnabas-Bot 2.2" template in onshape.com: https://goo.gl/DlDJ53  
@@ -361,7 +352,16 @@ Show students simulation of cube rotating on its axis: https://www.youtube.com/w
 Students work on their individual files to put the robot together and to design the front plate
 
 ## Final Assessment, project or product
-Every student’s robot should be personalized after the 4th lesson
+Every student’s robot should be personalized after the 4th lesson  
+
+## Materials:
+- Barnabas Lesson 3 & 4 worksheets
+- Computer
+- Internet connection
+- Onshape.com website
+- *NOTE*: teacher must create an onshape.com account ahead of time for the entire class to use.  All students will need access to the password.
+- Computer mouse for each device (ideal, but optional)
+- Whiteboard or poster (for posting the class onshape.com username and password)
 
 ___
 
@@ -493,7 +493,7 @@ Double click on the text boxes to edit the text. Write your name as well as your
 
 ___
 
-# Day 5 of 16 - 3-D Printing and Design    
+# Day 5 of 16 - 3-D Printing and Design
 > Suggested Time: 60-75 minutes
 
 ## Science and Engineering Practices: 
@@ -514,12 +514,6 @@ What are the limitations of 3-D printing?
 - Extruder
 - Bed
 - Cartridge
-
-## Materials:
-- Barnabas Lesson 5 worksheet
-- Portable 3-D printer
-- If a 3-D printer is not available for students to see, opt for the video
-- Document camera
 
 ## Additional Resources
 Video: 3-D Printer and How it is Made https://youtu.be/f4RGU2jXQiE  
@@ -564,7 +558,13 @@ Re-watch the video(s), see/touch a 3-D printer
 Answering questions in Steps 3, 4, and 5
 
 ## Final Assessment, project or product
-Drawing of robot with color schemes to be used for painting in the next session
+Drawing of robot with color schemes to be used for painting in the next session  
+
+## Materials:
+- Barnabas Lesson 5 worksheet
+- Portable 3-D printer
+- If a 3-D printer is not available for students to see, opt for the video
+- Document camera
 
 ___
 
@@ -604,7 +604,7 @@ Name: _______________________________________________________________________
 
 ___
 
-# Day 6 of 16 - Time to Paint!  
+# Day 6 of 16 - Time to Paint!
 > Suggested Time: 60-75 minutes
 
 ## Standards: N/A
@@ -616,16 +616,6 @@ We will execute the design created last session
 What complications might you come across when bringing a design to life?
 
 ## Key/Academic Vocabulary:
-
-## Materials:
-- Barnabas Lesson 5 design worksheets
-- Acrylic paint, various colors
-- Paint brush, various sizes
-- Construction paper, various colors
-- Scissors
-- Glue
-- Permanent markers, if paint not avail.
-- Newspaper or scratch paper to protect work surfaces
 
 ## Additional Resources:
 
@@ -663,7 +653,17 @@ N/A
 Students painting and carrying out their designs
 
 ## Final Assessment, project or product
-All parts are painted and decorated
+All parts are painted and decorated  
+
+## Materials:
+- Barnabas Lesson 5 design worksheets
+- Acrylic paint, various colors
+- Paint brush, various sizes
+- Construction paper, various colors
+- Scissors
+- Glue
+- Permanent markers, if paint not avail.
+- Newspaper or scratch paper to protect work surfaces
 
 ___
 
@@ -672,7 +672,7 @@ ___
 
 ___
 
-# Day 7 of 16 - Exploring the Robot’s Heart          
+# Day 7 of 16 - Exploring the Robot’s Heart
 > Suggested Time: 60-75 minutes
 
 ## Science and Engineering Practices:
@@ -703,10 +703,6 @@ What impact does electricity have on our world?
 - Negative
 - Battery or source
 - Schematic
-
-## Materials:
-- Barnabas Lesson 7 worksheet
-- Barnabas Kit
 
 ## Additional Resources
 How to build the 3V LED circuit: https://youtu.be/5P-3rSK79Uo  
@@ -756,6 +752,10 @@ Creating a circuit in groups of 2-3 students and drawing the schematic
 
 ## Final Assessment, project or product
 A completed circuit with a lighted LED  
+
+## Materials:
+- Barnabas Lesson 7 worksheet
+- Barnabas Kit
 
 ___
 
@@ -816,7 +816,7 @@ Make a circuit that turns on three or more lights at the same time!
 
 ___
 
-# Day 8 of 16 - Introduction to Breadboards   
+# Day 8 of 16 - Introduction to Breadboards
 > Suggested Time:  60-75 minutes
 
 ## Science and Engineering Practices:
@@ -846,15 +846,6 @@ How has breadboarding changed the way a person creates a circuit?
 - Arduino
 - Current
 - Amps
-
-## Materials:
-- Barnabas Lesson 8 worksheet
-- Breadboards (1 per student or per group of 2 or 3)
-- Wires
-- AA batteries (2 per student or group)
-- AA battery holder
-- LED lights (1 per student or group
-- Resistors
 
 ## Additional Resources
 Simple Breadboard LED https://youtu.be/BwVRfxDj0Pc  
@@ -901,7 +892,16 @@ Model the first connection of putting in the wires in the individual hole and pr
 Students breadboarding following the schematic
 
 ## Final Assessment, project or product
-The breadboard circuit is complete with a LED that is able to light up
+The breadboard circuit is complete with a LED that is able to light up  
+
+## Materials:
+- Barnabas Lesson 8 worksheet
+- Breadboards (1 per student or per group of 2 or 3)
+- Wires
+- AA batteries (2 per student or group)
+- AA battery holder
+- LED lights (1 per student or group
+- Resistors
 
 ___
 
@@ -961,7 +961,7 @@ If the voltage is 5V, what is the current when you use the 470 Ohm resistor?
 
 ___
 
-# Day 9 of 16 - The Blinking Light Challenge   
+# Day 9 of 16 - The Blinking Light Challenge
 > Suggested Time:  60-75 minutes
 
 ## Disciplinary Core Ideas:
@@ -980,18 +980,6 @@ Think of all the electronics in our lives that are automated. Do you perceive th
 ## Key/Academic Vocabulary:
 - Coding
 - Program
-
-## Materials:
-- Barnabas Lesson 9 worksheet
-- Computer
-- Breadboard
-- Mouse
-- Keyboard
-- Computer program: ArduBlock
-- Barnabas arduino board
-- Jumper wires
-- LED
-- USB cable
 
 ## Additional Resources
 Wiring up the LED and programming it in Ardublock: https://youtu.be/UfxJx9LQ9u0  
@@ -1038,6 +1026,18 @@ Student create the circuit and write a program to turn on and off the LED
 
 ## Final Assessment, project or product
 Blinking LED connected to the breadboard  
+
+## Materials:
+- Barnabas Lesson 9 worksheet
+- Computer
+- Breadboard
+- Mouse
+- Keyboard
+- Computer program: ArduBlock
+- Barnabas arduino board
+- Jumper wires
+- LED
+- USB cable
 
 ___
 
@@ -1110,7 +1110,7 @@ CHALLENGE 6: Create your own light patterns and challenge your classmates to pro
 
 ___
 
-# Day 10 of 16 - Blinking in Code     
+# Day 10 of 16 - Blinking in Code
 > Suggested Time:  60-75 minutes
 
 ## Science and Engineering Practices:
@@ -1128,10 +1128,6 @@ We will create and decode a message using Morse Code by using coding skills in A
 What is the importance of precision in coding?  
 
 ## Key/Academic Vocabulary:
-
-## Materials:
-- Barnabas Lesson 10 worksheet
-- Same setup as Lesson 9
 
 ## Additional Resources
 
@@ -1175,6 +1171,10 @@ Student practicing different letters to code.
 ## Final Assessment, project or product
 Student has a completed, decodable message.  
 
+## Materials:
+- Barnabas Lesson 10 worksheet
+- Same setup as Lesson 9
+
 ___
 
 # SESSION 10 – BLINKING IN CODE
@@ -1194,7 +1194,7 @@ You’ll need to following information to complete the challenge:
 
 ___
 
-# Day 11 of 16 - Assembling your Robot    
+# Day 11 of 16 - Assembling your Robot
 > Suggested Time:  60-75 minutes
 
 ## Disciplinary Core Ideas: 
@@ -1211,14 +1211,6 @@ We will be assembling the robot
 N/A
 
 ## Key/Academic Vocabulary:
-
-## Materials:
-- All 3D printed and painted materials
-- 3 servo motors
-- Screws
-- Mini screw drivers
-- LOOK AT MATERIALS!
-- NOTE: No student worksheet is necessary for this lesson.
 
 ## Additional Resources
 Instructions online: http://tinyurl.com/hvn4ztp  
@@ -1259,9 +1251,17 @@ Putting the robot together
 ## Final Assessment, project or product
 Completed robot with head and arms connected to servo motors  
 
+## Materials:
+- All 3D printed and painted materials
+- 3 servo motors
+- Screws
+- Mini screw drivers
+- LOOK AT MATERIALS!
+- NOTE: No student worksheet is necessary for this lesson.
+
 ___
 
-# Day 12 of 16 - The Buzzer      
+# Day 12 of 16 - The Buzzer
 > Suggested Time:  60-75 minutes
 
 ## Science and Engineering Practices:
@@ -1280,10 +1280,6 @@ We will transfer our previous coding skills toward coding a buzzer to buzz at di
 What relationships can be found between patterns and music?  
 
 ## Key/Academic Vocabulary:
-
-## Materials:
-- Barnabas Lesson 12 worksheet
-- Materials used for setup in Lesson 10
 
 ## Additional Resources
 Wiring your buzzer: https://youtu.be/dQNqwrBMXYU  
@@ -1329,6 +1325,10 @@ Creating the songs Twinkle Twinkle Little Star, Happy Birthday, or Mary had a Li
 
 ## Final Assessment, project or product
 The buzzer plays a song that the student has created  
+
+## Materials:
+- Barnabas Lesson 12 worksheet
+- Materials used for setup in Lesson 10
 
 ___
 
@@ -1391,7 +1391,7 @@ CHALLENGE #6: Write your own song!
 
 ___
 
-# Day 13 of 16 - Make Your Robot Wave!    
+# Day 13 of 16 - Make Your Robot Wave!
 > Suggested Time:  60-75 minutes
 
 ## Disciplinary Core Ideas: 
@@ -1407,10 +1407,6 @@ We will use the servo motors to move the robot’s arms and turn its head.
 What can limit a robot’s movements? 
 
 ## Key/Academic Vocabulary:
-
-## Materials:
-- Barnabas Lesson 12 worksheet
-- Materials in the Barnabas kit
 
 ## Additional Resources
 Wiring your first servo motor: https://youtu.be/iTdQKmu6R1o  
@@ -1451,6 +1447,10 @@ Practice 3-5 and challenges 1-3
 
 ## Final Assessment, project or product
 Robot with head and arms movement with possible inclusion of music and blinking LED.  
+
+## Materials:
+- Barnabas Lesson 12 worksheet
+- Materials in the Barnabas kit
 
 ___
 
@@ -1496,7 +1496,7 @@ CHALLENGE #3: Make your robot light up, play music, and move all at the same tim
 
 ___
 
-# Day 14, 15, 16 of 16 - Building Your Final Circuit 
+# Day 14, 15, 16 of 16 - Building Your Final Circuit
 > Suggested Time:  60-75 minutes each
 
 ## Science and Engineering Practices:
@@ -1519,9 +1519,6 @@ We will put everything we have learned together
 ## Essential Question(s) 
 
 ## Key/Academic Vocabulary:
-
-## Materials:
-- Barnabas Lesson 13 worksheet
 
 ## Additional Resources
 Wiring all 3 servo motors: https://youtu.be/7oYKnPWtt2E  
@@ -1563,6 +1560,9 @@ Closing circle/debrief - Discuss the EQ of the day.
 ## Independent Practice
 
 ## Final Assessment, project or product
+
+## Materials:
+- Barnabas Lesson 13 worksheet
 
 ___
 
