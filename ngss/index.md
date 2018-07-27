@@ -35,31 +35,6 @@ Lack of exposure to robots and their properties (e.g.  They are machines; they t
 Student definitions or examples of encouragement and community  
 Student understanding of functions of the human body parts:  body, brain, heart, and soul
 
-## Lesson Plans:
-Keep multiple:  ways of representation, ways of action and expression, and methods of engagement in mind.  
-Make sure the classroom is set up in a community-building environment (chairs set in a circle, carpet space to sit in a circle, etc.)  
-Explain the overall goal of the Barnabas program:  Creating a robot through encouragement and community, while exploring the four types of engineering (mechanical, electrical, hardware, and software). 
-Discuss the meaning of Barnabas ("Son of Encouragement") and prompt students to provide examples of encouragement  
-Discuss the meaning of community and prompt students to provide examples of community (classroom, neighborhood, sports team, cultural/religious community)
-Present the essential question of the day:  "What are the similarities and differences between a robot and a human?"  
-Go over the four goals of the class:  Build, Learn, Teach, and Inspire  
-What are we building? (A robot)  
-What will we learn? (The 4 types of engineering, encouragement, community building skills)  
-Who will teach the class? (Everyone teaches each other in this collaborative learning environment)  
-What does it mean to inspire? How will you inspire each other in this process? (Responses may vary)  
-
-## Anticipatory Set:
-What makes a robot function? (the program, circuit board, batteries, physical body/casing)  
-Go over the four parts of the human body:  Brain, Body, Heart, and Soul - What is the function of each of these parts?  
-Take out the robot poster (or access digital "paper doll" robot via Scratch). Which part of the robot has a similar function to that of the human body (Brain, Body, Heart, and Soul)  
-Briefly explain the 4 parts of the robot in relation to the 4 types of engineering:  
-- Soul/Program - Software Engineering
-- Heart/Batteries - Electrical Engineering
-- Body/Casing - Mechanical Engineering
-- Brain/Circuit board - Hardware Engineering
-Allow students to respond to the debriefing questions  
-Closing circle/debrief - Discuss the EQ of the day.
-
 ## Monitor: Check for Understanding/Formative Assessment
 Students explain how/why robot and human parts are similar  
 Students provide examples of encouragement and community
@@ -83,6 +58,34 @@ The labeled final drawing of the student’s favorite robot
 - Writing utensil
 - Computer
 - Projector
+
+___
+
+## Lesson Plans:
+### Part 1
+Keep multiple:  ways of representation, ways of action and expression, and methods of engagement in mind.  
+Make sure the classroom is set up in a community-building environment (chairs set in a circle, carpet space to sit in a circle, etc.)  
+Explain the overall goal of the Barnabas program:  Creating a robot through encouragement and community, while exploring the four types of engineering (mechanical, electrical, hardware, and software). 
+Discuss the meaning of Barnabas ("Son of Encouragement") and prompt students to provide examples of encouragement  
+Discuss the meaning of community and prompt students to provide examples of community (classroom, neighborhood, sports team, cultural/religious community)
+Present the essential question of the day:  "What are the similarities and differences between a robot and a human?"  
+Go over the four goals of the class:  Build, Learn, Teach, and Inspire  
+What are we building? (A robot)  
+What will we learn? (The 4 types of engineering, encouragement, community building skills)  
+Who will teach the class? (Everyone teaches each other in this collaborative learning environment)  
+What does it mean to inspire? How will you inspire each other in this process? (Responses may vary)  
+
+### Part 2
+What makes a robot function? (the program, circuit board, batteries, physical body/casing)  
+Go over the four parts of the human body:  Brain, Body, Heart, and Soul - What is the function of each of these parts?  
+Take out the robot poster (or access digital "paper doll" robot via Scratch). Which part of the robot has a similar function to that of the human body (Brain, Body, Heart, and Soul)  
+Briefly explain the 4 parts of the robot in relation to the 4 types of engineering:  
+- Soul/Program - Software Engineering
+- Heart/Batteries - Electrical Engineering
+- Body/Casing - Mechanical Engineering
+- Brain/Circuit board - Hardware Engineering
+Allow students to respond to the debriefing questions  
+Closing circle/debrief - Discuss the EQ of the day.
 
 ___
 
@@ -180,25 +183,6 @@ Students see the function of a servo motor (it moves 180 degrees). Ideally, proj
 Objective of the challenge: For ALL teams to knock the cup placed 8" away from the robot off the edge of the table  
 Setting of norms for collaboration within the team and with other teams  
 
-## Lesson Plans: 
-Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
-Welcome students to the community building environment (ie. students sitting in a circle)  
-Describe the goal of today: build a robot out of recycled materials  
-Review the four parts of a robot and how it relates to the human body  
-Introduce the parts that will be used today to build the robot (items in the bag, Arduino board/controller, battery,   servo motor)
-Demonstrate and explain the movement of a servo motor. Ask the students: What are the possible functions of a servo   motor? Of what is the servo motor capable?  
-Demonstrate the Arduino board and explain the code that has been written/programmed to direct the movement   
-Rules of the challenge:
-There is only one Arduino board, one plastic cup, and one ruler for every 3-4 groups to test their robot’s functionality  
-Each group has different additional materials in their supply bag  
-Items can be shared amongst groups  
-Go over norms for collaboration  
-Separate students into multiple groups of 3-4 students and provide each group with a bag  
-Give 5 minutes for groups to look over their materials and create individual designs  
-Give students 20 minutes to work within their groups to design and create a robot  
-Gather all robots at a common place to showcase each group’s completed robot  
-Closing circle/debrief - Discuss the EQ of the day.  
-
 ## Monitor: Check for Understanding/Formative Assessment
 Understanding 180 degrees of movement  
 Reading a ruler to 8" (not centimeters)  
@@ -231,6 +215,27 @@ Ability of the robot to knock the plastic cup placed 8" away from the robot off 
 - 1 Ruler for every 3-4 groups of 3-4 students (must share)
 - Writing utensils
 - Optional: document camera
+
+___
+
+## Lesson Plans: 
+Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
+Welcome students to the community building environment (ie. students sitting in a circle)  
+Describe the goal of today: build a robot out of recycled materials  
+Review the four parts of a robot and how it relates to the human body  
+Introduce the parts that will be used today to build the robot (items in the bag, Arduino board/controller, battery,   servo motor)
+Demonstrate and explain the movement of a servo motor. Ask the students: What are the possible functions of a servo   motor? Of what is the servo motor capable?  
+Demonstrate the Arduino board and explain the code that has been written/programmed to direct the movement   
+Rules of the challenge:
+There is only one Arduino board, one plastic cup, and one ruler for every 3-4 groups to test their robot’s functionality  
+Each group has different additional materials in their supply bag  
+Items can be shared amongst groups  
+Go over norms for collaboration  
+Separate students into multiple groups of 3-4 students and provide each group with a bag  
+Give 5 minutes for groups to look over their materials and create individual designs  
+Give students 20 minutes to work within their groups to design and create a robot  
+Gather all robots at a common place to showcase each group’s completed robot  
+Closing circle/debrief - Discuss the EQ of the day.  
 
 ___
 
@@ -322,25 +327,6 @@ Difficulty visualizing the possible axes of a 3-D object
 Students play with a physical geometric solid - rotating and translating the objects on an axis in varying degrees and talking about how the perception of the object changes  
 Set the norm for frustration tolerance
 
-## Lesson Plans:
-Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
-Welcome students to the community building environment (ie. students sitting in a circle)  
-Describe the goal of today: using C.A.D. to design the front plate of the robot  
-Review the four parts of a robot and how it relates to the human body  
-Anticipatory set (10 minutes): hand everyone a block or geometric shape and teach the vocabulary words: axis, rotate, translate, zoom   
-Students hold the shape in their hands with the top and bottom faces of the object between the thumb and index finger to create the axis  
-Students rotate the object on the axis by 90, 180, 270 degrees  
-Students change the perspective by rotating the hand that is holding the object (looking at the object from the top or bottom of the axis)  
-Physically bring the object closer to farther away from the face to imitate zooming in and out on the screen  
-Quick 2-minute discussion of how the perspective changes and checking for understanding  
-Ask students to go to the website: www.onshape.com and follow instructions on the student worksheet  
-Post the username and password to the class onshape.com account  
-Show the students how to Right Click (R-Click) on the devices that they will use  
-If you would like the students to name their public copies of the template with something other than "BARNABAS-BOT 2.2 [First and Last Name]," let them know your   preferred naming convention before/when they get to Step 4 on the worksheet.  
-Give students 35 minutes to work following the instructions on the worksheet  
-Remind students to save their file and reconvene. If they are not finished, they have the entire next lesson to complete the task.  
-Closing circle/debrief - Discuss the EQ of the day.  
-
 ## Monitor: Check for Understanding/Formative Assessment
 Left- and right-clicking  
 Rotating and inserting the additional parts to the body  
@@ -362,6 +348,27 @@ Every student’s robot should be personalized after the 4th lesson
 - *NOTE*: teacher must create an onshape.com account ahead of time for the entire class to use.  All students will need access to the password.
 - Computer mouse for each device (ideal, but optional)
 - Whiteboard or poster (for posting the class onshape.com username and password)
+
+___
+
+## Lesson Plans:
+Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
+Welcome students to the community building environment (ie. students sitting in a circle)  
+Describe the goal of today: using C.A.D. to design the front plate of the robot  
+Review the four parts of a robot and how it relates to the human body  
+Anticipatory set (10 minutes): hand everyone a block or geometric shape and teach the vocabulary words: axis, rotate, translate, zoom   
+Students hold the shape in their hands with the top and bottom faces of the object between the thumb and index finger to create the axis  
+Students rotate the object on the axis by 90, 180, 270 degrees  
+Students change the perspective by rotating the hand that is holding the object (looking at the object from the top or bottom of the axis)  
+Physically bring the object closer to farther away from the face to imitate zooming in and out on the screen  
+Quick 2-minute discussion of how the perspective changes and checking for understanding  
+Ask students to go to the website: www.onshape.com and follow instructions on the student worksheet  
+Post the username and password to the class onshape.com account  
+Show the students how to Right Click (R-Click) on the devices that they will use  
+If you would like the students to name their public copies of the template with something other than "BARNABAS-BOT 2.2 [First and Last Name]," let them know your   preferred naming convention before/when they get to Step 4 on the worksheet.  
+Give students 35 minutes to work following the instructions on the worksheet  
+Remind students to save their file and reconvene. If they are not finished, they have the entire next lesson to complete the task.  
+Closing circle/debrief - Discuss the EQ of the day.  
 
 ___
 
@@ -532,21 +539,6 @@ There shouldn’t be any barriers in this lesson
 ## Anticipatory Set:
 Hand students a few 3-D printed objects, if you have them. What do they notice about the objects? What process do they think is needed to print the objects? 
 
-## Lesson Plans:
-Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
-Welcome students to the community building environment (ie. students sitting in a circle)  
-Describe the goal of today: learn the parts and properties of a 3-D printer  
-Hand students several pieces of 3-D printed items. Let them observe and pass it around. Have a 5-minute discussion: What do they notice? What questions do they have about 3-D printed objects?  
-Present the 3-D printer to the students (or watch the video) and talk about the function of each part  
-Draw a simplified version of a 3-D printer (traceable, if necessary) while making references to the previous part on the actual machine. Let students follow along with their own drawing  
-Discuss the questions in Step 2 on the worksheet  
-If a 3-D printer is present, demonstrate printing and answer questions in Step 3. If 3-D printer is not available, watch a simulation video on 3-D printing (3-D Printing in Action - https://youtu.be/Gwro2HzxMgw)  
-Reference back to the robot design they had created during session 3 and 4. Is there a better understanding of all the different functions they used in C.A.D.? Why is that important?   
-Answer Step 4 question: Why do we design?  
-Personalize the robot through answering questions in Step 5  
-Closing circle/debrief - Discuss the EQ of the day.  
-Make sure to collect each student’s last page with their robot color and design so that it can be used for lesson 6.  
-
 ## Monitor: Check for Understanding/Formative Assessment
 Ability to name the parts of a 3-D printer  
 Understanding the importance of designing a product before it is printed?  
@@ -565,6 +557,23 @@ Drawing of robot with color schemes to be used for painting in the next session
 - Portable 3-D printer
 - If a 3-D printer is not available for students to see, opt for the video
 - Document camera
+
+___
+
+## Lesson Plans:
+Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
+Welcome students to the community building environment (ie. students sitting in a circle)  
+Describe the goal of today: learn the parts and properties of a 3-D printer  
+Hand students several pieces of 3-D printed items. Let them observe and pass it around. Have a 5-minute discussion: What do they notice? What questions do they have about 3-D printed objects?  
+Present the 3-D printer to the students (or watch the video) and talk about the function of each part  
+Draw a simplified version of a 3-D printer (traceable, if necessary) while making references to the previous part on the actual machine. Let students follow along with their own drawing  
+Discuss the questions in Step 2 on the worksheet  
+If a 3-D printer is present, demonstrate printing and answer questions in Step 3. If 3-D printer is not available, watch a simulation video on 3-D printing (3-D Printing in Action - https://youtu.be/Gwro2HzxMgw)  
+Reference back to the robot design they had created during session 3 and 4. Is there a better understanding of all the different functions they used in C.A.D.? Why is that important?   
+Answer Step 4 question: Why do we design?  
+Personalize the robot through answering questions in Step 5  
+Closing circle/debrief - Discuss the EQ of the day.  
+Make sure to collect each student’s last page with their robot color and design so that it can be used for lesson 6.  
 
 ___
 
@@ -633,15 +642,6 @@ Students who change their minds
 ## Anticipatory Set:
 Norms for painting, rules for scissors, sharing materials, following a design or changing designs as necessary
 
-## Lesson Plans:
-Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
-Welcome students to the community building environment (ie. students sitting in a circle)  
-Describe the goal of today: painting the robot following their design  
-Review rules in the art space  
-Let students paint and decorate their robots  
-Clean up materials  
-Closing circle/debrief - Discuss the EQ of the day.  
-
 ## Monitor: Check for Understanding/Formative Assessment
 Make sure students are following their designs and the rules for art space  
 For students making changes from their designs, ask for justification  
@@ -664,6 +664,17 @@ All parts are painted and decorated
 - Glue
 - Permanent markers, if paint not avail.
 - Newspaper or scratch paper to protect work surfaces
+
+___
+
+## Lesson Plans:
+Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
+Welcome students to the community building environment (ie. students sitting in a circle)  
+Describe the goal of today: painting the robot following their design  
+Review rules in the art space  
+Let students paint and decorate their robots  
+Clean up materials  
+Closing circle/debrief - Discuss the EQ of the day.  
 
 ___
 
@@ -723,21 +734,6 @@ Fine motor skills
 What do we know about electricity?  
 How are electrical devices powered?  
 
-## Lesson Plans:
-Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
-Welcome students to the community building environment (ie. students sitting in a circle)  
-Describe the goal of today: construct a closed-circuit  
-Review the four parts of a robot and how it relates to the human body  
-Discuss the "heart" of the robot and how electrical engineering is the branch we will be studying for the next two sessions  
-Introduce the parts that will be used today to build the circuit (AA battery, battery holder, LED, resistor, wire)  
-Draw the schematic on the board in Step 4 for all the students to see and explain the various parts  
-Let students work in groups of 2 or 3 to build a circuit  
-Remind students to pay attention to positive and negative sides  
-For the students who followed directions, did it work? What’s going on? Explain that LEDs need 3 volts (3V) to turn on  
-Draw the new schematic with two AA batteries  
-Prompt groups that understand the concept to work on the bonus challenges  
-Closing circle/debrief - Discuss the EQ of the day.  
-
 ## Monitor: Check for Understanding/Formative Assessment
 Positive and negative sides of batteries and wires  
 Make sure that all parts are connected  
@@ -756,6 +752,23 @@ A completed circuit with a lighted LED
 ## Materials:
 - Barnabas Lesson 7 worksheet
 - Barnabas Kit
+
+___
+
+## Lesson Plans:
+Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
+Welcome students to the community building environment (ie. students sitting in a circle)  
+Describe the goal of today: construct a closed-circuit  
+Review the four parts of a robot and how it relates to the human body  
+Discuss the "heart" of the robot and how electrical engineering is the branch we will be studying for the next two sessions  
+Introduce the parts that will be used today to build the circuit (AA battery, battery holder, LED, resistor, wire)  
+Draw the schematic on the board in Step 4 for all the students to see and explain the various parts  
+Let students work in groups of 2 or 3 to build a circuit  
+Remind students to pay attention to positive and negative sides  
+For the students who followed directions, did it work? What’s going on? Explain that LEDs need 3 volts (3V) to turn on  
+Draw the new schematic with two AA batteries  
+Prompt groups that understand the concept to work on the bonus challenges  
+Closing circle/debrief - Discuss the EQ of the day.  
 
 ___
 
@@ -867,23 +880,6 @@ Understanding circuitry - making sure that positive and negative sides are ident
 ## Anticipatory Set:
 Demonstrate a completed breadboard circuit without going over all the steps 
 
-## Lesson Plans:
-Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
-Welcome students to the community building environment (ie. students sitting in a circle)  
-Describe the goal of today: Using the concept of circuitry from last session, we will use a breadboard to light up the LED  
-Review circuits, positive and negative sides, having enough power  
-
-## Anticipatory set:
-Demonstrate the breadboard with a lighted LED  
-Introduce the materials that will be used today, focusing on the breadboard.  
-Explain the organization of the breadboard and their specific placement  
-Ask students to go to their seats and distribute Lesson 8’s worksheet and breadboard for students. Complete Step 1 together.  
-Trial and error: Let students try breadboarding following the schematic to complete their circuit with the LED and wires  
-Let students discuss what they did, if it worked and what will need to be changed if it didn’t. Groups can help each other  
-Increase the voltage and discuss what happens to the LED  
-Take apart all materials and put them away correctly  
-Closing circle/debrief - Discuss the EQ of the day.  Discuss the value of designing circuitry with a breadboard (ex. Because breadboards do not require soldering, they may be reused to prototype various electric products with diverse functions. What is the value in this for a engineering?).  
-
 ## Reteaching Ideas: (for students who didn’t understand the first time)
 Review the breadboard concept of how it is organized wires on a grid and each row is connected together  
 Model the first connection of putting in the wires in the individual hole and provide the name of the hole (ie. A3).  
@@ -902,6 +898,26 @@ The breadboard circuit is complete with a LED that is able to light up
 - AA battery holder
 - LED lights (1 per student or group
 - Resistors
+
+___
+
+## Lesson Plans:
+### Part 1
+Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
+Welcome students to the community building environment (ie. students sitting in a circle)  
+Describe the goal of today: Using the concept of circuitry from last session, we will use a breadboard to light up the LED  
+Review circuits, positive and negative sides, having enough power  
+
+### Part 2
+Demonstrate the breadboard with a lighted LED  
+Introduce the materials that will be used today, focusing on the breadboard.  
+Explain the organization of the breadboard and their specific placement  
+Ask students to go to their seats and distribute Lesson 8’s worksheet and breadboard for students. Complete Step 1 together.  
+Trial and error: Let students try breadboarding following the schematic to complete their circuit with the LED and wires  
+Let students discuss what they did, if it worked and what will need to be changed if it didn’t. Groups can help each other  
+Increase the voltage and discuss what happens to the LED  
+Take apart all materials and put them away correctly  
+Closing circle/debrief - Discuss the EQ of the day.  Discuss the value of designing circuitry with a breadboard (ex. Because breadboards do not require soldering, they may be reused to prototype various electric products with diverse functions. What is the value in this for a engineering?).  
 
 ___
 
@@ -1002,20 +1018,6 @@ Ability to break down actions
 ## Anticipatory Set:
 Understanding coding activity - students giving explicit 1-step instructions to accomplish a task  
 
-## Lesson Plans:
-Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
-Welcome students to the community building environment (ie. students sitting in a circle)  
-Describe the goal of today: build a circuit with an LED and code a program to make flash  
-
-## Anticipatory set:
-Understanding coding: Ask students to draw a circle in the air with their arm 3x in their spot. Ask them to describe the steps used to draw their circle with their arm. Teacher demonstrates following the students’ directions to complete the action. (Lift arm - which direction?, rotate - which degree?, how many times? How fast, etc.) Every action needs to be explicit. Let students know that computers like simple directions and it does exactly what it is told.  
-Explain to students that they will continue to build a circuit with the arduino board like last session. This time, however, it will be powered by the computer using a USB instead of being powered by batteries.  
-After the breadboard has been wired correctly, students shift to the computer to plug in their arduino boards, following the directions on the worksheet.  
-Introduce ArduBlock and let students write their first program following the worksheet.  
-When they are able to light the LED, complete the blinking challenges.  
-Deconstruct everything and clean up the area.  
-Closing circle/debrief - Discuss the EQ of the day.  
-
 ## Monitor: Check for Understanding/Formative Assessment
 
 ## Reteaching Ideas: (for students who didn’t understand the first time)
@@ -1038,6 +1040,22 @@ Blinking LED connected to the breadboard
 - Jumper wires
 - LED
 - USB cable
+
+___
+
+## Lesson Plans:
+Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
+Welcome students to the community building environment (ie. students sitting in a circle)  
+Describe the goal of today: build a circuit with an LED and code a program to make flash  
+
+## Anticipatory set:
+Understanding coding: Ask students to draw a circle in the air with their arm 3x in their spot. Ask them to describe the steps used to draw their circle with their arm. Teacher demonstrates following the students’ directions to complete the action. (Lift arm - which direction?, rotate - which degree?, how many times? How fast, etc.) Every action needs to be explicit. Let students know that computers like simple directions and it does exactly what it is told.  
+Explain to students that they will continue to build a circuit with the arduino board like last session. This time, however, it will be powered by the computer using a USB instead of being powered by batteries.  
+After the breadboard has been wired correctly, students shift to the computer to plug in their arduino boards, following the directions on the worksheet.  
+Introduce ArduBlock and let students write their first program following the worksheet.  
+When they are able to light the LED, complete the blinking challenges.  
+Deconstruct everything and clean up the area.  
+Closing circle/debrief - Discuss the EQ of the day.  
 
 ___
 
@@ -1145,19 +1163,6 @@ Correct breadboard set up to power LED
 ## Anticipatory Set:
 Demonstrate a simple pre-coded flashing LED with a Morse Code message (ie. Go go go!) and ask students to decode it using the Morse Code decoder  
 
-## Lesson Plans:
-Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
-Welcome students to the community building environment (ie. students sitting in a circle)  
-Describe the goal of today: create a mystery message using Morse Code  
-
-## Anticipatory set:
-Show students the blinking lights and let them know that it has a hidden message. Take a look at the Morse Code decoder and decode the message together.  
-Give students 2 minutes to think of a message they would like to send and to whom they would send it.  
-Let students set up their breadboard, arduino board, and computer, and start coding their secret message.  
-When they have completed a message, they can share with a partner who has finished, to try to decode each other’s messages.  
-15 minutes before the end of the session, have students upload their work to the arduino, and take apart everything. 
-Closing circle/debrief - Discuss the EQ of the day.  
-
 ## Monitor: Check for Understanding/Formative Assessment
 Is the breadboard correct to light up LED  
 Student following 100ms, 300ms, 1000ms in their coding?  
@@ -1174,6 +1179,21 @@ Student has a completed, decodable message.
 ## Materials:
 - Barnabas Lesson 10 worksheet
 - Same setup as Lesson 9
+
+___
+
+## Lesson Plans:
+Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
+Welcome students to the community building environment (ie. students sitting in a circle)  
+Describe the goal of today: create a mystery message using Morse Code  
+
+## Anticipatory set:
+Show students the blinking lights and let them know that it has a hidden message. Take a look at the Morse Code decoder and decode the message together.  
+Give students 2 minutes to think of a message they would like to send and to whom they would send it.  
+Let students set up their breadboard, arduino board, and computer, and start coding their secret message.  
+When they have completed a message, they can share with a partner who has finished, to try to decode each other’s messages.  
+15 minutes before the end of the session, have students upload their work to the arduino, and take apart everything. 
+Closing circle/debrief - Discuss the EQ of the day.  
 
 ___
 
@@ -1229,16 +1249,6 @@ Fine motor skills and patience
 ## Anticipatory Set:
 N/A
 
-## Lesson Plans:
-Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
-Welcome students to the community building environment (ie. students sitting in a circle).  
-Describe the goal of today: building our personal robots. Remind students that some of the parts are small and tricky. It will take a lot of perseverance  
-Distribute students’ painted parts and make sure the have their servo motors and all necessary materials to build the robot.  
-Show directions: http://tinyurl.com/hvn4ztp  
-Encourage students to help each other put together their robots.  
-Gather all robots at a common place to showcase each completed robot.  
-Closing circle/debrief  
-
 ## Monitor: Check for Understanding/Formative Assessment
 Make sure students have all necessary parts  
 
@@ -1258,6 +1268,18 @@ Completed robot with head and arms connected to servo motors
 - Mini screw drivers
 - LOOK AT MATERIALS!
 - NOTE: No student worksheet is necessary for this lesson.
+
+___
+
+## Lesson Plans:
+Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
+Welcome students to the community building environment (ie. students sitting in a circle).  
+Describe the goal of today: building our personal robots. Remind students that some of the parts are small and tricky. It will take a lot of perseverance  
+Distribute students’ painted parts and make sure the have their servo motors and all necessary materials to build the robot.  
+Show directions: http://tinyurl.com/hvn4ztp  
+Encourage students to help each other put together their robots.  
+Gather all robots at a common place to showcase each completed robot.  
+Closing circle/debrief  
 
 ___
 
@@ -1302,19 +1324,6 @@ Students who have a hard time with rhythm
 ## Anticipatory Set:
 Hearing or singing the songs to be used in this lesson: Hot Cross Buns, Twinkle Twinkle Little Star, and Happy Birthday (in case students don’t know them)  
 
-## Lesson Plans:
-Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
-Welcome students to the community building environment (ie. students sitting in a circle)  
-Describe the goal of today: Using the various buzzer frequencies to create music  
-Look at the schematic to place the buzzer on the breadboard and connect it to the arduino board.  
-Review coding skills from last lesson, this time using Tone and Delay. Demonstrate how to change the tone.  
-Go over Practice 1-5, making sure that every student knows how to play and pause the buzzer.  
-Let students independently complete the challenges, encouraging them to complete the last challenge of creating their own song. They can look up the notes for their song of choice on the Internet. Creating the song will accomplish DOK 4 in this lesson.   
-Students do not have to complete all 3 songs - they can complete only one before moving on to creating their own song. They only need the concept.   
-15 minutes before the end of the session, let every student play the song (or part of the song) they have coded. Make sure students save their work.  
-Clean up and break down everything.  
-Closing circle/debrief - Discuss the EQ of the day.  
-
 ## Monitor: Check for Understanding/Formative Assessment
 
 ## Reteaching Ideas: (for students who didn’t understand the first time)
@@ -1329,6 +1338,21 @@ The buzzer plays a song that the student has created
 ## Materials:
 - Barnabas Lesson 12 worksheet
 - Materials used for setup in Lesson 10
+
+___
+
+## Lesson Plans:
+Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
+Welcome students to the community building environment (ie. students sitting in a circle)  
+Describe the goal of today: Using the various buzzer frequencies to create music  
+Look at the schematic to place the buzzer on the breadboard and connect it to the arduino board.  
+Review coding skills from last lesson, this time using Tone and Delay. Demonstrate how to change the tone.  
+Go over Practice 1-5, making sure that every student knows how to play and pause the buzzer.  
+Let students independently complete the challenges, encouraging them to complete the last challenge of creating their own song. They can look up the notes for their song of choice on the Internet. Creating the song will accomplish DOK 4 in this lesson.   
+Students do not have to complete all 3 songs - they can complete only one before moving on to creating their own song. They only need the concept.   
+15 minutes before the end of the session, let every student play the song (or part of the song) they have coded. Make sure students save their work.  
+Clean up and break down everything.  
+Closing circle/debrief - Discuss the EQ of the day.  
 
 ___
 
@@ -1424,18 +1448,6 @@ Understanding angles (0°-180°)
 ## Anticipatory Set:
 N/A
 
-## Lesson Plans:
-Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
-Welcome students to the community building environment (ie. students sitting in a circle)  
-Describe the goal of today: Move the robot’s arms and head using the servo motors  
-Breadboard the servo motors so that they are connected to the arduino board, be careful to note which wires are connected to the pins for the left arm, right arm, and head.  
-Remind students that servo motors have a motion limit of 0°-180°. It is helpful to show them the movement with their arms or with their heads (turn head from left to right, mentioning that the center would be 90°)  
-Go over Practice 1 and 2 together, then see if students can independently complete Practice 3-5.  
-Move on to Challenges 1 and 2. Let students know that ultimately, they will combine all of the coding skills (servo motor, LED, and buzzer) to make their robot function.  
-15 minutes before the end of the session, let students show the movement of their robots that they have coded.   
-Clean up work space  
-Closing circle/debrief - Discuss the EQ of the day.  
-
 ## Monitor: Check for Understanding/Formative Assessment
 Make sure that the pins for head and arms are correct and the breadboard is completed correctly.  
 
@@ -1451,6 +1463,20 @@ Robot with head and arms movement with possible inclusion of music and blinking 
 ## Materials:
 - Barnabas Lesson 12 worksheet
 - Materials in the Barnabas kit
+
+___
+
+## Lesson Plans:
+Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
+Welcome students to the community building environment (ie. students sitting in a circle)  
+Describe the goal of today: Move the robot’s arms and head using the servo motors  
+Breadboard the servo motors so that they are connected to the arduino board, be careful to note which wires are connected to the pins for the left arm, right arm, and head.  
+Remind students that servo motors have a motion limit of 0°-180°. It is helpful to show them the movement with their arms or with their heads (turn head from left to right, mentioning that the center would be 90°)  
+Go over Practice 1 and 2 together, then see if students can independently complete Practice 3-5.  
+Move on to Challenges 1 and 2. Let students know that ultimately, they will combine all of the coding skills (servo motor, LED, and buzzer) to make their robot function.  
+15 minutes before the end of the session, let students show the movement of their robots that they have coded.   
+Clean up work space  
+Closing circle/debrief - Discuss the EQ of the day.  
 
 ___
 
@@ -1534,6 +1560,19 @@ Making your robot light up, sing and dance: https://youtu.be/HYT9UPo5FmE
 
 ## Anticipatory Set:
 
+## Monitor: Check for Understanding/Formative Assessment
+
+## Reteaching Ideas: (for students who didn’t understand the first time)
+
+## Independent Practice
+
+## Final Assessment, project or product
+
+## Materials:
+- Barnabas Lesson 13 worksheet
+
+___
+
 ## Lesson Plans:
 Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
 Welcome students to the community building environment (ie. students sitting in a circle)  
@@ -1552,17 +1591,6 @@ Give 5 minutes for each group to look over their materials and create individual
 Give students 20 minutes to work within their groups to design and create a robot  
 Gather all robots at a common place to showcase each group’s completed robot  
 Closing circle/debrief - Discuss the EQ of the day.  
-
-## Monitor: Check for Understanding/Formative Assessment
-
-## Reteaching Ideas: (for students who didn’t understand the first time)
-
-## Independent Practice
-
-## Final Assessment, project or product
-
-## Materials:
-- Barnabas Lesson 13 worksheet
 
 ___
 
