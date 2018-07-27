@@ -35,13 +35,6 @@ Lack of exposure to robots and their properties (e.g.  They are machines; they t
 Student definitions or examples of encouragement and community  
 Student understanding of functions of the human body parts:  body, brain, heart, and soul
 
-## Reteaching Ideas: (for students who didn’t understand the first time)
-Show Free BrainPop video about Robots: https://www.brainpop.com/technology/computerscience/robots/  (Video available in Spanish and French only with paid language-specific BrainPop log-in)  
-Show examples of robots  
-- "Big Hero 6" when Baymax became evil: https://goo.gl/UX3XEs
-- In "Toy Story" when Buzz Lightyear was set to Spanish mode: https://youtu.be/iG9VLxlccx4
-- "The Last Bastion" by Blizzard Entertainment about a robot that was coded for evil   but turns good: https://goo.gl/jsvCV6 
-
 ## Independent Practice
 Student drawing of robots and label the 4 parts
 
@@ -138,6 +131,15 @@ The four basic parts of a robot represent the four branches of engineering.  Dra
 
 ___
 
+## Supporting Materials
+Show Free BrainPop video about Robots: https://www.brainpop.com/technology/computerscience/robots/  (Video available in Spanish and French only with paid language-specific BrainPop log-in)  
+Show examples of robots  
+- "Big Hero 6" when Baymax became evil: https://goo.gl/UX3XEs
+- In "Toy Story" when Buzz Lightyear was set to Spanish mode: https://youtu.be/iG9VLxlccx4
+- "The Last Bastion" by Blizzard Entertainment about a robot that was coded for evil   but turns good: https://goo.gl/jsvCV6 
+
+___
+
 # Day 2 of 16 - Building our First Robot
 > Suggested Time: 60-75 minutes
 
@@ -180,10 +182,6 @@ Lack of teamwork
 Students see the function of a servo motor (it moves 180 degrees). Ideally, projected under document camera.  
 Objective of the challenge: For ALL teams to knock the cup placed 8" away from the robot off the edge of the table  
 Setting of norms for collaboration within the team and with other teams  
-
-## Reteaching Ideas: (for students who didn’t understand the first time)
-Demonstrate the function of the servo motor with a popsicle stick attached to one end of the servo turnstile  
-Let students observe other groups  
 
 ## Independent Practice
 N/A
@@ -274,6 +272,14 @@ Test it out with the Arduino board
 🗨 or ✎: Did you work well as a team?  Why or why not?  
 🗨 or ✎: Did you work well with other teams?  Why or why not?  
 
+___
+
+## Supporting Materials
+Demonstrate the function of the servo motor with a popsicle stick attached to one end of the servo turnstile  
+Let students observe other groups  
+
+___
+
 # Day 3 of 16 - Building our Robot’s Body
 # Day 4 of 16 - Advanced C.A.D.
 > Suggested Time: 60-75 minutes 
@@ -322,9 +328,6 @@ Difficulty visualizing the possible axes of a 3-D object
 ## Anticipatory Set:
 Students play with a physical geometric solid - rotating and translating the objects on an axis in varying degrees and talking about how the perception of the object changes  
 Set the norm for frustration tolerance
-
-## Reteaching Ideas: (for students who didn’t understand the first time)
-Show students simulation of cube rotating on its axis: https://www.youtube.com/watch?v=gBg4-lJ19Gg 
 
 ## Independent Practice
 Students work on their individual files to put the robot together and to design the front plate
@@ -494,6 +497,11 @@ Double click on the text boxes to edit the text. Write your name as well as your
 
 ___
 
+## Supporting Materials
+Show students simulation of cube rotating on its axis: https://www.youtube.com/watch?v=gBg4-lJ19Gg 
+
+___
+
 # Day 5 of 16 - 3-D Printing and Design
 > Suggested Time: 60-75 minutes
 
@@ -532,9 +540,6 @@ There shouldn’t be any barriers in this lesson
 
 ## Anticipatory Set:
 Hand students a few 3-D printed objects, if you have them. What do they notice about the objects? What process do they think is needed to print the objects? 
-
-## Reteaching Ideas: (for students who didn’t understand the first time)
-Re-watch the video(s), see/touch a 3-D printer
 
 ## Independent Practice
 Answering questions in Steps 3, 4, and 5
@@ -605,6 +610,11 @@ Name: _______________________________________________________________________
 
 ___
 
+## Supporting Materials
+Re-watch the video(s), see/touch a 3-D printer
+
+___
+
 # Day 6 of 16 - Time to Paint!
 > Suggested Time: 60-75 minutes
 
@@ -633,9 +643,6 @@ Students who change their minds
 
 ## Anticipatory Set:
 Norms for painting, rules for scissors, sharing materials, following a design or changing designs as necessary
-
-## Reteaching Ideas: (for students who didn’t understand the first time)
-N/A
 
 ## Independent Practice
 Students painting and carrying out their designs
@@ -670,6 +677,11 @@ ___
 
 # SESSION 6 – TIME TO PAINT!
 > OVERVIEW: Today, we will paint our robots.  We typically use acrylic paint.  Make sure that you follow your teacher’s instructions on how to paint.  Have fun!
+
+___
+
+## Supporting Materials
+N/A
 
 ___
 
@@ -723,11 +735,6 @@ Fine motor skills
 ## Anticipatory Set:
 What do we know about electricity?  
 How are electrical devices powered?  
-
-## Reteaching Ideas: (for students who didn’t understand the first time)
-BrainPop video on "Electric Circuits": https://www.brainpop.com/technology/energytechnology/electriccircuits/  
-Energy & Environmental News video on the origin of electricity "Energy 101: Electricity Generation": https://www.youtube.com/watch?v=20Vb6hlLQSg  
-Flexiguru video on "Closed & Open Circuit": https://www.youtube.com/watch?v=D4iYlgCEFhw  
 
 ## Independent Practice
 Creating a circuit in groups of 2-3 students and drawing the schematic  
@@ -817,6 +824,13 @@ Make a circuit that turns on three or more lights at the same time!
 
 ___
 
+## Supporting Materials
+BrainPop video on "Electric Circuits": https://www.brainpop.com/technology/energytechnology/electriccircuits/  
+Energy & Environmental News video on the origin of electricity "Energy 101: Electricity Generation": https://www.youtube.com/watch?v=20Vb6hlLQSg  
+Flexiguru video on "Closed & Open Circuit": https://www.youtube.com/watch?v=D4iYlgCEFhw  
+
+___
+
 # Day 8 of 16 - Introduction to Breadboards
 > Suggested Time:  60-75 minutes
 
@@ -867,10 +881,6 @@ Understanding circuitry - making sure that positive and negative sides are ident
 
 ## Anticipatory Set:
 Demonstrate a completed breadboard circuit without going over all the steps 
-
-## Reteaching Ideas: (for students who didn’t understand the first time)
-Review the breadboard concept of how it is organized wires on a grid and each row is connected together  
-Model the first connection of putting in the wires in the individual hole and provide the name of the hole (ie. A3).  
 
 ## Independent Practice
 Students breadboarding following the schematic
@@ -965,6 +975,12 @@ If the voltage is 5V, what is the current when you use the 470 Ohm resistor?
 
 ___
 
+## Supporting Materials
+Review the breadboard concept of how it is organized wires on a grid and each row is connected together  
+Model the first connection of putting in the wires in the individual hole and provide the name of the hole (ie. A3).  
+
+___
+
 # Day 9 of 16 - The Blinking Light Challenge
 > Suggested Time:  60-75 minutes
 
@@ -1005,9 +1021,6 @@ Ability to break down actions
 
 ## Anticipatory Set:
 Understanding coding activity - students giving explicit 1-step instructions to accomplish a task  
-
-## Reteaching Ideas: (for students who didn’t understand the first time)
-Coding: Complete actions one step at a time: IE picking up a crayon with right hand - open right hand, bring hand toward crayon, touch crayon, close hand  
 
 ## Independent Practice
 Student create the circuit and write a program to turn on and off the LED  
@@ -1114,6 +1127,11 @@ CHALLENGE 6: Create your own light patterns and challenge your classmates to pro
 
 ___
 
+## Supporting Materials
+Coding: Complete actions one step at a time: IE picking up a crayon with right hand - open right hand, bring hand toward crayon, touch crayon, close hand  
+
+___
+
 # Day 10 of 16 - Blinking in Code
 > Suggested Time:  60-75 minutes
 
@@ -1148,9 +1166,6 @@ Correct breadboard set up to power LED
 
 ## Anticipatory Set:
 Demonstrate a simple pre-coded flashing LED with a Morse Code message (ie. Go go go!) and ask students to decode it using the Morse Code decoder  
-
-## Reteaching Ideas: (for students who didn’t understand the first time)
-Demonstrate turning the LED on and off using ArduBlock then ask student to manipulate the length of time the LED is on and off.  
 
 ## Independent Practice
 Student practicing different letters to code.  
@@ -1198,6 +1213,11 @@ You’ll need to following information to complete the challenge:
 
 ___
 
+## Supporting Materials
+Demonstrate turning the LED on and off using ArduBlock then ask student to manipulate the length of time the LED is on and off.  
+
+___
+
 # Day 11 of 16 - Assembling your Robot
 > Suggested Time:  60-75 minutes
 
@@ -1233,9 +1253,6 @@ Fine motor skills and patience
 ## Anticipatory Set:
 N/A
 
-## Reteaching Ideas: (for students who didn’t understand the first time)
-N/A  
-
 ## Independent Practice
 Putting the robot together  
 
@@ -1262,6 +1279,11 @@ Show directions: http://tinyurl.com/hvn4ztp
 Encourage students to help each other put together their robots.  
 Gather all robots at a common place to showcase each completed robot.  
 Closing circle/debrief  
+
+___
+
+## Supporting Materials
+N/A  
 
 ___
 
@@ -1305,9 +1327,6 @@ Students who have a hard time with rhythm
 
 ## Anticipatory Set:
 Hearing or singing the songs to be used in this lesson: Hot Cross Buns, Twinkle Twinkle Little Star, and Happy Birthday (in case students don’t know them)  
-
-## Reteaching Ideas: (for students who didn’t understand the first time)
-Go over the loop with the tone, pin#, and frequency, to make sure students are using the correct process.  
 
 ## Independent Practice
 Creating the songs Twinkle Twinkle Little Star, Happy Birthday, or Mary had a Little Lamb  
@@ -1395,6 +1414,11 @@ CHALLENGE #6: Write your own song!
 
 ___
 
+## Supporting Materials
+Go over the loop with the tone, pin#, and frequency, to make sure students are using the correct process.  
+
+___
+
 # Day 13 of 16 - Make Your Robot Wave!
 > Suggested Time:  60-75 minutes
 
@@ -1427,9 +1451,6 @@ Understanding angles (0°-180°)
 
 ## Anticipatory Set:
 N/A
-
-## Reteaching Ideas: (for students who didn’t understand the first time)
-Coding: For students who have a hard time making their robots move, look at their code and act it out. There is usually a missing pause or not moving the servo motor back to its original position.  
 
 ## Independent Practice
 Practice 3-5 and challenges 1-3  
@@ -1500,6 +1521,11 @@ CHALLENGE #3: Make your robot light up, play music, and move all at the same tim
 
 ___
 
+## Supporting Materials
+Coding: For students who have a hard time making their robots move, look at their code and act it out. There is usually a missing pause or not moving the servo motor back to its original position.  
+
+___
+
 # Day 14, 15, 16 of 16 - Building Your Final Circuit
 > Suggested Time:  60-75 minutes each
 
@@ -1537,8 +1563,6 @@ Making your robot light up, sing and dance: https://youtu.be/HYT9UPo5FmE
 ## Barriers to Learning: 
 
 ## Anticipatory Set:
-
-## Reteaching Ideas: (for students who didn’t understand the first time)
 
 ## Independent Practice
 
@@ -1592,6 +1616,10 @@ Tell us what you learned about yourself during this class.
 
 ### DEBRIEF 
 🗨 and ✎: What patterns did you find in today’s coding activities?  
+
+___
+
+## Supporting Materials
 
 ___
 
