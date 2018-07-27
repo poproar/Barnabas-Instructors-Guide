@@ -1,6 +1,8 @@
 # Day 1 of 16  Introduction to Robotics
 > Suggested Time: 60-75 minutes  
 
+## Lesson Overview 
+
 ## Disciplinary Core Ideas
 - ETS1.B:  Developing Possible Solutions:  Research on a problem should be carried out before beginning to design a solution.  (3-5-ETS1-2)
 
@@ -143,14 +145,16 @@ ___
 # Day 2 of 16 - Building our First Robot
 > Suggested Time: 60-75 minutes
 
-## Disciplinary Core Ideas 
+## Lesson Overview
+
+## Disciplinary Core Ideas
 - 3-5-ETS1-1. Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost.
 - ETS1.A: Defining and Delimiting Engineering Problems: Possible solutions to a problem are limited by available materials and resources (constraints). The success of a designed solution is determined by considering the desired features of a solution (criteria). Different proposals for solutions can be compared on the basis of how well each one meets the specified criteria for success or how well each takes the constraints into account. (3-5-ETS1-1)
 
 - 3-5-ETS1-3. Plan and carry out fair tests in which variables are controlled and failure points are considered to identify aspects of a model or prototype that can be improved.
 - ETS1.C: Optimizing the Design Solution: Different solutions need to be tested in order to determine which of them best solves the problem, given the criteria and the constraints. (3-5-ETS1-3)
 
-## Cross-Cutting Concepts: 
+### Cross-Cutting Concepts: 
 Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3-4)  
 
 ## Learning Target(s)
@@ -282,13 +286,17 @@ ___
 
 # Day 3 of 16 - Building our Robot’s Body
 # Day 4 of 16 - Advanced C.A.D.
-> Suggested Time: 60-75 minutes 
+> Suggested Time: 60-75 minutes  
 
-## Science and Engineering Practices:
+## Lesson Overview
+
+## Disciplinary Core Ideas
+
+### Science and Engineering Practices
 - Define a simple design problem that can be solved through the development of an object, tool, process, or system and includes several criteria for success and constraints on materials, time, or cost. (3-5-ETS1-1) 
 
-## Cross-Cutting Concepts:
-Connections to Engineering, Technology, and Applications of Science: Influence of Engineering, Technology, and Science on Society and the Natural World Engineers improve existing technologies or develop new ones. (4-PS3-4)
+### Cross-Cutting Concepts
+- Connections to Engineering, Technology, and Applications of Science: Influence of Engineering, Technology, and Science on Society and the Natural World Engineers improve existing technologies or develop new ones. (4-PS3-4)
 
 ## Learning Target
 We will learn to design our robot’s body using Computer-Aided Design (C.A.D.).
@@ -308,7 +316,7 @@ What challenges can Computer-Aided Design (C.A.D.) present for a beginning user?
 ## Additional Resources
 Direct link to "Barnabas-Bot 2.2" template in onshape.com: https://goo.gl/DlDJ53  
 
-### Tutorials:
+### Tutorials
 Designing your Barnabas-Bot: https://youtu.be/L7ud2i_yfRI
 Fixing your "B": https://youtu.be/aynBOY_6TBM
 
@@ -505,12 +513,16 @@ ___
 # Day 5 of 16 - 3-D Printing and Design
 > Suggested Time: 60-75 minutes
 
-## Science and Engineering Practices: 
-Constructing Explanations and Designing Solutions: Apply scientific ideas to solve design problems. (4-PS3-4)
+## Lesson Overview
 
-## Cross-Cutting Concepts: 
-Science is a Human Endeavor: People’s needs and wants change over time, as do their demands for new and improved technologies. (3-5-ETS1-1)  
-Science affects everyday life. (4-PS3-4)
+## Disciplinary Core Ideas
+
+### Science and Engineering Practices
+- Constructing Explanations and Designing Solutions: Apply scientific ideas to solve design problems. (4-PS3-4)
+
+### Cross-Cutting Concepts
+- Science is a Human Endeavor: People’s needs and wants change over time, as do their demands for new and improved technologies. (3-5-ETS1-1)  
+- Science affects everyday life. (4-PS3-4)
 
 ## Learning Target
 We will learn the parts and properties of a 3-D printer.
@@ -618,7 +630,9 @@ ___
 # Day 6 of 16 - Time to Paint!
 > Suggested Time: 60-75 minutes
 
-## Standards: N/A
+## Lesson Overview
+
+## Disciplinary Core Ideas
 
 ## Activity Goal:
 We will execute the design created last session
@@ -688,15 +702,17 @@ ___
 # Day 7 of 16 - Exploring the Robot’s Heart
 > Suggested Time: 60-75 minutes
 
-## Science and Engineering Practices:
-- Planning and Carrying Out Investigations: Make observations to produce data to serve as the basis for evidence for an explanation of a phenomenon or test a design solution. (4-PS3-2)  
-- Constructing Explanations and Designing Solutions: Apply scientific ideas to solve design problems. (4-PS3-4)
+## Lesson Overview
 
 ## Disciplinary Core Ideas
 - PS3.B: Conservation of Energy and Energy Transfer: Energy can also be transferred from place to place by electric currents, which can then be used locally to produce motion, sound, heat, or light. The currents may have been produced to begin with by transforming the energy of motion into electrical energy. (4-PS3-2),(4-PS3-4)
 
-## Cross-Cutting Concepts: 
-Energy and Matter: Energy can be transferred in various ways and between objects. (4-PS3-1),(4-PS3-2),(4-PS3-3),(4-PS3-4)
+### Science and Engineering Practices
+- Planning and Carrying Out Investigations: Make observations to produce data to serve as the basis for evidence for an explanation of a phenomenon or test a design solution. (4-PS3-2)  
+- Constructing Explanations and Designing Solutions: Apply scientific ideas to solve design problems. (4-PS3-4)
+
+### Cross-Cutting Concepts
+- Energy and Matter: Energy can be transferred in various ways and between objects. (4-PS3-1),(4-PS3-2),(4-PS3-3),(4-PS3-4)
 
 ## Learning Target(s)
 We will learn to build each an open and closed circuit.
@@ -834,16 +850,18 @@ ___
 # Day 8 of 16 - Introduction to Breadboards
 > Suggested Time:  60-75 minutes
 
-## Science and Engineering Practices:
-- Planning and Carrying Out Investigations: Make observations to produce data to serve as the basis for evidence for an explanation of a phenomenon or test a design solution. (4-PS3-2)
-- Constructing Explanations and Designing Solutions: Apply scientific ideas to solve design problems. (4-PS3-4)
+## Lesson Overview
 
 ## Disciplinary Core Ideas
 - PS3.B: Conservation of Energy and Energy Transfer: Energy can also be transferred from place to place by electric currents, which can then be used locally to produce motion, sound, heat, or light. The currents may have been produced to begin with by transforming the energy of motion into electrical energy. (4-PS3-2),(4-PS3-4)
 
-## Cross-Cutting Concepts: 
-Energy and Matter: Energy can be transferred in various ways and between objects. (4-PS3-1),(4-PS3-2),(4-PS3-3),(4-PS3-4)
-Science is a Human Endeavor: Science affects everyday life. (4-PS3-4)
+### Science and Engineering Practices
+- Planning and Carrying Out Investigations: Make observations to produce data to serve as the basis for evidence for an explanation of a phenomenon or test a design solution. (4-PS3-2)
+- Constructing Explanations and Designing Solutions: Apply scientific ideas to solve design problems. (4-PS3-4)
+
+### Cross-Cutting Concepts
+- Energy and Matter: Energy can be transferred in various ways and between objects. (4-PS3-1),(4-PS3-2),(4-PS3-3),(4-PS3-4)
+- Science is a Human Endeavor: Science affects everyday life. (4-PS3-4)
 
 ## Learning Target
 We will apply the concept of circuits using breadboards.
@@ -984,12 +1002,14 @@ ___
 # Day 9 of 16 - The Blinking Light Challenge
 > Suggested Time:  60-75 minutes
 
+## Lesson Overview
+
 ## Disciplinary Core Ideas
 - ETS1.B: Developing Possible Solutions: Tests are often designed to identify failure points or difficulties, which suggest the elements of the design that need to be improved. (3-5-ETS1-3)
 - ETS1.C: Optimizing the Design Solution: Different solutions need to be tested in order to determine which of them best solves the problem, given the criteria and the constraints. (3-5-ETS1-3)
 
-## Cross-Cutting Concepts: 
-Energy and Matter: Energy can be transferred in various ways and between objects. (4-PS3-1),(4-PS3-2),(4-PS3-3),(4-PS3-4)
+### Cross-Cutting Concepts
+- Energy and Matter: Energy can be transferred in various ways and between objects. (4-PS3-1),(4-PS3-2),(4-PS3-3),(4-PS3-4)
 
 ## Learning Target
 We will create a light circuit and write a program with our computer so it turns on and off automatically.
@@ -1135,13 +1155,15 @@ ___
 # Day 10 of 16 - Blinking in Code
 > Suggested Time:  60-75 minutes
 
-## Science and Engineering Practices:
-Constructing Explanations and Designing Solutions: Generate and compare multiple solutions to a problem based on how well they meet the criteria and constraints of the design problem. (3-5-ETS1-2)
+## Lesson Overview
 
 ## Disciplinary Core Ideas
 - ETS1.B: Developing Possible Solutions: At whatever stage, communicating with peers about proposed solutions is an important part of the design process, and shared ideas can lead to improved designs. (3-5-ETS1-2)
 - Tests are often designed to identify failure points or difficulties, which suggest the elements of the design that need to be improved. (3-5-ETS1-3)
 - ETS1.C: Optimizing the Design Solution: Different solutions need to be tested in order to determine which of them best solves the problem, given the criteria and the constraints. (3-5-ETS1-3)
+
+### Science and Engineering Practices
+- Constructing Explanations and Designing Solutions: Generate and compare multiple solutions to a problem based on how well they meet the criteria and constraints of the design problem. (3-5-ETS1-2)
 
 ## Learning Target
 We will create and decode a message using Morse Code by using coding skills in ArduBlock.  
@@ -1221,12 +1243,14 @@ ___
 # Day 11 of 16 - Assembling your Robot
 > Suggested Time:  60-75 minutes
 
-## Disciplinary Core Ideas 
+## Lesson Overview
+
+## Disciplinary Core Ideas
 - ETS1.B: Developing Possible Solutions: Tests are often designed to identify failure points or difficulties, which suggest the elements of the design that need to be improved. (3-5-ETS1-3)
 - At whatever stage, communicating with peers about proposed solutions is an important part of the design process, and shared ideas can lead to improved designs. (3-5-ETS1-2)
 
-## Cross-Cutting Concepts:
-Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3-4)
+### Cross-Cutting Concepts
+- Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3-4)
 
 ## Learning Target
 We will be assembling the robot
@@ -1290,14 +1314,16 @@ ___
 # Day 12 of 16 - The Buzzer
 > Suggested Time:  60-75 minutes
 
-## Science and Engineering Practices:
-Planning and Carrying Out Investigations: Plan and conduct an investigation collaboratively to produce data to serve as the basis for evidence, using fair tests in which variables are controlled and the number of trials considered. (3-5-ETS1-3)
+## Lesson Overview
 
 ## Disciplinary Core Ideas 
 - ETS1.C: Optimizing the Design Solution: Different solutions need to be tested in order to determine which of them best solves the problem, given the criteria and the constraints. (3-5-ETS1-3)
 
-## Cross-Cutting Concepts:
-Science is a Human Endeavor: Science affects everyday life. (4-PS3-4)  
+### Science and Engineering Practices
+- Planning and Carrying Out Investigations: Plan and conduct an investigation collaboratively to produce data to serve as the basis for evidence, using fair tests in which variables are controlled and the number of trials considered. (3-5-ETS1-3)
+
+### Cross-Cutting Concepts
+- Science is a Human Endeavor: Science affects everyday life. (4-PS3-4)  
 
 ## Learning Target
 We will transfer our previous coding skills toward coding a buzzer to buzz at different frequencies to create music.  
@@ -1422,11 +1448,13 @@ ___
 # Day 13 of 16 - Make Your Robot Wave!
 > Suggested Time:  60-75 minutes
 
+## Lesson Overview
+
 ## Disciplinary Core Ideas 
 - ETS1.B: Developing Possible Solutions: Tests are often designed to identify failure points or difficulties, which suggest the elements of the design that need to be improved. (3-5-ETS1-3)  
 
-## Cross-Cutting Concepts:
-Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3-4)  
+### Cross-Cutting Concepts
+- Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3-4)  
 
 ## Learning Target
 We will use the servo motors to move the robot’s arms and turn its head.  
@@ -1529,10 +1557,7 @@ ___
 # Day 14, 15, 16 of 16 - Building Your Final Circuit
 > Suggested Time:  60-75 minutes each
 
-## Science and Engineering Practices:
-- Asking Questions and Defining Problems: Define a simple design problem that can be solved through the development of an object, tool, process, or system and includes several criteria for success and constraints on materials, time, or cost. (3-5-ETS1-1)
-- Planning and Carrying Out Investigations: Plan and conduct an investigation collaboratively to produce data to serve as the basis for evidence, using fair tests in which variables are controlled and the number of trials considered. (3-5-ETS1-3)
-- Constructing Explanations and Designing Solutions: Generate and compare multiple solutions to a problem based on how well they meet the criteria and constraints of the design problem. (3-5-ETS1-2)
+## Lesson Overview
 
 ## Disciplinary Core Ideas 
 - ETS1.A: Defining and Delimiting Engineering Problems: Possible solutions to a problem are limited by available materials and resources (constraints). The success of a designed solution is determined by considering the desired features of a solution (criteria). Different proposals for solutions can be compared on the basis of how well each one meets the specified criteria for success or how well each takes the constraints into account. (3-5-ETS1-1)
@@ -1540,8 +1565,13 @@ ___
 - Tests are often designed to identify failure points or difficulties, which suggest the elements of the design that need to be improved. (3-5-ETS1-3)
 - ETS1.C: Optimizing the Design Solution: Different solutions need to be tested in order to determine which of them best solves the problem, given the criteria and the constraints. (3-5-ETS1-3)
 
-## Cross-Cutting Concepts:
-Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3-4)  
+### Science and Engineering Practices
+- Asking Questions and Defining Problems: Define a simple design problem that can be solved through the development of an object, tool, process, or system and includes several criteria for success and constraints on materials, time, or cost. (3-5-ETS1-1)
+- Planning and Carrying Out Investigations: Plan and conduct an investigation collaboratively to produce data to serve as the basis for evidence, using fair tests in which variables are controlled and the number of trials considered. (3-5-ETS1-3)
+- Constructing Explanations and Designing Solutions: Generate and compare multiple solutions to a problem based on how well they meet the criteria and constraints of the design problem. (3-5-ETS1-2)
+
+### Cross-Cutting Concepts
+- Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3-4)  
 
 ## Learning Target
 We will put everything we have learned together  
