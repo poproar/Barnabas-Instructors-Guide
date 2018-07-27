@@ -35,10 +35,6 @@ Lack of exposure to robots and their properties (e.g.  They are machines; they t
 Student definitions or examples of encouragement and community  
 Student understanding of functions of the human body parts:  body, brain, heart, and soul
 
-## Monitor: Check for Understanding/Formative Assessment
-Students explain how/why robot and human parts are similar  
-Students provide examples of encouragement and community
-
 ## Reteaching Ideas: (for students who didn’t understand the first time)
 Show Free BrainPop video about Robots: https://www.brainpop.com/technology/computerscience/robots/  (Video available in Spanish and French only with paid language-specific BrainPop log-in)  
 Show examples of robots  
@@ -51,6 +47,8 @@ Student drawing of robots and label the 4 parts
 
 ## Final Assessment, project or product
 The labeled final drawing of the student’s favorite robot
+Students explain how/why robot and human parts are similar  
+Students provide examples of encouragement and community
 
 ## Materials:
 - Barnabas Lesson 1 worksheet
@@ -183,11 +181,6 @@ Students see the function of a servo motor (it moves 180 degrees). Ideally, proj
 Objective of the challenge: For ALL teams to knock the cup placed 8" away from the robot off the edge of the table  
 Setting of norms for collaboration within the team and with other teams  
 
-## Monitor: Check for Understanding/Formative Assessment
-Understanding 180 degrees of movement  
-Reading a ruler to 8" (not centimeters)  
-Students are not necessarily using all materials - they may share with other groups  
-
 ## Reteaching Ideas: (for students who didn’t understand the first time)
 Demonstrate the function of the servo motor with a popsicle stick attached to one end of the servo turnstile  
 Let students observe other groups  
@@ -197,6 +190,9 @@ N/A
 
 ## Final Assessment, project or product
 Ability of the robot to knock the plastic cup placed 8" away from the robot off the edge of the table  
+Understanding 180 degrees of movement  
+Reading a ruler to 8" (not centimeters)  
+Students are not necessarily using all materials - they may share with other groups  
 
 ## Materials:
 - Barnabas Lesson 2 worksheet
@@ -327,10 +323,6 @@ Difficulty visualizing the possible axes of a 3-D object
 Students play with a physical geometric solid - rotating and translating the objects on an axis in varying degrees and talking about how the perception of the object changes  
 Set the norm for frustration tolerance
 
-## Monitor: Check for Understanding/Formative Assessment
-Left- and right-clicking  
-Rotating and inserting the additional parts to the body  
-
 ## Reteaching Ideas: (for students who didn’t understand the first time)
 Show students simulation of cube rotating on its axis: https://www.youtube.com/watch?v=gBg4-lJ19Gg 
 
@@ -339,6 +331,8 @@ Students work on their individual files to put the robot together and to design 
 
 ## Final Assessment, project or product
 Every student’s robot should be personalized after the 4th lesson  
+Left- and right-clicking  
+Rotating and inserting the additional parts to the body  
 
 ## Materials:
 - Barnabas Lesson 3 & 4 worksheets
@@ -539,10 +533,6 @@ There shouldn’t be any barriers in this lesson
 ## Anticipatory Set:
 Hand students a few 3-D printed objects, if you have them. What do they notice about the objects? What process do they think is needed to print the objects? 
 
-## Monitor: Check for Understanding/Formative Assessment
-Ability to name the parts of a 3-D printer  
-Understanding the importance of designing a product before it is printed?  
-
 ## Reteaching Ideas: (for students who didn’t understand the first time)
 Re-watch the video(s), see/touch a 3-D printer
 
@@ -551,6 +541,8 @@ Answering questions in Steps 3, 4, and 5
 
 ## Final Assessment, project or product
 Drawing of robot with color schemes to be used for painting in the next session  
+Ability to name the parts of a 3-D printer  
+Understanding the importance of designing a product before it is printed?  
 
 ## Materials:
 - Barnabas Lesson 5 worksheet
@@ -642,10 +634,6 @@ Students who change their minds
 ## Anticipatory Set:
 Norms for painting, rules for scissors, sharing materials, following a design or changing designs as necessary
 
-## Monitor: Check for Understanding/Formative Assessment
-Make sure students are following their designs and the rules for art space  
-For students making changes from their designs, ask for justification  
-
 ## Reteaching Ideas: (for students who didn’t understand the first time)
 N/A
 
@@ -654,6 +642,8 @@ Students painting and carrying out their designs
 
 ## Final Assessment, project or product
 All parts are painted and decorated  
+Make sure students are following their designs and the rules for art space  
+For students making changes from their designs, ask for justification  
 
 ## Materials:
 - Barnabas Lesson 5 design worksheets
@@ -734,10 +724,6 @@ Fine motor skills
 What do we know about electricity?  
 How are electrical devices powered?  
 
-## Monitor: Check for Understanding/Formative Assessment
-Positive and negative sides of batteries and wires  
-Make sure that all parts are connected  
-
 ## Reteaching Ideas: (for students who didn’t understand the first time)
 BrainPop video on "Electric Circuits": https://www.brainpop.com/technology/energytechnology/electriccircuits/  
 Energy & Environmental News video on the origin of electricity "Energy 101: Electricity Generation": https://www.youtube.com/watch?v=20Vb6hlLQSg  
@@ -748,6 +734,8 @@ Creating a circuit in groups of 2-3 students and drawing the schematic
 
 ## Final Assessment, project or product
 A completed circuit with a lighted LED  
+Positive and negative sides of batteries and wires  
+Make sure that all parts are connected  
 
 ## Materials:
 - Barnabas Lesson 7 worksheet
@@ -1018,8 +1006,6 @@ Ability to break down actions
 ## Anticipatory Set:
 Understanding coding activity - students giving explicit 1-step instructions to accomplish a task  
 
-## Monitor: Check for Understanding/Formative Assessment
-
 ## Reteaching Ideas: (for students who didn’t understand the first time)
 Coding: Complete actions one step at a time: IE picking up a crayon with right hand - open right hand, bring hand toward crayon, touch crayon, close hand  
 
@@ -1163,10 +1149,6 @@ Correct breadboard set up to power LED
 ## Anticipatory Set:
 Demonstrate a simple pre-coded flashing LED with a Morse Code message (ie. Go go go!) and ask students to decode it using the Morse Code decoder  
 
-## Monitor: Check for Understanding/Formative Assessment
-Is the breadboard correct to light up LED  
-Student following 100ms, 300ms, 1000ms in their coding?  
-
 ## Reteaching Ideas: (for students who didn’t understand the first time)
 Demonstrate turning the LED on and off using ArduBlock then ask student to manipulate the length of time the LED is on and off.  
 
@@ -1175,6 +1157,8 @@ Student practicing different letters to code.
 
 ## Final Assessment, project or product
 Student has a completed, decodable message.  
+Is the breadboard correct to light up LED  
+Student following 100ms, 300ms, 1000ms in their coding?  
 
 ## Materials:
 - Barnabas Lesson 10 worksheet
@@ -1249,9 +1233,6 @@ Fine motor skills and patience
 ## Anticipatory Set:
 N/A
 
-## Monitor: Check for Understanding/Formative Assessment
-Make sure students have all necessary parts  
-
 ## Reteaching Ideas: (for students who didn’t understand the first time)
 N/A  
 
@@ -1260,6 +1241,7 @@ Putting the robot together
 
 ## Final Assessment, project or product
 Completed robot with head and arms connected to servo motors  
+Make sure students have all necessary parts  
 
 ## Materials:
 - All 3D printed and painted materials
@@ -1323,8 +1305,6 @@ Students who have a hard time with rhythm
 
 ## Anticipatory Set:
 Hearing or singing the songs to be used in this lesson: Hot Cross Buns, Twinkle Twinkle Little Star, and Happy Birthday (in case students don’t know them)  
-
-## Monitor: Check for Understanding/Formative Assessment
 
 ## Reteaching Ideas: (for students who didn’t understand the first time)
 Go over the loop with the tone, pin#, and frequency, to make sure students are using the correct process.  
@@ -1448,9 +1428,6 @@ Understanding angles (0°-180°)
 ## Anticipatory Set:
 N/A
 
-## Monitor: Check for Understanding/Formative Assessment
-Make sure that the pins for head and arms are correct and the breadboard is completed correctly.  
-
 ## Reteaching Ideas: (for students who didn’t understand the first time)
 Coding: For students who have a hard time making their robots move, look at their code and act it out. There is usually a missing pause or not moving the servo motor back to its original position.  
 
@@ -1459,6 +1436,7 @@ Practice 3-5 and challenges 1-3
 
 ## Final Assessment, project or product
 Robot with head and arms movement with possible inclusion of music and blinking LED.  
+Make sure that the pins for head and arms are correct and the breadboard is completed correctly.  
 
 ## Materials:
 - Barnabas Lesson 12 worksheet
@@ -1559,8 +1537,6 @@ Making your robot light up, sing and dance: https://youtu.be/HYT9UPo5FmE
 ## Barriers to Learning: 
 
 ## Anticipatory Set:
-
-## Monitor: Check for Understanding/Formative Assessment
 
 ## Reteaching Ideas: (for students who didn’t understand the first time)
 
