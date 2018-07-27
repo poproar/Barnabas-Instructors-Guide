@@ -8,6 +8,8 @@
 
 ## Learning Target(s)
 We will identify the basic parts of a robot, and we will work together to build, learn, teach, and inspire.
+### Technical Skills
+### Life Skills
 
 ## Essential Question(s)
 What are the similarities and differences between robots and humans?
@@ -20,6 +22,9 @@ What are the similarities and differences between robots and humans?
 - Goal
 
 ## Additional Resources
+### Videos
+### Documents
+### Other
 Scratch "paper doll" robot as demonstration: https://scratch.mit.edu/projects/124980272/#player
 
 ## Depth of Knowledge Levels Addressed
@@ -159,6 +164,8 @@ Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3
 
 ## Learning Target(s)
 We will build a simple robot using everyday materials.  
+### Technical Skills
+### Life Skills
 
 ## Essential Question(s)
 What is necessary of all community members to achieve a common goal?  
@@ -169,6 +176,9 @@ What is necessary of all community members to achieve a common goal?
 - Battery
 
 ## Additional Resources
+### Videos
+### Documents
+### Other
 
 ## Depth of Knowledge Levels Addressed
 > See Appendix B
@@ -298,8 +308,10 @@ ___
 ### Cross-Cutting Concepts
 - Connections to Engineering, Technology, and Applications of Science: Influence of Engineering, Technology, and Science on Society and the Natural World Engineers improve existing technologies or develop new ones. (4-PS3-4)
 
-## Learning Target
+## Learning Target(s)
 We will learn to design our robot’s body using Computer-Aided Design (C.A.D.).
+### Technical Skills
+### Life Skills
 
 ## Essential Question(s) 
 What challenges can Computer-Aided Design (C.A.D.) present for a beginning user?
@@ -314,7 +326,10 @@ What challenges can Computer-Aided Design (C.A.D.) present for a beginning user?
 - Axis
 
 ## Additional Resources
+### Videos
+### Documents
 Direct link to "Barnabas-Bot 2.2" template in onshape.com: https://goo.gl/DlDJ53  
+### Other
 
 ### Tutorials
 Designing your Barnabas-Bot: https://youtu.be/L7ud2i_yfRI
@@ -524,8 +539,10 @@ ___
 - Science is a Human Endeavor: People’s needs and wants change over time, as do their demands for new and improved technologies. (3-5-ETS1-1)  
 - Science affects everyday life. (4-PS3-4)
 
-## Learning Target
-We will learn the parts and properties of a 3-D printer.
+## Learning Target(s)
+We will learn the parts and properties of a 3-D printer.  
+### Technical Skills
+### Life Skills
 
 ## Essential Question(s) 
 What are the limitations of 3-D printing?
@@ -537,8 +554,11 @@ What are the limitations of 3-D printing?
 - Cartridge
 
 ## Additional Resources
+### Videos
 Video: 3-D Printer and How it is Made https://youtu.be/f4RGU2jXQiE  
 Video: 3-D Printer in Action https://youtu.be/Gwro2HzxMgw  
+### Documents
+### Other
 
 ## Depth of Knowledge Levels Addressed
 > See Appendix B
@@ -636,13 +656,16 @@ ___
 
 ## Activity Goal:
 We will execute the design created last session
-
+<!--  Where are the Learning Targets -->
 ## Essential Question(s)
 What complications might you come across when bringing a design to life?
 
 ## Key Vocabulary
 
 ## Additional Resources
+### Videos
+### Documents
+### Other
 
 ## Depth of Knowledge Levels Addressed:
 > See Appendix B
@@ -715,7 +738,9 @@ ___
 - Energy and Matter: Energy can be transferred in various ways and between objects. (4-PS3-1),(4-PS3-2),(4-PS3-3),(4-PS3-4)
 
 ## Learning Target(s)
-We will learn to build each an open and closed circuit.
+We will learn to build each an open and closed circuit.  
+### Technical Skills
+### Life Skills
 
 ## Essential Question(s)
 What impact does electricity have on our world?
@@ -734,8 +759,11 @@ What impact does electricity have on our world?
 - Schematic
 
 ## Additional Resources
+### Videos
 How to build the 3V LED circuit: https://youtu.be/5P-3rSK79Uo  
 BrainPop video on "Electric Circuits": https://www.brainpop.com/technology/energytechnology/electriccircuits/  
+### Documents
+### Other
 
 ## Depth of Knowledge Levels Addressed
 > See Appendix B
@@ -863,8 +891,10 @@ ___
 - Energy and Matter: Energy can be transferred in various ways and between objects. (4-PS3-1),(4-PS3-2),(4-PS3-3),(4-PS3-4)
 - Science is a Human Endeavor: Science affects everyday life. (4-PS3-4)
 
-## Learning Target
-We will apply the concept of circuits using breadboards.
+## Learning Target(s)
+We will apply the concept of circuits using breadboards.  
+### Technical Skills
+### Life Skills
 
 ## Essential Question(s)
 How has breadboarding changed the way a person creates a circuit?
@@ -881,10 +911,13 @@ How has breadboarding changed the way a person creates a circuit?
 - Amps
 
 ## Additional Resources
+### Videos
 Simple Breadboard LED https://youtu.be/BwVRfxDj0Pc  
 Build the 3V LED circuit with a breadboard: https://youtu.be/5P-3rSK79Uo  
 How a breadboard works: https://youtu.be/QFm8Gkofgs8  
 Build the 5V LED circuit: https://youtu.be/iY3Ygg6Ucq0  
+### Documents
+### Other
 
 ## Depth of Knowledge Levels Addressed
 > See Appendix B
@@ -1011,8 +1044,10 @@ ___
 ### Cross-Cutting Concepts
 - Energy and Matter: Energy can be transferred in various ways and between objects. (4-PS3-1),(4-PS3-2),(4-PS3-3),(4-PS3-4)
 
-## Learning Target
-We will create a light circuit and write a program with our computer so it turns on and off automatically.
+## Learning Target(s)
+We will create a light circuit and write a program with our computer so it turns on and off automatically.  
+### Technical Skills
+### Life Skills
 
 ## Essential Question(s)
 Think of all the electronics in our lives that are automated. Do you perceive these devices to be simple or complex?
@@ -1022,11 +1057,14 @@ Think of all the electronics in our lives that are automated. Do you perceive th
 - Program
 
 ## Additional Resources
+### Videos
 Wiring up the LED and programming it in Ardublock: https://youtu.be/UfxJx9LQ9u0  
 How to comment your code: https://youtu.be/JHJoiSG9jWw  
 #### Ardublock installation
 - Easy - https://youtu.be/i2l7I9PdE2o
 - Advanced - https://youtu.be/bBSZ8REdUYA
+### Documents
+### Other
 
 ## Depth of Knowledge Levels Addressed
 > See Appendix B
@@ -1165,8 +1203,10 @@ ___
 ### Science and Engineering Practices
 - Constructing Explanations and Designing Solutions: Generate and compare multiple solutions to a problem based on how well they meet the criteria and constraints of the design problem. (3-5-ETS1-2)
 
-## Learning Target
+## Learning Target(s)
 We will create and decode a message using Morse Code by using coding skills in ArduBlock.  
+### Technical Skills
+### Life Skills
 
 ## Essential Question(s) 
 What is the importance of precision in coding?  
@@ -1174,6 +1214,9 @@ What is the importance of precision in coding?
 ## Key Vocabulary
 
 ## Additional Resources
+### Videos
+### Documents
+### Other
 
 ## Depth of Knowledge Levels Addressed
 > See Appendix B
@@ -1252,8 +1295,10 @@ ___
 ### Cross-Cutting Concepts
 - Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3-4)
 
-## Learning Target
-We will be assembling the robot
+## Learning Target(s)
+We will be assembling the robot  
+### Technical Skills
+### Life Skills
 
 ## Essential Question(s)
 N/A
@@ -1261,8 +1306,11 @@ N/A
 ## Key Vocabulary
 
 ## Additional Resources
-Instructions online: http://tinyurl.com/hvn4ztp  
+### Videos
 How to assemble your Barnabas-Bot motors: https://youtu.be/Bq8QKORWx4k  
+### Documents
+Instructions online: http://tinyurl.com/hvn4ztp  
+### Other
 
 ## Depth of Knowledge Levels Addressed
 > See Appendix B
@@ -1325,8 +1373,10 @@ ___
 ### Cross-Cutting Concepts
 - Science is a Human Endeavor: Science affects everyday life. (4-PS3-4)  
 
-## Learning Target
+## Learning Target(s)
 We will transfer our previous coding skills toward coding a buzzer to buzz at different frequencies to create music.  
+### Technical Skills
+### Life Skills
 
 ## Essential Question(s) 
 What relationships can be found between patterns and music?  
@@ -1334,11 +1384,14 @@ What relationships can be found between patterns and music?
 ## Key Vocabulary
 
 ## Additional Resources
+### Videos
 Wiring your buzzer: https://youtu.be/dQNqwrBMXYU  
 Programming your buzzer: https://youtu.be/DjNMpiLLQb4  
+### Documents
 "Hot Cross Buns" Piano Tutorial (for comparison): https://goo.gl/lyJHw4  
 "Twinkle, Twinkle, Little Star" Piano Tutorial (for comparison): https://goo.gl/7lS9jy  
 "Happy Birthday" Piano Tutorial (for comparison): https://goo.gl/DZUBAa  
+### Other
 
 ## Depth of Knowledge Levels Addressed
 > See Appendix B
@@ -1456,8 +1509,10 @@ ___
 ### Cross-Cutting Concepts
 - Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3-4)  
 
-## Learning Target
+## Learning Target(s)
 We will use the servo motors to move the robot’s arms and turn its head.  
+### Technical Skills
+### Life Skills
 
 ## Essential Question(s)
 What can limit a robot’s movements? 
@@ -1465,8 +1520,11 @@ What can limit a robot’s movements?
 ## Key Vocabulary
 
 ## Additional Resources
+### Videos
 Wiring your first servo motor: https://youtu.be/iTdQKmu6R1o  
-Programming your servo motor: https://youtu.be/qSbMojcwunk    
+Programming your servo motor: https://youtu.be/qSbMojcwunk  
+### Documents
+### Other
 
 ## Depth of Knowledge Levels Addressed
 > See Appendix B
@@ -1573,16 +1631,21 @@ ___
 ### Cross-Cutting Concepts
 - Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3-4)  
 
-## Learning Target
+## Learning Target(s)
 We will put everything we have learned together  
+### Technical Skills
+### Life Skills
 
 ## Essential Question(s) 
 
 ## Key Vocabulary
 
 ## Additional Resources
+### Videos
 Wiring all 3 servo motors: https://youtu.be/7oYKnPWtt2E  
 Making your robot light up, sing and dance: https://youtu.be/HYT9UPo5FmE  
+### Documents
+### Other
 
 ## Depth of Knowledge Levels Addressed
 > See Appendix B
