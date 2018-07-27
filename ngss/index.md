@@ -133,7 +133,12 @@ The four basic parts of a robot represent the four branches of engineering.  Dra
 🗨 or ✎:  Label the corresponding human parts on your robot drawing above.  
 
 ## Reflection
+### Comprehension
 ✎:  What are the similarities and differences between robots and humans?  
+### Challenges
+### Enjoyment
+### Mindset
+### Community
 🗨 or ✎:  How can you help make our class a good learning community?  
 
 ___
@@ -280,9 +285,14 @@ Test it out with the Arduino board
 ✎ or : Draw your group’s final robot design and describe how the materials were used. Did you borrow any items from (an)other group(s)?  
 
 ## Reflection
+### Comprehension
 🗨 or ✎: What did you learn about servo motors?  
 🗨 or ✎: Why is design important?  
 🗨 or ✎: What did you learn about building your robot’s body?  
+### Challenges
+### Enjoyment
+### Mindset
+### Community
 🗨 or ✎: Did you work well as a team?  Why or why not?  
 🗨 or ✎: Did you work well with other teams?  Why or why not?  
 
@@ -490,11 +500,17 @@ Using the new tool, called the "Fasten Mate," you can click on two faces, and it
 🖥 : If you have time, try adding ears!
 
 ## Reflection
-
+### Comprehension
 🗨 or ✎: What does C.A.D. stand for?  
 🗨 or ✎: What can we do with a C.A.D. file?  
+### Challenges
 🗨 or ✎: What was the most difficult part of today’s class?  
+### Enjoyment
 🗨 or ✎: What was your favorite part about today’s class?  
+### Mindset
+### Community
+
+___
 
 # SESSION 4 – ADVANCED C.A.D.
 > OVERVIEW: We will learn how to add shapes to our robots’ front plates.
@@ -515,8 +531,13 @@ A drawing will be automatically created
 
 Double click on the text boxes to edit the text. Write your name as well as your robot's name.
 
-## Reflection 
-🗨 or ✎: What constraints or challenges did you have to keep in mind in designing your robot?
+## Reflection
+### Comprehension
+### Challenges
+🗨 or ✎: What constraints or challenges did you have to keep in mind in designing your robot?  
+### Enjoyment
+### Mindset
+### Community
 
 ___
 
@@ -637,8 +658,13 @@ Name: _______________________________________________________________________
 ✎ and : Draw and color the robot you designed so you are ready to paint next session. You may also design or add extra pieces with construction paper and glue. Make sure you know which supplies will be available.  
 
 ## Reflection
+### Comprehension
+### Challenges
 🗨 or ✎: Which aspects of 3-D printing were challenging for you?  
+### Enjoyment
+### Mindset
 🗨 or ✎: What would you print, if you could create and print anything? Why would you print that object?  
+### Community
 
 ___
 
@@ -862,9 +888,14 @@ Make a circuit that turns on two lights at the same time.
 Make a circuit that turns on three or more lights at the same time!  
 
 ## Reflection
+### Comprehension
 🗨 and ✎: What color does your LED shine?  
 🗨 and ✎: What is the total voltage necessary to light the LED?  
 🗨 and ✎: What happens when the wire connections are too loose or too tight?  
+### Challenges
+### Enjoyment
+### Mindset
+### Community
 
 ___
 
@@ -1021,8 +1052,13 @@ If the voltage is 5V, what is the current when you use the 470 Ohm resistor?
 🗨 or ✎: Have you seen a light switch that turns like a timer dial?  Think about how you might build something like that based on what you have learned.  
 
 ## Reflection
+### Comprehension
 🗨 and ✎: What are the benefits of designing circuitry with a breadboard?  
 🗨 and ✎: How has breadboarding changed the way a person creates a circuit?  
+### Challenges
+### Enjoyment
+### Mindset
+### Community
 
 ___
 
@@ -1181,7 +1217,12 @@ CHALLENGE 5: Write a program that can match these light patterns below.
 CHALLENGE 6: Create your own light patterns and challenge your classmates to program them!  
 
 ## Reflection
+### Comprehension
 🗨 and ✎: What pin number on the Arduino board controls the light?  
+### Challenges
+### Enjoyment
+### Mindset
+### Community
 
 ___
 
@@ -1273,8 +1314,14 @@ You’ll need to following information to complete the challenge:
 4. When you write a new letter, turn the light off for 1000 ms.
 
 ## Reflection
+### Comprehension
+<!-- this is the same as session 8 please review -->
 🗨 and ✎: What are the benefits of designing circuitry with a breadboard?  
 🗨 and ✎: How has breadboarding changed the way a person creates a circuit?  
+### Challenges
+### Enjoyment
+### Community
+### Mindset
 
 ___
 
@@ -1488,8 +1535,13 @@ CHALLENGE #5: Work with your neighbor to play a song together!
 CHALLENGE #6: Write your own song!  
 
 ## Reflection 
+### Comprehension
 🗨 and ✎: What patterns did you find in today’s coding activities?  
 🗨 and ✎: What relationships can be found between patterns and music?  
+### Challenges
+### Enjoyment
+### Mindset
+### Community
 
 ___
 
@@ -1603,7 +1655,12 @@ CHALLENGE #2: Make your robot turn his light on while it is moving, but turn his
 CHALLENGE #3: Make your robot light up, play music, and move all at the same time!  
 
 ## Reflection
+### Comprehension
 🗨 and ✎: What can limit a robot’s movements?  
+### Challenges
+### Enjoyment
+### Mindset
+### Community
 
 ___
 
@@ -1708,7 +1765,12 @@ Tell us the part that you enjoyed the most about building your robot.
 Tell us what you learned about yourself during this class.  
 
 ## Reflection 
+### Comprehension
 🗨 and ✎: What patterns did you find in today’s coding activities?  
+### Challenges
+### Enjoyment
+### Mindset
+### Community
 
 ___
 
