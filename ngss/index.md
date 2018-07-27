@@ -1,23 +1,23 @@
 # Day 1 of 16  Introduction to Robotics
 > Suggested Time: 60-75 minutes  
 
-## Disciplinary Core Ideas:
+## Disciplinary Core Ideas
 - ETS1.B:  Developing Possible Solutions:  Research on a problem should be carried out before beginning to design a solution.  (3-5-ETS1-2)
 
-## Learning Target:
+## Learning Target(s)
 We will identify the basic parts of a robot, and we will work together to build, learn, teach, and inspire.
 
-## Essential Question(s):
+## Essential Question(s)
 What are the similarities and differences between robots and humans?
 
-## Key/Academic Vocabulary:
+## Key Vocabulary
 - Barnabas
 - Community
 - Encouragement
 - Inspire
 - Goal
 
-## Additional Resources:
+## Additional Resources
 Scratch "paper doll" robot as demonstration: https://scratch.mit.edu/projects/124980272/#player
 
 ## Depth of Knowledge Levels Addressed
@@ -27,11 +27,11 @@ Scratch "paper doll" robot as demonstration: https://scratch.mit.edu/projects/12
 - Level 3:  Strategic Thinking and Reasoning
 - Level 4:  Extended Thinking
 
-## Barriers to Learning: 
+## Barriers to Learning
 Minimal understanding of metaphors (robot to human)  
 Lack of exposure to robots and their properties (e.g.  They are machines; they take commands in the form of code; they are not human; they can perform repetitive action)
 
-## Anticipatory Set:
+## Anticipatory Set
 Student definitions or examples of encouragement and community  
 Student understanding of functions of the human body parts:  body, brain, heart, and soul
 
@@ -43,7 +43,7 @@ The labeled final drawing of the student’s favorite robot
 Students explain how/why robot and human parts are similar  
 Students provide examples of encouragement and community
 
-## Materials:
+## Lesson Materials
 - Barnabas Lesson 1 worksheet
 - Robot drawing
 - Writing utensil
@@ -52,7 +52,7 @@ Students provide examples of encouragement and community
 
 ___
 
-## Lesson Plans:
+## Lesson Plan
 ### Part 1
 Keep multiple:  ways of representation, ways of action and expression, and methods of engagement in mind.  
 Make sure the classroom is set up in a community-building environment (chairs set in a circle, carpet space to sit in a circle, etc.)  
@@ -83,23 +83,23 @@ ___
 # SESSION 1 - Introduction to Robotics
 > LEARNING TARGET:  We will identify the basic parts of a robot ,and we will work together to build, learn, teach, and inspire!
 
-## STEP 1:  The meaning of "Barnabas"
+### STEP 1:  The meaning of "Barnabas"
 - Barnabas means "Son of Encouragement."
 - Barnabas was a community builder.
 🗨 or ✎:  What does "encouragement" mean to you? How do you encourage others?  
 🗨 or ✎:  What does "community" mean you? Name or draw 2 communities of which you are a part and your role in each of them.  
 
-## STEP 2:  Understanding our goals.
+### STEP 2:  Understanding our goals.
 🗨 or ✎:  What will we BUILD throughout this program?  
 🗨 or ✎:  What will we LEARN?  
 🗨 or ✎:  Who will TEACH the class?  
 🗨 or ✎:  How will we INSPIRE each other during this process?  
 
-## STEP 3:  What is a robot?
+### STEP 3:  What is a robot?
 🗨:  What do you know about robots?  
 🗨 or ✎:  What do robots help us do?  
 
-## STEP 4:  What are the parts of a robot?
+### STEP 4:  What are the parts of a robot?
  ✎:  Write down the four parts necessary for a robot to function.
 1. _
 2. _
@@ -125,7 +125,7 @@ The four basic parts of a robot represent the four branches of engineering.  Dra
 
 🗨 or ✎:  Label the corresponding human parts on your robot drawing above.  
 
-### DEBRIEF
+## Reflection
 ✎:  What are the similarities and differences between robots and humans?  
 🗨 or ✎:  How can you help make our class a good learning community?  
 
@@ -143,7 +143,7 @@ ___
 # Day 2 of 16 - Building our First Robot
 > Suggested Time: 60-75 minutes
 
-## Disciplinary Core Ideas: 
+## Disciplinary Core Ideas 
 - 3-5-ETS1-1. Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost.
 - ETS1.A: Defining and Delimiting Engineering Problems: Possible solutions to a problem are limited by available materials and resources (constraints). The success of a designed solution is determined by considering the desired features of a solution (criteria). Different proposals for solutions can be compared on the basis of how well each one meets the specified criteria for success or how well each takes the constraints into account. (3-5-ETS1-1)
 
@@ -153,18 +153,18 @@ ___
 ## Cross-Cutting Concepts: 
 Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3-4)  
 
-## Learning Target:
+## Learning Target(s)
 We will build a simple robot using everyday materials.  
 
-## Essential Question(s):
+## Essential Question(s)
 What is necessary of all community members to achieve a common goal?  
 
-## Key/Academic Vocabulary:
+## Key Vocabulary
 - Servo motor
 - Arduino board
 - Battery
 
-## Additional Resources:
+## Additional Resources
 
 ## Depth of Knowledge Levels Addressed
 > See Appendix B
@@ -173,12 +173,12 @@ What is necessary of all community members to achieve a common goal?
 - Level 3:  Strategic Thinking and Reasoning
 - Level 4:  Extended Thinking
 
-## Barriers to Learning: 
+## Barriers to Learning
 Lack of fine motor skills  
 Minimal understanding of angles and force  
 Lack of teamwork  
 
-## Anticipatory Set:
+## Anticipatory Set
 Students see the function of a servo motor (it moves 180 degrees). Ideally, projected under document camera.  
 Objective of the challenge: For ALL teams to knock the cup placed 8" away from the robot off the edge of the table  
 Setting of norms for collaboration within the team and with other teams  
@@ -192,7 +192,7 @@ Understanding 180 degrees of movement
 Reading a ruler to 8" (not centimeters)  
 Students are not necessarily using all materials - they may share with other groups  
 
-## Materials:
+## Lesson Materials
 - Barnabas Lesson 2 worksheet
 - A Ziploc bag of recycled materials for each group (materials vary from group to group).  For example:
 - Masking tape
@@ -212,7 +212,7 @@ Students are not necessarily using all materials - they may share with other gro
 
 ___
 
-## Lesson Plans: 
+## Lesson Plan
 Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
 Welcome students to the community building environment (ie. students sitting in a circle)  
 Describe the goal of today: build a robot out of recycled materials  
@@ -235,7 +235,7 @@ ___
 
 # SESSION 2 – Building our First Robot
 
-## STEP 1: Our first robot challenge!
+### STEP 1: Our first robot challenge!
 We are going to work together to build a robot out of household items  
 Your team will be given a servo motor that spins 180 degrees (half a circle)  
 Your team will also be given a bag of household items  
@@ -243,7 +243,7 @@ Your job will be to work together to build a robot that can hit a plastic cup th
 Each bag contains different items, so you may need to share parts with other groups   
 We have a common goal of all groups succeeding, so remember to work together  
 
-## STEP 2: Robot review
+### STEP 2: Robot review
 🗨: What are the 4 main parts of a robot?  
 ✎: Fill in the blanks below:  
 The things in the bag and the servo motor are the robot’s ________________________  
@@ -251,21 +251,21 @@ The Arduino controller is the robot’s _______________________________________
 The battery is the robot’s ________________________________________________  
 The program on the Arduino is the robot’s ___________________________________  
 
-## STEP 3: Designing your first robot
+### STEP 3: Designing your first robot
 🗨 ✎ : Look at your parts together and think about how you can build a robot to achieve the challenge. Individually, write or draw your robot design with the materials provided.
 
-## STEP 4: Designing our first robot
+### STEP 4: Designing our first robot
 🗨 ✎ : Share your design with your team and come up with a common design that you would like to build together.
 
-## STEP 5: Build it
+### STEP 5: Build it
 Every team member participates in the building process  
 Discuss ideas and modifications respectfully  
 Test it out with the Arduino board  
 
-## STEP 6: Final robot design
+### STEP 6: Final robot design
 ✎ or : Draw your group’s final robot design and describe how the materials were used. Did you borrow any items from (an)other group(s)?  
 
-### DEBRIEF
+## Reflection
 🗨 or ✎: What did you learn about servo motors?  
 🗨 or ✎: Why is design important?  
 🗨 or ✎: What did you learn about building your robot’s body?  
@@ -296,7 +296,7 @@ We will learn to design our robot’s body using Computer-Aided Design (C.A.D.).
 ## Essential Question(s) 
 What challenges can Computer-Aided Design (C.A.D.) present for a beginning user?
 
-## Key/Academic Vocabulary:
+## Key Vocabulary
 - Computer-Aided Design (C.A.D.)
 - Left-click
 - Right-click
@@ -319,13 +319,13 @@ Fixing your "B": https://youtu.be/aynBOY_6TBM
 - Level 3:  Strategic Thinking and Reasoning
 - Level 4:  Extended Thinking
 
-## Barriers to Learning: 
+## Barriers to Learning 
 Minimal understanding of 3-D concepts and geometric solids  
 Minimal understanding of abstract perception  
 Minimal understanding of angles (0°, 90°, 180°, 270°)  
 Difficulty visualizing the possible axes of a 3-D object  
 
-## Anticipatory Set:
+## Anticipatory Set
 Students play with a physical geometric solid - rotating and translating the objects on an axis in varying degrees and talking about how the perception of the object changes  
 Set the norm for frustration tolerance
 
@@ -337,7 +337,7 @@ Every student’s robot should be personalized after the 4th lesson
 Left- and right-clicking  
 Rotating and inserting the additional parts to the body  
 
-## Materials:
+## Lesson Materials
 - Barnabas Lesson 3 & 4 worksheets
 - Computer
 - Internet connection
@@ -348,7 +348,7 @@ Rotating and inserting the additional parts to the body
 
 ___
 
-## Lesson Plans:
+## Lesson Plan
 Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
 Welcome students to the community building environment (ie. students sitting in a circle)  
 Describe the goal of today: using C.A.D. to design the front plate of the robot  
@@ -372,22 +372,22 @@ ___
 # SESSION 3 - BUILDING OUR ROBOT’S BODY
 > OVERVIEW: We will learn how to design your robot’s body using Computer-Aided Design (C.A.D.).  We will use these files to 3-D print your one-of-a-kind robot!
 
-## STEP 1: Getting Started
+### STEP 1: Getting Started
 🖥 :  Go to www.onshape.com.  
 
-## STEP 2: Log Into Your Class Account
+### STEP 2: Log Into Your Class Account
 🖥 : Log in using the username and password that your teacher has created for the class.  
 
-## STEP 3: Search For Barnabas-Bot
+### STEP 3: Search For Barnabas-Bot
 🖥 : Login to your account and click on "Public" on the left side of your screen. 
 
 In the search box on the top left, type in "BARNABAS-BOT 2.2" and press "search."
 
-## STEP 4: Create Your Own File
+### STEP 4: Create Your Own File
 🖥 : Click on "BARNABAS-BOT 2.2".  Once it opens, click on the icon shown below.  
 Then, click on "Copy Workspace."  Title your copy: "BARNABAS-BOT 2.2 – [YOUR FIRST and LAST NAME]".  Also, make sure to select "Public".  Click "OK".
 
-## STEP 5: Viewing
+### STEP 5: Viewing
 🖥 : You should be on the "robot body front plate" tab (it is the first of the tabs on the bottom of your screen).  You should see the following shape:  
 
 1.  1. Rotating using Method 1: Click on the arrows surrounding the cube on the top-left of the screen to rotate the face plate.
@@ -400,7 +400,7 @@ Then, click on "Copy Workspace."  Title your copy: "BARNABAS-BOT 2.2 – [YOUR F
 Go to the FRONT VIEW  
 Press the "F" key to ZOOM TO FIT.  It should look like this:
 
-## STEP 6: Customizing The Front Plate
+### STEP 6: Customizing The Front Plate
 🖥 : Change the size of the text
 1. Double click on the "B" until you see a "1" pop up on the right side of the screen
 2. Change the "1" to "2".  The B should be larger now!
@@ -420,7 +420,7 @@ Press the "F" key to ZOOM TO FIT.  It should look like this:
 5. Click on the green checkmark and see if it changes!
 6. Now change the text to whatever you want!  It can be a single letter, or multiple letters.  Play with different text sizes.  Make sure that all of the text fits on the robot!  Remember to click on the green checkmark to save your changes.
 
-## STEP 7: Create An Assembly File
+### STEP 7: Create An Assembly File
 🖥 : Selecting your robot’s head
 1. Look at the following files:
    - "robot dome head"
@@ -466,7 +466,7 @@ Using the new tool, called the "Fasten Mate," you can click on two faces, and it
 
 🖥 : If you have time, try adding ears!
 
-### DEBRIEF
+## Reflection
 
 🗨 or ✎: What does C.A.D. stand for?  
 🗨 or ✎: What can we do with a C.A.D. file?  
@@ -476,13 +476,13 @@ Using the new tool, called the "Fasten Mate," you can click on two faces, and it
 # SESSION 4 – ADVANCED C.A.D.
 > OVERVIEW: We will learn how to add shapes to our robots’ front plates.
 
-## STEP 1: Getting Started
+### STEP 1: Getting Started
 🖥 : Go to www.onshape.com.  Log into your account and open your robot project.
 
-## STEP 2: Adding Shapes
+### STEP 2: Adding Shapes
 🖥 : Go to https://app.schoology.com/page/635966221 and watch the video to learn how to add shapes to your robot’s front plate.
 
-## STEP 3: Create a Mechanical Drawing
+### STEP 3: Create a Mechanical Drawing
 🖥 : R-CLICK on the assembly file tab that you just created
 Click on "Create drawing of ... "
 
@@ -492,7 +492,7 @@ A drawing will be automatically created
 
 Double click on the text boxes to edit the text. Write your name as well as your robot's name.
 
-### DEBRIEF 
+## Reflection 
 🗨 or ✎: What constraints or challenges did you have to keep in mind in designing your robot?
 
 ___
@@ -518,7 +518,7 @@ We will learn the parts and properties of a 3-D printer.
 ## Essential Question(s) 
 What are the limitations of 3-D printing?
 
-## Key/Academic Vocabulary:
+## Key Vocabulary
 - Filament
 - Extruder
 - Bed
@@ -535,10 +535,10 @@ Video: 3-D Printer in Action https://youtu.be/Gwro2HzxMgw
 - Level 3:  Strategic Thinking and Reasoning
 - Level 4:  Extended Thinking
 
-## Barriers to Learning: 
+## Barriers to Learning 
 There shouldn’t be any barriers in this lesson
 
-## Anticipatory Set:
+## Anticipatory Set
 Hand students a few 3-D printed objects, if you have them. What do they notice about the objects? What process do they think is needed to print the objects? 
 
 ## Independent Practice
@@ -549,7 +549,7 @@ Drawing of robot with color schemes to be used for painting in the next session
 Ability to name the parts of a 3-D printer  
 Understanding the importance of designing a product before it is printed?  
 
-## Materials:
+## Lesson Materials
 - Barnabas Lesson 5 worksheet
 - Portable 3-D printer
 - If a 3-D printer is not available for students to see, opt for the video
@@ -557,7 +557,7 @@ Understanding the importance of designing a product before it is printed?
 
 ___
 
-## Lesson Plans:
+## Lesson Plan
 Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
 Welcome students to the community building environment (ie. students sitting in a circle)  
 Describe the goal of today: learn the parts and properties of a 3-D printer  
@@ -577,25 +577,25 @@ ___
 # SESSION 5 – 3-D PRINTING & DESIGN
 > OVERVIEW: We will enter the world of 3-D printing!
 
-## STEP 1: Draw a diagram of a 3-D printer
+### STEP 1: Draw a diagram of a 3-D printer
 ✎ and : Follow the instructor’s drawing and label as necessary.
 
-## STEP 2: 3-D Printer Review
+### STEP 2: 3-D Printer Review
 🗨 or ✎: What type of file is sent over from the computer to the 3-D printer?  
 🗨 or ✎: What is the name of 3-D printer part that heats up the plastic?  
 🗨 or ✎: Why do engineers use 3-D printers?  
 
-## STEP 3: 3-D Printing Demonstration
+### STEP 3: 3-D Printing Demonstration
 🗨 or ✎: What did we have to do with the C.A.D. file before we could start printing?  
 🗨 or ✎: What was the temperature of the extruder when it started to print?  
 🗨 or ✎: What object was printed out?  
 🗨 or ✎: How long did it take to print the objects?  
 🗨 or ✎: Share one fact you learned about 3-D printing with a partner.  
 
-## STEP 4: Why do we design?
+### STEP 4: Why do we design?
 🗨 or ✎: What are the two things that we need to remember when we design things?
 
-## STEP 5: Designing your robot
+### STEP 5: Designing your robot
 ✎: Name your robot.  
 ✎: Describe the purpose of your robot.  
 ✎: Describe your robot’s target audience.  
@@ -604,7 +604,7 @@ Name: _______________________________________________________________________
 
 ✎ and : Draw and color the robot you designed so you are ready to paint next session. You may also design or add extra pieces with construction paper and glue. Make sure you know which supplies will be available.  
 
-### DEBRIEF
+## Reflection
 🗨 or ✎: Which aspects of 3-D printing were challenging for you?  
 🗨 or ✎: What would you print, if you could create and print anything? Why would you print that object?  
 
@@ -623,12 +623,12 @@ ___
 ## Activity Goal:
 We will execute the design created last session
 
-## Essential Question(s):
+## Essential Question(s)
 What complications might you come across when bringing a design to life?
 
-## Key/Academic Vocabulary:
+## Key Vocabulary
 
-## Additional Resources:
+## Additional Resources
 
 ## Depth of Knowledge Levels Addressed:
 > See Appendix B
@@ -637,11 +637,11 @@ What complications might you come across when bringing a design to life?
 - Level 3:  Strategic Thinking and Reasoning
 - Level 4:  Extended Thinking
 
-## Barriers to Learning: 
+## Barriers to Learning 
 Fine motor skills  
 Students who change their minds  
 
-## Anticipatory Set:
+## Anticipatory Set
 Norms for painting, rules for scissors, sharing materials, following a design or changing designs as necessary
 
 ## Independent Practice
@@ -652,7 +652,7 @@ All parts are painted and decorated
 Make sure students are following their designs and the rules for art space  
 For students making changes from their designs, ask for justification  
 
-## Materials:
+## Lesson Materials
 - Barnabas Lesson 5 design worksheets
 - Acrylic paint, various colors
 - Paint brush, various sizes
@@ -664,7 +664,7 @@ For students making changes from their designs, ask for justification
 
 ___
 
-## Lesson Plans:
+## Lesson Plan
 Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
 Welcome students to the community building environment (ie. students sitting in a circle)  
 Describe the goal of today: painting the robot following their design  
@@ -692,19 +692,19 @@ ___
 - Planning and Carrying Out Investigations: Make observations to produce data to serve as the basis for evidence for an explanation of a phenomenon or test a design solution. (4-PS3-2)  
 - Constructing Explanations and Designing Solutions: Apply scientific ideas to solve design problems. (4-PS3-4)
 
-## Disciplinary Core Ideas:
+## Disciplinary Core Ideas
 - PS3.B: Conservation of Energy and Energy Transfer: Energy can also be transferred from place to place by electric currents, which can then be used locally to produce motion, sound, heat, or light. The currents may have been produced to begin with by transforming the energy of motion into electrical energy. (4-PS3-2),(4-PS3-4)
 
 ## Cross-Cutting Concepts: 
 Energy and Matter: Energy can be transferred in various ways and between objects. (4-PS3-1),(4-PS3-2),(4-PS3-3),(4-PS3-4)
 
-## Learning Target:
+## Learning Target(s)
 We will learn to build each an open and closed circuit.
 
-## Essential Question(s):
+## Essential Question(s)
 What impact does electricity have on our world?
 
-## Key/Academic Vocabulary:
+## Key Vocabulary
 - Circuit
 - Open circuit
 - Closed circuit
@@ -728,11 +728,11 @@ BrainPop video on "Electric Circuits": https://www.brainpop.com/technology/energ
 - Level 3:  Strategic Thinking and Reasoning
 - Level 4:  Extended Thinking
 
-## Barriers to Learning: 
+## Barriers to Learning 
 Understanding of circuitry and electricity flow  
 Fine motor skills  
 
-## Anticipatory Set:
+## Anticipatory Set
 What do we know about electricity?  
 How are electrical devices powered?  
 
@@ -744,13 +744,13 @@ A completed circuit with a lighted LED
 Positive and negative sides of batteries and wires  
 Make sure that all parts are connected  
 
-## Materials:
+## Lesson Materials
 - Barnabas Lesson 7 worksheet
 - Barnabas Kit
 
 ___
 
-## Lesson Plans:
+## Lesson Plan
 Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
 Welcome students to the community building environment (ie. students sitting in a circle)  
 Describe the goal of today: construct a closed-circuit  
@@ -770,24 +770,24 @@ ___
 # SESSION 7 – EXPLORING THE ROBOT’S HEART
 > OVERVIEW: We will  learn how the "heart" of the robot works.  Remember, the "heart" refers to the battery of a robot.  We will explore the area of electrical engineering.  Have fun!
 
-## STEP 1: Robot review
+### STEP 1: Robot review
  and ✎: Make a simple sketch of your robot.  Label the 4 main parts of a robot.  
 🗨 or ✎: What type of engineers work on each part of the robot’s body?  
 
-## STEP 2: Learning more about how your robot’s heart works. 
+### STEP 2: Learning more about how your robot’s heart works. 
 🗨 or ✎: What is a current?  
 🗨 or ✎: What is voltage?  
 🗨 or ✎: What is the role of a battery?  
 🗨 or ✎: What is the role of a wire?  
 🗨 and ✎: What is a circuit?  
 
-## STEP 3: More about circuits 
+### STEP 3: More about circuits 
 
 🗨 or ✎: What is a schematic?  
 🗨 and ✎: What is the difference between a closed circuit and an open circuit?  
 🗨 and ✎: What happens when there is a short circuit?  
 
-## STEP 4: Reading our first schematic
+### STEP 4: Reading our first schematic
 Review the schematic below.   
 
 The heart (V1) is the battery  
@@ -797,27 +797,27 @@ Both V1 and L1 are components.
 Notice that there are positive and negative sides on both components.  You will need to pay attention to these when you start building the schematic, because they need to match up, like they do in the schematic.  
 Draw a path through the "circulation loop" on your schematic.  It should start at the positive side of the heart and end on the negative side of the heart.  
 
-## STEP 5: Building our first circuit
+### STEP 5: Building our first circuit
 Take out your AA battery and AA battery holder.  Check the voltage on the battery.  It should match the voltage label on your schematic.  
 Place your AA battery into the battery holder.  Make sure that it is in the right direction.  The red wire should be connected to the positive side of the battery, and the black wire should be connected to negative side of the battery.  
 Take out your LED.  NOTE: the longer wire coming out of the LED is the positive side.  
 Take some time to put your circuit together, and see if you can get your LED to light up!  
 
-## STEP 6: Did it work?
+### STEP 6: Did it work?
 The LED needs 3 Volts to light up.  Take a look to see what voltage the battery puts out.  You’ll notice that we don’t have enough!  
 Now think about how we can get our LED to light up.  
 
-## STEP 7: Two batteries are better than one.
+### STEP 7: Two batteries are better than one.
 One way to address our issue is to combine two batteries.  Review the new schematic below.  You’ll see that we now have two batteries, which will double our total voltage to the LED.  
 
 Find a partner and build your new circuit based on the schematic.  Remember to keep track of the positive and negative sides of all your components.  The connections need to match your schematic! 
 
-## STEP 8: Bonus Challenges
+### STEP 8: Bonus Challenges
 Make a circuit that uses 4.5V.  
 Make a circuit that turns on two lights at the same time.  
 Make a circuit that turns on three or more lights at the same time!  
 
-### DEBRIEF
+## Reflection
 🗨 and ✎: What color does your LED shine?  
 🗨 and ✎: What is the total voltage necessary to light the LED?  
 🗨 and ✎: What happens when the wire connections are too loose or too tight?  
@@ -838,7 +838,7 @@ ___
 - Planning and Carrying Out Investigations: Make observations to produce data to serve as the basis for evidence for an explanation of a phenomenon or test a design solution. (4-PS3-2)
 - Constructing Explanations and Designing Solutions: Apply scientific ideas to solve design problems. (4-PS3-4)
 
-## Disciplinary Core Ideas:
+## Disciplinary Core Ideas
 - PS3.B: Conservation of Energy and Energy Transfer: Energy can also be transferred from place to place by electric currents, which can then be used locally to produce motion, sound, heat, or light. The currents may have been produced to begin with by transforming the energy of motion into electrical energy. (4-PS3-2),(4-PS3-4)
 
 ## Cross-Cutting Concepts: 
@@ -848,10 +848,10 @@ Science is a Human Endeavor: Science affects everyday life. (4-PS3-4)
 ## Learning Target
 We will apply the concept of circuits using breadboards.
 
-## Essential Question(s):
+## Essential Question(s)
 How has breadboarding changed the way a person creates a circuit?
 
-## Key/Academic Vocabulary:
+## Key Vocabulary
 - Breadboard
 - Vertical
 - Horizontal
@@ -875,11 +875,11 @@ Build the 5V LED circuit: https://youtu.be/iY3Ygg6Ucq0
 - Level 3:  Strategic Thinking and Reasoning
 - Level 4:  Extended Thinking
 
-## Barriers to Learning: 
+## Barriers to Learning 
 Fine motor skills  
 Understanding circuitry - making sure that positive and negative sides are identified  
 
-## Anticipatory Set:
+## Anticipatory Set
 Demonstrate a completed breadboard circuit without going over all the steps 
 
 ## Independent Practice
@@ -888,7 +888,7 @@ Students breadboarding following the schematic
 ## Final Assessment, project or product
 The breadboard circuit is complete with a LED that is able to light up  
 
-## Materials:
+## Lesson Materials
 - Barnabas Lesson 8 worksheet
 - Breadboards (1 per student or per group of 2 or 3)
 - Wires
@@ -899,7 +899,7 @@ The breadboard circuit is complete with a LED that is able to light up
 
 ___
 
-## Lesson Plans:
+## Lesson Plan
 ### Part 1
 Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
 Welcome students to the community building environment (ie. students sitting in a circle)  
@@ -922,7 +922,7 @@ ___
 # SESSION 8 – INTRODUCTION TO BREADBOARDS
 > OVERVIEW: Today, we will learn about breadboards.  Breadboards helps us make circuits in a way where we can make strong connections without needing to hold the wires together.  
 
-## STEP 1: Introducing the breadboard
+### STEP 1: Introducing the breadboard
 Take a look at the picture of the breadboard below:
 
 Notice that each row has 10 holes in it.  They are divided into sets of 5 (A-B-C-D-E, and F-G-H-I-J) by a column down the middle.  
@@ -933,12 +933,12 @@ Draw a line that connects A2, B2, C2, D2 and E2
 Draw a line that connects F1, G1, H1, I1 and J1  
 Draw in the rest of the wires.  How many total wires do you end up with?  
 
-## STEP 2: Our first breadboard circuit
+### STEP 2: Our first breadboard circuit
 Using what you’ve learned, now use the breadboard to make your 3V LED circuit.   
 
 The goal here is to create a circuit that stays on without you needing to hold on to any wires.  HINT: You can stick the AA battery holder wires and LED wires directly into the breadboard.  
 
-## STEP 3: Increasing the voltage
+### STEP 3: Increasing the voltage
 Now that we have learned how we use schematics to plan circuits, and how to actually build them, we will look at increasing the voltage, because our robot is going to need more than 1.5V to run!
 Review this new schematic  
 
@@ -953,7 +953,7 @@ Now build this circuit using your breadboard.  HINT: You will need your 10K Ohm 
 Once you are done, you’ll notice that the light does not turn on.  This is because you need to provide a main power source.  In this case, our 9V battery will be our main power source.  The Arduino will then take the 9V and reduce it to 5V for our robot.  This reduction in voltage is called "step-down" voltage regulation.  Sometimes you will have a circuit that increases the source voltage, which is called "step-up" voltage regulation.
 Plug the 9V battery into the 9V battery holder, and stick it into the round power connector.  Your light should now turn on!  
 
-## STEP 4: Review questions
+### STEP 4: Review questions
 💭 and ✎: The higher the resistor, the lower the flow of electricity.  The lower the resistor, the higher the flow of electricity.  If we change the resistance from 10K to 470 Ohm, what do you think will happen to the light?  
 
 Try replacing the 10K Ohm resistor with the 470 Ohm resistor.  What happens to the light?  
@@ -969,7 +969,7 @@ If the voltage is 5V, what is the current when you use the 470 Ohm resistor?
 
 🗨 or ✎: Have you seen a light switch that turns like a timer dial?  Think about how you might build something like that based on what you have learned.  
 
-### DEBRIEF
+## Reflection
 🗨 and ✎: What are the benefits of designing circuitry with a breadboard?  
 🗨 and ✎: How has breadboarding changed the way a person creates a circuit?  
 
@@ -984,7 +984,7 @@ ___
 # Day 9 of 16 - The Blinking Light Challenge
 > Suggested Time:  60-75 minutes
 
-## Disciplinary Core Ideas:
+## Disciplinary Core Ideas
 - ETS1.B: Developing Possible Solutions: Tests are often designed to identify failure points or difficulties, which suggest the elements of the design that need to be improved. (3-5-ETS1-3)
 - ETS1.C: Optimizing the Design Solution: Different solutions need to be tested in order to determine which of them best solves the problem, given the criteria and the constraints. (3-5-ETS1-3)
 
@@ -994,10 +994,10 @@ Energy and Matter: Energy can be transferred in various ways and between objects
 ## Learning Target
 We will create a light circuit and write a program with our computer so it turns on and off automatically.
 
-## Essential Question(s):
+## Essential Question(s)
 Think of all the electronics in our lives that are automated. Do you perceive these devices to be simple or complex?
 
-## Key/Academic Vocabulary:
+## Key Vocabulary
 - Coding
 - Program
 
@@ -1015,11 +1015,11 @@ How to comment your code: https://youtu.be/JHJoiSG9jWw
 - Level 3:  Strategic Thinking and Reasoning
 - Level 4:  Extended Thinking
 
-## Barriers to Learning: 
+## Barriers to Learning 
 Understanding that programs are fast and need pauses  
 Ability to break down actions  
 
-## Anticipatory Set:
+## Anticipatory Set
 Understanding coding activity - students giving explicit 1-step instructions to accomplish a task  
 
 ## Independent Practice
@@ -1028,7 +1028,7 @@ Student create the circuit and write a program to turn on and off the LED
 ## Final Assessment, project or product
 Blinking LED connected to the breadboard  
 
-## Materials:
+## Lesson Materials
 - Barnabas Lesson 9 worksheet
 - Computer
 - Breadboard
@@ -1042,12 +1042,12 @@ Blinking LED connected to the breadboard
 
 ___
 
-## Lesson Plans:
+## Lesson Plan
 Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
 Welcome students to the community building environment (ie. students sitting in a circle)  
 Describe the goal of today: build a circuit with an LED and code a program to make flash  
 
-## Anticipatory set:
+## Anticipatory Set
 Understanding coding: Ask students to draw a circle in the air with their arm 3x in their spot. Ask them to describe the steps used to draw their circle with their arm. Teacher demonstrates following the students’ directions to complete the action. (Lift arm - which direction?, rotate - which degree?, how many times? How fast, etc.) Every action needs to be explicit. Let students know that computers like simple directions and it does exactly what it is told.  
 Explain to students that they will continue to build a circuit with the arduino board like last session. This time, however, it will be powered by the computer using a USB instead of being powered by batteries.  
 After the breadboard has been wired correctly, students shift to the computer to plug in their arduino boards, following the directions on the worksheet.  
@@ -1061,12 +1061,12 @@ ___
 # SESSION 9 – THE BLINKING LIGHT CHALLENGE
 > OVERVIEW: This week, we will be creating a light circuit for your robot. 
 
-## STEP 1: What is a power indicator?
+### STEP 1: What is a power indicator?
 What typically happens when you turn on electronics (cell phone, computer, tv, etc.)?
 
 Electronics use power indicators to let us know that electronics are on.  Write down the two common components that are used to build power indicator circuits.  Remember that a circuit is the "loop" that is formed that allows electricity to flow through your electronics.  Every circuit needs a battery, or heart.  
 
-## STEP 2: Building your circuit
+### STEP 2: Building your circuit
 Build the following circuit based on the schematic below.  Hints: You will need a resistor, LED and two jumper wires.  Also, remember that there is a plus and minus on the LED.  The minus of the LED should be connected to GND.  
 
 Note that pin 7 is a digital output.  This will allow you to turn your light on and off using robot’s brain (the Arduino)!  
@@ -1079,31 +1079,31 @@ Starting from the pin 7 on the Arduino, draw in the connections that will comple
 
 Make sure that your drawing is correct.  Once you have it confirmed, go ahead and build your circuit!  
 
-## STEP 3: Connecting your Arduino
+### STEP 3: Connecting your Arduino
 You are now ready to connect your Arduino to your computer so that you can start programming!  
 Using the USB cable, plug in the Arduino to your computer.  Make sure to first unplug any other batteries that are connected to your Arduino when you do this.  
 
-## STEP 4: Opening the Software
+### STEP 4: Opening the Software
 Open the Arduino software by clicking on the Arduino icon on your computer desktop.  
 Wait for the software to open  
 
-## STEP 5: Selecting the COM Port
+### STEP 5: Selecting the COM Port
 Go to TOOLS->PORT, and click on the item that starts with the 3 letters, "COM".  It says "COM21" in the picture below, but yours may say a different number.  
 
-## STEP 6: Uploading
+### STEP 6: Uploading
 Click on the UPLOAD button and wait.  It will take a few minutes.  You will notice a green progress bar at the bottom right of your screen.  If you see "DONE UPLOADING", then you are good to go!  If you see red on your screen, you selected the wrong "COM", so go back to STEP 6, select a different "COM" port and try the upload again.  
 
-## STEP 7: Open ArduBlock
+### STEP 7: Open ArduBlock
 You are now able to write a program to your Arduino!  Now open ArduBlock by going to TOOLS->ARDUBLOCK.  
 
 The following screen will appear:  
 
-## STEP 8: Writing Your First ArduBlock Program
+### STEP 8: Writing Your First ArduBlock Program
 Go to [CONTROL], and drag in a [LOOP-DO] block.  Click on [SAVE], type in your name, and click [SAVE] again.  Note that every program needs a [LOOP-DO].  
 
 Now click [UPLOAD], type in your name, and click [SAVE].  Your program will now upload!  
 
-## STEP 9: Programming your LED
+### STEP 9: Programming your LED
 Notice that we have a wire connected to digital output 7.  Can you guess which programming block allows us to control digital output 7.  HINT: look under [PINS].  Write down the name of the block.  
 
 Notice that there is a #, and a HIGH/LOW.  What do you think we should put as the pin #?  
@@ -1111,7 +1111,7 @@ Notice that there is a #, and a HIGH/LOW.  What do you think we should put as th
 Try writing a program to turn your LED on.  Remember to click [SAVE] and then [UPLOAD]  
 Try writing a program to turn your LEF off.  Remember to click [SAVE] and then [UPLOAD]  
 
-## STEP 10: Make It Blink!
+### STEP 10: Make It Blink!
 Now you will need a new block.  Go to [UTILITIES]->[delay milliseconds].  This block tells your program to wait a certain amount of time.  Note that 1000 milliseconds is the same as 1 second.  
 
 CHALLENGES: 
@@ -1122,7 +1122,7 @@ CHALLENGE 4: Write a program that makes blinks 5 times fast, 5 times slow, and r
 CHALLENGE 5: Write a program that can match these light patterns below.  
 CHALLENGE 6: Create your own light patterns and challenge your classmates to program them!  
 
-### DEBRIEF
+## Reflection
 🗨 and ✎: What pin number on the Arduino board controls the light?  
 
 ___
@@ -1138,7 +1138,7 @@ ___
 ## Science and Engineering Practices:
 Constructing Explanations and Designing Solutions: Generate and compare multiple solutions to a problem based on how well they meet the criteria and constraints of the design problem. (3-5-ETS1-2)
 
-## Disciplinary Core Ideas:
+## Disciplinary Core Ideas
 - ETS1.B: Developing Possible Solutions: At whatever stage, communicating with peers about proposed solutions is an important part of the design process, and shared ideas can lead to improved designs. (3-5-ETS1-2)
 - Tests are often designed to identify failure points or difficulties, which suggest the elements of the design that need to be improved. (3-5-ETS1-3)
 - ETS1.C: Optimizing the Design Solution: Different solutions need to be tested in order to determine which of them best solves the problem, given the criteria and the constraints. (3-5-ETS1-3)
@@ -1149,7 +1149,7 @@ We will create and decode a message using Morse Code by using coding skills in A
 ## Essential Question(s) 
 What is the importance of precision in coding?  
 
-## Key/Academic Vocabulary:
+## Key Vocabulary
 
 ## Additional Resources
 
@@ -1160,11 +1160,11 @@ What is the importance of precision in coding?
 - Level 3:  Strategic Thinking and Reasoning
 - Level 4:  Extended Thinking
 
-## Barriers to Learning: 
+## Barriers to Learning 
 Understanding the pauses necessary in coding  
 Correct breadboard set up to power LED  
 
-## Anticipatory Set:
+## Anticipatory Set
 Demonstrate a simple pre-coded flashing LED with a Morse Code message (ie. Go go go!) and ask students to decode it using the Morse Code decoder  
 
 ## Independent Practice
@@ -1175,18 +1175,18 @@ Student has a completed, decodable message.
 Is the breadboard correct to light up LED  
 Student following 100ms, 300ms, 1000ms in their coding?  
 
-## Materials:
+## Lesson Materials
 - Barnabas Lesson 10 worksheet
 - Same setup as Lesson 9
 
 ___
 
-## Lesson Plans:
+## Lesson Plan
 Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
 Welcome students to the community building environment (ie. students sitting in a circle)  
 Describe the goal of today: create a mystery message using Morse Code  
 
-## Anticipatory set:
+## Anticipatory Set
 Show students the blinking lights and let them know that it has a hidden message. Take a look at the Morse Code decoder and decode the message together.  
 Give students 2 minutes to think of a message they would like to send and to whom they would send it.  
 Let students set up their breadboard, arduino board, and computer, and start coding their secret message.  
@@ -1198,7 +1198,7 @@ ___
 
 # SESSION 10 – BLINKING IN CODE
 
-## STEP 1: Morse Code
+### STEP 1: Morse Code
 Before there were cell phones, we used to use a telegraph to send information using short and long taps.  In the past, people have also used light signals to make short and long blinks.  
 Using the table below, try to program a word by turning your light on and off.  Once you are done, see if another student can guess what you coding.  
 You’ll need to following information to complete the challenge:
@@ -1207,7 +1207,7 @@ You’ll need to following information to complete the challenge:
 3. In between a dash or dot within the same letter, turn the light off for 100 ms.
 4. When you write a new letter, turn the light off for 1000 ms.
 
-### DEBRIEF
+## Reflection
 🗨 and ✎: What are the benefits of designing circuitry with a breadboard?  
 🗨 and ✎: How has breadboarding changed the way a person creates a circuit?  
 
@@ -1221,7 +1221,7 @@ ___
 # Day 11 of 16 - Assembling your Robot
 > Suggested Time:  60-75 minutes
 
-## Disciplinary Core Ideas: 
+## Disciplinary Core Ideas 
 - ETS1.B: Developing Possible Solutions: Tests are often designed to identify failure points or difficulties, which suggest the elements of the design that need to be improved. (3-5-ETS1-3)
 - At whatever stage, communicating with peers about proposed solutions is an important part of the design process, and shared ideas can lead to improved designs. (3-5-ETS1-2)
 
@@ -1231,10 +1231,10 @@ Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3
 ## Learning Target
 We will be assembling the robot
 
-## Essential Question(s):
+## Essential Question(s)
 N/A
 
-## Key/Academic Vocabulary:
+## Key Vocabulary
 
 ## Additional Resources
 Instructions online: http://tinyurl.com/hvn4ztp  
@@ -1247,10 +1247,10 @@ How to assemble your Barnabas-Bot motors: https://youtu.be/Bq8QKORWx4k
 - Level 3:  Strategic Thinking and Reasoning
 - Level 4:  Extended Thinking
 
-## Barriers to Learning: 
+## Barriers to Learning 
 Fine motor skills and patience  
 
-## Anticipatory Set:
+## Anticipatory Set
 N/A
 
 ## Independent Practice
@@ -1260,7 +1260,7 @@ Putting the robot together
 Completed robot with head and arms connected to servo motors  
 Make sure students have all necessary parts  
 
-## Materials:
+## Lesson Materials
 - All 3D printed and painted materials
 - 3 servo motors
 - Screws
@@ -1270,7 +1270,7 @@ Make sure students have all necessary parts
 
 ___
 
-## Lesson Plans:
+## Lesson Plan
 Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
 Welcome students to the community building environment (ie. students sitting in a circle).  
 Describe the goal of today: building our personal robots. Remind students that some of the parts are small and tricky. It will take a lot of perseverance  
@@ -1293,7 +1293,7 @@ ___
 ## Science and Engineering Practices:
 Planning and Carrying Out Investigations: Plan and conduct an investigation collaboratively to produce data to serve as the basis for evidence, using fair tests in which variables are controlled and the number of trials considered. (3-5-ETS1-3)
 
-## Disciplinary Core Ideas: 
+## Disciplinary Core Ideas 
 - ETS1.C: Optimizing the Design Solution: Different solutions need to be tested in order to determine which of them best solves the problem, given the criteria and the constraints. (3-5-ETS1-3)
 
 ## Cross-Cutting Concepts:
@@ -1302,10 +1302,10 @@ Science is a Human Endeavor: Science affects everyday life. (4-PS3-4)
 ## Learning Target
 We will transfer our previous coding skills toward coding a buzzer to buzz at different frequencies to create music.  
 
-## Essential Question(s): 
+## Essential Question(s) 
 What relationships can be found between patterns and music?  
 
-## Key/Academic Vocabulary:
+## Key Vocabulary
 
 ## Additional Resources
 Wiring your buzzer: https://youtu.be/dQNqwrBMXYU  
@@ -1321,11 +1321,11 @@ Programming your buzzer: https://youtu.be/DjNMpiLLQb4
 - Level 3:  Strategic Thinking and Reasoning
 - Level 4:  Extended Thinking
 
-## Barriers to Learning: 
+## Barriers to Learning 
 Students with hearing difficulties or trouble differentiating sound frequencies  
 Students who have a hard time with rhythm  
 
-## Anticipatory Set:
+## Anticipatory Set
 Hearing or singing the songs to be used in this lesson: Hot Cross Buns, Twinkle Twinkle Little Star, and Happy Birthday (in case students don’t know them)  
 
 ## Independent Practice
@@ -1334,13 +1334,13 @@ Creating the songs Twinkle Twinkle Little Star, Happy Birthday, or Mary had a Li
 ## Final Assessment, project or product
 The buzzer plays a song that the student has created  
 
-## Materials:
+## Lesson Materials
 - Barnabas Lesson 12 worksheet
 - Materials used for setup in Lesson 10
 
 ___
 
-## Lesson Plans:
+## Lesson Plan
 Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
 Welcome students to the community building environment (ie. students sitting in a circle)  
 Describe the goal of today: Using the various buzzer frequencies to create music  
@@ -1358,7 +1358,7 @@ ___
 # SESSION 12 - THE BUZZER
 > OVERVIEW: You will learn how to use a buzzer to play music! 
 
-## STEP 1: Building your circuit
+### STEP 1: Building your circuit
 We will not be taking our circuits apart from last week.  Instead, we will be ADDING to them!  
 Build the following circuit based on the schematic below.  Hints: You will need a resistor, a buzzer and two jumper wires.  Can you predict which is the positive side of the buzzer?  
 
@@ -1371,17 +1371,17 @@ Go ahead and draw in the necessary connections.  However, this time, we don’t 
 
 Ask your teacher to see if your drawing is correct.  Once you have it confirmed, go ahead and build your circuit!  
 
-## STEP 2: How does the buzzer work?
+### STEP 2: How does the buzzer work?
 Note that pin 6 is a PWM.  A PWM is a signal that allows us to change the voltage that goes into the buzzer.  As we change the voltage, the buzzer sound will change!  
 Every sound that your buzzer makes creates a certain frequency.  This frequency makes different notes – just like a piano.  
 
 🗨 or ✎: How might we play music now?  
 
-## STEP 3: Frequency Table
+### STEP 3: Frequency Table
 Using the frequency table below, you will be able to play specific notes to make music!  
 Note that you have low notes (left column) as well as high notes (right column).  
 
-## STEP 4: Music time!
+### STEP 4: Music time!
 Try to challenges below.  Because we are using a 10K resistor, you’ll need to put your ear pretty close to the hear the sound.  
 Connect your Arduino.  If you forget how to start up ArduBlock, go back to the directions from the previous week
 Program blocks.  This time, you’ll need a few more blocks:  
@@ -1408,7 +1408,7 @@ Note that there are both low notes and high notes on this one!
 CHALLENGE #5: Work with your neighbor to play a song together!  
 CHALLENGE #6: Write your own song!  
 
-### DEBRIEF 
+## Reflection 
 🗨 and ✎: What patterns did you find in today’s coding activities?  
 🗨 and ✎: What relationships can be found between patterns and music?  
 
@@ -1422,7 +1422,7 @@ ___
 # Day 13 of 16 - Make Your Robot Wave!
 > Suggested Time:  60-75 minutes
 
-## Disciplinary Core Ideas: 
+## Disciplinary Core Ideas 
 - ETS1.B: Developing Possible Solutions: Tests are often designed to identify failure points or difficulties, which suggest the elements of the design that need to be improved. (3-5-ETS1-3)  
 
 ## Cross-Cutting Concepts:
@@ -1434,7 +1434,7 @@ We will use the servo motors to move the robot’s arms and turn its head.
 ## Essential Question(s)
 What can limit a robot’s movements? 
 
-## Key/Academic Vocabulary:
+## Key Vocabulary
 
 ## Additional Resources
 Wiring your first servo motor: https://youtu.be/iTdQKmu6R1o  
@@ -1446,10 +1446,10 @@ Programming your servo motor: https://youtu.be/qSbMojcwunk
 - Level 2:  Skills and Concepts
 - Level 3:  Strategic Thinking and Reasoning
 - Level 4:  Extended Thinking
-## Barriers to Learning: 
+## Barriers to Learning 
 Understanding angles (0°-180°)
 
-## Anticipatory Set:
+## Anticipatory Set
 N/A
 
 ## Independent Practice
@@ -1459,13 +1459,13 @@ Practice 3-5 and challenges 1-3
 Robot with head and arms movement with possible inclusion of music and blinking LED.  
 Make sure that the pins for head and arms are correct and the breadboard is completed correctly.  
 
-## Materials:
+## Lesson Materials
 - Barnabas Lesson 12 worksheet
 - Materials in the Barnabas kit
 
 ___
 
-## Lesson Plans:
+## Lesson Plan
 Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
 Welcome students to the community building environment (ie. students sitting in a circle)  
 Describe the goal of today: Move the robot’s arms and head using the servo motors  
@@ -1482,22 +1482,22 @@ ___
 # SESSION 13 – MAKE YOUR ROBOT WAVE!
 > OVERVIEW: We will make your robot wave (or shake his/her head). 
 
-## STEP 1: Introduction to servos
+### STEP 1: Introduction to servos
 The servo motor has an axle that rotates 180 degrees.  It only moves along that circular path.  
 Explain the significance of the 3 wires on the PWM wires coming out of the servos. 5V (RED) powers the servo motor.  GND (BROWN) is ground, and the orange wire gives information.  The Arduino uses the orange wire to tell the motor what degree to turn to.  We call the yellow wire, SIGNAL.  
 
-## STEP 2: Attaching your servo motors to your robot’s body
+### STEP 2: Attaching your servo motors to your robot’s body
 Connect the servo motor to one of the arm or head sockets on your robot.  You’ll need two 7/16" servo screws and two lock nuts per servo motor to keep them in place.  Use the provided allen wrench.  
 Attach your robot's head or arm to the servo motor.   
 Use the 1/8" screw to attach the head (unless there is a coupling on the head already)  
 Use the 9/16" (the longest one) servo screw to screw in the arm.  
 WARNING: You will notice that the motor won't allow you to physically turn the motor shaft more than 180 degrees.  Be careful not to keep turning it more than the limit (you will feel it stop mechanically).  Doing so may damage the plastic gears inside, which will prevent your motor from moving.  
 
-## STEP 3: Wiring up your motor
+### STEP 3: Wiring up your motor
 Pull the cables coming out of the servo motors through the hole on the bottom of your robot.  There should be three in total.  
 Look at the wiring diagram below.  Based on what you’ve learned, add the necessary wires to connect your motor!  
 
-## STEP 4: Programming motion
+### STEP 4: Programming motion
 Connect your Arduino.  If you forget how to start up ArduBlock, go back to the directions from the previous week  
 Program blocks.  This time, you’ll need a few more blocks:  
 PINS-> Servo  
@@ -1516,7 +1516,7 @@ CHALLENGE #1: Make your robot wave AND light up at the same time.
 CHALLENGE #2: Make your robot turn his light on while it is moving, but turn his light off while he is stopped.  
 CHALLENGE #3: Make your robot light up, play music, and move all at the same time!  
 
-### DEBRIEF
+## Reflection
 🗨 and ✎: What can limit a robot’s movements?  
 
 ___
@@ -1534,7 +1534,7 @@ ___
 - Planning and Carrying Out Investigations: Plan and conduct an investigation collaboratively to produce data to serve as the basis for evidence, using fair tests in which variables are controlled and the number of trials considered. (3-5-ETS1-3)
 - Constructing Explanations and Designing Solutions: Generate and compare multiple solutions to a problem based on how well they meet the criteria and constraints of the design problem. (3-5-ETS1-2)
 
-## Disciplinary Core Ideas: 
+## Disciplinary Core Ideas 
 - ETS1.A: Defining and Delimiting Engineering Problems: Possible solutions to a problem are limited by available materials and resources (constraints). The success of a designed solution is determined by considering the desired features of a solution (criteria). Different proposals for solutions can be compared on the basis of how well each one meets the specified criteria for success or how well each takes the constraints into account. (3-5-ETS1-1)
 - ETS1.B: Developing Possible Solutions: At whatever stage, communicating with peers about proposed solutions is an important part of the design process, and shared ideas can lead to improved designs. (3-5-ETS1-2)
 - Tests are often designed to identify failure points or difficulties, which suggest the elements of the design that need to be improved. (3-5-ETS1-3)
@@ -1548,7 +1548,7 @@ We will put everything we have learned together
 
 ## Essential Question(s) 
 
-## Key/Academic Vocabulary:
+## Key Vocabulary
 
 ## Additional Resources
 Wiring all 3 servo motors: https://youtu.be/7oYKnPWtt2E  
@@ -1560,20 +1560,20 @@ Making your robot light up, sing and dance: https://youtu.be/HYT9UPo5FmE
 - Level 2:  Skills and Concepts
 - Level 3:  Strategic Thinking and Reasoning
 - Level 4:  Extended Thinking
-## Barriers to Learning: 
+## Barriers to Learning 
 
-## Anticipatory Set:
+## Anticipatory Set
 
 ## Independent Practice
 
 ## Final Assessment, project or product
 
-## Materials:
+## Lesson Materials
 - Barnabas Lesson 13 worksheet
 
 ___
 
-## Lesson Plans:
+## Lesson Plan
 Keep multiple: ways of representation, ways of action and expression, and methods of engagement in mind.  
 Welcome students to the community building environment (ie. students sitting in a circle)  
 Describe the goal of today: build a robot out of recycled materials  
@@ -1597,16 +1597,16 @@ ___
 # SESSION 14 through 16- BUILDING YOUR FINAL CIRCUIT
 > OVERVIEW: This week, we will be putting it all together.  By the end of this section, your robot will dance, light up and play music!  
 
-## STEP 1: Final robot assembly
+### STEP 1: Final robot assembly
 If you haven’t already, assemble the rest of the servo motors.  You should have 3 total.  Remember that each servo motor has two 7/16" servo screws.  
 If you haven’t already, make sure that all 3 motors are wired up.  See the wiring diagram below.  
 
 If you need help, you can look at the full wiring diagram below.  Remember that there are many ways to connect your breadboard, so this isn’t the only answer!  
 
-## STEP 2: Program away!
+### STEP 2: Program away!
 This is where you get to put everything together.  Program your favorite song, make your robot dance to it, and have your robot say his or her name via the LED using morse code!  
 
-## STEP 3: Presentation
+### STEP 3: Presentation
 We will have short presentation to share what you made.  Answer the questions below to prepare.  
 What is your name and age?  
 What is your robot’s name?  
@@ -1614,7 +1614,7 @@ Tell us the hardest part about designing your robot.
 Tell us the part that you enjoyed the most about building your robot.  
 Tell us what you learned about yourself during this class.  
 
-### DEBRIEF 
+## Reflection 
 🗨 and ✎: What patterns did you find in today’s coding activities?  
 
 ___
