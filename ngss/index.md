@@ -1,3 +1,7 @@
+<!-- this current state is NGSS reorganized to match new structure
+many items are missing or lacking  
+Lesson plans have been grouped with SESSIONS and now appropriately named worksheet
+These may be better served as seperate files in supporting materials-->
 # Day 1 of 16  Introduction to Robotics
 > Suggested Time: 60-75 minutes  
 
@@ -85,9 +89,7 @@ Briefly explain the 4 parts of the robot in relation to the 4 types of engineeri
 Allow students to respond to the debriefing questions  
 Closing circle/debrief - Discuss the EQ of the day.
 
-___
-
-# SESSION 1 - Introduction to Robotics
+## Worksheet 1 - Introduction to Robotics
 > LEARNING TARGET:  We will identify the basic parts of a robot ,and we will work together to build, learn, teach, and inspire!
 
 ### STEP 1:  The meaning of "Barnabas"
@@ -131,6 +133,8 @@ The four basic parts of a robot represent the four branches of engineering.  Dra
 4.  
 
 🗨 or ✎:  Label the corresponding human parts on your robot drawing above.  
+
+___
 
 ## Reflection
 ### Comprehension
@@ -250,9 +254,7 @@ Give students 20 minutes to work within their groups to design and create a robo
 Gather all robots at a common place to showcase each group’s completed robot  
 Closing circle/debrief - Discuss the EQ of the day.  
 
-___
-
-# SESSION 2 – Building our First Robot
+## Worksheet 2 – Building our First Robot
 
 ### STEP 1: Our first robot challenge!
 We are going to work together to build a robot out of household items  
@@ -283,6 +285,8 @@ Test it out with the Arduino board
 
 ### STEP 6: Final robot design
 ✎ or : Draw your group’s final robot design and describe how the materials were used. Did you borrow any items from (an)other group(s)?  
+
+___
 
 ## Reflection
 ### Comprehension
@@ -400,9 +404,7 @@ Give students 35 minutes to work following the instructions on the worksheet
 Remind students to save their file and reconvene. If they are not finished, they have the entire next lesson to complete the task.  
 Closing circle/debrief - Discuss the EQ of the day.  
 
-___
-
-# SESSION 3 - BUILDING OUR ROBOT’S BODY
+## Worksheet 3 - BUILDING OUR ROBOT’S BODY
 > OVERVIEW: We will learn how to design your robot’s body using Computer-Aided Design (C.A.D.).  We will use these files to 3-D print your one-of-a-kind robot!
 
 ### STEP 1: Getting Started
@@ -499,6 +501,8 @@ Using the new tool, called the "Fasten Mate," you can click on two faces, and it
 
 🖥 : If you have time, try adding ears!
 
+___
+
 ## Reflection
 ### Comprehension
 🗨 or ✎: What does C.A.D. stand for?  
@@ -512,7 +516,7 @@ Using the new tool, called the "Fasten Mate," you can click on two faces, and it
 
 ___
 
-# SESSION 4 – ADVANCED C.A.D.
+## Worksheet 4 – ADVANCED C.A.D.
 > OVERVIEW: We will learn how to add shapes to our robots’ front plates.
 
 ### STEP 1: Getting Started
@@ -530,6 +534,8 @@ A screen will pop up. Make sure that "Four views" is selected under "Options," a
 A drawing will be automatically created
 
 Double click on the text boxes to edit the text. Write your name as well as your robot's name.
+
+___
 
 ## Reflection
 ### Comprehension
@@ -625,9 +631,7 @@ Personalize the robot through answering questions in Step 5
 Closing circle/debrief - Discuss the EQ of the day.  
 Make sure to collect each student’s last page with their robot color and design so that it can be used for lesson 6.  
 
-___
-
-# SESSION 5 – 3-D PRINTING & DESIGN
+## Worksheet 5 – 3-D PRINTING & DESIGN
 > OVERVIEW: We will enter the world of 3-D printing!
 
 ### STEP 1: Draw a diagram of a 3-D printer
@@ -656,6 +660,8 @@ ___
 Name: _______________________________________________________________________
 
 ✎ and : Draw and color the robot you designed so you are ready to paint next session. You may also design or add extra pieces with construction paper and glue. Make sure you know which supplies will be available.  
+
+___
 
 ## Reflection
 ### Comprehension
@@ -736,9 +742,7 @@ Let students paint and decorate their robots
 Clean up materials  
 Closing circle/debrief - Discuss the EQ of the day.  
 
-___
-
-# SESSION 6 – TIME TO PAINT!
+## Worksheet 6 – TIME TO PAINT!
 > OVERVIEW: Today, we will paint our robots.  We typically use acrylic paint.  Make sure that you follow your teacher’s instructions on how to paint.  Have fun!
 
 ___
@@ -835,9 +839,7 @@ Draw the new schematic with two AA batteries
 Prompt groups that understand the concept to work on the bonus challenges  
 Closing circle/debrief - Discuss the EQ of the day.  
 
-___
-
-# SESSION 7 – EXPLORING THE ROBOT’S HEART
+## Worksheet 7 – EXPLORING THE ROBOT’S HEART
 > OVERVIEW: We will  learn how the "heart" of the robot works.  Remember, the "heart" refers to the battery of a robot.  We will explore the area of electrical engineering.  Have fun!
 
 ### STEP 1: Robot review
@@ -886,6 +888,8 @@ Find a partner and build your new circuit based on the schematic.  Remember to k
 Make a circuit that uses 4.5V.  
 Make a circuit that turns on two lights at the same time.  
 Make a circuit that turns on three or more lights at the same time!  
+
+___
 
 ## Reflection
 ### Comprehension
@@ -999,9 +1003,7 @@ Increase the voltage and discuss what happens to the LED
 Take apart all materials and put them away correctly  
 Closing circle/debrief - Discuss the EQ of the day.  Discuss the value of designing circuitry with a breadboard (ex. Because breadboards do not require soldering, they may be reused to prototype various electric products with diverse functions. What is the value in this for a engineering?).  
 
-___
-
-# SESSION 8 – INTRODUCTION TO BREADBOARDS
+## Worksheet 8 – INTRODUCTION TO BREADBOARDS
 > OVERVIEW: Today, we will learn about breadboards.  Breadboards helps us make circuits in a way where we can make strong connections without needing to hold the wires together.  
 
 ### STEP 1: Introducing the breadboard
@@ -1050,6 +1052,8 @@ If the voltage is 5V, what is the current when you use the 10K Ohm resistor?
 If the voltage is 5V, what is the current when you use the 470 Ohm resistor?  
 
 🗨 or ✎: Have you seen a light switch that turns like a timer dial?  Think about how you might build something like that based on what you have learned.  
+
+___
 
 ## Reflection
 ### Comprehension
@@ -1150,9 +1154,7 @@ When they are able to light the LED, complete the blinking challenges.
 Deconstruct everything and clean up the area.  
 Closing circle/debrief - Discuss the EQ of the day.  
 
-___
-
-# SESSION 9 – THE BLINKING LIGHT CHALLENGE
+## Worksheet 9 – THE BLINKING LIGHT CHALLENGE
 > OVERVIEW: This week, we will be creating a light circuit for your robot. 
 
 ### STEP 1: What is a power indicator?
@@ -1215,6 +1217,8 @@ CHALLENGE 3: Write a program that makes your light blink as fast as possible!
 CHALLENGE 4: Write a program that makes blinks 5 times fast, 5 times slow, and repeats forever.  Hint: use the repeat block  
 CHALLENGE 5: Write a program that can match these light patterns below.  
 CHALLENGE 6: Create your own light patterns and challenge your classmates to program them!  
+
+___
 
 ## Reflection
 ### Comprehension
@@ -1300,9 +1304,7 @@ When they have completed a message, they can share with a partner who has finish
 15 minutes before the end of the session, have students upload their work to the arduino, and take apart everything. 
 Closing circle/debrief - Discuss the EQ of the day.  
 
-___
-
-# SESSION 10 – BLINKING IN CODE
+## Worksheet 10 – BLINKING IN CODE
 
 ### STEP 1: Morse Code
 Before there were cell phones, we used to use a telegraph to send information using short and long taps.  In the past, people have also used light signals to make short and long blinks.  
@@ -1312,6 +1314,8 @@ You’ll need to following information to complete the challenge:
 2. Every time you see a dash, you want your light to turn on for 300 ms.
 3. In between a dash or dot within the same letter, turn the light off for 100 ms.
 4. When you write a new letter, turn the light off for 1000 ms.
+
+___
 
 ## Reflection
 ### Comprehension
@@ -1479,9 +1483,7 @@ Students do not have to complete all 3 songs - they can complete only one before
 Clean up and break down everything.  
 Closing circle/debrief - Discuss the EQ of the day.  
 
-___
-
-# SESSION 12 - THE BUZZER
+## Worksheet 12 - THE BUZZER
 > OVERVIEW: You will learn how to use a buzzer to play music! 
 
 ### STEP 1: Building your circuit
@@ -1534,7 +1536,9 @@ Note that there are both low notes and high notes on this one!
 CHALLENGE #5: Work with your neighbor to play a song together!  
 CHALLENGE #6: Write your own song!  
 
-## Reflection 
+___
+
+## Reflection
 ### Comprehension
 🗨 and ✎: What patterns did you find in today’s coding activities?  
 🗨 and ✎: What relationships can be found between patterns and music?  
@@ -1615,9 +1619,7 @@ Move on to Challenges 1 and 2. Let students know that ultimately, they will comb
 Clean up work space  
 Closing circle/debrief - Discuss the EQ of the day.  
 
-___
-
-# SESSION 13 – MAKE YOUR ROBOT WAVE!
+## Worksheet 13 – MAKE YOUR ROBOT WAVE!
 > OVERVIEW: We will make your robot wave (or shake his/her head). 
 
 ### STEP 1: Introduction to servos
@@ -1653,6 +1655,8 @@ CHALLENGES:
 CHALLENGE #1: Make your robot wave AND light up at the same time.  
 CHALLENGE #2: Make your robot turn his light on while it is moving, but turn his light off while he is stopped.  
 CHALLENGE #3: Make your robot light up, play music, and move all at the same time!  
+
+___
 
 ## Reflection
 ### Comprehension
@@ -1742,9 +1746,7 @@ Give students 20 minutes to work within their groups to design and create a robo
 Gather all robots at a common place to showcase each group’s completed robot  
 Closing circle/debrief - Discuss the EQ of the day.  
 
-___
-
-# SESSION 14 through 16- BUILDING YOUR FINAL CIRCUIT
+## Worksheet 14 - BUILDING YOUR FINAL CIRCUIT
 > OVERVIEW: This week, we will be putting it all together.  By the end of this section, your robot will dance, light up and play music!  
 
 ### STEP 1: Final robot assembly
@@ -1764,7 +1766,9 @@ Tell us the hardest part about designing your robot.
 Tell us the part that you enjoyed the most about building your robot.  
 Tell us what you learned about yourself during this class.  
 
-## Reflection 
+___
+
+## Reflection
 ### Comprehension
 🗨 and ✎: What patterns did you find in today’s coding activities?  
 ### Challenges
