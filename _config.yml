@@ -27,6 +27,7 @@ github_username:  barnabasrobotics
 
 plugins:
   - jekyll-feed
+  - jemoji
 exclude:
   - README.
   - Gemfile
