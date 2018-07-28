@@ -5,7 +5,7 @@ These may be better served as seperate files in supporting materials-->
 # Day 1 of 16  Introduction to Robotics
 > Suggested Time: 60-75 minutes  
 
-## ![overview image] Lesson Overview 
+## ![overview image][overview] Lesson Overview 
 ### Disciplinary Core Ideas
 - ETS1.B:  Developing Possible Solutions:  Research on a problem should be carried out before beginning to design a solution.  (3-5-ETS1-2)
 
@@ -2849,4 +2849,4 @@ ___
 # Appendix B: DOK Levels
 
 <!-- images -->
-[overview image]:{{ "/assets/images/section_main.png" | relative_url }}
+[overview]:{{ "/assets/images/section_main.png" | relative_url }}
