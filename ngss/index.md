@@ -9,7 +9,7 @@ These may be better served as seperate files in supporting materials-->
 ### Disciplinary Core Ideas
 - ETS1.B:  Developing Possible Solutions:  Research on a problem should be carried out before beginning to design a solution.  (3-5-ETS1-2)
 
-### Learning Target\(s\)
+### Learning Target(s)
 We will identify the basic parts of a robot, and we will work together to build, learn, teach, and inspire.
 #### Technical Skills
 - Listening
@@ -233,7 +233,7 @@ ___
 ### Cross-Cutting Concepts: 
 - Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3-4)  
 
-### Learning Target\(s\)
+### Learning Target(s)
 We will build a simple robot using everyday materials.  
 #### Technical Skills
 - Design
@@ -449,7 +449,7 @@ ___
 ### Cross-Cutting Concepts
 - Connections to Engineering, Technology, and Applications of Science: Influence of Engineering, Technology, and Science on Society and the Natural World Engineers improve existing technologies or develop new ones. (4-PS3-4)
 
-### Learning Target\(s\)
+### Learning Target(s)
 We will learn to design our robot’s body using Computer-Aided Design (C.A.D.).
 #### Technical Skills
 #### Life Skills
@@ -806,7 +806,7 @@ ___
 - Science is a Human Endeavor: People’s needs and wants change over time, as do their demands for new and improved technologies. (3-5-ETS1-1)  
 - Science affects everyday life. (4-PS3-4)
 
-### Learning Target\(s\)
+### Learning Target(s)
 We will learn the parts and properties of a 3-D printer.  
 #### Technical Skills
 - Industrial Design
@@ -969,7 +969,7 @@ ___
 ## Activity Goal:
 We will execute the design created last session
 <!--  Where are the Learning Targets -->
-### Learning Target\(s\)
+### Learning Target(s)
 ### TGechnical Skills
 - Industrial Design
 #### Life Skills
@@ -1089,7 +1089,7 @@ ___
 ### Cross-Cutting Concepts
 - Energy and Matter: Energy can be transferred in various ways and between objects. (4-PS3-1),(4-PS3-2),(4-PS3-3),(4-PS3-4)
 
-### Learning Target\(s\)
+### Learning Target(s)
 We will learn to build each an open and closed circuit.  
 #### Technical Skills
 #### Life Skills
@@ -1354,7 +1354,7 @@ ___
 - Energy and Matter: Energy can be transferred in various ways and between objects. (4-PS3-1),(4-PS3-2),(4-PS3-3),(4-PS3-4)
 - Science is a Human Endeavor: Science affects everyday life. (4-PS3-4)
 
-### Learning Target\(s\)
+### Learning Target(s)
 We will apply the concept of circuits using breadboards.  
 #### Technical Skills
 #### Life Skills
@@ -1637,7 +1637,7 @@ ___
 ### Cross-Cutting Concepts
 - Energy and Matter: Energy can be transferred in various ways and between objects. (4-PS3-1),(4-PS3-2),(4-PS3-3),(4-PS3-4)
 
-### Learning Target\(s\)
+### Learning Target(s)
 We will create a light circuit and write a program with our computer so it turns on and off automatically.  
 #### Technical Skills
 #### Life Skills
@@ -1956,7 +1956,7 @@ ___
 ### Science and Engineering Practices
 - Constructing Explanations and Designing Solutions: Generate and compare multiple solutions to a problem based on how well they meet the criteria and constraints of the design problem. (3-5-ETS1-2)
 
-### Learning Target\(s\)
+### Learning Target(s)
 We will create and decode a message using Morse Code by using coding skills in ArduBlock.  
 #### Technical Skills
 #### Life Skills
@@ -2058,7 +2058,7 @@ ___
 ### Cross-Cutting Concepts
 - Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3-4)
 
-### Learning Target\(s\)
+### Learning Target(s)
 We will be assembling the robot  
 #### Technical Skills
 #### Life Skills
@@ -2147,7 +2147,7 @@ ___
 ### Cross-Cutting Concepts
 - Science is a Human Endeavor: Science affects everyday life. (4-PS3-4)  
 
-### Learning Target\(s\)
+### Learning Target(s)
 We will transfer our previous coding skills toward coding a buzzer to buzz at different frequencies to create music.  
 #### Technical Skills
 #### Life Skills
@@ -2402,7 +2402,7 @@ ___
 ### Cross-Cutting Concepts
 - Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3-4)  
 
-### Learning Target\(s\)
+### Learning Target(s)
 We will use the servo motors to move the robot’s arms and turn its head.  
 #### Technical Skills
 #### Life Skills
@@ -2635,7 +2635,7 @@ ___
 ### Cross-Cutting Concepts
 - Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3-4)  
 
-### Learning Target\(s\)
+### Learning Target(s)
 We will put everything we have learned together  
 #### Technical Skills
 #### Life Skills
