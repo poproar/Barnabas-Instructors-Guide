@@ -14,9 +14,16 @@ These may be better served as seperate files in supporting materials-->
 We will identify the basic parts of a robot, and we will work together to build, learn, teach, and inspire.
 ### Technical Skills
 ### Life Skills
+The importance of encouragement, grit, growth..  
 
 ## Essential Question(s)
-What are the similarities and differences between robots and humans?
+What are the similarities and differences between robots and humans?  
+What is your favorite robot?  
+What do robots help us do?  
+What are the 4 main parts that make up a robot?  
+What are the 4 types of engineering that make up robotics?  
+What does it mean to encourage somebody?  
+What does it mean to you to be a good community member?  
 
 ## Key Vocabulary
 - Barnabas
@@ -27,6 +34,8 @@ What are the similarities and differences between robots and humans?
 
 ## Additional Resources
 ### Videos
+https://youtu.be/8PLF9KwbckM  
+https://youtu.be/wr4QnkbMrf8  
 ### Documents
 ### Other
 Scratch "paper doll" robot as demonstration: https://scratch.mit.edu/projects/124980272/#player
@@ -55,6 +64,7 @@ Students explain how/why robot and human parts are similar
 Students provide examples of encouragement and community
 
 ## Lesson Materials
+- [ ] Engineering Notebooks or
 - [ ] Barnabas Lesson 1 worksheet
 - [ ] Robot drawing
 - [ ] Writing utensil
@@ -67,7 +77,9 @@ ___
 ### Part 1
 Keep multiple:  ways of representation, ways of action and expression, and methods of engagement in mind.  
 Make sure the classroom is set up in a community-building environment (chairs set in a circle, carpet space to sit in a circle, etc.)  
-Explain the overall goal of the Barnabas program:  Creating a robot through encouragement and community, while exploring the four types of engineering (mechanical, electrical, hardware, and software). 
+Share a little about yourself, like your background, and why you want to teach robotics.  You can also spend some time to do a little ice breaker to learn names.  
+Explain the overall goal of the Barnabas program:  Creating a robot through encouragement and community, while exploring the four types of engineering (mechanical, electrical, hardware, and software).  
+
 Discuss the meaning of Barnabas ("Son of Encouragement") and prompt students to provide examples of encouragement  
 Discuss the meaning of community and prompt students to provide examples of community (classroom, neighborhood, sports team, cultural/religious community)
 Present the essential question of the day:  "What are the similarities and differences between a robot and a human?"  
@@ -88,6 +100,54 @@ Briefly explain the 4 parts of the robot in relation to the 4 types of engineeri
 - Brain/Circuit board - Hardware Engineering
 Allow students to respond to the debriefing questions  
 Closing circle/debrief - Discuss the EQ of the day.
+
+### Schoology
+#### Explain the Goal
+Share about the goals of the course through our 4 words: BUILD, LEARN, TEACH and INSPIRE. 
+
+BUILD: We will each be building robots, character, and relationships.  We stress that this class is not just about building something fun and educational, but about growing as individuals.  We incorporate things like perseverance.  This is a great place to introduce concepts like grit and growth mindset.  We also share that it is our goal as instructors to get to know them through the class.
+LEARN: We will be learning engineering as well as learning about ourselves.  
+TEACH: We must share with others what we have learned and built.  We all teach - including the students.
+INSPIRE: We should work to motivate others through what we teach to create positive change.  You may want to share an inspiring story at this point.
+ 
+
+#### The meaning behind Barnabas
+Encouragement: In Biblical Text, Barnabas is the son of encouragement.  Encouragement is important because it nurtures potential, especially when students are trying new challenges. 
+Community: Barnabas was a leader who brought people together to accomplish a greater goal (Paul and Peter).  We are more powerful when we work and communicate as communities or teams.  Individually, we all have our strengths and weaknesses.
+Explain that the students are now part of a community (or team), and you are the coach.  Let them know that you are there for them and that it is your job to create a safe environment for intellectual and emotional growth.
+
+#### Why we document
+Explain that documenting their work in their notebooks is important because 1. we can then remember what we built and learned and 2. others can learn from our work.  This helps prepare students to use lab books in high school.
+If you have journals, pass them out at this point
+If you are using our online schoology system for journaling, have your students create a schoology student account.
+
+Have kids break up into groups of two to four.
+Pass out the engineering notebooks and have the students write their names on their copies.  Have them answer:
+What do robots help us do?  
+Then have then draw their favorite robot.
+
+Have the students share their answers within the groups, and then expand it to a class discussion.
+Here are several positive examples of what robots do:
+Personal Robotics: Roomba, Jibo
+Farming: Robots can water crops
+Photography: Drones for photography and video
+Humanity: prosthetic arms, mine removers, military rescue bots
+Healthcare: robotic surgery, small robots for diagnosis
+Science: Moon rovers, space exploration, ocean exploration
+Manufacturing: car manufacturing, painting
+Delivery: drones
+Security: cameras that follow you
+This is also a good time to show that robots are a tool that can have positive and negative uses.  For example, the same drones as above can be used in military campaigns with significant civilian casualty, and autonomous cameras hold significant risks to personal privacy.  We think it is important to come to robotics engineering with a sense of social responsibility.
+
+What Makes Up A Robot?
+Have a volunteer come up to the front of the class and draw their robot.  Building upon their drawing, explain the three parts of building a robot.
+The body of the robot is a good analogy for mechanical engineering.  The arms, legs, and head (and possibly other additions) make up the body.  The body creates a physical framework so that the robot can accomplish its tasks.  This is mechanical engineering.
+The nervous and cardiac systems are a good analogy for the electrical engineering component of the robot.
+The heart is the battery, which is uses wires to transport power to the rest of the body (arteries, veins capillaries).
+There is usually a central electronic device, which is analogous to the brain, which is directly powered by the battery (using veins) and sends information to the rest of the body (using nerves).  In our kit, this device is the Arduino.
+Our physical brain by itself cannot tell us to write sentences or shoot a basketball.  As we learn things, we store memories and instructions in a part of our brain that we cannot see or sometimes understand.  We are learning more about this consciousness in science.  This consciousness is analogous to software engineering.  We have to write instructions so that our robots can perform their commands.
+Explain that we will learn about each part and put it all together at the end to make our very own robot.
+
 
 ## Worksheet 1 - Introduction to Robotics
 > LEARNING TARGET:  We will identify the basic parts of a robot ,and we will work together to build, learn, teach, and inspire!
@@ -169,15 +229,23 @@ ___
 - ETS1.C: Optimizing the Design Solution: Different solutions need to be tested in order to determine which of them best solves the problem, given the criteria and the constraints. (3-5-ETS1-3)
 
 ### Cross-Cutting Concepts: 
-Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3-4)  
+- Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3-4)  
 
 ## Learning Target(s)
 We will build a simple robot using everyday materials.  
 ### Technical Skills
+- Design
+- Mechanics
+- Servo Motors
 ### Life Skills
+- Teamwork
+- Community
 
 ## Essential Question(s)
 What is necessary of all community members to achieve a common goal?  
+Why do we need one another?  
+Why is it important to work together?  
+What is the benefit of it?
 
 ## Key Vocabulary
 - Servo motor
@@ -186,6 +254,13 @@ What is necessary of all community members to achieve a common goal?
 
 ## Additional Resources
 ### Videos
+How To Use The Servo Tester - https://youtu.be/haUCJdHcrOc
+Shove or Sweep or Tip
+https://youtu.be/-K1fE6fdUIw
+https://youtu.be/RM-__kgLIhk
+https://youtu.be/3EYNjyEtKho
+https://youtu.be/ZlEpG98o4Is
+https://youtu.be/b37fPzDEjO8
 ### Documents
 ### Other
 
@@ -254,6 +329,53 @@ Give students 20 minutes to work within their groups to design and create a robo
 Gather all robots at a common place to showcase each group’s completed robot  
 Closing circle/debrief - Discuss the EQ of the day.  
 
+### Schoology
+#### Explain the Goal
+Your team will be given a servo motor that spins half a circle (or 180 degrees).
+Your team will also be given a kit of parts. 
+Your job will be to work together to build a robot that can hit a cup that is 8 inches away.
+Each kit of parts is different, so you’ll probably need to share parts. 
+We have a common goal of all groups succeeding, so remember to work together!
+
+#### Thinking on your own.
+Look at your parts and think about how you can build a robot to achieve the challenge.  Write down your ideas.
+
+#### Collaborate.
+Share your design with your team and come up with a design that you would like to build together as a team.
+
+#### Additional Robot Challenges
+Build a robot that can launch a ping pong ball into a cup that is 8 inches away
+Build your own robot using the servo and servo tester.  Maybe you can even combine motors and parts to create the ultimate robot!
+
+Explain the main robot parts
+The body: Each group will be givin a bag of household items.  The kids will need to be creative to use these items to accomplish a goal.
+Servo motor: This is a common motor used in hobby robotics.  We use it to turn things to specific places.  Ask the kids how many degrees is in a circle (360 degrees).  Explain that the servo motor moves a total amount of half a circle (180 degrees)
+Arduino/LittleBits controller: This is the brain of the robot that will be controlling the movement of the motor.
+9V Battery: This is the part that powers the robot.
+Demonstrate the motor moving back and forth by connecting the servo motor, arduino/littleBits controller and the 9V Battery.
+Robot make-up review: Take this opportunity to review the 4 main parts of the robot. Have the kids think about which one is the heart, body, brain and soul.
+Body = Household Items
+Heart = Battery
+Arduino = Brain
+Soul = You can't see it, but it is the program that is on brain.  It tells the motor when to spin, and how much to spin.
+The goal: Use the parts that you are given within your team to build a robot that will hit a cut that is 8 inches away from the center of your robot.  They can only use the materials provided, and their robot must be able to stand up on it's own.
+The ultimate goal: Explain that we have a common goal of all groups succeeding.  Not all robot kits are the same, so they will probably need to share parts.  This is an opportunity for the kids to explore friendly competition and collaboration.
+Break the kids up into teams of 2-3.
+Hand out the little robot kits.  Each team will household parts and Servo Motor (Body).  Explain that the teacher will plug in the heart and the brain when they are done with their design.
+Design Process
+Explain the difference between design and build.  Build = to physically build something.  Design = Plan what you build.  Would we build a house without planning?  Probably not!
+Explain the role of design. (1) To make things beautiful (2) To make things functional
+Based on what parts they have, and the goal that they need to acheive, have the kids start planning their design.  They can first work individually, and then collaborate within their group.
+Build Process
+Now that the design is complete, give the kids time to start building.  
+You can periodically have the kids bring their design up to test with the brain and battery.  Encourage them to provide a hypothesis of what will happen before you activate your robot, and ask them to observe what actually happens.  Before they leave, have the kids walk through what they believe they need to do in order to improve their robot. 
+
+#### Showcase
+Have the groups present how they designed their robot and overcame their unexpected challenges.
+Turn on their motors and see if they acheive the challenge!
+If you have more time, you can have the kids try to improve their robot to see if 
+
+
 ## Worksheet 2 – Building our First Robot
 
 ### STEP 1: Our first robot challenge!
@@ -294,11 +416,14 @@ ___
 🗨 or ✎: Why is design important?  
 🗨 or ✎: What did you learn about building your robot’s body?  
 ### Challenges
+Did your final robot look exactly like your design?  
+If it is different, explain how it is different.  
 ### Enjoyment
 ### Mindset
 ### Community
 🗨 or ✎: Did you work well as a team?  Why or why not?  
 🗨 or ✎: Did you work well with other teams?  Why or why not?  
+What did you learn about teamwork through this activity?  
 
 ___
 
@@ -326,9 +451,15 @@ ___
 We will learn to design our robot’s body using Computer-Aided Design (C.A.D.).
 ### Technical Skills
 ### Life Skills
+- Perserverance
+- Teaching
 
 ## Essential Question(s) 
-What challenges can Computer-Aided Design (C.A.D.) present for a beginning user?
+What challenges can Computer-Aided Design (C.A.D.) present for a beginning user?  
+What is perseverance?  
+Why is it important to practice perserverance?  
+Why should we take the opportunity to teach others what we know?  
+Does teaching help others? ourselves?  
 
 ## Key Vocabulary
 - Computer-Aided Design (C.A.D.)
@@ -341,6 +472,11 @@ What challenges can Computer-Aided Design (C.A.D.) present for a beginning user?
 
 ## Additional Resources
 ### Videos
+Basic Viewing - https://youtu.be/L7ud2i_yfRI
+#### Troubleshooting
+What to do if the dimension doesn't show up on your "B" - https://youtu.be/7Tk3Te7UkmU  
+What to do if the "B" dissapears - https://youtu.be/aynBOY_6TBM
+
 ### Documents
 Direct link to "Barnabas-Bot 2.2" template in onshape.com: https://goo.gl/DlDJ53  
 ### Other
@@ -403,6 +539,84 @@ If you would like the students to name their public copies of the template with 
 Give students 35 minutes to work following the instructions on the worksheet  
 Remind students to save their file and reconvene. If they are not finished, they have the entire next lesson to complete the task.  
 Closing circle/debrief - Discuss the EQ of the day.  
+
+### Schoology
+#### Explain the Goal
+Create a production ready file
+Onshape
+Creating your design file - copy from template
+
+OnShape basics
+Here are a few tips on how to move stuff around in OnShape. 
+
+OnShape Basic Movements
+Open the file "robot body front plate."
+
+#### Rotation
+Method 1: L-CLICK on arrows in the cube on the top left to rotate the entire perspective.
+Method 2: R-CLICK on a part and move the mouse.
+Method 3: L-CLICK on the "FRONT, BACK, LEFT, ETC." on the cube on the top left.
+#### Translating a part (moving it up, down and side to side)
+Method 1: Hold down CTRL and R-CLICK on the part to move it around.
+Method 2: L-CLICK down using the SCROLL button to move it around.
+#### Zooming
+Use the scroll button to zoom in and out.
+Go to "FRONT VIEW."
+Press "F" to fit the part into your screen.  This is called, "ZOOM TO FIT."
+
+#### Write on your robot's body
+Open the "robot body front plate" file in OnShape.  
+Change the size of the text
+Double L-CLICK on the “B” until you see a number pop up on the right side of the screen
+
+Change the number to a larger number (like 2 or 3). The B should be larger now!
+Change the value to “0.5”. The B should be smaller now!
+Click on the green check mark to save your changes
+
+Move the location of the text.
+R-CLICK on the “B” and L-CLICK on “Edit Sketch 1…”
+L-CLICK on one of the 4 blue corners (they are kinda small, you might need to zoom in) of the rectangle around the B and drag the blue rectangle up and down
+
+Click on the green check mark to save your change
+Change the text.
+R-CLICK on the “B” and L-CLICK on “Edit Sketch 1…”
+R-CLICK on the “B” again and L-CLICK on “Edit Text”
+
+Now change the text to “C”. Click on the green check mark and see if it changes!
+Now change the text to “BARNABAS”. You’ll see that it doesn’t fit on the robot face. How can you make it fit? (Change the size of the text to 0.3 or less)
+Click on the green check mark and see if it changes!
+Now change the text to whatever you want!
+It can be a single letter, or many letters. Play with different sizes. Make sure that all of the text fit on the robot! Remember to click on the green check mark to save your changes! Make sure to keep the size of the text larger than 0.3 so that it comes out well during printing!
+
+#### Creating An Assembly File
+Put your robot together
+This is where you will put all your robot's body parts together and create the final file that you will share with us.
+
+Create an assembly file
+L-CLICK on the “+” sign at the bottom left of your screen
+L-CLICK on “Create Assembly”
+Your assembly file should automatically open up
+
+Insert your body
+Insert your body by clicking on the insert button
+
+Now select the "robot body" file by selecting it inthe list of files. Place it in your assembly file and click on the green check mark to save your work!
+Now go to the Front View
+Insert your custom plate
+Now insert your "robot body front plate" file.
+Align the front plate with the body by left clicking on it and dragging it. You’ll need to rotate the views to get it to align correctly
+
+Insert your head
+Using the same process as before, insert the head that you want
+
+Insert your left arm and align it
+
+Insert your right arm
+You'll need to rotate it to align it correctly
+L-CLICK on the arm to show the rotation tool
+Click on the circle shown in the picture to rotate it
+
+After it is rotated, align it correctly with the hole
 
 ## Worksheet 3 - BUILDING OUR ROBOT’S BODY
 > OVERVIEW: We will learn how to design your robot’s body using Computer-Aided Design (C.A.D.).  We will use these files to 3-D print your one-of-a-kind robot!
@@ -516,6 +730,30 @@ ___
 
 ___
 
+### Schoology
+#### Explain the Goal
+Fastening Parts
+Adding Your Servos
+Creating Shapes On Your Robot Front Plate
+https://youtu.be/chbKu-L9G5U
+
+#### Create a Custom Part (BONUS)
+https://youtu.be/f5TutKGCvLM
+Dimensions and Constraints
+https://youtu.be/_2kt-yNn5HU
+
+#### Creating a Mechanical Drawing
+R-CLICK on the assembly file tab that you just created
+L-CLICK on "Create drawing of ... "
+
+A screen will pop up. Make sure that "Four views" is selected under "OPTIONS", and L-CLICK on "OK"
+
+A drawing will be automatically created.
+
+Double L-CLICK on the text boxes to edit the text. Write your name as well as your robot's name.
+
+Sharing - https://www.onshape.com/cad-blog/tech-tip-sharing-in-onshape
+
 ## Worksheet 4 – ADVANCED C.A.D.
 > OVERVIEW: We will learn how to add shapes to our robots’ front plates.
 
@@ -569,7 +807,9 @@ ___
 ## Learning Target(s)
 We will learn the parts and properties of a 3-D printer.  
 ### Technical Skills
+- Industrial Design
 ### Life Skills
+- Support
 
 ## Essential Question(s) 
 What are the limitations of 3-D printing?
@@ -584,6 +824,7 @@ What are the limitations of 3-D printing?
 ### Videos
 Video: 3-D Printer and How it is Made https://youtu.be/f4RGU2jXQiE  
 Video: 3-D Printer in Action https://youtu.be/Gwro2HzxMgw  
+https://youtu.be/mQGYvx2O8AA  
 ### Documents
 ### Other
 
@@ -631,6 +872,28 @@ Personalize the robot through answering questions in Step 5
 Closing circle/debrief - Discuss the EQ of the day.  
 Make sure to collect each student’s last page with their robot color and design so that it can be used for lesson 6.  
 
+### Schoology
+#### Explain the Goal
+
+Introduction to 3-D Printing
+What is 3-D printing?
+Our best analogy for describing how 3-D printing is describing how it is a lot like printing on paper, except the layers of printing build up, and the printer lays the next layer on top of the current one.  Another analogy that has been helpful is imagining that the 3-D printer is squirting out plastic just like how you write your name on a cake, except the printer lays multiple layers on top of each other.
+What is it used for?
+Engineers use 3-D printers to quickly build a 3-D object that they designed.  With 3-D printers, you can now perform rapid prototyping in your own home.  This saves both time and money. 
+What do you send to a 3-D printer?
+Engineers create a Computer Aided Design (CAD) file and send it to a 3-D printer through the computer.  Explain how we sent the CAD files that we created in the previous lesson to print their one-of-a-kind robot
+Draw and explain the parts of a 3-D printer.
+CAD File: the design file that is created on the computer.  This is the "blueprint" of your 3-D object.  We are printing a robot in our class.  It could also be almost any other object, like a keychain, iphone case, cup, etc.
+PC: The computer that is used to send the CAD file to the 3-D printer.  The PC must have 3-D printing software installed on it to talk to our 3-D printer.
+Plastic: Plastic (or filament) is used by the 3-D printer to create the object.  
+Cartridge: This is where the plastic (or filament) is held.
+Extruder: used to extrude (or release) hot plastic.  It is also where the plastic is heated up so that it can come out of the little nozzle.
+Platform: where the object is printed.  
+Show them the 3-D printer.  
+Sample questions: How many motors are there in the 3-D printer.  What do you think they all do?  Can you point out all the components?  
+#### 3-D printing demo
+Print a small file so that the kids can see the 3-D printer in action!
+
 ## Worksheet 5 – 3-D PRINTING & DESIGN
 > OVERVIEW: We will enter the world of 3-D printing!
 
@@ -665,12 +928,27 @@ ___
 
 ## Reflection
 ### Comprehension
+The _ heats is where the plastic comes out of before it goes onto the bed  
+The most popular material for 3-D printing is _.  
+The filament is made out of _.  
+How many motors are in the 3-D printer that was used in the demonstration?  Explain what all the motors do.  
+The _ holds the filament.  
+Explain how 3-D printing works  
+Before a CAD file can be printed, it must first be put into a special program called a _.  
+The filament needed to increase to _ degrees C before it could be used to print.  
+Why do engineers use 3-D printers?  
+Describe the object that was printed out.  
+How long did it take for the object to print out?  
+What did you learn about 3-D printing that you didn't know before?  
+What can go wrong during 3D printing?  
 ### Challenges
 🗨 or ✎: Which aspects of 3-D printing were challenging for you?  
 ### Enjoyment
 ### Mindset
 🗨 or ✎: What would you print, if you could create and print anything? Why would you print that object?  
 ### Community
+What can we do to prevent things from going wrong?  
+Bring in the important of the first layer during 3D printing.  Why is it important?  What happens if the first layer does not stick?  Will the structure be built?  
 
 ___
 
@@ -689,8 +967,16 @@ ___
 ## Activity Goal:
 We will execute the design created last session
 <!--  Where are the Learning Targets -->
+## Learning Target(s)
+### TGechnical Skills
+- Industrial Design
+### Life Skills
+- Communication
+
 ## Essential Question(s)
 What complications might you come across when bringing a design to life?
+As humans, how important are our looks?  
+How important are our functions (talents, skills, etc)?  
 
 ## Key Vocabulary
 
@@ -742,6 +1028,40 @@ Let students paint and decorate their robots
 Clean up materials  
 Closing circle/debrief - Discuss the EQ of the day.  
 
+### Schoology
+#### Explain the Goal
+Do you like apple products (iPhone) or Samsung (Galaxy)?  Why?
+What is industrial design?  It is mainly two things.
+What do you need to consider when you are trying to figure out which way to 3-D print an object?
+
+Describe how you plan to paint your robot.  What color will be his/her head, arms, chest and body?
+
+#### Industrial Design
+Talk to the students about what design is.  We use design to create beautiful (beauty) or useful (function) items.  
+Possible discussion questions
+What do they find beautiful or useful in their electronic items at home?  Ex: cars, microwaves.
+Have the kids design cars or smart phones for themselves, then for someone else. Discuss the differences between the two, and why.  
+Have the kids design sandwiches for themselves, then for someone else.  Discuss the differences between the two, and why.  (Works well with the younger kids)
+ 
+Hand each student a printed drawing of their CAD file.  
+Have each student put their own box together, and have them paste/glue their CAD drawing on the inside of it.  Explain to them that this will be their box for the rest of the semester.
+Also provide name tags and Barnabas-bot labels for their boxes.
+Now that the kids have their boxes, have the kids spend some time designing their robot.  Let them know that we will be painting tomorrow!
+ 
+#### Overview
+Once you have received your Barnabas-Bot kit, take out the plastic body parts (head top, head base, body and arms).  Now, use your imagination and creativity to give personality to your robot!  We typically use acrylic paints in our classes to paint the robot bodies, but you can also use Sharpie markers for a fast-drying alternative. 
+
+(Be careful not to get your paint or ink on your furniture or clothing!)
+Instructions
+
+1. If you haven’t already, discuss the concept of Industrial Design with the students.  Talk about how engineers in the real world take into account beauty as well as function when it comes to creating products.  Industrial design helps us connect the heart to the mind.  I will sometimes lead a discussion about Samsung vs. Apple, bringing to mind the concept that we have opinions about products because of both function AND beauty.  See pictures on the right.
+2. Have the kids plan out how they want to decorate their robot.  You may even want the kids to create a color map.  During this time, it could also be a good idea to ask who their robot is for.  Is it for themselves?  Is it for someone else?  Who the robot is for can determine how they design the look of their robot!
+3. Time to decorate!  
+    a. If you are using sharpies, we recommend having the kids put a plate under their robot so that you don’t mark up your table.  
+    b. When using acrylic paints, remember that you don’t need water to use the paint.  Instead, just use one or two cups of water to store used brushes.  I typically have the students start with two brushes and I tell them to only use only one brush per color.  Have the students change brushes when they want to use a new color.
+See below for some cool examples of our students' robots!  
+Lots of sample pictures  
+
 ## Worksheet 6 – TIME TO PAINT!
 > OVERVIEW: Today, we will paint our robots.  We typically use acrylic paint.  Make sure that you follow your teacher’s instructions on how to paint.  Have fun!
 
@@ -771,6 +1091,7 @@ ___
 We will learn to build each an open and closed circuit.  
 ### Technical Skills
 ### Life Skills
+- Failure
 
 ## Essential Question(s)
 What impact does electricity have on our world?
@@ -839,6 +1160,103 @@ Draw the new schematic with two AA batteries
 Prompt groups that understand the concept to work on the bonus challenges  
 Closing circle/debrief - Discuss the EQ of the day.  
 
+### Schoology
+#### Explain the Goal
+
+Reading our First Schematic
+Review the schematic below;
+
+You can see the battery has 1.5V printed underneath it. This refers to the batteries voltage, which has to do with the power of the battery. The unit of voltage is the Volt.
+Both the battery and LED are known as electrical components.
+Both components have positive and negative sides (even though the schematic doesn't show it, we'll get back to that later). This is important because the positive and negative sides of our components have to match up for out circuits to work.
+Building it!
+
+Take out your AA battery and AA battery holder. Try to find the voltage on the battery, does it match the voltage on the schematic (1.5V)?
+Place the AA battery into the battery holder. Make sure that the battery is facing the right way. The positive end of the battery should be facing the side with the red wire and the negative side should be facing the side with the black wire.
+Take out your LED. The longer leg of the LED is the positive side and should be attached to the red wire. The shorter leg of the LED is the negative side and should be paired with the black wire.
+Take some time to build your circuit and see if you can make your LED light up.
+
+Two batteries are better than one
+
+You may have noticed that your circuit won't light your LED. That's because two batteries are needed to light this LED!
+
+The circuit Diagram for our new circuit looks like this;
+
+Now we  just have to build the circuit! This one is a little more complicated, so here are some pictures to help you out. Oh yea, and your going to need a partner to build this circuit.
+
+1. Connect the + wire (red) of the first battery to the + leg (longer one) of the LED
+2. Connect the - leg (shorter one) of the LED to the - wire (black) of the second battery
+3. Connect the + wire (red) of the second battery to the - wire (black) of the first battery
+https://youtu.be/5P-3rSK79Uo
+
+What is the color of your LED once it is on?
+What is the total voltage that the LED now sees?
+What happens when the wire connections are loose?
+What happens when the wire connections are tight?
+
+Bonus Challenges
+
+Challenge #1
+Build a circuit that uses 4.5V to turn on the LED.  See the schematic below.  
+
+After building, do you see a different in the brightness of the light?
+
+Challenge #2
+Build a circuit that turns on two LEDs with just two 1.5V batteries.  HINT: This is a parallel circuit.
+
+Challenge #3
+Draw the schematic for the circuit in challenge #2
+
+Challenge #4
+Using what you learned, draw the schematic for a circuit that can turn on three LEDs with just two 1.5V batteries.  After you have drawn it, try building it to see if it works!
+
+NOTE: You'll probably need to work in a group of 3 to do this challenge!  
+
+#### Basic Electronics
+Draw a robot.  I like to draw Eve from Wall-E.  We are building on part of the lesson plan from Week 1.
+Eve's battery is analogous to a human heart.  Draw a heart on your robot.  We cannot live without our hearts pumping blood to the rest of our bodies, and robots cannot turn on without a battery.  Human hearts pump blood, similar to how robots batteries supply electrical power.
+Eve's wires are analogous to a human's arteries, veins, and capillaries.  Draw a full circulatory system on your robot.  We cannot be healthy if our arteries are blocked or veins are weak and cannot supply appropriate blood flow to our body, similarly, issues with wiring can seriously affect the robot even if the battery is fully charged. 
+Eve's current flow is analogous to human circulation.  Just as blood flows in one direction in our bodies: from our heart out to arteries into capillaries in our bodies where oxygen is used to veins that carry the blood back to our heart where the oxygen can be replenished (actually the blood also flows separately to the lungs to be reoxygenated, it is written here thusly for simplicity), a circuit goes in particular directions in a robot to work best.  Just as the circulatory system makes a loop, a circuit makes a loop too.
+Closed-Circuit: A closed-circuit is when there is a complete loop in your electrical system.  In this case, electricity can flow.
+Open-Circuit: An open-circuit is when the loop is broken.  In this case, electricity cannot flow.  Explain that the robot cannot live if we have an open-circuit - much like how we cannot live if blood is not circulating in our body.
+Short-Circuit: A short-circuit is when you have a loop, but electricity is flowing too fast.  Ask the kids what happens in our body when blood flows so fast that our veins can't handle it (it might burst!).  In order to fix this, we need to slow it down.  This introduces our final concept... resistance!
+Resistance: Resistance is introduced in a circuit to slow down the flow of electricity so that our wires don't burst.  It is important, because without it, our circuits may get really hot and catch on fire!  In a circuit, we call this component the resistor.
+Building our first LED circuit (1.5V)
+Draw the LED schematic.  Encourage the students to determine the voltage of the circuit by examining their parts.  HINT: It is written on the battery.  Explain that the voltage determines how fast electricity moves through the circuit.  The higher the voltage, the faster the electricity moves.  Explain that electricity flowing through a circuit is called a "current," and there are positive and negative sides on both the battery as well as the LED.  They need to line up the positves and negatives up for the circuit to work!  
+
+TIDBIT: Not all electronic components have positive and negative ends, as we will see later. However the LED being used must be placed in the following way due to some fairly simple physics. Have you ever made a lemon or potato battery? The key to getting a potato battery to work is that either side of the potato must be poked with some sort of metal AND a different metal must be used for each side. When the two metals are placed side by side one seems slightly negatively charged and the other seems slightly positively charged. This is what allows the potato to generate voltage and make current travel in a specific direction. The LED likewise has two different metals at either side of it, so it prefers current to flo in one direction through it.
+Explain that a schematic is: the plans of a circuit.  Compare it to the blueprint of a building.  
+At this point, distribute the robotics kits.  Have them take out:
+AA battery
+AA battery connector
+LED
+Have the students build the circuit with the components that they took out.  Let them figure out how to put the battery in correctly into the battery holder, as well as which side is positive (red) and negative (black).  The positive end of the LED has a longer wire.
+
+#### IT DOESN'T WORK!
+Your students will notice that the LED does not light up.  Ask them why (HINT: the 3V LED needs at least 3 volts to turn on).  At this point, talk about the metaphor of a voltage and a waterfall.  Explain that the taller a waterfall is, the more power you will get out of it.  It is the same with voltage.  The more voltage, the more power you will get.
+Ask the students how we can get the necessary 3V to light up the battery (get a bigger battery -- but we don't have one that we can hook up, OR combine 2 batteries!)
+Building our 3V Circuit
+Draw the 3V LED Schematic
+
+Ask the kids to identify the difference between this schematic and the one we drew before (there are two batteries).  How many total volts does the LED see now? (1.5 + 1.5 = 3.0).
+Have the kids work together to build the circuit.  Everyone will need to pair up to have enough batteries for the circuit.  NOTE: If you have an odd number, you as the instructor can pair up with one of the kids.
+After the kids have a chance to try, bring the class together and walk through building the circuit one component at a time by starting at the "+" of V1.  The process
+1. Connect the + wire (red) of V1 to the + leg (longer one) of L1
+2. Connect the - leg (shorter one) to the - wire (black) of V2
+3. Connect the + wire (red) of V2 to the - wire (black) of V1
+4. You are done!
+
+#### Troubleshooting:
+We recommend labeling the two batteries with tape so that the kids can tell the difference between "V1" and "V2".
+Kids often connect the positive terminals and negative terminals of the batteries together, rather than connecting the negative to positive (as shown in the schematic).  This incorrectly creates a parallel circuit.  If they do this, they will see that the LED still doesn't light up.  You can take this opportunity to talk about "series" circuits versus "parallel" circuits, if you like.  A "series" circuit stacks the batteries on top of each other, so that the voltage is added together (like putting two same height waterfalls on top of each other).  A "parallel" circuit puts them next to each other so that the voltage stays the same, but there is more current available (like putting two same height waterfalls next to each other).
+See below for a schematic of the incorrect "parallel" circuit. 
+
+The LED we use has a forward voltage of 3.1V-3.4V and a forward current of 5mA-21mA.  We have found that if you power the LED with 3V without a resistor, the LED will be fine.  However, if you connect more than 3V, it can damage the LED (burst the vein).  Therefore, if we go higher than 3V, you'll need to add a resistor (we will cover this in the next lesson)
+Another common error is creating a series circuit where the polarity of the batteries is incorrect, like in the circuit diagrams below;
+
+We can explain why this circuit doesn't work once again with the waterfall analogy. Our batteries effectively increase the height of our waterfall, however a battery placed backwards will have the opposite effect. So if we look at either end of our LED, instead of seeing one side as higher than the other we see the LED is resting on flat ground and therefore doesn't light up.
+WHY WE NEED A "BREADBOARD": What happens when the connection is tight?  What happens when it is loose?  The students should notice that the LED is brightest when the connection is tight.  They should also notice that they need to hold all the wires together in order to get the circuit to stay on.  This is when we introduce the concept of a breadboard.  The breadboard helps us make circuits in a way where we can make strong connections without needing to hold the wires together.  This leads us to our next lesson!  
+
 ## Worksheet 7 – EXPLORING THE ROBOT’S HEART
 > OVERVIEW: We will  learn how the "heart" of the robot works.  Remember, the "heart" refers to the battery of a robot.  We will explore the area of electrical engineering.  Have fun!
 
@@ -858,6 +1276,7 @@ Closing circle/debrief - Discuss the EQ of the day.
 🗨 or ✎: What is a schematic?  
 🗨 and ✎: What is the difference between a closed circuit and an open circuit?  
 🗨 and ✎: What happens when there is a short circuit?  
+What is a resistor?  
 
 ### STEP 4: Reading our first schematic
 Review the schematic below.   
@@ -899,6 +1318,13 @@ ___
 ### Challenges
 ### Enjoyment
 ### Mindset
+Life Discussion: Failing is part of learning  
+Fail fast.  
+Failing is part of learning.  
+What do you feel when we fail?  
+What is bad about failing?  
+What is good about failing?  
+Failing is not your identify. It is part of your training.  
 ### Community
 
 ___
@@ -930,9 +1356,13 @@ ___
 We will apply the concept of circuits using breadboards.  
 ### Technical Skills
 ### Life Skills
+- Freedom
 
 ## Essential Question(s)
-How has breadboarding changed the way a person creates a circuit?
+How has breadboarding changed the way a person creates a circuit?  
+What does freedom mean to you?
+Freedom to learn?  
+Freedom to fail?  
 
 ## Key Vocabulary
 - Breadboard
@@ -953,6 +1383,7 @@ How a breadboard works: https://youtu.be/QFm8Gkofgs8
 Build the 5V LED circuit: https://youtu.be/iY3Ygg6Ucq0  
 ### Documents
 ### Other
+[Sparkfun Breadboarding Tutorial](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard)
 
 ## Depth of Knowledge Levels Addressed
 > See Appendix B
@@ -1003,6 +1434,124 @@ Increase the voltage and discuss what happens to the LED
 Take apart all materials and put them away correctly  
 Closing circle/debrief - Discuss the EQ of the day.  Discuss the value of designing circuitry with a breadboard (ex. Because breadboards do not require soldering, they may be reused to prototype various electric products with diverse functions. What is the value in this for a engineering?).  
 
+### Schoology
+#### Explain the Goal
+Our First Breadboard Circuit
+
+Using what you’ve learned, now use the breadboard to make your 3V LED circuit. 
+
+The goal here is to create a circuit that stays on without you needing to hold on to any wires. 
+
+HINT: You can stick the AA battery holder wires and LED wires directly into the breadboard. 
+
+When building this circuit remember how the breadboard is wired, only the rows are connected, and not across the middle barrier.
+
+
+#### Bonus Challenges
+
+##### Challenge #1: The Twinkle Light Challenge - Series
+Work with a team (3 or 4) to create the following circuit using the breadboard.  
+
+Going Deeper
+6 volts is going into L1 and L2.  Can you see why?  
+Notice that L1 and L2 are connected on top of each other.  This is called a series connection.  What happens once you take out one of the lights?
+Try building the same circuit except with 4.5V.  Does is still work?  Why or why not?
+Try building the same circuit except with 3 LEDs.  Does is still work?  Why or why not?
+
+##### Challenge #2: The Twinkle Light Challenge - Parallel
+Work with a team (3 or 4) to create the following circuit using the breadboard.  
+
+Going Deeper
+This circuit only runs on 3V, but it works.  Why is that the case?  What is the difference between this circuit and the one from the previous challenge?
+Notice that L1, L2 and L3 are connected next to each other.  This is called a parallel connection.  What happens once you take out one of the lights?
+You have now learned about series and parallel connections.  Which type of connection is better for a long line of twinkle lights?  Why?
+
+##### Challenge #3: The button
+Using the breadboard, we are going to add a button to your 3V LED circuit so that you can turn it on and off.  
+
+First, place the button onto your bread board (see below).  Make sure to that the button is oriented the right way! 
+
+Notice that the two top legs are connected to row 1 and the two bottom legs are connected to row 3.  Once the button is pressed row 1 and row 3 will be connected.  When ithe button is not pressed, row 1 and 3 will NOT be connected.
+
+Now review the schematic below.  Notice that there is now a button.  See if you can make the appropriate connections.  Once the circuit is built correctly, the light should turn on once you press the button and turn off once you let go of the button.
+
+###### HINTS:
+Connect row 1 of your breadboard to the minus of the light.  
+Connect row 3 of your breadboard to the minus of V2
+
+##### Challenge #4: Buttons with lights
+Using what you have learned, draw a schematic of a circuit that does the following: Two lights are typically off.  Once you push the button, they both turn on.
+Now build it and see if it works!  If not, try again.  Remember, BUILD, LEARN, MEASURE.
+
+##### Challenge #5: Buttons with lights... with a twist
+Using what you have learned, draw a schematic of a circuit that does the following: One light is always on, and the other light turns on only if the button is pressed.
+Now build it and see if it works!  If not, try again.  Remember, BUILD, LEARN, MEASURE.
+
+#### Increase the Voltage
+Now that we have learned how to use a breadboard, let's try to connect the heart and brain of our robot to light our LED!
+
+This circuit is almost identical to the two battery (3V) circuit. The only difference is that we are using the noggin as our battery.
+
+Since we don't have our battery holders anymore we'll need red and black jumper cables to attach the noggin to the breadboard. The red wire will be attached to the 5V pin in the noggin and the black wire will be attached to the GND pin in the noggin.
+Notice that we have a new component as well! The component at the top of the diagram above with the yellow, purple, and red bands is called a resistor. We need the resistor because we have increased the voltage of our circuit from 3V to 5V, which makes more electric current flow through our circuit. The LED we are using doesn't like to have too much current flowing through it and can be damaged if we're not careful.
+IMPORTANT: If you do not use a resistor in this circuit you can damage the LED, so be careful!
+After constructing the circuit and getting it to work try replacing the 4.7K Ohm resistor (yellow purple red) with the 470 Ohm (yellow purple brown) resistor. What do you notice?
+
+#### Going Further with Resistance
+The higher the resistor, the lower the flow of electricity.  The lower the resistor, the higher the flow of electricity.  If we change the resistance from 4.7K to 470 Ohm, what do you think will happen to the light?
+Try replacing the 4.7K Ohm resistor with the 470 Ohm resistor.  What happens to the light?
+Put the 4.7K Ohm resistor back into your circuit.
+
+Have you seen a light switch that you turn like a dial?  Think about how you might build something like that based on what you have learned.  
+
+What is a breadboard?  
+A breadboard helps us connect our wires (analogous to blood vessels) together.  We can connect our wires to the holes in the breadboard to make secure connections without needing to tie the wires together.  This is useful, especially when we need to change the connections often.  This is common while engineers figure out how to best make their ideas happen.  
+Draw a picture of the miniature breadboard on the white board.  NOTE: You can use the 1-17 (rows) and A-J (columns) references to tell kids where to place wires as the lesson progresses.  
+
+How many rows are there? (17)  
+How many columns are there? (2 sets of 5)  
+All the holes on each row of 5 are connected to each other.  Test the kids to see if they understand which holes connect to one another  
+Our first breadboard circuit  
+We will now build our 3V LED circuit using the breadboard.  
+
+Walk through building it together:  
+How many components do you see in the schematic? (3 - battery V1, battery V2, LED)
+HINT: Each component connects two wires together.  Do you remember how many holes connect each wire? (5).  Explain that when you cross over each component, you need to go to a different wire (different row).
+Walk through the breadboard wiring, starting with the + side of V1.  Show that a closed-circuit (loop) is completed with the circuit.
+You have built your first breadboard circuit!
+
+Using the Arduino Voltage and Resistance  
+What voltage comes out of the battery? (1.5V)  
+Now we want to increase the voltage using the 5V output on the Arduino.  What do you think will happen when you increase the voltage to 5V? (The LED will be even brighter.  And now we don't need to use two batteries).
+In fact, the 5V is too much.  Ask what will happen if you push 5V through a 3V LED (it will burn out).  Talk about what happens in our body if our heart (battery) pumps blood too fast through our veins (it may burst!).  Explain that the same thing happens in electronics, so to combat that, we need to slow the blood (current) down using a resistor.  Have the kids take out the 10K resistor.  Explain that a resistor is the component, and that resistance is the value (4.7K or 4,700 in this case).
+Have the kids draw the following schematic.  
+Have the kids try to build the circuit themselves.  After giving them a chance, walk through building the circuit, starting from the 5V.  HINT: You'll need two jumper wires.
+
+Plug the 9V battery into the 9V battery connector, and connect it to the Arduino.  Your LED should now be on!
+TROUBLESHOOTING: Sometimes your students' LEDs may burn out because of incorrect connections.  This is all part of the learning process.  We recommend having a working Arduino + breadboard setup that you can use to test to see if students' LEDs are in fact burned out or if there is perhaps another wiring issue.
+MORE WITH RESISTANCE
+Explain that the larger the restistance, the more it slows the current.  
+Ask them what will happen if they change the 4.7K resistor to 470 Ohm (the resistor is lower, which means that the current will flow faster).  
+NOTE: make sure the kids don't keep the 470 Ohm resistor in for very long.  It may cause the LED to over heat because of the large amount of electrical current going through it.  After they are done with the experiment, have them put the 4.7K Ohm resistor back in.
+Explain that this is how a dimmer switch works in your house.  If the lights are dim, it means that the resistance has been turned high.  If the lights are bright, it means that the resistance has been turned low.
+Tidbit: You may have noticed that when listing the resistors in the materials needed section we included a list of colors next to its resistance value. All resistors actually have a common color coding theme that makes them easier to identify. I have provided a sample chart of the color code here.
+Let's try to make a resistor color code. Let's say we want to find a 24,000 (24k) Ohm resistor. We first need to figure out which colors represent 2 and 4. according to the chart linked above 2 is represented by red and 4 is represented by yellow. So we know our color code should look something like red yellow _____ _____.
+The third band works a little differently than the first two. Rather than the color representing a simply a number it represents the number of times the first two numbers are multiplied by 10. So, for example, to make our 24,000 Ohm resistor we must multiply 24 by 1000, which is 10 times 10 times 10. To represent this we  add an orange band to our color code ( orange represents 3) giving us red yellow orange _____.
+The final band is what is known as the tolerance. It doesn't help us learn the value of the resistor, unlike the other bands. The tolarance just lets us know how close to the color coded value we should expect the resistor to be. You will typically see gold tolarance bands as 5% is often close enough to get most circuits working. So finally, the color code for our resistor is red yellw orange gold.
+GOING EVEN FURTHER WITH RESISTANCE
+This is also a place where you can introduce Ohms Law (V=IR).  If V = voltage, I = current, and R = resistance, the kids can now calculate the amount of current that is following through the 3.0V and 5.0 V circuits.  The unit for current is Amps (A).
+Example 1: 5 Volt Circuit with 4.7K Ohm resistor
+V=IR
+I = V / R
+I = (5 V) / (4,700 Ohms)
+I = .001 A = 1 mA
+Example 2: 5 Volt Circuit with 470 Ohm resistor
+V = IR
+I = V / R
+I = (5 V) / (470 Ohms)
+I = .01 A = 10 mA
+TIDBIT: Not all resistors are 'Ohmic' resistors, as in ones that follow Ohm's laws. An Ohmic resistor always has the same resistance, where as a non Ohmic resistor has a fluctuating resistance based on some parameter. For example if you were to measure the resistance of a light bulb while it is off, you would measure a fairly low resistance. But if you turned the lightbulb on, the resistance would skyrocket due to how much hotter the lightbulb became. If non Ohmic resistors are used in simple circuits such as this one, some interesting effects can be created.  
+
 ## Worksheet 8 – INTRODUCTION TO BREADBOARDS
 > OVERVIEW: Today, we will learn about breadboards.  Breadboards helps us make circuits in a way where we can make strong connections without needing to hold the wires together.  
 
@@ -1048,7 +1597,7 @@ The flow of electricity is called current.  If you have a lot of flow, you have 
 V (Voltage) = I (Current) x R (Resistance).   
 The unit is Amps.  
 
-If the voltage is 5V, what is the current when you use the 10K Ohm resistor?  
+If the voltage is 5V, what is the current when you use the 4.7K Ohm resistor?  
 If the voltage is 5V, what is the current when you use the 470 Ohm resistor?  
 
 🗨 or ✎: Have you seen a light switch that turns like a timer dial?  Think about how you might build something like that based on what you have learned.  
@@ -1062,6 +1611,8 @@ ___
 ### Challenges
 ### Enjoyment
 ### Mindset
+What does freedom mean to you?  
+freedom to fail? 
 ### Community
 
 ___
@@ -1095,6 +1646,7 @@ Think of all the electronics in our lives that are automated. Do you perceive th
 ## Key Vocabulary
 - Coding
 - Program
+- Compile
 
 ## Additional Resources
 ### Videos
@@ -1103,6 +1655,7 @@ How to comment your code: https://youtu.be/JHJoiSG9jWw
 #### Ardublock installation
 - Easy - https://youtu.be/i2l7I9PdE2o
 - Advanced - https://youtu.be/bBSZ8REdUYA
+[Blinking Light Challenge](https://youtu.be/UfxJx9LQ9u0)
 ### Documents
 ### Other
 
@@ -1153,6 +1706,158 @@ Introduce ArduBlock and let students write their first program following the wor
 When they are able to light the LED, complete the blinking challenges.  
 Deconstruct everything and clean up the area.  
 Closing circle/debrief - Discuss the EQ of the day.  
+
+### Schoology
+#### Explain the Goal
+
+#### Getting Your Circuit Ready For Programming
+#### Altering our circuit
+
+Before we can start programming we need to make a small adjustment to our circuit from last week;
+
+The only thing that has changed is that the end of the red wire that was previously in the 5V pin is now in the 7 pin. Unlike the 5V pin the 7 pin is progamable, meaning we get to choose whether it's off or on.
+
+#### Installing Arduino IDE
+Mac, Windows, Chromebook (see appendix?)
+
+#### Working with Arduino IDE
+##### Getting Started With Programming
+###### Getting started with Arduino IDE
+
+So there are a couple of other things we need to do now so that we can upload our code to our robots later. Just follow the steps below;
+
+Double click the Arduino icon on your desktop.
+Once Arduino is open, go to the tools tab at the top and scroll down to boards;
+Make sure that the option Arduino Nano is selected. (that's the kind of brain our robot has)
+Now go back into the tools tab but this time scroll down to port, it should be clear which COM to select but if there are more than one don't worry, you'll be able to test which one is correct when uploading your code.
+Here's what you'll see if you're using Windows;
+And if you're using a Mac;
+
+Awesome! Now let's go back into tools and scroll down to Ardublock and select it;
+
+Now you should see the Ardublock window. The first thing that we need to understand in Ardublock is the Do Loop;Any Ardublock program needs one and only one Do Loop. Without one, your code will not work. Notice that it is yellow, that means it be found in the yellow controls tab  on the left side of the Ardublock window.
+
+So all of the blocks in Ardublock can be controlled by dragging and dropping them into the gray area of the window. Most need to be placed inside the Do Loop, and in the order that you want them to occur.
+
+#### ArduBlock Basics
+##### Overview
+Now that you know how to connect your Barnabas-Bot to your computer, we will go over some basics so that you can write your own programs.  
+
+##### Basic Commands
+LOOP do
+Where is it? Go to CONTROL-> LOOP-DO
+
+Every ArduBlock program needs a LOOP-DO.  You put command blocks inside of the LOOP-DO.  Each command block is executed in order until it reaches the bottom of the loop.  Once is reaches the bottom of the loop, the program will jump back to the beginning of the loop and continue to cycle forever.
+
+You can only have one LOOP-DO per program.
+
+DELAY milliseconds
+Where is it? Go to UTILITIES -> DELAY MILLISECONDS
+This tells your program to wait there for a set amount of time.  It is useful when you want to turn things on and off with different timing patterns. The unit is milliseconds.  1000 milliseconds = 1 second.  
+
+###### How to delete blocks
+L-CLICK on the block and drag it all the way to the left column.
+##### Errors while uploading
+"Socket Null": There is a block or parameter of a block that is not fully snapped in. Re-check your block and parameter connections, and try again.
+"Multiple Loop Block Found": You have multiple LOOP-DO blocks in your program. Every Ardublock program can only have one LOOP-DO. Find the extra one, delete it, and try again.
+
+#### Programming the LED Pin
+[LED Challenge Video](https://youtu.be/UfxJx9LQ9u0)
+##### Directions
+To make our LED blink we are going to need to learn about some other blocks.
+
+The first block we need to explore is the set digital pin block;You can see from the color of the set digital pin block that it can be found in the pins tab, just underneath the controls tab. It allows you to pick any numbered pin and decide whether it's on (HIGH) or off (LOW);
+
+So let's create an LED program.
+
+Insert a Do Loop into Ardublock.
+Put a set digital pin block inside the Do loop. Notice that it has two options that you can set: the pin #, and whether it is high or low. which pin # should you use when writing your program?
+If you've figured out which pin # to use, try writing a couple of simple programs.
+Write a program that sets the value to HIGH. What happens?
+Write a programthat sets the value to LOW. What happens?
+You should be able to see that setting the value HIGH turns the LED on, and setting the value LOW turns the LED off. With this we're almost ready to make a program that blinks our LED
+Before we make our blinking LED code we need to learn about one more block, the delay block;I bet you can tell where to find this block by its color (the control tab). You'll see two different delay blocks in the controls tab, a microseconds delay and a milliseconds delay (I really recomend the millisecond delay). The delay tab tells your robot to wait before moving on to the next command. While waiting, your robot will continue to do the last thing it was told to do.
+
+##### Blinking the LED
+Now we have all the tools we need to make a blinking LED program.
+
+First start with a Do Loop.
+Then put a set digital pin into the Do Loop, setting the pin # to 7 and the value to HIGH.
+Put a delay milliseconds block underneath the set digital pin block and set the value to 1000 (1 sec).
+Underneath the delay block insert another set digital pin block, with the pin # still set to 7 but the value set to LOW this time.
+Finally put one last delay milliseconds block under the set digital pin block you just placed, with the value set to 1000 again.
+
+Now upload this code to your robot and see if it works! If it does, feel free experimenting with it. How small can you make the delay and still see the blink? What happens if you remove the delays entirely?
+
+#### Going Further
+##### Programming challenges
+
+Try different programming challenges.  
+Make it blink every 1/2 second
+See how fast you can make it blink.
+See below for sample wave patterns that you can use.  You can also add actual time values to the patterns to make it even more challenging.
+
+###### The repeat block
+The repeat block can be used to save some time. Rather than programming each blink in the challenges above you can simply tell the program to do a short blink for a certain number of times and a long blink a certain number of times, as shown below;This code does five long blinks followed by three short blinks. Think about how long it would take to code that with out the repeat block. You can find the repeat block in the controls tab if you are interested in using it.
+
+What is a power indicator?
+How do you know if your cell phone is on? (light turns on, sound turns on, etc).  This is called a power indicator.  A power indicator lets us know when our electronics have turned on.  Our robot needs a power indicator.  
+Think about what happens if we don't have a power indicator.  (HINT: We wouldn't know when our robot is on, and we could drain the battery.)
+Building our power indicator circuit.
+Draw the following circuit.
+
+Work with the students to translate the schematic onto a breadboard wiring diagram.  
+How many components are there? (two: 4.7K resistor, LED)
+Remind the students that each component connects two sets of wires.
+Key notes:
+The LED has a plus and minus side.  The longer wire is positive, and the shorter wire is negative.  The minus side should be connected to GND on the Arduino.
+We connect a GND wire for the minus side of the LED to row 4, because that row is connected to GND already.  Try to let the students figure this out on their own.
+IMPORTANT: If you create a closed circuit with the LED without a resistor, too much electricity will run through it, and it will burn out the LED - be careful!
+
+
+Creating your LED program
+Bring in a SET DIGITAL PIN block.  This block will allow you to turn your LED on and off.  What should the pin number be?  HINT: Refer to your schematic (7). 
+
+Write a program, setting the value to "LOW".  What happens?  Don't forget the LOOP DO!
+Write another program, settiing the value to "HIGH".  What happens?  Don't foget the LOOP DO!
+At this point, the kids should see that setting the value to "LOW" and "HIGH" will turn the LED off and on.  They now have the basic building blocks to try some more challenges.
+LED Challenge
+Have the students write programs to turn the LED on for 1 second and then off for 1 second indefinitely.  HINT: you will need to use the delay block.  Note that 1000 milliseconds make up 1 second.
+
+
+If you are having a difficult time, download our test code and attempt to run that.
+Try different programming challenges.  
+Make it blink every 1/2 second
+See how fast you can make it blink.
+See below for sample wave patterns that you can use.  You can also add actual time values to the patterns to make it even more challenging.
+
+Some examples are also listed in the engineering notebook.
+#### TROUBLESHOOTING
+
+Students will often incorrectly create a "blinky" program that is missing a delay at the bottom of the loop.  This is a great teaching opportunity.  I usually explain to the kids that the Arduino (brain) does exactly what we tell it to do, and have them walk through each command (puzzle piece) one by one.  As you walk through the program, explain that after pin 7 is set to "HIGH" (3rd command), it is immediately set to "LOW" (1st command) because the program starts again at the beginning of the loop.  We want the kids to realize that the light is actually blinking, but that it turns off so quickly that you can't see it.  You can then have the kids add a delay at the end of the program and have them observe what happens (the light will blink).
+
+
+Going further: Have the kids find the minimum delay value that will still allow you to see the blink.  HINT: it is less than 1 ms.  At this point, you can also introduce the delayMicroseconds block.  Note that there are 1,000,000 microseconds in 1 sec.  The students will be able to input smaller delays by using this block.
+
+### GOING FURTHER (IF YOU HAVE TIME)
+
+Using the REPEAT block
+Explain to the kids that they can save time by using the REPEAT block (found under "Control").  REPEAT blocks will repeat whatever code is inside them a set # of times.  The code below will do the following:
+
+Turn the LED on
+Wait 1 sec
+Turn the LED off
+Wait 1 sec
+Repeat steps 1-4 (4 more times -- 5 x total)
+Turn the LED on
+Wait 100 msec
+Turn the LED off
+Wait 100 msec
+Repeat step 6-9 (2 more times -- 3 x total)
+Designing an alarm clock
+Have the kids calculate how many milliseconds are in a day. (60 sec x 60 min x 24 hrs x 1000 msec = 86,400,000 ms)
+Have them program the Arduino to turn on for one day, and then turn off for one day.
+Explain that digital alarm clocks work in a similar way.  At the end of class, they can now create a robot alarm clock!
 
 ## Worksheet 9 – THE BLINKING LIGHT CHALLENGE
 > OVERVIEW: This week, we will be creating a light circuit for your robot. 
@@ -1227,6 +1932,7 @@ ___
 ### Enjoyment
 ### Mindset
 ### Community
+Should we share our code with each other?  Why or why not What is open-source about?  
 
 ___
 
@@ -1252,16 +1958,20 @@ ___
 We will create and decode a message using Morse Code by using coding skills in ArduBlock.  
 ### Technical Skills
 ### Life Skills
+- Communication
 
 ## Essential Question(s) 
 What is the importance of precision in coding?  
 
 ## Key Vocabulary
+- Period
+- Sequence
 
 ## Additional Resources
 ### Videos
 ### Documents
 ### Other
+Wikipedia morse code chart is good  find link
 
 ## Depth of Knowledge Levels Addressed
 > See Appendix B
@@ -1350,6 +2060,7 @@ ___
 We will be assembling the robot  
 ### Technical Skills
 ### Life Skills
+- Patience
 
 ## Essential Question(s)
 N/A
@@ -1361,6 +2072,12 @@ N/A
 How to assemble your Barnabas-Bot motors: https://youtu.be/Bq8QKORWx4k  
 ### Documents
 Instructions online: http://tinyurl.com/hvn4ztp  
+Google Docs  
+    Barnabas-Bot Servo Motor Assembly
+    Barnabas-Bot Faceplate Assembly
+    Barnabas-Bot Backplate Assembly
+    Barnabas-Bot Arm Assembly
+    Barnabas-Bot Head Assembly
 ### Other
 
 ## Depth of Knowledge Levels Addressed
@@ -1403,6 +2120,10 @@ Encourage students to help each other put together their robots.
 Gather all robots at a common place to showcase each completed robot.  
 Closing circle/debrief  
 
+<!-- no worksheet? -->
+> Life Discussion: Our strengths and weaknesses
+>> At this point, we have done mechanical, electrical, computer and software engineering.  Which one comes the easiest to us?  Which one is the hardest?  What does this mean for us as individuals, and to us as a community?
+
 ___
 
 ## Supporting Materials
@@ -1438,6 +2159,9 @@ What relationships can be found between patterns and music?
 ### Videos
 Wiring your buzzer: https://youtu.be/dQNqwrBMXYU  
 Programming your buzzer: https://youtu.be/DjNMpiLLQb4  
+<!-- markdown example -->
+<!-- https://youtu.be/dQNqwrBMXYU -->
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/dQNqwrBMXYU/0.jpg)](https://youtu.be/dQNqwrBMXYU)
 ### Documents
 "Hot Cross Buns" Piano Tutorial (for comparison): https://goo.gl/lyJHw4  
 "Twinkle, Twinkle, Little Star" Piano Tutorial (for comparison): https://goo.gl/7lS9jy  
@@ -1468,6 +2192,12 @@ The buzzer plays a song that the student has created
 - Barnabas Lesson 12 worksheet
 - Materials used for setup in Lesson 10
 
+- Speaker
+- Resistor (4.7K Ohm)
+- Computer with Arduino software
+- Engineering Notebooks
+- Pencils
+- Mini Breadboard
 ___
 
 ## Lesson Plan
@@ -1482,6 +2212,110 @@ Students do not have to complete all 3 songs - they can complete only one before
 15 minutes before the end of the session, let every student play the song (or part of the song) they have coded. Make sure students save their work.  
 Clean up and break down everything.  
 Closing circle/debrief - Discuss the EQ of the day.  
+
+### Schoology
+#### Explain the Goal
+#### Adding the buzzer
+
+We're going to add a buzzer to our robot today in the same way we added the LED to it. There is no need to take the LED circuit you made last week off, we're not replacing it, we're adding to it.
+
+The diagram below shows how to place the buzzer into your breadboard;
+
+#### SCHEMATIC
+![alt text][fig-12.1]
+#### BREADBOARD
+![alt text][fig-12.2]
+There are a couple things I should mention about the buzzer circuit;
+
+The buzzer we're using doesn't have red and black wires attached to it like shown in the diagram. Instead it has a longer and shorter leg, much like the LED. The red wire attached to the buzzer in the diagram corresponds to the long leg of your buzzer and the black wire attached to the buzzer in the diagram corresponds to the shorter leg of the buzzer.
+The green wire coming from the short leg of the buzzer doesn't go directly into a GND pin on the noggin. Instead it goes into the same row as the black wire that we previously placed into GND for the LED circuit. Thats ok! Remember that anything connected to that row is connected to eachother, so everything on that row is connected to GND.
+Much like the LED circuit, we are using a resistor to stop from damaging the buzzer. This buzzer is alot smaller though, it only has a value of 470 Ohms.  This is because using a large resistor like the one in the LED circuit would limit the current so much that we would have a hard time hearing sound from the buzzer.
+After placing the resistor like shown in the diagram (making a bridge) take a green wire and place on end in the breadboard on the same row as the resistor, on the side that has nothing else on it. Place the other end of the wire in pin 6 on the noggin.
+
+### How Does a Buzzer Work?
+Note that pin 6 is a PWM. A PWM is a signal that allows us to change the voltage that goes into the buzzer. As we change the voltage, the buzzer sound will change!
+Every sound that your buzzer makes creates a certain frequency. This frequency makes different notes – just like a piano. Can you think about how we might play music now?
+
+#####  Playing Music (Block Coding)
+https://youtu.be/DjNMpiLLQb4
+
+#### The Frequency Table
+Each note has a frequency.  See the table below to identify the frequencies needed to play specific notes.
+
+#### The Tone Block 
+Go to PINS-> tone
+The Pin# should match your PWM pin
+Frequency should match the frequency of the note that you are trying to play
+
+#### The noTone Block 
+Go to PINS-> noTone
+The Pin# should match your PWM pin
+Frequency should match the frequency of the note that you are trying to play
+
+#### Practice 
+Practice #1: Play "C" forever.
+Practice #2: Play "C" for 1 second, rest for 1 second, and repeat forever
+
+#### Challenges
+
+##### Challenge #1: 
+Play "C" for 500 ms, rest for 500 ms, and repeat forever
+##### Challenge #2: 
+Play "B" for 500 ms, rest for 500 ms, and repeat forever
+
+CHALLENGE #1: PLAY THE MYSTERY SONG
+(B4-A4-G4)
+CHALLENGE #2: PLAY “TWINKLE TWINKLE
+(C4-C4-G4-G4-A4-A4-G4 <> F4-F4-E4-E4-
+CHALLENGE #3: PLAY “HAPPY BIRTHDAY
+(G4-G4-A4-G4-C5-B4 <> G4-G4-A4-G4-D5
+CHALLENGE #4: PLAY “MARY HAD A LITTLE LAMB
+(B4-A4-G4-A4-B4-B4-B4 <> A4-A4-A4 <> B
+CHALLENGE #5: PLAY “SUPER MARIO BROTHERS
+(E5-E5-E5-C5-E5-G5-G4 <> C5-G4-E4-A4
+
+<> = rest
+
+##### MYSTERY SONG
+(B4-A4-G4)
+###### TWINKLE LITTLE STAR
+(C4-C4-G4-G4-A4-A4-G4 <> F4-F4-E4-E4--D4-D4-C4)
+###### HAPPY BIRTHDAY
+(G4-G4-A4-G4-C5-B4 <> G4-G4-A4-G4-D5-C5 <> G4-G4-G5-E5-C5-B4-A4-F5-F5-E5-C5-D5-C5)
+###### MARY HAD A LITTLE LAMB
+(B4-A4-G4-A4-B4-B4-B4 <> A4-A4-A4 <> B4-D5-D5 <> B4-A4-G4-A4-B4-B4-B4 <> A4-A4-B4-A4-G4)
+###### "SUPER MARIO BROTHERS" THEME SONG.
+(E5-E5-E5-C5-E5-G5-G4 <> C5-G4-E4-A4-B4-A#4-A4-G4-E5-G5-A5-F5-G5-E5-C5-D5-B4)
+
+Connect our buzzer to a PWM wire.
+Today, we will continue to work on the electrical part of our robot.  At the end of our class, the students' robots will move and dance, so we need to give them music to dance to.
+We had previously connected our speaker to the 5V pin on the Arduino.  This keeps the speaker on at all times.  Today, we will connect it to a PWM output pin on the Arduino.  The PWM output allows us to change the voltage that goes into the buzzer.  Encourage the students to predict what will happen when they change the voltage to the speaker.  A change in voltage can change the volume and pitch.
+Draw the following schematic
+
+Now, assist the students in converting the schematic to a breadboard wiring diagram.  Remind the kids that they don't need to take out the LED circuit - we are going to be adding to it.
+
+Have the students build the circuit!
+You'll noticve that our ground connection on the buzzer goes to row 4 [right side], rather than directly to the Arduino board.  Have the kids go through the exercise of why that works (row 4 [right side] is already connected to GND on the Arduino board because of the connection on the first pin.
+Connect the Arduino to the PC
+It is time to turn on their computers and have them write programs to play music using their speakers.
+ArduBlock Basics
+LOOP DO: Every program needs a loop do.  Whatever we put inside of it will repeate forever.  Drag in a LOOP DO! To delete a block, just drag your block to the left side.
+
+TONE: This block is used to set a tone for your buzzer.
+Play your first note!
+Write a simple program to play the note, C.  
+What should the frequency be? HINT: The frequency for C is 523 Hz.  
+What should the pin # be? HINT: Refer to your wiring diagram (6).  
+Upload the program!
+
+#### Programming challenges
+Play "C" for 1 second, rest for 1 sec, and repeat forever.  HINT:  You will need to use the DELAY block under utilities, as well as noTone under pins.
+
+Provide the [frequency table](https://engineering.purdue.edu/ece477/Archive/2014/Spring/S14-Grp1/images/je/note_frequencies.jpg) to the students, and have them try to play different songs found in the engieering notebook.
+RESOURCES
+[Ardublock + Arduino tutorial](https://cdn.sparkfun.com/assets/resources/5/4/IntroToArduinoArduBlockLilypad.pdf)
+[Mary Had A Little Lamb ArduBlock Sample](https://www.barnabasrobotics.com/wp-content/uploads/2016/12/Mary-had-a-little-lambNew.zip)
+[Speeker Test Code](https://www.barnabasrobotics.com/wp-content/uploads/2016/12/Speaker_TestNew.zip)
 
 ## Worksheet 12 - THE BUZZER
 > OVERVIEW: You will learn how to use a buzzer to play music! 
@@ -1545,6 +2379,7 @@ ___
 ### Challenges
 ### Enjoyment
 ### Mindset
+What does success mean to you? Success is actually something that you can live today.  About living your dream/purpose now.
 ### Community
 
 ___
@@ -1574,9 +2409,15 @@ We will use the servo motors to move the robot’s arms and turn its head.
 What can limit a robot’s movements? 
 
 ## Key Vocabulary
+- Servo
+- Limits
+- Pulse Width Modulation
 
 ## Additional Resources
 ### Videos
+https://youtu.be/x2z0ARKediA  
+https://youtu.be/7oYKnPWtt2E  
+https://youtu.be/gviUtLsHDtg  
 Wiring your first servo motor: https://youtu.be/iTdQKmu6R1o  
 Programming your servo motor: https://youtu.be/qSbMojcwunk  
 ### Documents
@@ -1604,6 +2445,7 @@ Make sure that the pins for head and arms are correct and the breadboard is comp
 ## Lesson Materials
 - Barnabas Lesson 12 worksheet
 - Materials in the Barnabas kit
+- Servo Motors
 
 ___
 
@@ -1618,6 +2460,97 @@ Move on to Challenges 1 and 2. Let students know that ultimately, they will comb
 15 minutes before the end of the session, let students show the movement of their robots that they have coded.   
 Clean up work space  
 Closing circle/debrief - Discuss the EQ of the day.  
+
+### Schoology
+#### Explain the Goal
+The servo motor has an axel that rotates 180 degrees.  It only moves along that circular path.
+There are 3 wires that come out of the servo motor. (RED) powers the servo motor.  GND (BROWN) is ground, and the (ORANGE) wire tells it where to go.
+
+#### Wiring up your motor
+
+Look at the wiring diagram below.  Based on what you’ve learned, add the necessary wires to connect your motor!
+img
+
+##### WIRING DIAGRAM
+
+Connect your Arduino.  If you forget how to start up ArduBlock, go back to the directions from the previous week
+Use the following block to move your servo motor.
+
+PINS -> Servo
+Pin# should match your PWM pin
+ Angle accepts a value between 0 and 180 degrees
+ Challenges
+
+- CHALLENGE #0: Move the motor to 1 degrees
+- CHALLENGE #1: Go to 90 degrees
+- CHALLENGE #2: Go to 0 degrees, wait 1 second, go to 90 - degrees, wait 1 second, and repeat.
+- CHALLENGE #3: Make the motor move back and forth very fast.
+- CHALLENGE #4: Make the motor move back and forth very slowly.
+- CHALLENGE #5: Make your robot turn his light on while it is moving, but turn his light off while he is stopped
+- CHALLENGE #6: Make your robot light up, play music, and move all at the same time!
+
+#### Connecting And Programming The Other Motors
+##### Attaching the rest of your motors
+Below is the final wiring diagram;
+
+The only thing we need to do today to finish wiring our robot together is to attach our other two motors in the same way we attached the first one.
+
+First, we must place the yellow wires attached to our other two motors into pin 10 and 11.
+Second, we will place the red wires attached to those two motors into the same row of the breadboard as the red wire of the motor that we wired last week.
+Lastly, we will do the same with the black wires of those two motors, putting them into the same row of the breadboard as the black wire of the motor that we wired last week.
+We are done!
+
+Now that we have finished wiring together our robot! Not only that but you already have all the tools to code your entire robot with Ardublock! Try to make a program that uses all of the blocks you learned, perhaps a program that makes the robot dance with a song that you previously programmed.
+
+Describe the motion that the servo motors are capable of?
+Explain what each wire attached to the servo motor is for. Why can't the servo motor function using only one wire like the LED or the buzzer?
+How do you control the motors using Ardublock? (include both what block is used and what each number attached to the block means)
+
+Introduction To Servo Motors
+The servo motor has an axel that rotates 180 degrees.  It only moves along that circular path.
+Explain the significance of the 3 wires on the PWM wires coming out of the servos. 5V (RED) powers the servo motor.  GND (BROWN) is ground, and the yellow wire gives information.  The Arduino uses the yellow wire to tell the motor what degree to turn to.
+
+Building Our Servo Motor Circuit
+##### Draw the folowing circuit.
+
+Have the students recreate the schematic to their breadboard wiring diagram.
+How many components are we adding? (one - the servo)
+Key points: Notice that we connect the GND signals together on the 14th row.  We will be connecting the other GND signals from the other servo motors to this same row later.
+
+##### Program Your Robot To Wave
+Open up Arduino and ArduBlock.
+Use the servo block to control the position of the motor.
+
+Write a program that moves from 1 degree and 180 degrees and back indefinitely.  What should the pin # be? HINT: Refer back to the schematic (9).  
+
+If you are having trouble, try using this test code which uses all three motors.
+##### Challenges
+Have your robot wave a BIG wave.
+Have your robot wave a SMALL wave.
+Now wave very fast!
+Now try to make it wave very slowly!
+Can you make your robot wave and blink his LED at the same time?
+Can you make your robot wave and also play a song at the same time?
+https://youtu.be/x2z0ARKediA
+
+#### Connecting The Other Motors
+
+Pass out the painted robots, and instruct the students to apply what they have recorded in their engineering notebooks to connect all three motors, both arms, and the head all to the body frame of the robot and the Arduino.  
+See below for the final wiring diagram
+
+Challenge the kids to create a dance routine that uses all the tools that they have learned. 
+Just as a review, the SPEAKER makes the robot sing, the LED makes the robot light up, and the SERVOS make the robot dance.
+
+https://youtu.be/zXKma2mu_88
+https://youtu.be/IZ_PMiUtqQA
+
+Collabrating by sharing
+At the end of class, the students have the option of sharing their code by uploading it to: https://github.com/BarnabasRobotics/Barnabas-Bot-Code
+To post at this web address you will need special permisions, which we are happy to provide! Just contact us at: info@barnabasrobotic.com
+We suggest that you have the students add comments to the code so that others can learn from their thought process.  To add comments, R-CLICK on a code block, and L-CLICK on "Add Comment".  An example of commented code can be seen below.
+
+This code will be shared within the community of students, teachers and parents so that others can be inspired by their work.
+This is an opportunity to talk about the benefits of open-source.
 
 ## Worksheet 13 – MAKE YOUR ROBOT WAVE!
 > OVERVIEW: We will make your robot wave (or shake his/her head). 
@@ -1670,6 +2603,14 @@ ___
 
 ## Supporting Materials
 Coding: For students who have a hard time making their robots move, look at their code and act it out. There is usually a missing pause or not moving the servo motor back to its original position.  
+Dancing robot! Inventor: Bruce Chang
+https://youtu.be/9UhpfrGjtUk
+
+Make a robot that first blinks it's power LED, plays a song, and moves! Inventor: Edward Li
+https://youtu.be/kw5bhVrI_Oc
+
+Beeping robot. Inventor: Lincoln H
+https://youtu.be/_FOu9fjfr2s
 
 ___
 
@@ -1696,6 +2637,11 @@ ___
 We will put everything we have learned together  
 ### Technical Skills
 ### Life Skills
+- Helping Others
+- Sharing
+- Creativity
+- Humility
+- Public Speaking
 
 ## Essential Question(s) 
 
@@ -1745,6 +2691,103 @@ Give 5 minutes for each group to look over their materials and create individual
 Give students 20 minutes to work within their groups to design and create a robot  
 Gather all robots at a common place to showcase each group’s completed robot  
 Closing circle/debrief - Discuss the EQ of the day.  
+
+### Schoology
+#### Explain the Goal
+
+####  Subroutines
+Sometimes you do the same things in your code.  However, it gets tiring writing the same commands over and over again. This is why we have subroutines! 
+ Subroutines are little tasks that we can call at anytime.
+Create the following subroutine. 
+
+Call the subroutine by putting the following into your LOOP-DO.
+
+CHALLENGE #1: Blinking Light Challenge
+1. Write a subroutine that turns on your light for 1 second.
+
+2. Write a subroutine that turns off your light for 1 second.
+
+3. Call both subroutines in your LOOP-DO.
+
+CHALLENGE #2: Lights and Music
+1. Write another subroutine that plays the song, Hot Cross Buns
+
+2. Using your subroutines, create a program that turns on the light while it starts to play Hot Cross Buns, and turns off the light when it is done.
+
+#### Variables
+We use variables whenever we want to change the value of something within our program.
+To use variables, we first need to create one.  Let’s name our varable, “time”.  We will set the initial value to 0. 
+
+Let’s now use the variable in our blink subroutine.
+Think about what this code below is doing.  Now try it and see what happens.
+
+CHALLENGE #1: Make the light blink slowly just by changing the “set number variable” block.
+CHALLENGE #2: Make the light blink very fast just by changing the “set number variable” block.
+CHALLENGE #3: Make a program that plays “HOT CROSS BUNS”, but this time use a variable in the delay block.
+1. Make the music play fast just by changing the “set number variable” block.
+2. Make the music play super fast just by changing the “set number variable” block.
+
+ CHALLENGE #4: Using your subroutines, create a program that:
+1. Turns on the light while it starts to play Hot Cross Buns
+2. Turns off the light when it is done
+3. Repeat this 3 times slowly
+4. Repeat this 5 times fast
+5. Repeat the whole thing again.
+
+#### Conditionals
+Sometimes our program needs to test to see if something is true or not in order to know what to do next.  This is when we use conditionals.
+The following program will turn the light on if mode = 0.  Otherwise, it will turn the light off.  Try the program and see what happens.
+
+Try out the program above, and see if you can get the behavior to change just by changing the value of the variable.
+CHALLENGE #1: Turn the light off just by changing the value of mode.
+CHALLENGE #2: Write a program that only plays Hot Cross Buns when the light is on.  Remember to use Subroutines.
+
+#### Math
+We sometimes use math to figure out what our program needs to do.
+The following program keeps track of how many “loops” the program makes and does something different based on that information.
+
+CHALLENGE #1: Can you guess what the program above does?  Try running it, and see what happens.  HINT: The WHILE block is like a LOOP DO that will run while its condition is true.
+CHALLENGE #2: Rewrite the program to use subroutines and variables to control the light
+CHALLENGE #3: Modify the program so that it resets the “loops” variable to 0 when “loops” is greater than 20.
+
+Describe your robot's brain.  How is it's role?  How is it programmed?
+Describe your robot's body.  How did you design it?  How did you fabricate it?
+Draw in the final wiring diagram for your robot's heart and veins.  Remember to add in all the components (3 x motors, 1 x LED, 1 x buzzer, 2 x resistors)
+Plan out what your robot is going to do (his soul).  
+Some ideas: Program your favorite song, make it dance to it, and have your robot say his/her name via the LED using Morse code!
+
+#### Putting It All Together
+https://youtu.be/HYT9UPo5FmE
+
+#### Your robot presentation
+What is your name and age?
+What is your robot’s name?
+Tell us the hardest part about designing your robot.
+Tell us the part that you enjoyed the most about building your robot.
+Tell us what you learned about yourself during this class.
+
+#### Sharing Our Work
+STEP 1: Why do we share?
+We share our work so that:
+
+Others can learn from what we have done
+Others can give us feedback on how we can improve our work
+Others can build upon our projects
+STEP 2: GitHub
+GitHub is a file sharing site that engineers use to share software.  This is where you will share your code with the world!  You will also be able to visit this site later to get the code that you made for your robot.
+
+Go to: https://github.com/BarnabasRobotics/Barnabas-Bot-Code
+Click on "Upload files" 
+Click on "Choose your files"
+Navigate to your Ardublock file.  It is going to be in your computer's "Documents".  The file will end in ".adp"
+Once you find it, click "Open"
+You will see two text boxes next to: "Commit changes"
+In the first one, type your name
+In the second one, add a description about what your code does.
+Click "commit changes"
+
+<!-- images -->
+[fig-ch12.1]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Img Title Text 2"
 
 ## Worksheet 14 - BUILDING YOUR FINAL CIRCUIT
 > OVERVIEW: This week, we will be putting it all together.  By the end of this section, your robot will dance, light up and play music!  
