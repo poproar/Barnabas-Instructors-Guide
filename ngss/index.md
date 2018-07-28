@@ -6,17 +6,19 @@ These may be better served as seperate files in supporting materials-->
 > Suggested Time: 60-75 minutes  
 
 ## Lesson Overview 
-
-## Disciplinary Core Ideas
+### Disciplinary Core Ideas
 - ETS1.B:  Developing Possible Solutions:  Research on a problem should be carried out before beginning to design a solution.  (3-5-ETS1-2)
 
-## Learning Target(s)
+### Learning Target\(s\)
 We will identify the basic parts of a robot, and we will work together to build, learn, teach, and inspire.
-### Technical Skills
-### Life Skills
-The importance of encouragement, grit, growth..  
+#### Technical Skills
+- Listening
+#### Life Skills
+- Encouragement
+- Grit
+- Growth
 
-## Essential Question(s)
+### Essential Question(s)
 What are the similarities and differences between robots and humans?  
 What is your favorite robot?  
 What do robots help us do?  
@@ -25,45 +27,45 @@ What are the 4 types of engineering that make up robotics?
 What does it mean to encourage somebody?  
 What does it mean to you to be a good community member?  
 
-## Key Vocabulary
+### Key Vocabulary
 - Barnabas
 - Community
 - Encouragement
 - Inspire
 - Goal
 
-## Additional Resources
-### Videos
+### Additional Resources
+#### Videos
 https://youtu.be/8PLF9KwbckM  
 https://youtu.be/wr4QnkbMrf8  
-### Documents
-### Other
+#### Documents
+#### Other
 Scratch "paper doll" robot as demonstration: https://scratch.mit.edu/projects/124980272/#player
 
-## Depth of Knowledge Levels Addressed
+### Depth of Knowledge Levels Addressed
 > See Appendix B
 - Level 1:  Recall and Reproduction
 - Level 2:  Skills and Concepts
 - Level 3:  Strategic Thinking and Reasoning
 - Level 4:  Extended Thinking
 
-## Barriers to Learning
+### Barriers to Learning
 Minimal understanding of metaphors (robot to human)  
 Lack of exposure to robots and their properties (e.g.  They are machines; they take commands in the form of code; they are not human; they can perform repetitive action)
 
-## Anticipatory Set
+### Anticipatory Set
 Student definitions or examples of encouragement and community  
 Student understanding of functions of the human body parts:  body, brain, heart, and soul
 
-## Independent Practice
+### Independent Practice
 Student drawing of robots and label the 4 parts
 
-## Final Assessment, project or product
+### Final Assessment, project or product
 The labeled final drawing of the student’s favorite robot
 Students explain how/why robot and human parts are similar  
 Students provide examples of encouragement and community
 
-## Lesson Materials
+### Lesson Materials
 - [ ] Engineering Notebooks or
 - [ ] Barnabas Lesson 1 worksheet
 - [ ] Robot drawing
@@ -221,7 +223,7 @@ ___
 
 ## Lesson Overview
 
-## Disciplinary Core Ideas
+### Disciplinary Core Ideas
 - 3-5-ETS1-1. Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost.
 - ETS1.A: Defining and Delimiting Engineering Problems: Possible solutions to a problem are limited by available materials and resources (constraints). The success of a designed solution is determined by considering the desired features of a solution (criteria). Different proposals for solutions can be compared on the basis of how well each one meets the specified criteria for success or how well each takes the constraints into account. (3-5-ETS1-1)
 
@@ -231,29 +233,29 @@ ___
 ### Cross-Cutting Concepts: 
 - Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3-4)  
 
-## Learning Target(s)
+### Learning Target\(s\)
 We will build a simple robot using everyday materials.  
-### Technical Skills
+#### Technical Skills
 - Design
 - Mechanics
 - Servo Motors
-### Life Skills
+#### Life Skills
 - Teamwork
 - Community
 
-## Essential Question(s)
+### Essential Question(s)
 What is necessary of all community members to achieve a common goal?  
 Why do we need one another?  
 Why is it important to work together?  
 What is the benefit of it?
 
-## Key Vocabulary
+### Key Vocabulary
 - Servo motor
 - Arduino board
 - Battery
 
-## Additional Resources
-### Videos
+### Additional Resources
+#### Videos
 How To Use The Servo Tester - https://youtu.be/haUCJdHcrOc
 Shove or Sweep or Tip
 https://youtu.be/-K1fE6fdUIw
@@ -261,36 +263,36 @@ https://youtu.be/RM-__kgLIhk
 https://youtu.be/3EYNjyEtKho
 https://youtu.be/ZlEpG98o4Is
 https://youtu.be/b37fPzDEjO8
-### Documents
-### Other
+#### Documents
+#### Other
 
-## Depth of Knowledge Levels Addressed
+### Depth of Knowledge Levels Addressed
 > See Appendix B
 - Level 1:  Recall and Reproduction
 - Level 2:  Skills and Concepts
 - Level 3:  Strategic Thinking and Reasoning
 - Level 4:  Extended Thinking
 
-## Barriers to Learning
+### Barriers to Learning
 Lack of fine motor skills  
 Minimal understanding of angles and force  
 Lack of teamwork  
 
-## Anticipatory Set
+### Anticipatory Set
 Students see the function of a servo motor (it moves 180 degrees). Ideally, projected under document camera.  
 Objective of the challenge: For ALL teams to knock the cup placed 8" away from the robot off the edge of the table  
 Setting of norms for collaboration within the team and with other teams  
 
-## Independent Practice
+### Independent Practice
 N/A
 
-## Final Assessment, project or product
+### Final Assessment, project or product
 Ability of the robot to knock the plastic cup placed 8" away from the robot off the edge of the table  
 Understanding 180 degrees of movement  
 Reading a ruler to 8" (not centimeters)  
 Students are not necessarily using all materials - they may share with other groups  
 
-## Lesson Materials
+### Lesson Materials
 - Barnabas Lesson 2 worksheet
 - A Ziploc bag of recycled materials for each group (materials vary from group to group).  For example:
 - Masking tape
@@ -439,7 +441,7 @@ ___
 
 ## Lesson Overview
 
-## Disciplinary Core Ideas
+### Disciplinary Core Ideas
 
 ### Science and Engineering Practices
 - Define a simple design problem that can be solved through the development of an object, tool, process, or system and includes several criteria for success and constraints on materials, time, or cost. (3-5-ETS1-1) 
@@ -447,21 +449,21 @@ ___
 ### Cross-Cutting Concepts
 - Connections to Engineering, Technology, and Applications of Science: Influence of Engineering, Technology, and Science on Society and the Natural World Engineers improve existing technologies or develop new ones. (4-PS3-4)
 
-## Learning Target(s)
+### Learning Target\(s\)
 We will learn to design our robot’s body using Computer-Aided Design (C.A.D.).
-### Technical Skills
-### Life Skills
+#### Technical Skills
+#### Life Skills
 - Perserverance
 - Teaching
 
-## Essential Question(s) 
+### Essential Question(s) 
 What challenges can Computer-Aided Design (C.A.D.) present for a beginning user?  
 What is perseverance?  
 Why is it important to practice perserverance?  
 Why should we take the opportunity to teach others what we know?  
 Does teaching help others? ourselves?  
 
-## Key Vocabulary
+### Key Vocabulary
 - Computer-Aided Design (C.A.D.)
 - Left-click
 - Right-click
@@ -470,47 +472,47 @@ Does teaching help others? ourselves?
 - Zoom
 - Axis
 
-## Additional Resources
-### Videos
+### Additional Resources
+#### Videos
 Basic Viewing - https://youtu.be/L7ud2i_yfRI
 #### Troubleshooting
 What to do if the dimension doesn't show up on your "B" - https://youtu.be/7Tk3Te7UkmU  
 What to do if the "B" dissapears - https://youtu.be/aynBOY_6TBM
 
-### Documents
+#### Documents
 Direct link to "Barnabas-Bot 2.2" template in onshape.com: https://goo.gl/DlDJ53  
-### Other
+#### Other
 
 ### Tutorials
 Designing your Barnabas-Bot: https://youtu.be/L7ud2i_yfRI
 Fixing your "B": https://youtu.be/aynBOY_6TBM
 
-## Depth of Knowledge Levels Addressed
+### Depth of Knowledge Levels Addressed
 > See Appendix B
 - Level 1:  Recall and Reproduction
 - Level 2:  Skills and Concepts
 - Level 3:  Strategic Thinking and Reasoning
 - Level 4:  Extended Thinking
 
-## Barriers to Learning 
+### Barriers to Learning 
 Minimal understanding of 3-D concepts and geometric solids  
 Minimal understanding of abstract perception  
 Minimal understanding of angles (0°, 90°, 180°, 270°)  
 Difficulty visualizing the possible axes of a 3-D object  
 
-## Anticipatory Set
+### Anticipatory Set
 Students play with a physical geometric solid - rotating and translating the objects on an axis in varying degrees and talking about how the perception of the object changes  
 Set the norm for frustration tolerance
 
-## Independent Practice
+### Independent Practice
 Students work on their individual files to put the robot together and to design the front plate
 
-## Final Assessment, project or product
+### Final Assessment, project or product
 Every student’s robot should be personalized after the 4th lesson  
 Left- and right-clicking  
 Rotating and inserting the additional parts to the body  
 
-## Lesson Materials
+### Lesson Materials
 - Barnabas Lesson 3 & 4 worksheets
 - Computer
 - Internet connection
@@ -795,7 +797,7 @@ ___
 
 ## Lesson Overview
 
-## Disciplinary Core Ideas
+### Disciplinary Core Ideas
 
 ### Science and Engineering Practices
 - Constructing Explanations and Designing Solutions: Apply scientific ideas to solve design problems. (4-PS3-4)
@@ -804,52 +806,52 @@ ___
 - Science is a Human Endeavor: People’s needs and wants change over time, as do their demands for new and improved technologies. (3-5-ETS1-1)  
 - Science affects everyday life. (4-PS3-4)
 
-## Learning Target(s)
+### Learning Target\(s\)
 We will learn the parts and properties of a 3-D printer.  
-### Technical Skills
+#### Technical Skills
 - Industrial Design
-### Life Skills
+#### Life Skills
 - Support
 
-## Essential Question(s) 
+### Essential Question(s) 
 What are the limitations of 3-D printing?
 
-## Key Vocabulary
+### Key Vocabulary
 - Filament
 - Extruder
 - Bed
 - Cartridge
 
-## Additional Resources
-### Videos
+### Additional Resources
+#### Videos
 Video: 3-D Printer and How it is Made https://youtu.be/f4RGU2jXQiE  
 Video: 3-D Printer in Action https://youtu.be/Gwro2HzxMgw  
 https://youtu.be/mQGYvx2O8AA  
-### Documents
-### Other
+#### Documents
+#### Other
 
-## Depth of Knowledge Levels Addressed
+### Depth of Knowledge Levels Addressed
 > See Appendix B
 - Level 1:  Recall and Reproduction
 - Level 2:  Skills and Concepts
 - Level 3:  Strategic Thinking and Reasoning
 - Level 4:  Extended Thinking
 
-## Barriers to Learning 
+### Barriers to Learning 
 There shouldn’t be any barriers in this lesson
 
-## Anticipatory Set
+### Anticipatory Set
 Hand students a few 3-D printed objects, if you have them. What do they notice about the objects? What process do they think is needed to print the objects? 
 
-## Independent Practice
+### Independent Practice
 Answering questions in Steps 3, 4, and 5
 
-## Final Assessment, project or product
+### Final Assessment, project or product
 Drawing of robot with color schemes to be used for painting in the next session  
 Ability to name the parts of a 3-D printer  
 Understanding the importance of designing a product before it is printed?  
 
-## Lesson Materials
+### Lesson Materials
 - Barnabas Lesson 5 worksheet
 - Portable 3-D printer
 - If a 3-D printer is not available for students to see, opt for the video
@@ -962,52 +964,52 @@ ___
 
 ## Lesson Overview
 
-## Disciplinary Core Ideas
+### Disciplinary Core Ideas
 
 ## Activity Goal:
 We will execute the design created last session
 <!--  Where are the Learning Targets -->
-## Learning Target(s)
+### Learning Target\(s\)
 ### TGechnical Skills
 - Industrial Design
-### Life Skills
+#### Life Skills
 - Communication
 
-## Essential Question(s)
+### Essential Question(s)
 What complications might you come across when bringing a design to life?
 As humans, how important are our looks?  
 How important are our functions (talents, skills, etc)?  
 
-## Key Vocabulary
+### Key Vocabulary
 
-## Additional Resources
-### Videos
-### Documents
-### Other
+### Additional Resources
+#### Videos
+#### Documents
+#### Other
 
-## Depth of Knowledge Levels Addressed:
+### Depth of Knowledge Levels Addressed:
 > See Appendix B
 - Level 1:  Recall and Reproduction
 - Level 2:  Skills and Concepts
 - Level 3:  Strategic Thinking and Reasoning
 - Level 4:  Extended Thinking
 
-## Barriers to Learning 
+### Barriers to Learning 
 Fine motor skills  
 Students who change their minds  
 
-## Anticipatory Set
+### Anticipatory Set
 Norms for painting, rules for scissors, sharing materials, following a design or changing designs as necessary
 
-## Independent Practice
+### Independent Practice
 Students painting and carrying out their designs
 
-## Final Assessment, project or product
+### Final Assessment, project or product
 All parts are painted and decorated  
 Make sure students are following their designs and the rules for art space  
 For students making changes from their designs, ask for justification  
 
-## Lesson Materials
+### Lesson Materials
 - Barnabas Lesson 5 design worksheets
 - Acrylic paint, various colors
 - Paint brush, various sizes
@@ -1077,7 +1079,7 @@ ___
 
 ## Lesson Overview
 
-## Disciplinary Core Ideas
+### Disciplinary Core Ideas
 - PS3.B: Conservation of Energy and Energy Transfer: Energy can also be transferred from place to place by electric currents, which can then be used locally to produce motion, sound, heat, or light. The currents may have been produced to begin with by transforming the energy of motion into electrical energy. (4-PS3-2),(4-PS3-4)
 
 ### Science and Engineering Practices
@@ -1087,16 +1089,16 @@ ___
 ### Cross-Cutting Concepts
 - Energy and Matter: Energy can be transferred in various ways and between objects. (4-PS3-1),(4-PS3-2),(4-PS3-3),(4-PS3-4)
 
-## Learning Target(s)
+### Learning Target\(s\)
 We will learn to build each an open and closed circuit.  
-### Technical Skills
-### Life Skills
+#### Technical Skills
+#### Life Skills
 - Failure
 
-## Essential Question(s)
+### Essential Question(s)
 What impact does electricity have on our world?
 
-## Key Vocabulary
+### Key Vocabulary
 - Circuit
 - Open circuit
 - Closed circuit
@@ -1109,37 +1111,37 @@ What impact does electricity have on our world?
 - Battery or source
 - Schematic
 
-## Additional Resources
-### Videos
+### Additional Resources
+#### Videos
 How to build the 3V LED circuit: https://youtu.be/5P-3rSK79Uo  
 BrainPop video on "Electric Circuits": https://www.brainpop.com/technology/energytechnology/electriccircuits/  
-### Documents
-### Other
+#### Documents
+#### Other
 
-## Depth of Knowledge Levels Addressed
+### Depth of Knowledge Levels Addressed
 > See Appendix B
 - Level 1:  Recall and Reproduction
 - Level 2:  Skills and Concepts
 - Level 3:  Strategic Thinking and Reasoning
 - Level 4:  Extended Thinking
 
-## Barriers to Learning 
+### Barriers to Learning 
 Understanding of circuitry and electricity flow  
 Fine motor skills  
 
-## Anticipatory Set
+### Anticipatory Set
 What do we know about electricity?  
 How are electrical devices powered?  
 
-## Independent Practice
+### Independent Practice
 Creating a circuit in groups of 2-3 students and drawing the schematic  
 
-## Final Assessment, project or product
+### Final Assessment, project or product
 A completed circuit with a lighted LED  
 Positive and negative sides of batteries and wires  
 Make sure that all parts are connected  
 
-## Lesson Materials
+### Lesson Materials
 - Barnabas Lesson 7 worksheet
 - Barnabas Kit
 
@@ -1341,7 +1343,7 @@ ___
 
 ## Lesson Overview
 
-## Disciplinary Core Ideas
+### Disciplinary Core Ideas
 - PS3.B: Conservation of Energy and Energy Transfer: Energy can also be transferred from place to place by electric currents, which can then be used locally to produce motion, sound, heat, or light. The currents may have been produced to begin with by transforming the energy of motion into electrical energy. (4-PS3-2),(4-PS3-4)
 
 ### Science and Engineering Practices
@@ -1352,19 +1354,19 @@ ___
 - Energy and Matter: Energy can be transferred in various ways and between objects. (4-PS3-1),(4-PS3-2),(4-PS3-3),(4-PS3-4)
 - Science is a Human Endeavor: Science affects everyday life. (4-PS3-4)
 
-## Learning Target(s)
+### Learning Target\(s\)
 We will apply the concept of circuits using breadboards.  
-### Technical Skills
-### Life Skills
+#### Technical Skills
+#### Life Skills
 - Freedom
 
-## Essential Question(s)
+### Essential Question(s)
 How has breadboarding changed the way a person creates a circuit?  
 What does freedom mean to you?
 Freedom to learn?  
 Freedom to fail?  
 
-## Key Vocabulary
+### Key Vocabulary
 - Breadboard
 - Vertical
 - Horizontal
@@ -1375,37 +1377,37 @@ Freedom to fail?
 - Current
 - Amps
 
-## Additional Resources
-### Videos
+### Additional Resources
+#### Videos
 Simple Breadboard LED https://youtu.be/BwVRfxDj0Pc  
 Build the 3V LED circuit with a breadboard: https://youtu.be/5P-3rSK79Uo  
 How a breadboard works: https://youtu.be/QFm8Gkofgs8  
 Build the 5V LED circuit: https://youtu.be/iY3Ygg6Ucq0  
-### Documents
-### Other
+#### Documents
+#### Other
 [Sparkfun Breadboarding Tutorial](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard)
 
-## Depth of Knowledge Levels Addressed
+### Depth of Knowledge Levels Addressed
 > See Appendix B
 - Level 1:  Recall and Reproduction
 - Level 2:  Skills and Concepts
 - Level 3:  Strategic Thinking and Reasoning
 - Level 4:  Extended Thinking
 
-## Barriers to Learning 
+### Barriers to Learning 
 Fine motor skills  
 Understanding circuitry - making sure that positive and negative sides are identified  
 
-## Anticipatory Set
+### Anticipatory Set
 Demonstrate a completed breadboard circuit without going over all the steps 
 
-## Independent Practice
+### Independent Practice
 Students breadboarding following the schematic
 
-## Final Assessment, project or product
+### Final Assessment, project or product
 The breadboard circuit is complete with a LED that is able to light up  
 
-## Lesson Materials
+### Lesson Materials
 - Barnabas Lesson 8 worksheet
 - Breadboards (1 per student or per group of 2 or 3)
 - Wires
@@ -1628,58 +1630,58 @@ ___
 
 ## Lesson Overview
 
-## Disciplinary Core Ideas
+### Disciplinary Core Ideas
 - ETS1.B: Developing Possible Solutions: Tests are often designed to identify failure points or difficulties, which suggest the elements of the design that need to be improved. (3-5-ETS1-3)
 - ETS1.C: Optimizing the Design Solution: Different solutions need to be tested in order to determine which of them best solves the problem, given the criteria and the constraints. (3-5-ETS1-3)
 
 ### Cross-Cutting Concepts
 - Energy and Matter: Energy can be transferred in various ways and between objects. (4-PS3-1),(4-PS3-2),(4-PS3-3),(4-PS3-4)
 
-## Learning Target(s)
+### Learning Target\(s\)
 We will create a light circuit and write a program with our computer so it turns on and off automatically.  
-### Technical Skills
-### Life Skills
+#### Technical Skills
+#### Life Skills
 
-## Essential Question(s)
+### Essential Question(s)
 Think of all the electronics in our lives that are automated. Do you perceive these devices to be simple or complex?
 
-## Key Vocabulary
+### Key Vocabulary
 - Coding
 - Program
 - Compile
 
-## Additional Resources
-### Videos
+### Additional Resources
+#### Videos
 Wiring up the LED and programming it in Ardublock: https://youtu.be/UfxJx9LQ9u0  
 How to comment your code: https://youtu.be/JHJoiSG9jWw  
 #### Ardublock installation
 - Easy - https://youtu.be/i2l7I9PdE2o
 - Advanced - https://youtu.be/bBSZ8REdUYA
 [Blinking Light Challenge](https://youtu.be/UfxJx9LQ9u0)
-### Documents
-### Other
+#### Documents
+#### Other
 
-## Depth of Knowledge Levels Addressed
+### Depth of Knowledge Levels Addressed
 > See Appendix B
 - Level 1:  Recall and Reproduction
 - Level 2:  Skills and Concepts
 - Level 3:  Strategic Thinking and Reasoning
 - Level 4:  Extended Thinking
 
-## Barriers to Learning 
+### Barriers to Learning 
 Understanding that programs are fast and need pauses  
 Ability to break down actions  
 
-## Anticipatory Set
+### Anticipatory Set
 Understanding coding activity - students giving explicit 1-step instructions to accomplish a task  
 
-## Independent Practice
+### Independent Practice
 Student create the circuit and write a program to turn on and off the LED  
 
-## Final Assessment, project or product
+### Final Assessment, project or product
 Blinking LED connected to the breadboard  
 
-## Lesson Materials
+### Lesson Materials
 - Barnabas Lesson 9 worksheet
 - Computer
 - Breadboard
@@ -1698,7 +1700,7 @@ Keep multiple: ways of representation, ways of action and expression, and method
 Welcome students to the community building environment (ie. students sitting in a circle)  
 Describe the goal of today: build a circuit with an LED and code a program to make flash  
 
-## Anticipatory Set
+### Anticipatory Set
 Understanding coding: Ask students to draw a circle in the air with their arm 3x in their spot. Ask them to describe the steps used to draw their circle with their arm. Teacher demonstrates following the students’ directions to complete the action. (Lift arm - which direction?, rotate - which degree?, how many times? How fast, etc.) Every action needs to be explicit. Let students know that computers like simple directions and it does exactly what it is told.  
 Explain to students that they will continue to build a circuit with the arduino board like last session. This time, however, it will be powered by the computer using a USB instead of being powered by batteries.  
 After the breadboard has been wired correctly, students shift to the computer to plug in their arduino boards, following the directions on the worksheet.  
@@ -1946,7 +1948,7 @@ ___
 
 ## Lesson Overview
 
-## Disciplinary Core Ideas
+### Disciplinary Core Ideas
 - ETS1.B: Developing Possible Solutions: At whatever stage, communicating with peers about proposed solutions is an important part of the design process, and shared ideas can lead to improved designs. (3-5-ETS1-2)
 - Tests are often designed to identify failure points or difficulties, which suggest the elements of the design that need to be improved. (3-5-ETS1-3)
 - ETS1.C: Optimizing the Design Solution: Different solutions need to be tested in order to determine which of them best solves the problem, given the criteria and the constraints. (3-5-ETS1-3)
@@ -1954,48 +1956,48 @@ ___
 ### Science and Engineering Practices
 - Constructing Explanations and Designing Solutions: Generate and compare multiple solutions to a problem based on how well they meet the criteria and constraints of the design problem. (3-5-ETS1-2)
 
-## Learning Target(s)
+### Learning Target\(s\)
 We will create and decode a message using Morse Code by using coding skills in ArduBlock.  
-### Technical Skills
-### Life Skills
+#### Technical Skills
+#### Life Skills
 - Communication
 
-## Essential Question(s) 
+### Essential Question(s) 
 What is the importance of precision in coding?  
 
-## Key Vocabulary
+### Key Vocabulary
 - Period
 - Sequence
 
-## Additional Resources
-### Videos
-### Documents
-### Other
+### Additional Resources
+#### Videos
+#### Documents
+#### Other
 Wikipedia morse code chart is good  find link
 
-## Depth of Knowledge Levels Addressed
+### Depth of Knowledge Levels Addressed
 > See Appendix B
 - Level 1:  Recall and Reproduction
 - Level 2:  Skills and Concepts
 - Level 3:  Strategic Thinking and Reasoning
 - Level 4:  Extended Thinking
 
-## Barriers to Learning 
+### Barriers to Learning 
 Understanding the pauses necessary in coding  
 Correct breadboard set up to power LED  
 
-## Anticipatory Set
+### Anticipatory Set
 Demonstrate a simple pre-coded flashing LED with a Morse Code message (ie. Go go go!) and ask students to decode it using the Morse Code decoder  
 
-## Independent Practice
+### Independent Practice
 Student practicing different letters to code.  
 
-## Final Assessment, project or product
+### Final Assessment, project or product
 Student has a completed, decodable message.  
 Is the breadboard correct to light up LED  
 Student following 100ms, 300ms, 1000ms in their coding?  
 
-## Lesson Materials
+### Lesson Materials
 - Barnabas Lesson 10 worksheet
 - Same setup as Lesson 9
 
@@ -2006,7 +2008,7 @@ Keep multiple: ways of representation, ways of action and expression, and method
 Welcome students to the community building environment (ie. students sitting in a circle)  
 Describe the goal of today: create a mystery message using Morse Code  
 
-## Anticipatory Set
+### Anticipatory Set
 Show students the blinking lights and let them know that it has a hidden message. Take a look at the Morse Code decoder and decode the message together.  
 Give students 2 minutes to think of a message they would like to send and to whom they would send it.  
 Let students set up their breadboard, arduino board, and computer, and start coding their secret message.  
@@ -2049,28 +2051,28 @@ ___
 
 ## Lesson Overview
 
-## Disciplinary Core Ideas
+### Disciplinary Core Ideas
 - ETS1.B: Developing Possible Solutions: Tests are often designed to identify failure points or difficulties, which suggest the elements of the design that need to be improved. (3-5-ETS1-3)
 - At whatever stage, communicating with peers about proposed solutions is an important part of the design process, and shared ideas can lead to improved designs. (3-5-ETS1-2)
 
 ### Cross-Cutting Concepts
 - Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3-4)
 
-## Learning Target(s)
+### Learning Target\(s\)
 We will be assembling the robot  
-### Technical Skills
-### Life Skills
+#### Technical Skills
+#### Life Skills
 - Patience
 
-## Essential Question(s)
+### Essential Question(s)
 N/A
 
-## Key Vocabulary
+### Key Vocabulary
 
-## Additional Resources
-### Videos
+### Additional Resources
+#### Videos
 How to assemble your Barnabas-Bot motors: https://youtu.be/Bq8QKORWx4k  
-### Documents
+#### Documents
 Instructions online: http://tinyurl.com/hvn4ztp  
 Google Docs  
     Barnabas-Bot Servo Motor Assembly
@@ -2078,29 +2080,29 @@ Google Docs
     Barnabas-Bot Backplate Assembly
     Barnabas-Bot Arm Assembly
     Barnabas-Bot Head Assembly
-### Other
+#### Other
 
-## Depth of Knowledge Levels Addressed
+### Depth of Knowledge Levels Addressed
 > See Appendix B
 - Level 1:  Recall and Reproduction
 - Level 2:  Skills and Concepts
 - Level 3:  Strategic Thinking and Reasoning
 - Level 4:  Extended Thinking
 
-## Barriers to Learning 
+### Barriers to Learning 
 Fine motor skills and patience  
 
-## Anticipatory Set
+### Anticipatory Set
 N/A
 
-## Independent Practice
+### Independent Practice
 Putting the robot together  
 
-## Final Assessment, project or product
+### Final Assessment, project or product
 Completed robot with head and arms connected to servo motors  
 Make sure students have all necessary parts  
 
-## Lesson Materials
+### Lesson Materials
 - All 3D printed and painted materials
 - 3 servo motors
 - Screws
@@ -2136,7 +2138,7 @@ ___
 
 ## Lesson Overview
 
-## Disciplinary Core Ideas 
+### Disciplinary Core Ideas 
 - ETS1.C: Optimizing the Design Solution: Different solutions need to be tested in order to determine which of them best solves the problem, given the criteria and the constraints. (3-5-ETS1-3)
 
 ### Science and Engineering Practices
@@ -2145,50 +2147,50 @@ ___
 ### Cross-Cutting Concepts
 - Science is a Human Endeavor: Science affects everyday life. (4-PS3-4)  
 
-## Learning Target(s)
+### Learning Target\(s\)
 We will transfer our previous coding skills toward coding a buzzer to buzz at different frequencies to create music.  
-### Technical Skills
-### Life Skills
+#### Technical Skills
+#### Life Skills
 
-## Essential Question(s) 
+### Essential Question(s) 
 What relationships can be found between patterns and music?  
 
-## Key Vocabulary
+### Key Vocabulary
 
-## Additional Resources
-### Videos
+### Additional Resources
+#### Videos
 Wiring your buzzer: https://youtu.be/dQNqwrBMXYU  
 Programming your buzzer: https://youtu.be/DjNMpiLLQb4  
 <!-- markdown example -->
 <!-- https://youtu.be/dQNqwrBMXYU -->
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/dQNqwrBMXYU/0.jpg)](https://youtu.be/dQNqwrBMXYU)
-### Documents
+#### Documents
 "Hot Cross Buns" Piano Tutorial (for comparison): https://goo.gl/lyJHw4  
 "Twinkle, Twinkle, Little Star" Piano Tutorial (for comparison): https://goo.gl/7lS9jy  
 "Happy Birthday" Piano Tutorial (for comparison): https://goo.gl/DZUBAa  
-### Other
+#### Other
 
-## Depth of Knowledge Levels Addressed
+### Depth of Knowledge Levels Addressed
 > See Appendix B
 - Level 1:  Recall and Reproduction
 - Level 2:  Skills and Concepts
 - Level 3:  Strategic Thinking and Reasoning
 - Level 4:  Extended Thinking
 
-## Barriers to Learning 
+### Barriers to Learning 
 Students with hearing difficulties or trouble differentiating sound frequencies  
 Students who have a hard time with rhythm  
 
-## Anticipatory Set
+### Anticipatory Set
 Hearing or singing the songs to be used in this lesson: Hot Cross Buns, Twinkle Twinkle Little Star, and Happy Birthday (in case students don’t know them)  
 
-## Independent Practice
+### Independent Practice
 Creating the songs Twinkle Twinkle Little Star, Happy Birthday, or Mary had a Little Lamb  
 
-## Final Assessment, project or product
+### Final Assessment, project or product
 The buzzer plays a song that the student has created  
 
-## Lesson Materials
+### Lesson Materials
 - Barnabas Lesson 12 worksheet
 - Materials used for setup in Lesson 10
 
@@ -2394,55 +2396,55 @@ ___
 
 ## Lesson Overview
 
-## Disciplinary Core Ideas 
+### Disciplinary Core Ideas 
 - ETS1.B: Developing Possible Solutions: Tests are often designed to identify failure points or difficulties, which suggest the elements of the design that need to be improved. (3-5-ETS1-3)  
 
 ### Cross-Cutting Concepts
 - Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3-4)  
 
-## Learning Target(s)
+### Learning Target\(s\)
 We will use the servo motors to move the robot’s arms and turn its head.  
-### Technical Skills
-### Life Skills
+#### Technical Skills
+#### Life Skills
 
-## Essential Question(s)
+### Essential Question(s)
 What can limit a robot’s movements? 
 
-## Key Vocabulary
+### Key Vocabulary
 - Servo
 - Limits
 - Pulse Width Modulation
 
-## Additional Resources
-### Videos
+### Additional Resources
+#### Videos
 https://youtu.be/x2z0ARKediA  
 https://youtu.be/7oYKnPWtt2E  
 https://youtu.be/gviUtLsHDtg  
 Wiring your first servo motor: https://youtu.be/iTdQKmu6R1o  
 Programming your servo motor: https://youtu.be/qSbMojcwunk  
-### Documents
-### Other
+#### Documents
+#### Other
 
-## Depth of Knowledge Levels Addressed
+### Depth of Knowledge Levels Addressed
 > See Appendix B
 - Level 1:  Recall and Reproduction
 - Level 2:  Skills and Concepts
 - Level 3:  Strategic Thinking and Reasoning
 - Level 4:  Extended Thinking
-## Barriers to Learning 
+### Barriers to Learning 
 Understanding angles (0°-180°)
 
-## Anticipatory Set
+### Anticipatory Set
 N/A
 
-## Independent Practice
+### Independent Practice
 Practice 3-5 and challenges 1-3  
 
-## Final Assessment, project or product
+### Final Assessment, project or product
 Robot with head and arms movement with possible inclusion of music and blinking LED.  
 Make sure that the pins for head and arms are correct and the breadboard is completed correctly.  
 
-## Lesson Materials
+### Lesson Materials
 - Barnabas Lesson 12 worksheet
 - Materials in the Barnabas kit
 - Servo Motors
@@ -2619,7 +2621,7 @@ ___
 
 ## Lesson Overview
 
-## Disciplinary Core Ideas 
+### Disciplinary Core Ideas 
 - ETS1.A: Defining and Delimiting Engineering Problems: Possible solutions to a problem are limited by available materials and resources (constraints). The success of a designed solution is determined by considering the desired features of a solution (criteria). Different proposals for solutions can be compared on the basis of how well each one meets the specified criteria for success or how well each takes the constraints into account. (3-5-ETS1-1)
 - ETS1.B: Developing Possible Solutions: At whatever stage, communicating with peers about proposed solutions is an important part of the design process, and shared ideas can lead to improved designs. (3-5-ETS1-2)
 - Tests are often designed to identify failure points or difficulties, which suggest the elements of the design that need to be improved. (3-5-ETS1-3)
@@ -2633,42 +2635,42 @@ ___
 ### Cross-Cutting Concepts
 - Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3-4)  
 
-## Learning Target(s)
+### Learning Target\(s\)
 We will put everything we have learned together  
-### Technical Skills
-### Life Skills
+#### Technical Skills
+#### Life Skills
 - Helping Others
 - Sharing
 - Creativity
 - Humility
 - Public Speaking
 
-## Essential Question(s) 
+### Essential Question(s) 
 
-## Key Vocabulary
+### Key Vocabulary
 
-## Additional Resources
-### Videos
+### Additional Resources
+#### Videos
 Wiring all 3 servo motors: https://youtu.be/7oYKnPWtt2E  
 Making your robot light up, sing and dance: https://youtu.be/HYT9UPo5FmE  
-### Documents
-### Other
+#### Documents
+#### Other
 
-## Depth of Knowledge Levels Addressed
+### Depth of Knowledge Levels Addressed
 > See Appendix B
 - Level 1:  Recall and Reproduction
 - Level 2:  Skills and Concepts
 - Level 3:  Strategic Thinking and Reasoning
 - Level 4:  Extended Thinking
-## Barriers to Learning 
+### Barriers to Learning 
 
-## Anticipatory Set
+### Anticipatory Set
 
-## Independent Practice
+### Independent Practice
 
-## Final Assessment, project or product
+### Final Assessment, project or product
 
-## Lesson Materials
+### Lesson Materials
 - Barnabas Lesson 13 worksheet
 
 ___
