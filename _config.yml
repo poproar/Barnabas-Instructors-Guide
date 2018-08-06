@@ -22,12 +22,18 @@ baseurl: "/Barnabas-Instructors-Guide" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: barnabasrobotics
 github_username:  barnabasrobotics
+repository: poproar/Barnabas-Instructor-Guide
+
+collections:
+  - lessons
 
 # Build settings
 
 plugins:
   - jekyll-feed
   - jemoji
+  - jekyll-github-metadata
+
 exclude:
   - README.
   - Gemfile
