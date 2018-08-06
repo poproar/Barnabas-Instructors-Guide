@@ -25,7 +25,8 @@ github_username:  barnabasrobotics
 repository: poproar/Barnabas-Instructor-Guide
 
 collections:
-  - lessons
+  - lessons:
+    - output: true
 
 # Build settings
 
