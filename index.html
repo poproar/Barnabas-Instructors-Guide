@@ -7,7 +7,7 @@ layout: index
 
 {% for lesson in site.lessons %}
 
-<h2><a href="{{ site.baseurl }}/{{ lesson.url }}">{{ lesson.title }}</a> change?</h2>
+<h2><a href="{{ site.baseurl }}{{ lesson.url }}">{{ lesson.title }}</a></h2>
 <ul>
     {% for item in lesson.materials %}
     <li>{{ item }}</li>
