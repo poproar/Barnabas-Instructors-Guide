@@ -33,7 +33,7 @@ collections:
 plugins:
   - jekyll-feed
   - jemoji
-  - jekyll-github-metadata
+ # - jekyll-github-metadata
 
 exclude:
   - README.
