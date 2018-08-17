@@ -6,10 +6,11 @@
         <li><a href="elements.html"><i class="icon fa-cogs"></i> Instructors</a></li>
         <li><a href="classes.html"><i class="icon fa-graduation-cap"> </i> Students</a></li>
         <li>
-            <span class="opener"><i class="icon fa-group"></i> Parents</span>
+            <span class="opener"><i class="icon fa-book"></i> Lessons</span>
             <ul>
-                <li><a href="#">Registration</a></li>
-                <li><a href="#">Progress</a></li>
+                    {% for lesson in site.lessons %}
+                <li><a href="{{ site.baseurl }}{{ lesson.url }}">{{ lesson.name }}</a></li>
+                {% endfor %}
             </ul>
         </li>
         <li><a href="generic.html"><i class="icon fa-cubes"></i> Partners</a></li>
