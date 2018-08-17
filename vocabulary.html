@@ -3,21 +3,24 @@ layout: index
 title: vocabulary
 ---
 <!-- Main -->
-{% assign min = 2 %}
-{% assign max = 12 %}
-{% assign diff = max | minus: min %}
-
-<div id="tagcloud">
-{% for lesson in site.lessons %}
+<div id="myCanvasContainer">
+ <canvas width="300" height="500" id="myCanvas">
+  <p>In Internet Explorer versions up to 8, things inside the canvas are inaccessible!</p>
+ </canvas>
+</div>
+ 
+<div id="tags">
+ <ul>
+  {% for lesson in site.lessons %}
 
 
     {% for item in lesson.vocab %}
-    
-{% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
-        <a href="{{ site.baseurl }}{{ lesson.url }}" rel="{{ randomNumber }}">
+        <li><a href="{{ site.baseurl }}{{ lesson.url }}">
             {{ item }}
-        </a>
+            </a>
+     </li>
     {% endfor %}
 
 {% endfor %}
+ </ul>
 </div>
