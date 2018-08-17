@@ -4,18 +4,17 @@
     </header>
     <ul>
         <li><a href="elements.html"><i class="icon fa-cogs"></i> Instructors</a></li>
-        <li><a href="classes.html"><i class="icon fa-graduation-cap"> </i> Students</a></li>
+        <li><a href="classes.html"><i class="icon fa-robot"> </i> Students</a></li>
         <li>
             <span class="opener"><i class="icon fa-book"></i> Lessons</span>
             <ul>
                     {% for lesson in site.lessons %}
-                <li><a href="{{ site.baseurl }}{{ lesson.url }}">{{ lesson.name }}</a></li>
+                <li><a href="{{ site.baseurl }}{{ lesson.url }}">{{ lesson.url }}</a></li>
                 {% endfor %}
             </ul>
         </li>
         <li><a href="generic.html"><i class="icon fa-cubes"></i> Partners</a></li>
         <li><a href="https://github.com/poproar/Barnabas-Instructors-Guide/edit/master/{{ page.path }}"><i class="icon fa-pencil"></i> &nbsp;Improve this page</a></li>
-        <li><a href="#"><i class="icon fa-envelope"></i> Contact Us</a></li>
         <li><a href="index.html"><i class="icon fa-home"></i> Homepage</a></li>
     </ul>
 </nav>
