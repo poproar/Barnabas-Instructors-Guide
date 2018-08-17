@@ -5,22 +5,12 @@
 <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
 <!--[if lt IE 9]><script type="text/javascript" src="{{ "/assets/js/tagcanvas/excanvas.js" | relative_url }}"></script><![endif]-->
 <script src="{{ "/assets/js/tagcanvas/jquery.tagcanvas.min.js" | relative_url}}" type="text/javascript"></script>
-
-<script>
-    window.onload = function() {
-        try {
-        TagCanvas.Start('myCanvas', 'tags');
-        } catch(e) {
-        // something went wrong, hide the canvas container
-        document.getElementById('myCanvasContainer').style.display = 'none';
-        }
-    };
-    </script>
     
     <script>
     $(document).ready(function() {
         if( ! $('#myCanvas').tagcanvas({
         textColour : '#77B900',
+        outlineColour : '#77B900',
         outlineThickness : 1,
         maxSpeed : 0.03,
         depth : 0.75,
