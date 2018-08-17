@@ -2,9 +2,14 @@
 layout: index
 title: vocabulary
 ---
+
+{% assign min = 2 %}
+{% assign max = 12 %}
+{% assign diff = max | minus: min %}
+
 <!-- Main -->
 <div id="myCanvasContainer">
- <canvas width="900" height="500" id="myCanvas">
+ <canvas width="300" height="300" id="myCanvas">
   <p>In Internet Explorer versions up to 8, things inside the canvas are inaccessible!</p>
  </canvas>
 </div>
@@ -15,7 +20,8 @@ title: vocabulary
 
 
     {% for item in lesson.vocab %}
-        <li><a data-weight="14" style="font-size: 2.83ex" href="{{ site.baseurl }}{{ lesson.url }}">
+    {% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
+        <li><a data-weight="{{ randomNumber }}" style="font-size: {{ randomNumber }}" href="{{ site.baseurl }}{{ lesson.url }}">
             {{ item }}
             </a>
      </li>
