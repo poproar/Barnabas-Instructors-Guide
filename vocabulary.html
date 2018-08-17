@@ -1,0 +1,23 @@
+---
+layout: index
+title: vocabulary
+---
+<!-- Main -->
+{% assign min = 2 %}
+{% assign max = 12 %}
+{% assign diff = max | minus: min %}
+
+<div id="tagcloud">
+{% for lesson in site.lessons %}
+
+
+    {% for item in lesson.vocab %}
+    
+{% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
+        <a href="{{ site.baseurl }}{{ lesson.url }}" rel="{{ randomNumber }}">
+            {{ item }}
+        </a>
+    {% endfor %}
+
+{% endfor %}
+</div>
