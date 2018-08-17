@@ -14,66 +14,94 @@ layout: index
 </ul>
 
 <h3>Learning Target(s)</h3>
+<div class="row">
+        <div class="col-6 col-12-small">
 <h4>Technical Skills</h4>
 <ul>
     {% for item in page.technical_skills %}
     <li>{{ item }}</li>
     {% endfor %}
 </ul>
+</div>
+<div class="col-6 col-12-small">
 <h4>Life Skills</h4>
 <ul>
     {% for item in page.life_skills %}
     <li>{{ item }}</li>
     {% endfor %}
 </ul>
+</div>
+</div>
 
+<div class="row">
+        <div class="col-6 col-12-small">
 <h3>Essential Question(s)</h3>
 <ul>
     {% for item in page.essential_questions %}
     <li>{{ item }}</li>
     {% endfor %}
 </ul>
-
+</div>
+<div class="col-6 col-12-small">
 <h3>Key Vocabulary</h3>
 <ul>
     {% for item in page.vocab %}
     <li>{{ item }}</li>
     {% endfor %}
 </ul>
+</div>
+</div>
+
 
 <h3>Additional Resources</h3>
+<div class="row">
+        <div class="col-4 col-12-medium">
 <h4>Videos</h4>
 <ul>
     {% for item in page.videos %}
     <li>{{ item }}</li>
     {% endfor %}
 </ul>
+</div>
+<div class="col-4 col-12-medium">
 <h4>Documents</h4>
 <ul>
     {% for item in page.documents %}
     <li>{{ item }}</li>
     {% endfor %}
 </ul>
+</div>
+<div class="col-4 col-12-medium">
 <h4>Other</h4>
 <ul>
     {% for item in page.other %}
     <li>{{ item }}</li>
     {% endfor %}
 </ul>
+</div>
+</div>
 
+<hr class="major" />
+
+
+<div class="row">
+        <div class="col-4 col-12-medium">
 <h3>Depth of Knowledge Levels Addressed</h3>
 <ul>
     {% for item in page.depth %}
     <li>{{ item }}</li>
     {% endfor %}
 </ul>
-
+</div>
+<div class="col-4 col-12-medium">
 <h3>Barriers to Learning</h3>
 <ul>
     {% for item in page.barriers %}
     <li>{{ item }}</li>
     {% endfor %}
 </ul>
+</div>
+</div>
 
 <h3>Anticipatory Set</h3>
 <ul>
@@ -104,8 +132,14 @@ layout: index
     {% endfor %}
 </ul>
 
+
+<hr class="major" />
+
 <h2>Lesson Plan</h2>
+
 {{ content }}
+
+<hr class="major" />
 
 <h2>Reflection</h2>
 <h3>Comprehension</h3>
