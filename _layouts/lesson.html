@@ -1,9 +1,12 @@
 ---
 layout: index
 ---
-
-<h1><a href="{{ site.baseurl }}{{ lesson.url }}">{{ lesson.title }}</a></h1>
-<div class="suggested-time">{{ lesson.suggested_time }}</div>
+<!-- content -->
+<section>
+        <header class="main">
+            <h1><a href="{{ site.baseurl }}{{ lesson.url }}">{{ page.title }}</a></h1>
+            <div class="suggested-time">{{ page.suggested_time }}</div>
+        </header>
 <h2 id="overview">Lesson Overview</h2>
 
 <h3>Disciplinary Core Ideas</h3>
@@ -15,7 +18,7 @@ layout: index
 
 <h3>Learning Target(s)</h3>
 <div class="row">
-        <div class="col-6 col-12-small">
+        <div class="col-md-6 col-12-small">
 <h4>Technical Skills</h4>
 <ul>
     {% for item in page.technical_skills %}
@@ -176,3 +179,4 @@ layout: index
     <li>{{ item }}</li>
     {% endfor %}
 </ul>
+</section>
