@@ -80,7 +80,7 @@ layout: index
                 <h4>Videos</h4>
                 <ul>
                     {% for item in page.videos %}
-                    <li>{{ item }}</li>
+                    <li>{{ item.link }}{{ item.text }}</li>
                     {% endfor %}
                 </ul>
             </div>
