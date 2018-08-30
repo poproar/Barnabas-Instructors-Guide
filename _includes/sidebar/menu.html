@@ -9,7 +9,7 @@
             <span class="opener"><i class="icon fa-book"></i> Lessons</span>
             <ul>
                     {% for lesson in site.lessons %}
-                <li><a href="{{ site.baseurl }}{{ lesson.url }}">{{ lesson.session }}</a></li>
+                <li><a href="{{ site.baseurl }}{{ lesson.url }}">{{ lesson.title }}</a></li>
                 {% endfor %}
             </ul>
         </li>
