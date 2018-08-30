@@ -1,0 +1,242 @@
+---
+layout: index
+---
+<!-- content -->
+<section>
+    <header class="main upper">
+        <div class="row">
+            <div class="col-2">
+                <span class="image fit">
+                <img src="{{ site.baseurl }}/assets/images/section_main.png" width="150px" /></span>
+            </div>
+            <div class="col-10">
+                <h1 class="align-right"><a href="{{ site.baseurl }}{{ lesson.url }}">{{ page.title }}</a></h1>
+                <hr />
+                <div class="suggested-time">Suggested Time: {{ page.suggested_time }}</div>
+            </div>
+        </div>
+    </header>
+
+    <h2 id="overview">Lesson Overview</h2>
+
+    <div class="box">
+    <h3>Disciplinary Core Ideas</h3>
+    <ul>
+        {% for discipline in page.disciplines %}
+        <li>{{ discipline }}</li>
+        {% endfor %}
+    </ul>
+    </div>
+
+    <div class="box">
+        <h3>Learning Target(s)</h3>
+        <div class="row">
+            <div class="col-6 col-12-small">
+                <h4>Technical Skills</h4>
+                <ul>
+                    {% for item in page.technical_skills %}
+                    <li>{{ item }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+
+            <div class="col-6 col-12-small">
+                <h4>Life Skills</h4>
+                <ul>
+                    {% for item in page.life_skills %}
+                    <li>{{ item }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-6 col-12-small">
+            <div class="box">
+            <h3>Essential Question(s)</h3>
+            <ul>
+                {% for item in page.essential_questions %}
+                <li>{{ item }}</li>
+                {% endfor %}
+            </ul>
+            </div>
+        </div>
+        <div class="col-6 col-12-small">
+            <div class="box">
+            <h3>Key Vocabulary</h3>
+            <ul>
+                {% for item in page.vocab %}
+                <li>{{ item }}</li>
+                {% endfor %}
+            </ul>
+            </div>
+        </div>
+    </div>
+
+        <h3>Additional Resources</h3>
+        <div class="row">
+            <div class="col-4 col-xs-12">
+                <h4>Videos</h4>
+                <ul>
+                    {% for item in page.videos %}
+                    <li>{{ item }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="col-4 col-12-medium">
+                <h4>Documents</h4>
+                <ul>
+                    {% for item in page.documents %}
+                    <li>{{ item }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="col-4 col-12-medium">
+                <h4>Other</h4>
+                <ul>
+                    {% for item in page.other %}
+                    <li>{{ item }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+
+        <hr class="major" />
+
+        <div class="col-6 col-12-medium">
+            <div class="box">
+            <h3>Depth of Knowledge Levels Addressed</h3>
+            <ul>
+                {% for item in page.depth %}
+                <li>{{ item }}</li>
+                {% endfor %}
+            </ul>
+            </div>
+        </div>
+        <div class="col-6 col-12-medium">
+            <div class="box">
+            <h3>Barriers to Learning</h3>
+            <ul>
+                {% for item in page.barriers %}
+                <li>{{ item }}</li>
+                {% endfor %}
+            </ul>
+            </div>
+        </div>
+
+    <div class="box">
+    <h3>Anticipatory Set</h3>
+    <ul>
+        {% for item in page.anticipatory %}
+        <li>{{ item }}</li>
+        {% endfor %}
+    </ul>
+    </div>
+    
+    <div class="box">
+    <h3>Independent Practice</h3>
+    <ul>
+        {% for item in page.practice %}
+        <li>{{ item }}</li>
+        {% endfor %}
+    </ul>
+    </div>
+
+    <div class="box">
+    <h3>Final Assessment, project or product</h3>
+    <ul>
+        {% for item in page.assessment %}
+        <li>{{ item }}</li>
+        {% endfor %}
+    </ul>
+    </div>
+
+    <div class="box">
+        <h3>Lesson Materials</h3>
+        <form method="post" action="#">
+            <div class="row">
+                {% for item in page.materials %}
+                <div class="col-12">
+                    <input type="checkbox" id="{{ item }}" name="{{ item }}" checked="">
+                    <label for="{{ item }}">{{ item }}</label>
+                </div>
+                {% endfor %}
+                
+                <div class="col-8-medium">
+                        <span class="button primary disabled">Missing Materials? Order here and we will fulfill what is missing.</span>
+                </div>
+                <div class="col-4-medium">
+                    <ul class="actions">
+                        <li><input type="submit" value="Order" class="primary"></li>
+                        <li><input type="reset" value="Clear"></li>
+                    </ul>
+                </div>
+            </div>
+    
+        </form>
+    </div>
+
+    <div class="row">
+            <div class="col-2">
+                <span class="image fit">
+                <img src="{{ site.baseurl }}/assets/images/lesson_plan.png" width="150px" /></span>
+            </div>
+            <div class="col-10">
+                <h1 class="align-right"><a href="{{ site.baseurl }}{{ lesson.url }}">{{ page.title }}</a></h1>
+                <hr />
+                <div class="suggested-time">Suggested Time: {{ page.suggested_time }}</div>
+            </div>
+        </div>
+
+    <h2>Lesson Plan</h2>
+
+    {{ content }}
+
+    <div class="row">
+            <div class="col-2">
+                <span class="image fit">
+                <img src="{{ site.baseurl }}/assets/images/reflection.png" width="150px" /></span>
+            </div>
+            <div class="col-10">
+                <h1 class="align-right"><a href="{{ site.baseurl }}{{ lesson.url }}">{{ page.title }}</a></h1>
+                <hr />
+            </div>
+        </div>
+
+    <h2>Reflection</h2>
+    <h3>Comprehension</h3>
+    <ul class="alt">
+        {% for item in page.reflection.comprehension %}
+        <li>{{ item }}</li>
+        {% endfor %}
+    </ul>
+
+    <h3>Challenges</h3>
+    <ul class="alt">
+        {% for item in page.reflection.challenges %}
+        <li>{{ item }}</li>
+        {% endfor %}
+    </ul>
+
+    <h3>Enjoyment</h3>
+    <ul class="alt">
+        {% for item in page.reflection.enjoyment %}
+        <li>{{ item }}</li>
+        {% endfor %}
+    </ul>
+
+    <h3>Mindset</h3>
+    <ul class="alt">
+        {% for item in page.reflection.mindset %}
+        <li>{{ item }}</li>
+        {% endfor %}
+    </ul>
+
+    <h3>Community</h3>
+    <ul class="alt">
+        {% for item in page.reflection.community %}
+        <li>{{ item }}</li>
+        {% endfor %}
+    </ul>
+</section>
