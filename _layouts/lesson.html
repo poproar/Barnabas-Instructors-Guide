@@ -189,7 +189,7 @@ layout: index
     }
     </script>
 
-    <div class="row">
+    <div id="lesson-plan" class="row">
             <div class="col-2">
                 <span class="image fit">
                 <img src="{{ site.baseurl }}/assets/images/lesson_plan.png" width="150px" /></span>
@@ -201,11 +201,11 @@ layout: index
             </div>
         </div>
 
-    <h2 id="lesson-plan"><i class="icon fa-pencil"></i> Lesson Plan</h2>
+    <h2><i class="icon fa-pencil"></i> Lesson Plan</h2>
 
     {{ content }}
 
-    <div class="row">
+    <div id="reflection" class="row">
             <div class="col-2">
                 <span class="image fit">
                 <img src="{{ site.baseurl }}/assets/images/reflection.png" width="150px" /></span>
@@ -216,7 +216,7 @@ layout: index
             </div>
         </div>
 
-    <h2 id="reflection"><i class="icon fa-comments"></i> Reflection</h2>
+    <h2><i class="icon fa-comments"></i> Reflection</h2>
     <h3>Comprehension</h3>
     <ul class="alt">
         {% for item in page.reflection.comprehension %}
