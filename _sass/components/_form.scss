@@ -109,10 +109,11 @@
 			position: relative;
 
 			&:before {
-				background: _palette(bg);
+				background: _palette(fg-bold);
 				border-radius: _size(border-radius);
-				border: solid 1px _palette(border);
-				content: '';
+				border: solid 1px _palette(fg-bold);
+				content: '\f00c';
+				color: _palette(bg);
 				display: inline-block;
 				height: (_size(element-height) * 0.6);
 				left: 0;
@@ -126,10 +127,10 @@
 
 		&:checked + label {
 			&:before {
-				background: _palette(fg-bold);
-				border-color: _palette(fg-bold);
-				color: _palette(bg);
-				content: '\f00c';
+				background: _palette(bg);
+				border-color: _palette(border);
+				
+				content: '';
 			}
 		}
 
