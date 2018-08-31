@@ -3,8 +3,7 @@
         <!-- <h2>Menu</h2> -->
     </header>
     <ul>
-        <li><a href="elements.html"><i class="icon fa-cogs"></i> Instructors</a></li>
-        <li><a href="classes.html"><i class="icon fa-robot"> </i> Students</a></li>
+        <li><a href="https://barnabasrobotics.com"><i class="icon fa-cogs"></i> BarnabasRobotics.com</a></li>
         <li>
             <span class="opener"><i class="icon fa-book"></i> Lessons</span>
             <ul>
@@ -13,8 +12,17 @@
                 {% endfor %}
             </ul>
         </li>
-        <li><a href="generic.html"><i class="icon fa-cubes"></i> Partners</a></li>
+        {% if page.url contains "lessons"%}
+        <li><span class="opener active"><i class="icon fa-book"></i> {{ page.title }}</span>
+        <ul>
+            <li><a href="#additional-resources"><i class="icon fa-cubes"></i> Additional Resources</a></li>
+            <li><a href="#lesson-plan"><i class="icon fa-pencil"></i> Lesson Plan</a></li>
+            <li><a href="#reflection"><i class="icon fa-comments"></i> Reflection</a></li>
+        </ul>
+        </li>
+        <li><a href="#"><i class="icon fa-arrow-circle-right"></i> Next Lesson</a></li>
+        {% endif %}
         <li><a href="https://github.com/poproar/Barnabas-Instructors-Guide/edit/master/{{ page.path }}"><i class="icon fa-pencil"></i> &nbsp;Improve this page</a></li>
-        <li><a href="index.html"><i class="icon fa-home"></i> Homepage</a></li>
+        <li><a href="{{ site.baseurl }}/"><i class="icon fa-home"></i> Homepage</a></li>
     </ul>
 </nav>
