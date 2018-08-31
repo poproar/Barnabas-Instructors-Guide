@@ -1,5 +1,6 @@
 ---
 layout: lesson
+published: false
 title: Title of lesson
 suggested_time:
     - 60 - 75 minutes
