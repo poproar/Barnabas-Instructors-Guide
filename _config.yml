@@ -26,6 +26,7 @@ repository: poproar/Barnabas-Instructor-Guide
 
 collections:
   lessons:
+    layout: lesson
     output: true
 
 # Build settings
