@@ -80,7 +80,7 @@ layout: index
                 <h4>Videos</h4>
                 <ul>
                     {% for item in page.videos %}
-                    <li>{{ item.link }}{{ item.text }}</li>
+                    <li><a href="{{ item.link }}" target="_blank">{{ item.text }}</a></li>
                     {% endfor %}
                 </ul>
             </div>
@@ -88,7 +88,7 @@ layout: index
                 <h4>Documents</h4>
                 <ul>
                     {% for item in page.documents %}
-                    <li>{{ item }}</li>
+                    <li><a href="{{ item.link }}" target="_blank">{{ item.text }}</a></li>
                     {% endfor %}
                 </ul>
             </div>
@@ -96,7 +96,7 @@ layout: index
                 <h4>Other</h4>
                 <ul>
                     {% for item in page.other %}
-                    <li>{{ item }}</li>
+                    <li><a href="{{ item.link }}" target="_blank">{{ item.text }}</a></li>
                     {% endfor %}
                 </ul>
             </div>
@@ -154,28 +154,40 @@ layout: index
 
     <div class="box">
         <h3>Lesson Materials</h3>
-        <form method="post" action="#">
+        <form method="post" action="http://httpbin.org/post
+        " target="_blank">
             <div class="row">
                 {% for item in page.materials %}
                 <div class="col-12">
-                    <input type="checkbox" id="{{ item }}" name="{{ item }}" checked="">
+                    <input type="checkbox" id="{{ item }}" name="{{ item }}" >
                     <label for="{{ item }}">{{ item }}</label>
                 </div>
                 {% endfor %}
-                
-                <div class="col-8-medium">
-                        <span class="button primary disabled">Missing Materials? Order here and we will fulfill what is missing.</span>
+                <div class="col-12">
+                    <em>Missing Materials? Order here and we will fulfill what is missing.</em>
                 </div>
-                <div class="col-4-medium">
+
+                <div class="col-12">
+                        <br/>
                     <ul class="actions">
                         <li><input type="submit" value="Order" class="primary"></li>
-                        <li><input type="reset" value="Clear"></li>
+                        <li><input type="checkbox" id="selectAll" name="ignore" onclick="toggle(this);" />
+                            <label for="selectAll">Check all?</label></li>
                     </ul>
                 </div>
             </div>
     
         </form>
     </div>
+    <script>
+    function toggle(source) {
+        var checkboxes = document.querySelectorAll('input[type="checkbox"]');
+        for (var i = 0; i < checkboxes.length; i++) {
+            if (checkboxes[i] != source)
+                checkboxes[i].checked = source.checked;
+        }
+    }
+    </script>
 
     <div class="row">
             <div class="col-2">
@@ -239,4 +251,5 @@ layout: index
         <li>{{ item }}</li>
         {% endfor %}
     </ul>
+
 </section>
