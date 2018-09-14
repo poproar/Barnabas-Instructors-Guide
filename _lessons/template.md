@@ -1,58 +1,49 @@
 ---
-layout: lesson
 published: false
-title: Title of lesson
+title: Lesson 0_Title_of_lesson # use of spaces is fine, underscore is to help quick select replacement
 suggested_time:
     - 60 - 75 minutes
 disciplines:
-    - A
-    - B
+    - "ETS1.B:  need to use quotes if a colon is in the text  (3-5-ETS1-2)"
 technical_skills:
-    - A
-    - B
+    - tech_skill
 life_skills:
-    - A
-    - B
+    - life_skill
 essential_questions:
-    - What do you get when I ask a question without quotes?
-    - "is this different?"
-
+    - question?
 vocab:
-    - One
-    - Two
-    - Three
+    - Barnabas
 videos:
-    - this might be better handled in content?
+    - link: https://youtu.be/8PLF9KwbckM 
+      text: I am the link
+    - link: https://youtu.be/wr4QnkbMrf8  
+      text: Some other video link
 documents:
-    - this no worky [I am a link](https://google.com)
-    - the above was a link
+    - link: https://schoology.com
+      text: text_for_link
 other:
-    - "note: haha, colon troubles?"
+    - link: https://website.com  
+      text: link to resource
 depth:
-    - only necessary ones
+    - "Level 1:  Recall and Reproduction"
+    - "Level 2:  Skills and Concepts"
+    - "Level 3:  Strategic Thinking and Reasoning"
+    - "Level 4:  Extended Thinking"
 barriers:
-    - cannot do
+    - barrier_list 
 anticipatory:
-    - basics
+    - anticipatory_list  
 practice:
-    - independent
+    - practice_recommendations
 assessment:
-    - project or product
+    - accomplished
 materials:
-    - box
-    - crayons
-    - smiles
+    - Engineering Notebooks
 reflection:
-    comprehension: "✎ :  What are the similarities and differences between robots and humans?"
-    challenges: blank
-    enjoyment: is this the same for all lessons?
+    comprehension: "Do_you_understand?"
+    challenges: What was difficult or challenging?
+    enjoyment: What was enjoyable about today's lesson?
     mindset: growth
     community:
         - list
-        - of
-        - questions
 ---
-
-### Recommend starting with h3
-
-even better with more pages / sections and pictures could possibly set in directory here with lesson number
