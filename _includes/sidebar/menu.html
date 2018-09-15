@@ -13,6 +13,30 @@
             </ul>
         </li>
         {% if page.url contains "lessons"%}
+        {% for links in site.lessons %}
+            {% if links.title == page.title %}
+
+                {% unless forloop.first %}
+                    {% assign prevurl = prev.url %}
+                    {% assign prevtitle = prev.title %}
+                {% endunless %}
+
+                {% unless forloop.last %}
+                    {% assign next = site.lessons[forloop.index] %}
+                    {% assign nexturl = next.url %}
+                    {% assign nexttitle = next.title %}
+                {% endunless %}
+
+            {% endif %}
+            {% assign prev = links %}
+        {% endfor %}
+        {% if prevurl %}
+        <li>
+            <a href="{{ site.baseurl }}{{prevurl}}" class="prev">
+                <i class="icon fa-arrow-circle-left"></i> {{prevtitle}}
+            </a>
+        </li>
+        {% endif %}
         <li><span class="opener active"><i class="icon fa-book"></i> {{ page.title }}</span>
         <ul>
             <li><a href="#additional-resources"><i class="icon fa-cubes"></i> Additional Resources</a></li>
@@ -20,7 +44,14 @@
             <li><a href="#reflection"><i class="icon fa-comments"></i> Reflection</a></li>
         </ul>
         </li>
-        <li><a href="#"><i class="icon fa-arrow-circle-right"></i> Next Lesson</a></li>
+        {% if nexturl %}
+        <li>
+            <a href="{{ site.baseurl }}{{nexturl}}" class="next">
+                <i class="icon fa-arrow-circle-right"></i> {{nexttitle}}
+            </a>
+        </li>
+        {% endif %}
+
         {% endif %}
         <li><a href="https://github.com/poproar/Barnabas-Instructors-Guide/edit/master/{{ page.path }}"><i class="icon fa-pencil"></i> &nbsp;Improve this page</a></li>
         <li><a href="{{ site.baseurl }}/"><i class="icon fa-home"></i> Homepage</a></li>
