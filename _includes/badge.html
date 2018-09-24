@@ -1,5 +1,9 @@
 <div class="row box">
-        <span class="image left">
-            <img src="{{ site.baseurl }}/assets/images/badges/{{ include.type}}.png" alt=""></span>
-            {{ include.content }}
+        <div class="col-3 col-12-small">
+            <span class="image fit">
+            <img src="{{ site.baseurl }}/assets/images/badges/{{ include.type}}.png" alt="" width="150" /></span>
+        </div>
+        <div class="col-9">
+                {{ include.content }}
+        </div>
 </div>
