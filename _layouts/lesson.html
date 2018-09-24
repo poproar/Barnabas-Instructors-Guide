@@ -159,7 +159,7 @@ layout: index
             <div class="row">
                 {% for item in page.materials %}
                 <div class="col-12">
-                    <input type="checkbox" id="{{ item }}" name="{{ item }}" >
+                    <input type="checkbox" id="{{- item -}}" name="{{ item }}" >
                     <label for="{{ item }}">{{ item }}</label>
                 </div>
                 {% endfor %}
