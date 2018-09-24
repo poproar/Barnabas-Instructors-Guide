@@ -28,7 +28,6 @@ version: 1.0.0
 collections:
   lessons:
     layout: lesson
-    permalink: pretty
     output: true
 
 # Build settings
