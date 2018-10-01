@@ -116,7 +116,7 @@ The schematic is the plan for our circuit. You can compare it to the blueprint o
 
 Have the students build the circuit with the components they just took out. Let them figure out how to correctly put the battery into the battery holder, as well as which side is positive(red) and which is negative(black). The positive end of the LED has a longer wire.
 
-![fig 7.2](fig-7_2.jpg){:class="image"}
+![fig 7.2](fig-7_2.jpg){:class="image right"}
 
 ...IT DOESN’T WORK!
 
@@ -133,32 +133,30 @@ Your students will notice that the LED does not light up. Ask them why (HINT: th
 ### Step 3: Building The 3 Volt Circuit (15 minutes) 
 Start by drawing the 3V LED schematic.
 
-![fig 7.3](fig-7_3.png){:class="image"}
+![fig 7.3](fig-7_3.png){:class="image "}
 
 Ask the students to identify the difference between this schematic and our previous one (there are two batteries). How many total volts is the LED getting now.
 
 Have the students work together to build the circuit. Everyone will need to find a partner to have enough batteries for the circuit. If you have an odd number of students, you as the instructor can fill in as a partner for one of your students.After giving the students an opportunity to build the circuit themselves, bring the class together and walk through building the circuit one step at a time.
 
-1. Connect the + wire(red) of the first battery to the + leg(the longer leg) of the LED.
-  ![fig 7.4a](fig-7_4a.jpg){:class="image "}
-2. Connect the - leg(the shorter leg) of the LED to the - wire(black) of the second battery.
-  ![fig 7.4b](fig-7_4b.jpg){:class="image "}
-3. Connect the + wire(red) of the second battery to the - wire(black) of the first battery.
-  ![fig 7.4c](fig-7_4c.jpg){:class="image "}
-4. All finished!
+{% include instruction.html image="fig-7_4a.jpg" content="Connect the + wire(red) of the first battery to the + leg(the longer leg) of the LED." step=1 %}
+{% include instruction.html image="fig-7_4b.jpg" content="Connect the - leg(the shorter leg) of the LED to the - wire(black) of the second battery." %}
+{% include instruction.html image="fig-7_4c.jpg" content="Connect the + wire(red) of the second battery to the - wire(black) of the first battery." %}
 
-{% include badge.html type='troubleshoot' content='Students often connect the positive terminals and negative terminals of the batteries together, rather than connecting the negative to positive (as shown in the schematic).  This incorrectly creates a parallel circuit.  If they do this, they will see that the LED still does not light up.  You can take this opportunity to talk about "series" circuits versus "parallel" circuits, if you like.  A "series" circuit stacks the batteries on top of each other, so that the voltage is added together (like putting two same height waterfalls on top of each other).
+{% include badge.html type='troubleshoot' content='Students often connect the positive terminals and negative terminals of the batteries together, rather than connecting the negative to positive (as shown in the schematic).  This incorrectly creates a parallel circuit.  If they do this, they will see that the LED still does not light up.  You can take this opportunity to talk about "series" circuits versus "parallel" circuits, if you like.  A "series" circuit stacks the batteries on top of each other, so that the voltage is added together (like putting two same height waterfalls on top of each other).' %}
 
-A "parallel" circuit puts them next to each other so that the voltage stays the same, but there is more current available (like putting two same height waterfalls next to each other). ![fig 7.5](fig-7_5.png)
+A "parallel" circuit puts them next to each other so that the voltage stays the same, but there is more current available (like putting two same height waterfalls next to each other).
 
-Another error is for students to attempt to use more than two batteries to light a single	LED. While this will likely give a blighter glow to the LED it is likely to damage it as well. Another common error is to connect the batteries incorrectly. Remember that The red wire of one battery must be connected to the black wire of the other battery. In a circuit where the two red wires are connected or the two black wires are connected electricity will not flow. Going back to the waterfall analogy, we can increase the height of our waterfall by connecting batteries together from negative to positive. We are taking additional steps in the same direction, up. However connecting two like ends, whether negative or positive, has the opposite effect. One battery is attempting to increase the height of the waterfall while the other is decreasing it.' %}
+![fig 7.5](fig-7_5.png){:class="image left"}
+
+Another error is for students to attempt to use more than two batteries to light a single	LED. While this will likely give a blighter glow to the LED it is likely to damage it as well. Another common error is to connect the batteries incorrectly. Remember that The red wire of one battery must be connected to the black wire of the other battery. In a circuit where the two red wires are connected or the two black wires are connected electricity will not flow. Going back to the waterfall analogy, we can increase the height of our waterfall by connecting batteries together from negative to positive. We are taking additional steps in the same direction, up. However connecting two like ends, whether negative or positive, has the opposite effect. One battery is attempting to increase the height of the waterfall while the other is decreasing it.
 
 ### Step 4: The Two LED Circuit (15 minutes or as time permits)
 Now that the students have successfully made the 3V LED circuit it’s time to give them a bigger challenge. Instead of pairs, have the student’s get into groups of four. Between the four of them they should have enough batteries to light two LEDs. Give them the opportunity to attempt a two LED circuit on their own. Unlike the one LED circuit, this two LED circuit has multiple working schematics. See below. 
 
-![fig 7.6a](fig-7_6a.png)
-![fig 7.6b](fig-7_6b.png)
-![fig 7.6c](fig-7_6c.png)
+![fig 7.6a](fig-7_6a.png){:class="image "}
+![fig 7.6b](fig-7_6b.png){:class="image "}
+![fig 7.6c](fig-7_6c.png){:class="image "}
 
 You should challenge your students to build the circuit without showing them the schematics above. These are more for the benefit of the teacher, so you may be more equipped to help your students with troubleshooting issues.
 
