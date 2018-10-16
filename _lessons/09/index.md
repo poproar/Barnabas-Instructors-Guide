@@ -118,7 +118,9 @@ Rather than go through the process here, please look at the Additional Resources
 #### Vocabulary
    * **Arduino**: Both hardware and software. The hardware is a line of microcontrollers (very simple computers). In fact, the Barnabas Noggin utilizes an Arduino microcontroller itself. The software is a C based IDE (integrated development environment… A place where you code). Because Arduino handles both sides of things the process of coding, then uploading your code to a microcontroller is very easy. The Arduino IDE can be out of scope for younger classes as the ability to type acts as a barrier to entry.
 
-{% include badge.html type='best_practice' content='Have the students make a step by step checklist on how to connect the Barnabas-Bot to the computer in explicit detail. The checklist should look something like the following:
+{% include badge.html type='best_practice' content='Have the students make a step by step checklist on how to connect the Barnabas-Bot to the computer in explicit detail.' %}
+
+ The checklist should look something like the following:
 
    1. Turn on the computer.
    2. Input password.
@@ -126,7 +128,8 @@ Rather than go through the process here, please look at the Additional Resources
    4. Plug the robot into the computer via the USB cable.
    5. Go to tools -> port -> select port (not com1 or serial port ex. for windows pc).
    6. Go to tools -> board -> select Arduino Nano
-This process must be done each lesson that you intend to program.' %}
+   
+This process must be done each lesson that you intend to program.
 
 ### Step 2: Getting Started With Ardublock (5 minutes) 
 Now that our computer is talking to our Barnabas Noggin, let's get started with ArduBlock!  ArduBlock is a block-based programming language that is great for those who are new to programming.  
