@@ -104,9 +104,9 @@ materials:
 
 reflection:
     comprehension: 
-        1. What significance does changing the number attached to the Set Digital Pin block to 7 have?
-        2. What effect does the delay block have? Why do we only use the delay milliseconds block?
-        3. Why do we need two delay blocks to make the LED blink?
+        - What significance does changing the number attached to the Set Digital Pin block to 7 have?
+        - What effect does the delay block have? Why do we only use the delay milliseconds block?
+        - Why do we need two delay blocks to make the LED blink?
 ---
 
 ### Review
