@@ -176,7 +176,7 @@ In this section we are finally going to code our LED. However, we must make a sm
 
 The wire that is currently in the 5V pin must be placed in the pin labelled 7.
 
-![fig 9.6](fig-9_6.png){:class="image "}
+![fig 9.6](fig-9_6.png){:class="image fit"}
 
 You may notice that the LED no longer turns on. This is because while the 5V pin is always on, pin 7 is what is called a programmable pin, meaning we decide whether it is on or off with code. 
 
