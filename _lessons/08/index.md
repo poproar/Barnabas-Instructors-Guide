@@ -112,17 +112,13 @@ A breadboard helps us connect our wires (analogous to blood vessels) together.  
    * How many rows are there? (17)
    * How many columns are there? (2 sets of 5)
 
-
 In a breadboard All the holes on each row of 5 are connected to each other. By connected I mean that any two things placed into the same row will be connected to each other. The breadboard helps us make closed circuits. Test the kids to see if they understand which holes connect to one another.
-
 
 #### Vocabulary
    * **Breadboard**: A tool used to create circuits. The breadboard is able to connect two or more components together as if their were touching so long as they are on the same row.
    * **Component**: A single element of a circuit. Ex: battery, LED.
 
-
 {% include badge.html type="best_practice" content="It is important that the students have a good grasp of how the breadboard works. To ensure comprehension you can draw boxes around each set of holes that are connected on your whiteboard drawing. Another method would be to remove the adhesive from the back of a breadboard (I would suggest you use a spare for this rather than using a student’s) exposing the strips of metal underneath. This may help them understand why the breadboard works as it does." %}
-
 
 ### Step 2: Creating Our First Breadboard Circuit (15 minutes) 
 Now that we understand how to use the breadboard we can recreate the 3V LED circuit from the last lesson. This time as a completely hands free circuit. Let’s start by recalling the schematic for that circuit.
@@ -146,7 +142,7 @@ For the first time we are now going to use the Barnabas Noggin to create a circu
 
 Before asking the students to attempt building this circuit on their own guide them through placing wires in the Noggin. Have them place one end of a wire (preferably red) into the 5V pin located on the Noggin. Have them place one end of another wire (preferably black) into one of the GND pins located on the Noggin (there is more than one). The other ends of both wires are currently dangling free. These ends should be treated the same as the + and - ends of a battery. Now they should be ready to create the circuit below.
 
-![fig 8.6](fig-8_6.png){:class="image center"}
+![fig 8.6](fig-8_6.png){:class="image center fit"}
 
 Plug the 9V battery into the jack on the Noggin and your LED should light up!
 
