@@ -129,7 +129,7 @@ To create the circuit using the breadboard you need to make the same exact conne
 
 ![fig 8.3](fig-8_3.png){:class="image center"}
 
-![fig 8.4](fig-8.4.jpg){:class="image center"}
+![fig 8.4](fig-8_4.jpg){:class="image center"}
 
 {% include badge.html type="best_practice" content="Before asking the students to create the circuit, draw the schematic on the board. Then draw a breadboard. Enlist the aid of the students in drawing batteries and the LEDs, as well as placing them in the correct spots to create a complete circuit. Once finished, follow the path of the circuit with the class and ensure that the circuit is closed." %}
 
