@@ -139,15 +139,15 @@ Once ArduBlock opens, you should see the following screen.  Note that your scree
 
 ![fig 9.2](fig-9_2.jpg){:class="image "}
   
-Go to [CONTROL], and drag in a [LOOP-DO] block (if it isn't there already).  Click on [SAVE], type in your name, and click [SAVE] again.  Note that every program needs a [LOOP-DO].
+Go to `CONTROL`, and drag in a `LOOP-DO` block (if it isn't there already).  Click on `SAVE`, type in your name, and click `SAVE` again.  Note that every program needs a `LOOP-DO`.
 
 ![fig 9.3](fig-9_3.jpg){:class="image "}
   
-Now click [UPLOAD], type in your name, and click [SAVE].  Your program will now upload code into your robot. 
+Now click `UPLOAD`, type in your name, and click `SAVE`.  Your program will now upload code into your robot. 
 
 ![fig 9.4](fig-9_4.jpg){:class="image "}
   
-Congratulations, you just wrote your first program!  In the future, you will want to always click [Save], and then [Upload] when loading your program to your Barnabas-Bot.
+Congratulations, you just wrote your first program!  In the future, you will want to always click `SAVE`, and then `UPLOAD` when loading your program to your Barnabas-Bot.
 
 
 #### Vocabulary
@@ -188,19 +188,15 @@ The `Set Digital Pin` block should snap into place when dropped on the loop do.
 
 ![fig 9.8](fig-9_8.png){:class="image "}
   
-There are two smaller blocks attached to the Set Digital Pin block. The number 1 and the word HIGH. The number 1 refers to the pin on the robot that this block will attempt to control. Remember that we placed the LED circuit on pin 7, so that 1 needs to be changed to a 7. This can be done by clicking on the block, pressing 7, then pressing enter.
+There are two smaller blocks attached to the `Set Digital Pin` block. The number 1 and the word `HIGH`. The number 1 refers to the pin on the robot that this block will attempt to control. Remember that we placed the LED circuit on pin 7, so that 1 needs to be changed to a 7. This can be done by clicking on the block, pressing 7, then pressing enter.
 
-The HIGH block is telling us that it will be turning the pin on (giving it power). By mousing over this block with your mouse cursor and clicking on the upside down triangle that appears on it a menu will appear. That menu has only two options HIGH and LOW. As you may have guessed LOW will turn the pin off.
-
+The `HIGH` block is telling us that it will be turning the pin on (giving it power). By mousing over this block with your mouse cursor and clicking on the upside down triangle that appears on it a menu will appear. That menu has only two options `HIGH` and `LOW`. As you may have guessed LOW will turn the pin off.
 
 After changing the pin number to 7 have all the students press upload to arduino at the top of the Ardublock window. You will be prompted to save, go ahead and do so. Afterwards you will see a green progress bar in the Arduino window showing the code being uploaded. You should see the LED turn on. 
 
-
 Next you should ask the students to turn the LED off by changing the code. Let them figure out how to do so on their own (Switch the HIGH to LOW). In order to see the change the students will need to upload their code again. The Barnabas Noggin is only capable of holding one program at a time. This means that uploading the LED off code will permanently erase the LED on code from the robot. To turn the LED on again they would have to re-upload a set digital pin HIGH code to the robot.
 
-![fig 9.9](pinHigh.png){:class="image "} LED on	  
-
-![fig 9.10](pinLow.png){:class="image "} LED off
+![fig 9.9](pinHigh.png){:class="image "} LED on  ![fig 9.10](pinLow.png){:class="image "} LED off
 
 #### Vocabulary
    * **Programmable pin**: One of the pins on the Barnabas Noggin labelled 0-13 (it has more labelled A0-A5, but we are not using those in this class). These pins can be controlled by the code we create in Ardublock rather than just being innately on or off.
@@ -208,7 +204,7 @@ Next you should ask the students to turn the LED off by changing the code. Let t
 
 
 ### Step 5: Blinking The LED (20 minutes) 
-Now it’s time for the big challenge, blinking the LED. I generally start by asking the class for suggestions on how to do this. The answer I’m looking for at this point is that we should place another Set Digital Pin block into our loop do. By having two Set Digital Pin blocks, one HIGH and the other LOW, We should see both behaviors happen. Have the students do this and upload the code. What kind of behavior do they see?
+Now it’s time for the big challenge, blinking the LED. I generally start by asking the class for suggestions on how to do this. The answer I’m looking for at this point is that we should place another Set Digital Pin block into our loop do. By having two `Set Digital Pin` blocks, one `HIGH` and the other `LOW`, We should see both behaviors happen. Have the students do this and upload the code. What kind of behavior do they see?
 
 ![fig 9.11](fig-9_11.png){:class="image "}
 
@@ -216,10 +212,9 @@ They should see the light turn off momentarily before turning back on, and stayi
 
 The reason we can not see a repeated blink is due to the speed at which the Barnabas Noggin is processing commands. The Barnabas Noggin thinks fast enough to do hundreds of commands in a second, far to fast for our eyes to keep up with. The LED is blinking, but too fast for us to make out.
 
-There is a way to slow our code down deliberately. In the controls tab there are two blocks labelled Delay. One says Delay milliseconds (a millisecond is one thousandth of a second), and the other says delay microseconds (a microsecond is one millionth of a second). We will always use the Delay milliseconds block, as the Delay microseconds block yields the same problem as before; the LED will be blinking too fast for us to see. The question is where do we place the Delay millisecond block in our current code. There are two immediate options:  
+There is a way to slow our code down deliberately. In the controls tab there are two blocks labelled Delay. One says `Delay milliseconds` (a _milli_ second is one *thousandth* of a second), and the other says `delay microseconds` (a _micro_ second is one *millionth* of a second). We will always use the Delay milliseconds block, as the Delay microseconds block yields the same problem as before; the LED will be blinking too fast for us to see. The question is where do we place the Delay millisecond block in our current code. There are two immediate options:  
 
-![fig 9.12](fig-9_12.png){:class="image left"}
-![fig 9.13](fig-9_13.png){:class="image right"}
+![fig 9.12](fig-9_12.png){:class="image "} ![fig 9.13](fig-9_13.png){:class="image "}
 
 You're probably wondering why there isn’t a third option for the delay block bing at the top of the code. It turns out that would be identical to the code on the left due to the code repeating. Unfortunately, these don’t work either. The one on the left seems to stay off, and the one on the right seems to stay on. In either case the delay block is only pausing after one of the actions, either turning off or turning on. We need to pause our code after each action, allowing both of them to happen for some observable amount of time, like below:
 
