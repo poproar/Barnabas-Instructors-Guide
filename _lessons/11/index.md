@@ -64,10 +64,10 @@ reflection:
 
 ### Step 1: Attaching The Servo Motors
 Servos motors are used to move your robot's right arm, left arm, and head.  Servo motors can move a half-circle (or 180 degrees). Follow the below steps to attach the servo motors:
-  
-![fig 11.1](fig-11_1.jpg){:class="image right"} Take one servo motor and place it into the left arm socket of the robot body.  Note:  The servo motor should be placed inside of the plastic robot body casing.  The top of the motor (with the white plastic tip) will stick slightly out of the robot’s body.  (See photo.)  
 
-![fig 11.2](fig-11_2.jpg){:class="image right"} Take one 9/16" servo screw and put it through the outside of the body and into the corresponding hole on the wing of the servo motor.  Push it through so that you can see the screw stick out through the wing of the servo motor.  If you have trouble sticking the screw through, try using the screwdriver to screw it in.  
+{% include rightinstruct.html image='fig-11_1.jpg' alt="fig 11.1" content='Take one servo motor and place it into the left arm socket of the robot body.  Note:  The servo motor should be placed inside of the plastic robot body casing.  The top of the motor (with the white plastic tip) will stick slightly out of the robot’s body.  (See photo.) ' %}
+
+Take one 9/16" servo screw and put it through the outside of the body and into the corresponding hole on the wing of the servo motor.  Push it through so that you can see the screw stick out through the wing of the servo motor.  If you have trouble sticking the screw through, try using the screwdriver to screw it in.![fig 11.2](fig-11_2.jpg){:class="image right"}
 
 ![fig 11.3](fig-11_3.jpg){:class="image right"} Take a nut and place it over the tip of the 9/16" servo screw.  Then, while gently holding the nut in place with your finger, tighten the 9/16" servo screw using your screwdriver. (Be careful not to over tighten.)  (This may require some patience and perseverance.  But you can do it!)   
 
@@ -87,15 +87,11 @@ Servos motors are used to move your robot's right arm, left arm, and head.  Serv
 ### Step 2: Frontplate Assembly
 In this step, you will now cover your robot's motors by installing your faceplate by following the steps below:
 
-<div class="box alt">
-
 ![fig 11.9](fig-11_9.jpg){:class="image right"} Find the front of your robot body.  (Hint: It is the open side of the body that is closest to the arm motors and has 2 holes at the bottom.)  Align your faceplate to your robot’s body so the screw holes line up.  (See photo.)  
 
-</div>
+![fig 11.10](fig-11_10.jpg){:class="image right"} Using your miniature Phillips screwdriver, fasten the two 1/4" screws to the robot’s body.
 
-![fig 11.10](fig-11_10.jpg){:class="image right"} Using your miniature Phillips screwdriver, fasten the two 1/4" screws to the robot’s body.{:class="box alt"} 
-
-![fig 11.11](fig-11_11.jpg){:class="image right"} Once completed, your robot should look like the photo.{:class="box alt"}
+![fig 11.11](fig-11_11.jpg){:class="image right"} Once completed, your robot should look like the photo.
 
 ### Step 3: Attaching The Backplate
 In this step, you will now cover the backside of your robot's body by installing your Barnabas Noggin. Follow the step below:
