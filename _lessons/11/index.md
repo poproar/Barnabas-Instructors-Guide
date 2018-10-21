@@ -70,6 +70,7 @@ Servos motors are used to move your robot's right arm, left arm, and head.  Serv
 
 ![fig 11.2](fig-11_2.jpg){:class="image right"} 
 Take one 9/16" servo screw and put it through the outside of the body and into the corresponding hole on the wing of the servo motor.  Push it through so that you can see the screw stick out through the wing of the servo motor.  If you have trouble sticking the screw through, try using the screwdriver to screw it in.
+{: .clearfix }
 
 ![fig 11.3](fig-11_3.jpg){:class="image right"} Take a nut and place it over the tip of the 9/16" servo screw.  Then, while gently holding the nut in place with your finger, tighten the 9/16" servo screw using your screwdriver. (Be careful not to over tighten.)  (This may require some patience and perseverance.  But you can do it!)
 {: .box .alt}
