@@ -25,6 +25,8 @@ github_username:  barnabasrobotics
 repository: poproar/Barnabas-Instructor-Guide
 version: 1.0.0
 
+markdown: kramdown
+
 collections:
   lessons:
     layout: lesson
