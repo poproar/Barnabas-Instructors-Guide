@@ -87,7 +87,11 @@ Servos motors are used to move your robot's right arm, left arm, and head.  Serv
 ### Step 2: Frontplate Assembly
 In this step, you will now cover your robot's motors by installing your faceplate by following the steps below:
 
-![fig 11.9](fig-11_9.jpg){:class="image right"} Find the front of your robot body.  (Hint: It is the open side of the body that is closest to the arm motors and has 2 holes at the bottom.)  Align your faceplate to your robot’s body so the screw holes line up.  (See photo.)  {:class="box alt"}
+<div class="box alt">
+
+![fig 11.9](fig-11_9.jpg){:class="image right"} Find the front of your robot body.  (Hint: It is the open side of the body that is closest to the arm motors and has 2 holes at the bottom.)  Align your faceplate to your robot’s body so the screw holes line up.  (See photo.)  
+
+</div>
 
 ![fig 11.10](fig-11_10.jpg){:class="image right"} Using your miniature Phillips screwdriver, fasten the two 1/4" screws to the robot’s body.{:class="box alt"} 
 
