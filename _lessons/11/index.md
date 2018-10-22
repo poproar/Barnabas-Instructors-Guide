@@ -65,12 +65,12 @@ reflection:
 ### Step 1: Attaching The Servo Motors
 Servos motors are used to move your robot's right arm, left arm, and head.  Servo motors can move a half-circle (or 180 degrees). Follow the below steps to attach the servo motors:
 
-![fig 11.1](fig-11_1.jpg){:class="image right"} Take one servo motor and place it into the left arm socket of the robot body.  Note:  The servo motor should be placed inside of the plastic robot body casing.  The top of the motor (with the white plastic tip) will stick slightly out of the robot’s body.  (See photo.){: .clearfix }
+![fig 11.1](fig-11_1.jpg){:class="image right"} Take one servo motor and place it into the left arm socket of the robot body.  Note:  The servo motor should be placed inside of the plastic robot body casing.  The top of the motor (with the white plastic tip) will stick slightly out of the robot’s body.  (See photo.){: class="box alt" }
 
 ![fig 11.2](fig-11_2.jpg){:class="image right"} 
-Take one 9/16" servo screw and put it through the outside of the body and into the corresponding hole on the wing of the servo motor.  Push it through so that you can see the screw stick out through the wing of the servo motor.  If you have trouble sticking the screw through, try using the screwdriver to screw it in.{: .clearfix }
+Take one 9/16" servo screw and put it through the outside of the body and into the corresponding hole on the wing of the servo motor.  Push it through so that you can see the screw stick out through the wing of the servo motor.  If you have trouble sticking the screw through, try using the screwdriver to screw it in.{: class="box alt" }
 
-![fig 11.3](fig-11_3.jpg){:class="image right"} Take a nut and place it over the tip of the 9/16" servo screw.  Then, while gently holding the nut in place with your finger, tighten the 9/16" servo screw using your screwdriver. (Be careful not to over tighten.)  (This may require some patience and perseverance.  But you can do it!){: .box .alt}
+![fig 11.3](fig-11_3.jpg){:class="image right"} Take a nut and place it over the tip of the 9/16" servo screw.  Then, while gently holding the nut in place with your finger, tighten the 9/16" servo screw using your screwdriver. (Be careful not to over tighten.)  (This may require some patience and perseverance.  But you can do it!)
 
 ![fig 11.4](fig-11_4.jpg){:class="image right"}  
 Once your nut is secure on your servo screw, it should look like the photo.
