@@ -57,35 +57,26 @@ reflection:
     comprehension: Explain the process of making multiple motors move in the same code. What are some common mistakes that must be avoided?
 ---
 
-Step 1:  Wiring The Other Two Motors (10 min)
+### Step 1:  Wiring The Other Two Motors (10 min)
 The two remaining servo motors will be wired in the same way the first motor was. For each motor grab a yellow, red and black jumper wire and place them in the ends of the motor wires, color coding them like before. Next the red wires (5V) should be placed on the same row of the breadboard as the red (5V) wire of our first motor, and the black wire can be placed on any row of the breadboard that is already home to a black wire. Finally the last two yellow wires must be plugged into pins 10 and 11,  like shown below:
   
 
-Step 2: Experimenting With The Motors (20 min)
+### Step 2: Experimenting With The Motors (20 min)
 With all of the motors wired to the robot getting everything moving is just a couple obstacles away. First I would recommend that the students experiment with the other two motors to find which on pin 10 and which lies on pin 11 as well as find the range of motion for each of the motors. To do this I want to bring back the code we ended on last week:
   
 
 The students should start here and simply change the pin numbers to 10, then upload and note the behavior of their robot. Afterwards they can do the same but using pin 11 instead. It is important that both servo blocks are set on the same pin. Through this process the students will be able to map each pin, 9, 10 and 11, to one of the robots extremities. 
 
+{% include badge.html type='best_practice' content='Many of the students will find that the range of motion for their motors is not what they desire. For example one of the arms may be waving backwards. The students can correct this by moving the arm to a desired position, However this can only be done while the robot is unpowered. Attempting this while the motor is powered can break the motor.' %}
 
-________________
-
-
-  
-
-Many of the students will find that the range of motion for their motors is not what they desire. For example one of the arms may be waving backwards. The students can correct this by moving the arm to a desired position, However this can only be done while the robot is unpowered. Attempting this while the motor is powered can break the motor.
-________________
-
-
-Step 3: Moving Multiple Motors (30 min)
+### Step 3: Moving Multiple Motors (30 min)
 With all of the motors attached and tested it is now possible to get them all moving. We will start by creating a program that moves two motors independently. The typical error when attempting this is forgetting that each motor should have multiple commands if the goal is getting motion to repeat. A student that makes this error generally only makes a single change from the previous code, resulting in this:
-  
 
 In the code above you can see that both pins 9 and 10 are given commands, however each is only given one command. This will cause each motor to act only once, then rest at whatever position it was told to move to. What the students should do is add servo blocks so that both pin 9 and pin 10 have two servo blocks associated with them.
 
-
 At this point there is another common pitfall for students. Many students will make the mistake of grouping the same angles with the same pin number, like shown below:
-  
+
+image
 
 Here you can see that each block associated with pin 9 has been given the angle 1 and each block associated with pin 10 has been given the angle 180. This program behaves identically to the previous one. To get each motor moving repeatedly each motor must be given two distinctly different commands:
   
