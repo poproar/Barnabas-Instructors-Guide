@@ -1,4 +1,5 @@
 ---
+layout: lesson
 title: Lesson 14 Building Your Final Circuit
 suggested_time: 60-75 minutes each
 

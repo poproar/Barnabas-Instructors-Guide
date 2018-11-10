@@ -1,4 +1,5 @@
 ---
+layout: lesson
 title: Lesson 13 &middot; Make Your Robot Wave!
 suggested_time: 60-75 minutes
 
