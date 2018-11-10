@@ -1,0 +1,73 @@
+---
+layout: lesson
+title: Lesson 1 &middot; Introduction to Robotics
+suggested_time: 60 - 75 minutes
+disciplines:
+    - "ETS1.B:  Developing Possible Solutions:  Research on a problem should be carried out before beginning to design a solution.  (3-5-ETS1-2)"
+technical_skills:
+    - Listening
+life_skills:
+    - Encouragement
+    - Grit
+    - Growth
+essential_questions:
+    - What are the similarities and differences between robots and humans?  
+    - What is your favorite robot?  
+    - What do robots help us do?  
+    - What are the 4 main parts that make up a robot?  
+    - What are the 4 types of engineering that make up robotics?  
+    - What does it mean to encourage somebody?  
+    - What does it mean to you to be a good community member?  
+
+vocab:
+    - Barnabas
+    - Community
+    - Encouragement
+    - Inspire
+    - Goal
+videos:
+    - link: https://youtu.be/8PLF9KwbckM 
+      text: I am the link
+    - link: https://youtu.be/wr4QnkbMrf8  
+      text: Some other video link
+documents:
+    - link: https://schoology.com
+      text: Test out thi link text method
+other:
+    - link: https://scratch.mit.edu/projects/124980272/#player
+      text: Scratch "paper doll" robot as demonstration
+depth:
+    - "Level 1:  Recall and Reproduction"
+    - "Level 2:  Skills and Concepts"
+    - "Level 3:  Strategic Thinking and Reasoning"
+    - "Level 4:  Extended Thinking (appendix b?)"
+barriers:
+    - Minimal understanding of metaphors (robot to human)  
+    - Lack of exposure to robots and their properties (e.g.  They are machines; they take commands in the form of code; they are not human; they can perform repetitive action)
+anticipatory:
+    - Student definitions or examples of encouragement and community  
+    - "Student understanding of functions of the human body parts:  body, brain, heart, and soul"
+practice:
+    - Student drawing of robots and label the 4 parts
+assessment:
+    - The labeled final drawing of the student’s favorite robot
+    - Students explain how/why robot and human parts are similar  
+    - Students provide examples of encouragement and community
+materials:
+    - Engineering Notebooks or
+    - Barnabas Lesson 1 worksheet
+    - Robot drawing
+    - Writing utensil
+    - Computer
+    - Projector
+reflection:
+    comprehension: "✎ :  What are the similarities and differences between robots and humans?"
+    challenges: blank
+    enjoyment: is this the same for all lessons?
+    mindset: growth
+    community:
+        - list
+        - of
+        - questions
+
+---
