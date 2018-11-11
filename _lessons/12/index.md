@@ -36,10 +36,10 @@ documents:
 other:
 
 depth:
-- Level 1:  Recall and Reproduction
-- Level 2:  Skills and Concepts
-- Level 3:  Strategic Thinking and Reasoning
-- Level 4:  Extended Thinking
+- "Level 1:  Recall and Reproduction"
+- "Level 2:  Skills and Concepts"
+- "Level 3:  Strategic Thinking and Reasoning"
+- "Level 4:  Extended Thinking"
 
 barriers: 
 - Students with hearing difficulties or trouble differentiating sound frequencies  
