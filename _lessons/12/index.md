@@ -58,7 +58,6 @@ assessment:
 materials:
 - Barnabas Lesson 12 worksheet
 - Materials used for setup in Lesson 10
-
 - Speaker
 - Resistor (4.7K Ohm)
 - Computer with Arduino software
@@ -67,9 +66,9 @@ materials:
 - Mini Breadboard
 
 reflection:
-    comprehension: 
-        - How would changing the resistor change the sound coming out of the buzzer?
-        - Does changing the frequency affect the volume, pitch, or both?
+  comprehension: 
+  - How would changing the resistor change the sound coming out of the buzzer?
+  - Does changing the frequency affect the volume, pitch, or both?
 
 ---
 
