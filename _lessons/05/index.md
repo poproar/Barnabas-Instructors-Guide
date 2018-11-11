@@ -44,7 +44,7 @@ anticipatory:
     - Hand students a few 3-D printed objects, if you have them. What do they notice about the objects? What process do they think is needed to print the objects? 
 
 practice:
-    -    * Asking/answering questions regarding the 3-D printer and the process of printing 3-D objects.
+    - Asking/answering questions regarding the 3-D printer and the process of printing 3-D objects.
 
 assessment:
     - Drawing of robot with color schemes to be used for painting in the next session  
@@ -62,6 +62,7 @@ reflection:
   - What are some of the 3-D printers components and what does each of them do?
   - Describe the process that begins with designing an object in a CAD program and ends with the 3-D printed object.
   - Why is the form or beauty of a product important to engineers?
+
 ---
 
 ### Step 1: Introduction To 3-D Printing (25 minutes) 
