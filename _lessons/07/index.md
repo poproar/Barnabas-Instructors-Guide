@@ -22,13 +22,11 @@ life_skills:
 - Teamwork
 - Freedom to fail
 
-
 essential_questions:
 - What is a circuit?
 - What is the difference between open and closed circuits?
 - What is current?
 - How does voltage effect a circuit?
-
 
 vocab:
 - Circuit
@@ -37,8 +35,6 @@ vocab:
 - Current
 - Voltage
 - Short-Circuit
-
-
 
 videos:
 - link: https://youtu.be/5P-3rSK79Uo
@@ -58,7 +54,6 @@ barriers:
 - Minimal experience with household electronics.
 - No working knowledge of electricity.
  
-
 anticipatory:
 - Learn basic electrical engineering concepts and use them to create a simple LED circuit
 

@@ -32,10 +32,10 @@ Instructions online: http://tinyurl.com/hvn4ztp
 other:
 
 depth:
-- Level 1:  Recall and Reproduction
-- Level 2:  Skills and Concepts
-- Level 3:  Strategic Thinking and Reasoning
-- Level 4:  Extended Thinking
+- "Level 1:  Recall and Reproduction"
+- "Level 2:  Skills and Concepts"
+- "Level 3:  Strategic Thinking and Reasoning"
+- "Level 4:  Extended Thinking"
 
 barriers: 
 - Fine motor skills and patience  
@@ -58,8 +58,8 @@ materials:
 - LOOK AT MATERIALS!
 
 reflection:
-    comprehension: 
-        Why is fastening the motors from both sides important?
+  comprehension: 
+  - Why is fastening the motors from both sides important?
 ---
 
 ### Step 1: Attaching The Servo Motors

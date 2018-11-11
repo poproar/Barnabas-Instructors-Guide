@@ -25,7 +25,6 @@ essential_questions:
 - Why do we have to change the pin \# block from 1 to 7 on the set digital pin block.
 - Why can’t we see the LED blink without delay blocks?
 
-
 vocab:
 # - Coding
 # - Program
@@ -60,7 +59,6 @@ other:
 - link: https://docs.google.com/document/d/1i_FVrwEXDOQY791zeHScGpZF_IAIIequutYzS-uE-0s/edit?usp=sharing
   text: Connecting Barnabas-Bot to a Mac
 
-
 depth:
 - 1
 - 2
@@ -78,12 +76,10 @@ anticipatory:
 - 'Learn the function of three blocks in Ardublock: Loop do, Set digital pin, and delay.'
 - Understand that the robot can be physically manipulated through code.
 
-
 practice:
 - Student create the circuit and write a program to turn on and off the LED
 - Use Ardublock to turn the LED on, then to turn the LED off.
 - Create a program in Ardublock that continuously blinks the light on and off.
-  
 
 assessment:
 - Blinking LED connected to the breadboard  
@@ -101,12 +97,11 @@ materials:
 - 3V LED
 - USB cable
 
-
 reflection:
-    comprehension: 
-        - What significance does changing the number attached to the Set Digital Pin block to 7 have?
-        - What effect does the delay block have? Why do we only use the delay milliseconds block?
-        - Why do we need two delay blocks to make the LED blink?
+  comprehension: 
+  - What significance does changing the number attached to the Set Digital Pin block to 7 have?
+  - What effect does the delay block have? Why do we only use the delay milliseconds block?
+  - Why do we need two delay blocks to make the LED blink?
 ---
 
 ### Review

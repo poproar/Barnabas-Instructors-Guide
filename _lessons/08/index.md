@@ -89,10 +89,10 @@ materials:
 - Resistors  (470 Ohm - yellow violet brown gold and 4.7K Ohm - yellow violet red gold)
 
 reflection:
-    comprehension: 
-        1. What is the breadboard used for? How does the breadboard work?
-        2. What is resistance? How does resistance affect our circuit?
-        3. What part(s) of the robot does the Barnabas Noggin represent?
+  comprehension: 
+  - What is the breadboard used for? How does the breadboard work?
+  - What is resistance? How does resistance affect our circuit?
+  - What part(s) of the robot does the Barnabas Noggin represent?
 
 ---
 

@@ -20,7 +20,6 @@ vocab:
 - Limits
 - Pulse Width Modulation
 
-
 videos:
 - link: https://youtu.be/x2z0ARKediA
   text: link
@@ -36,10 +35,11 @@ documents:
 other:
 
 depth:
-- Level 1:  Recall and Reproduction
-- Level 2:  Skills and Concepts
-- Level 3:  Strategic Thinking and Reasoning
-- Level 4:  Extended Thinking
+- "Level 1:  Recall and Reproduction"
+- "Level 2:  Skills and Concepts"
+- "Level 3:  Strategic Thinking and Reasoning"
+- "Level 4:  Extended Thinking"
+
 barriers: 
 - Understanding angles (0°-180°)
 
@@ -59,10 +59,9 @@ materials:
 - Servo Motors
 
 reflection:
-    comprehension: 
-        1. If the motor has previously been set to 20 degrees and is then set to 90, how many degrees does the motor move?
-        2. Why are there three wires attached to the servo motor and what do each of them do?
-
+  comprehension: 
+  - If the motor has previously been set to 20 degrees and is then set to 90, how many degrees does the motor move?
+  - Why are there three wires attached to the servo motor and what do each of them do?
 ---
 
 ### Step 1: How Does The Servo Motor Work? (5 min)

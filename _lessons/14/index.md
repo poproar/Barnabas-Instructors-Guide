@@ -39,10 +39,10 @@ documents:
 other:
 
 depth:
-- Level 1:  Recall and Reproduction
-- Level 2:  Skills and Concepts
-- Level 3:  Strategic Thinking and Reasoning
-- Level 4:  Extended Thinking
+- "Level 1:  Recall and Reproduction"
+- "Level 2:  Skills and Concepts"
+- "Level 3:  Strategic Thinking and Reasoning"
+- "Level 4:  Extended Thinking"
 barriers: 
 
 anticipatory:
@@ -55,7 +55,8 @@ materials:
 - Barnabas Lesson 13 worksheet
 
 reflection:
-    comprehension: Explain the process of making multiple motors move in the same code. What are some common mistakes that must be avoided?
+  comprehension: 
+  - Explain the process of making multiple motors move in the same code. What are some common mistakes that must be avoided?
 ---
 
 ### Step 1:  Wiring The Other Two Motors (10 min)

@@ -22,7 +22,6 @@ vocab:
 - Period
 - Sequence
 
-
 videos:
 documents:
 other:
@@ -30,10 +29,10 @@ other:
   text: Wikipedia morse code chart is good  find link
 
 depth:
-- Level 1:  Recall and Reproduction
-- Level 2:  Skills and Concepts
-- Level 3:  Strategic Thinking and Reasoning
-- Level 4:  Extended Thinking
+- "Level 1:  Recall and Reproduction"
+- "Level 2:  Skills and Concepts"
+- "Level 3:  Strategic Thinking and Reasoning"
+- "Level 4:  Extended Thinking"
 
 barriers: 
 - Understanding the pauses necessary in coding  
@@ -57,10 +56,10 @@ materials:
 
 
 reflection:
-    comprehension: 
-        1. What i morse code? How is morse code communicated?
-        2. When making blinks of different speeds, how does not changing the delay after turning the LED off benefit us?
-        3. Describe how the repeat block helps us create code?
+  comprehension: 
+  - What i morse code? How is morse code communicated?
+  - When making blinks of different speeds, how does not changing the delay after turning the LED off benefit us?
+  - Describe how the repeat block helps us create code?
 ---
 
 ### Review
