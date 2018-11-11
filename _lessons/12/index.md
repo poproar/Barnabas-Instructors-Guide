@@ -68,8 +68,8 @@ materials:
 
 reflection:
     comprehension: 
-        1. How would changing the resistor change the sound coming out of the buzzer?
-        2. Does changing the frequency affect the volume, pitch, or both?
+        - How would changing the resistor change the sound coming out of the buzzer?
+        - Does changing the frequency affect the volume, pitch, or both?
 
 ---
 
