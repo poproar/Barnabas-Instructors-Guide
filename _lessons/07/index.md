@@ -111,8 +111,6 @@ The schematic is the plan for our circuit. You can compare it to the blueprint o
 
 Have the students build the circuit with the components they just took out. Let them figure out how to correctly put the battery into the battery holder, as well as which side is positive(red) and which is negative(black). The positive end of the LED has a longer wire.
 
-![fig 7.2](fig-7_2.jpg){:class="image right"}
-
 ...IT DOESN’T WORK!
 
 Your students will notice that the LED does not light up. Ask them why (HINT: the 3V LED needs at least 3 volts to turn on). At this point, use the metaphor of a waterfall to describe voltage. Explain that the taller a waterfall is, the more power you will get out of it. It is the same with voltage. More voltage, more power. Ask the students how we can get the necessary 3V to light up the LED (DO NOT use the 9V battery. Instead, combine two AA batteries!).
