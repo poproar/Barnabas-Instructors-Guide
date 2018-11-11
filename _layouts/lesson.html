@@ -253,3 +253,9 @@ layout: index
     </ul>
 
 </section>
+
+{% if nexturl %}
+<ul class="actions fit small">
+    <li><a href="{{ site.baseurl }}{{nexturl}}" class="button primary fit small icon fa-arrow-circle-right"> Next Lesson</a></li>
+</ul>
+{% endif %}
