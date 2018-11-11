@@ -132,9 +132,14 @@ Ask the students to identify the difference between this schematic and our previ
 
 Have the students work together to build the circuit. Everyone will need to find a partner to have enough batteries for the circuit. If you have an odd number of students, you as the instructor can fill in as a partner for one of your students.After giving the students an opportunity to build the circuit themselves, bring the class together and walk through building the circuit one step at a time.
 
-{% include instruction.html image="fig-7_4a.jpg" content="Connect the + wire(red) of the first battery to the + leg(the longer leg) of the LED." step=1 %}
-{% include instruction.html image="fig-7_4b.jpg" content="Connect the - leg(the shorter leg) of the LED to the - wire(black) of the second battery." %}
-{% include instruction.html image="fig-7_4c.jpg" content="Connect the + wire(red) of the second battery to the - wire(black) of the first battery." %}
+![fig 7.4a](fig-7_4a.jpg){:class="image right"} Connect the + wire(red) of the first battery to the + leg(the longer leg) of the LED.
+{:style="overflow: hidden;"}
+
+![fig 7.4b](fig-7_4b.jpg){:class="image right"} Connect the - leg(the shorter leg) of the LED to the - wire(black) of the second battery.
+{:style="overflow: hidden;"}
+
+![fig 7.4c](fig-7_4c.jpg){:class="image right"} Connect the + wire(red) of the second battery to the - wire(black) of the first battery.
+{:style="overflow: hidden;"}
 
 {% include badge.html type='troubleshoot' content='Students often connect the positive terminals and negative terminals of the batteries together, rather than connecting the negative to positive (as shown in the schematic).  This incorrectly creates a parallel circuit.  If they do this, they will see that the LED still does not light up.  You can take this opportunity to talk about "series" circuits versus "parallel" circuits, if you like.  A "series" circuit stacks the batteries on top of each other, so that the voltage is added together (like putting two same height waterfalls on top of each other).' %}
 
