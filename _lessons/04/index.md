@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Lesson 3 &middot; Building our Robot’s Body
+title: Lesson 4 &middot; Advanced C.A.D.
 suggested_time: 60-75 minutes  
 
 disciplines:

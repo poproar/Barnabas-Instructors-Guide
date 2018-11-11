@@ -13,8 +13,12 @@ technical_skills:
     - Mechanics
     - Servo Motors
 life_skills:
+    - Communicating Effectively
+    - Making Decisions
     - Teamwork
-    - Community
+    - Problem Solving
+    - Confidence Building
+    - Preparation
 essential_questions:
     - What is necessary of all community members to achieve a common goal?  
     - Why do we need one another?  
@@ -23,7 +27,7 @@ essential_questions:
 
 vocab:
     - Servo motor
-    - Arduino board
+    - Controller
     - Battery
 
 videos:
@@ -60,10 +64,9 @@ assessment:
     - Reading a ruler to 8" (not centimeters)  
     - Students are not necessarily using all materials - they may share with other groups  
 materials:
-    - Barnabas Lesson 2 worksheet
     - Masking tape
     - Pipe cleaners
-    - Strips of paper
+    - Paper tube
     - Paper clips
     - Clothes pins
     - Popsicle sticks
@@ -73,16 +76,61 @@ materials:
     - 9-Volt battery 
     - 1 Plastic cup for every 3-4 groups of 3-4 students (to be knocked over; groups must share)
     - 1 Ruler for every 3-4 groups of 3-4 students (must share)
-    - Writing utensils
-    - document camera [optional]
 
 reflection:
-    comprehension: "✎ :  What are the similarities and differences between robots and humans?"
-    challenges: blank
-    enjoyment: is this the same for all lessons?
-    mindset: growth
-    community:
-        - list
-        - of
-        - questions
+    comprehension:
+      - Why is the design process important to the overall process of making?
+      - How would you describe the design process? (is it a straight line?)
+      - Describe the challenges you had while making your robot.
 ---
+
+#### Review
+* What are the four parts of a robot?  What type of engineer specializes in each part of the robot?
+The Trash-Bot Challenge (45 minutes) 
+Project Overview
+* Objective:  The goal of the Trash-Bot Challenge is to work in teams to construct a robot that will knock over a cup from at least 8 inches away.  
+* Method:  Each team will be given a bag of miscellaneous household objects with which to construct their Trash-Bots.  Not all teams will be given the same parts.  However, each team may choose to barter and/or share with one another team to accomplish the goal if they so choose.  
+* Learning Mindset:  There is a more important common goal of all groups succeeding.  This is a great opportunity for the students to experience a more collaborative mindset than a competitive one.
+Vocabulary
+* Servo Motor: A motor that allows for precise control of angular position. Our servo motors only have 180o range of motion.
+* Servo Motor Controller: The brain of this robot. A controller capable of instructing the motor to move to an angle. The controller has multiple modes which alter the behavior of the motor.
+
+### Step 1:  Forming Teams (10 minutes)
+Group students into teams of two or three.  Introduce and explain the main parts of the project:
+* The body: Each group will be given a bag of common household items.  The students will need to get creative with these to accomplish the goal of the challenge.
+* Servo motor: This is a common motor used in hobby robotics. It has a range of motion of 180 degrees (half a circle).
+* Servo motor controller: This device is what controls our motor.
+* 4 x AA battery: This is what powers the motor.
+
+
+This is a good time to review the parts of a robot described in the last lesson. The parts provided all resemble things previously mentioned:
+* The Body: The household items + servo motor
+* Heart: The batteries
+* Brain: The servo motor controller
+* Personality: You cannot see it, but it is the programming on the brain. It tells the motor when to spin and how much to spin.
+
+
+### Step 2: The Design Process (10 minutes) 
+Before building, it is always a good idea to plan out what we intend to build.  This is called the design process.  The design process plays a very important role in overall creative process. Design not only focuses on making things functional, but making them beautiful as well. 
+
+
+Each team should collaborate to come up with at least one design plan, which incorporates the parts they have been provided. 
+
+### Step 3: The Build Process (40 minutes) 
+After a team has completed its design plan, they can start building.  You can periodically have the kids bring their design up to test with the brain and battery.  Encourage students to provide a hypothesis of what will happen before they activate their Trash-Bot.  Ask the students to observe what actually happens.
+
+
+________________
+
+
+  
+
+Regardless of a group’s success or failure, you should encourage them to redesign their robots. For those who succeeded, challenge them to knock the cup over from further away. For those who failed, ask critical questions: Did the robot stay together? How did you fasten parts of the robot together? Did the robot move? Which part moved? How did it move? Can that motion be used to complete the task? Can things be added to the current design to complete the task or is an overhaul of the design necessary?   
+
+
+The students need to understand that the design process is not linear, it is circular with the best creators iterating their projects countless times.
+
+
+
+
+________________
