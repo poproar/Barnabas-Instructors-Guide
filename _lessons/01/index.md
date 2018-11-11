@@ -64,6 +64,7 @@ reflection:
 
 ---
 
+#### Instructor Mindset
 * There are a variety of ways to present new concepts to students.  Think of different ways to explain new concepts and multiple methods of engaging students in learning these concepts.
 * Set up your classroom in a “community-building” environment (e.g. chairs arranged in a circle; carpet space to sit in a circle, etc.)
 
@@ -77,10 +78,6 @@ Take the time at the very beginning of the project to explain these goals to you
 The name “Barnabas” means “Son of Encouragement.”  The Barnabas-Bot curriculum provides opportunities for students to be an encouragement to their peers and to themselves.  This is especially important because there are parts of the robot-building process that may be challenging.  Creating a culture of encouragement in the classroom will motivate students to try and persevere, even when they encounter frustration during the robot-building process.
 
 Do not assume that all students understand what “encouragement” means or how they can be encouraging to themselves or others.  You can initiate a classroom discussion about what “encouragement” means by prompting students to share examples of encouragement they have witnessed or experienced in their own lives.  Lastly, discuss the four goals of the class:  1) Build, 2) Learn, 3) Teach, and 4) Inspire.  Then delve into the meaning of each one with your students.
-________________
-
-Try making a game out of naming examples of community, perhaps a “Family Feud”-style game (e.g. “Survey Says…”)
-____________
 
 ### Step 2: Connecting the Disciplines (40 minutes)
 #### Background Knowledge
@@ -98,14 +95,13 @@ Building a robot requires collaboration amongst a team of individuals with varyi
 
 #### Discussion
 Open up the robotics discussion by asking what the similarities and differences are between a human and a robot.  Throughout this discussion, students may name certain parts of a robot, or of a human, to help them compare and contrast the two.  As the students give examples of either similarities or differences, write them down on a whiteboard, putting some emphasis on the parts of either humans or robots, as this will segway nicely into the next part of the discussion.
-________________
 
-Connect the Dots:  Draw a stick-figure body.  Add a heart, a brain, and soul (encircled gingerbread man or woman) to the body.  Next, write the engineering disciplines (Mechanical, Electrical, Computer (Hardware), and Software) next to the body.  Have the students draw a line connecting the engineering discipline, which corresponds most closely to the function  of the listed body part.
-________________
+{% include badge.html type='suggestion' content='Connect the Dots:  Draw a stick-figure body.  Add a heart, a brain, and soul (encircled gingerbread man or woman) to the body.  Next, write the engineering disciplines (Mechanical, Electrical, Computer (Hardware), and Software) next to the body.  Have the students draw a line connecting the engineering discipline, which corresponds most closely to the function  of the listed body part.' %}
 
 #### “Is This A Robot?”  
  Ask the students if a commonly used appliance is a robot.  For example, “Is a washing machine a robot?”  Have the students plead their case one way or the other for why the object is or is not a robot.  The goal of this exercise is not to correctly identify whether the appliance is a robot or not.  Rather, the goal should be to guide the discussion toward using the four parts of a robot to assess whether the object is a robot or not.  Have the students attempt to match the appliance in question to that criteria of a robot (body, heart, brain, personality).
-_______________
 
-Consider drawing a robot during the parts of a robot discussion. Add the individual parts to it as they come up, like in the examples below:  
-________________
+{% include badge.html type='best_practice' content='Consider drawing a robot during the parts of a robot discussion. Add the individual parts to it as they come up, like in the examples below' %}
+
+![fig 1.1](fig-1_1.png){:class="image "}
+![fig 1.2](fig-1_2.png){:class="image "}
