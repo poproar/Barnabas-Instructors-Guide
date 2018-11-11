@@ -39,4 +39,13 @@ materials:
 - Glue
 - Permanent markers, if paint not avail.
 - Newspaper or scratch paper to protect work surfaces
+
 ---
+
+### Step 1: Decorating The Robot (60 minutes) 
+This lesson will be spent allowing the students to decorate their robots. Be sure to cover the tables of the classroom in some way, we recommend butcher paper. Afterwards, hand out whatever supplies you are going to have the students use, paints or otherwise. Also, if you haven’t already, hand the custom parts, the heads and front plates, to each of the students. 
+
+
+It may seem a bit frivolous to spend an entire lesson of a 16 lesson robotics class painting, however in our experience at Barnabas Robotics teaching this class, allowing the students the opportunity to make each of their robots unique helps them buy in to the class.
+
+{% include badge.html type='tidbit' content='If you are artistically inclined feel free to infuse some of your artistic knowledge into the class. Perhaps a quick discussion of additive vs subtractive colors would be appropriate.' %}
