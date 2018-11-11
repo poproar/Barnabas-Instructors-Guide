@@ -63,7 +63,11 @@ The process of getting a 3-D file to the printer isn’t as simple as you may su
 
 What is needed is some way of converting an STL file to a g-code file. This can be done with a slicer program. A slicer will take the 3-D STL file and slice it into each 2-D piece. The overall process is shown in simplified form below:
 
+![fig 5.1](fig-5_1.png){:class="image center"}
+
 Draw a 3-D printer on the whiteboard, making sure to label important components:
+
+![fig 5.2](fig-5_2.png){:class="image center"}
 
 Going over the significant parts:
 
