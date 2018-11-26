@@ -74,16 +74,16 @@ With the robot assembled we have the opportunity to generate a drawing of the ro
 
 * R-CLICK on the assembly file tab that you just created
 * L-CLICK on "Create drawing of ... "
-![fig 4.1](fig-4_1.jpg){:class="image center"}
+![fig 4.1](fig-4_1.jpg){:class="image fit"}
 
 * A screen will pop up. Make sure that "Four views" is selected under "OPTIONS", and L-CLICK on "OK"
-![fig 4.](fig-4_2.jpg){:class="image center"}
+![fig 4.](fig-4_2.jpg){:class="image fit"}
 
 * A drawing will be automatically created.
-![fig 4.3](fig-4_3.jpg){:class="image center"}
+![fig 4.3](fig-4_3.jpg){:class="image fit"}
 
 * Double L-CLICK on the text boxes to edit the text. Write your name as well as your robot's name.
-![fig 4.4](fig-4_4.jpg){:class="image center"}
+![fig 4.4](fig-4_4.jpg){:class="image fit"}
 
 * You are done!
 

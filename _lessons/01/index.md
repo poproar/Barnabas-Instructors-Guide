@@ -114,5 +114,8 @@ Open up the robotics discussion by asking what the similarities and differences 
 
 {% include badge.html type='best_practice' content='Consider drawing a robot during the parts of a robot discussion. Add the individual parts to it as they come up, like in the examples below' %}
 
-![fig 1.1](fig-1_1.png){:class="image "}
-![fig 1.2](fig-1_2.png){:class="image "}
+<h4>Testing Header Tags</h4>
+<div>divs?</div>
+
+![fig 1.1](fig-1_1.png){:class="image fit"}
+![fig 1.2](fig-1_2.png){:class="image fit"}

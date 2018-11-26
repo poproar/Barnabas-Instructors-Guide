@@ -75,11 +75,11 @@ reflection:
 ### Step 1: Building The Buzzer Circuit (10 minutes) 
 In this lesson we will be adding the buzzer to our robot in the same way we added the LED. There is no need to take the LED circuit off the breadboard. We are not replacing it, we are adding to it. Start by drawing the circuit schematic on the board:
 
-![fig 12.1](fig-12_1.png){:class="image center"}
+![fig 12.1](fig-12_1.png){:class="image fit"}
 
 In addition to giving the students a schematic to follow have them closely examine the buzzer. They should recognize that one leg of the buzzer is longer than the other, much like the LED. The different length legs, much like the LED indicate that one leg must be placed closer to the positive end of the circuit (the long leg), the high voltage end of the circuit if you will. With this information the students should be able to build the buzzer circuit. It would be wise to construct it a fair distance away from the LED circuit on the breadboard to avoid confusion. If this is not enough then as a class attempt to create a diagram of the circuit on the whiteboard, which would look like the following:
 
-![fig 12.2](fig-12_2.png){:class="image center"}
+![fig 12.2](fig-12_2.png){:class="image fit"}
 
 This diagram has the LED circuit on it as well, but that is not necessary unless you intend to have GND common like in the diagram above. What I mean by that is the green wire that is going between the buzzer circuit and the LED circuit is connecting the negative legs (the short ones) of both components. That way, if one is connected to GND, both are connected to GND.
 
@@ -93,35 +93,35 @@ The buzzer will utilize the different voltages by emitting different sounds, dif
 ### Step 3:  Making Tones With The Buzzer (45 minutes) 
 To program our buzzer we will use the tone block found in the pins tab in Ardublock:
 
-![fig 12.3](fig-12_3.png){:class="image center"}
+![fig 12.3](fig-12_3.png){:class="image fit"}
 
 The tone block, like the set digital pin block, requires us to input two pieces of information. Both the pin the buzzer is located on (pin 6), and the frequency of the tone we would like the buzzer to make:
 
-![fig 12.4](fig-12_4.png){:class="image center"}
+![fig 12.4](fig-12_4.png){:class="image fit"}
 
 The frequencies that can be chosen relate to different musical note like those shown below:
 
-![fig 12.5](fig-12_5.png){:class="image center"}
+![fig 12.5](fig-12_5.png){:class="image fit"}
 
 Each of the frequencies shown will make the corresponding musical note. Frequencies that are not seen above can be used, but are generally much less functional. Have your students experiment with different frequencies and share any interesting results they may find.
 
 Once the students have had 2-5 minutes to experience with the tone block you should introduce the no tone block:
 
-![fig 12.6](fig-12_6.png){:class="image center"}
+![fig 12.6](fig-12_6.png){:class="image fit"}
 
 The no tone block silences the buzzer. However, much like the LED, we need to be clever in how we code the buzzer so that the buzzer actually behaves the way we want it to.
 
 Let us say that we are trying to have the buzzer make a tone for a small amount of time, then be silent for a similar amount of time. A common mistake is to just put the tone and no tone blocks into the loop do with nothing else accompanying them:
 
-![fig 12.7](fig-12_7.png){:class="image center"}
+![fig 12.7](fig-12_7.png){:class="image fit"}
 
 I’m not sure how I would describe the noise the above code makes, but it is definitely not what we are looking for. We have the same issue here that we had when first attempting the blinking light code. Neither of these blocks are given time to take place. Delays need to be added so each block has an opportunity to influence the buzzer:
 
-![fig 12.8](fig-12_8.png){:class="image center"}
+![fig 12.8](fig-12_8.png){:class="image fit"}
 
 Instead of the no tone block, we can just place another tone block of a different frequency to make a siren:
 
-![fig 12.9](fig-12_9.png){:class="image center"}
+![fig 12.9](fig-12_9.png){:class="image fit"}
 
 #### Vocabulary
   * **Tone**: The tone block is capable of making the buzzer emit sounds of different frequencies. To do so the tone block must be given the correct pin number (for us 6) as well as a frequency. The frequency given dictates how high or low the pitch of the sound is and can be related back to musical notes.

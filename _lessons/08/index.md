@@ -107,7 +107,7 @@ In this lesson we are introduced to a very valuable tool, The breadboard. What i
 
 A breadboard helps us connect our wires (analogous to blood vessels) together.  We can connect our wires to the holes in the breadboard to make secure connections without needing to tie the wires together.  This is useful, especially when we need to change the connections often.  This is common while engineers figure out how to best make their ideas happen. Draw a picture of the miniature breadboard on the whiteboard.  NOTE: You can use the 1-17 (rows) and A-J (columns) references to tell kids where to place wires as the lesson progresses.
 
-![fig 8.1](empty_breadboard.png){:class="image center"}
+![fig 8.1](empty_breadboard.png){:class="image fit"}
 
    * How many rows are there? (17)
    * How many columns are there? (2 sets of 5)
@@ -123,13 +123,13 @@ In a breadboard All the holes on each row of 5 are connected to each other. By c
 ### Step 2: Creating Our First Breadboard Circuit (15 minutes) 
 Now that we understand how to use the breadboard we can recreate the 3V LED circuit from the last lesson. This time as a completely hands free circuit. Let’s start by recalling the schematic for that circuit.
 
-![fig 8.2](fig-8_2.png){:class="image center"}
+![fig 8.2](fig-8_2.png){:class="image fit"}
   
 To create the circuit using the breadboard you need to make the same exact connections as before. A helpful tip is that any two wires/legs that were held together in the previous circuit must now be in a row together. Not necessarily in the same hole though. Also, both ends of a component should never be in the same row together. That is the same as touching the two sides together which, in the case of the battery, creates a short circuit. They should end up with a circuit that looks similar to the one below.
 
-![fig 8.3](fig-8_3.png){:class="image center"}
+![fig 8.3](fig-8_3.png){:class="image fit"}
 
-![fig 8.4](fig-8_4.jpg){:class="image center"}
+![fig 8.4](fig-8_4.jpg){:class="image fit"}
 
 {% include badge.html type="best_practice" content="Before asking the students to create the circuit, draw the schematic on the board. Then draw a breadboard. Enlist the aid of the students in drawing batteries and the LEDs, as well as placing them in the correct spots to create a complete circuit. Once finished, follow the path of the circuit with the class and ensure that the circuit is closed." %}
 
@@ -142,7 +142,7 @@ For the first time we are now going to use the Barnabas Noggin to create a circu
 
 Before asking the students to attempt building this circuit on their own guide them through placing wires in the Noggin. Have them place one end of a wire (preferably red) into the 5V pin located on the Noggin. Have them place one end of another wire (preferably black) into one of the GND pins located on the Noggin (there is more than one). The other ends of both wires are currently dangling free. These ends should be treated the same as the + and - ends of a battery. Now they should be ready to create the circuit below.
 
-![fig 8.6](fig-8_6.png){:class="image center fit"}
+![fig 8.6](fig-8_6.png){:class="image fit"}
 
 Plug the 9V battery into the jack on the Noggin and your LED should light up!
 
@@ -163,7 +163,7 @@ Plug the 9V battery into the jack on the Noggin and your LED should light up!
 ### Step 4: Going Further With Resistance (15 minutes or as time permits)
 You may have noticed the two different types of resistor that we have are differentiated based on the colors of their bands. As it turns out we can tell the exact strength of a resistor based on the color of those bands.
 
-![fig 8.7 resistor table](resistor_table.png){:class="image center"}
+![fig 8.7 resistor table](resistor_table.png){:class="image fit"}
 
 Let’s walk through this chart together. In the Numeric Value column we see that each color is given a number value associated with it. These numbers are only applied to the first two colored bands on a resistor. Those two numbers are combined into one 2 digit number. For example our 4,700 Ohm resistor has the colors yellow and violet as it’s first two color bands, in that order. From this we know that resistor’s value must start with the number 47, which we know it does. The third band on the resistor is the multiplier. We take the number denoted by the color of that band (in this case 100-red) and multiply that number and the 2 digit number from earlier together (47x100), giving us 4,700 Ohms. 
 
