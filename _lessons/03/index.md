@@ -114,20 +114,15 @@ Onshape is a very convenient CAD tool. It uses your internet browser and saves a
 #### OnShape Basics
 Before diving into things you will need to become somewhat proficient with OnShape’s tools. Here are a few tips on how to move stuff around in OnShape:
 
-_Open the file "robot body front plate."_  
-**Rotation**
-
+- Open the file "robot body front plate."
+- **Rotation**
   * Method 1: L-CLICK on arrows in the cube on the top left to rotate the entire perspective.![fig 3.4](fig-3_4.png){:class="image right"}
   * Method 2: R-CLICK on a part and move the mouse.
   * Method 3: L-CLICK on the "FRONT, BACK, LEFT, ETC." on the cube on the top left.
-
-**Translating** a part (moving it up, down and side to side)
-
+- **Translating** a part (moving it up, down and side to side)
   * Method 1: Hold down CTRL and R-CLICK on the part to move it around.
   * Method 2: L-CLICK down using the SCROLL button to move it around.
-
-**Zooming**
-
+- **Zooming**
   * Use the scroll button to zoom in and out.
   * Go to "FRONT VIEW."
   * Press "F" to fit the part into your screen.  This is called, "ZOOM TO FIT."
