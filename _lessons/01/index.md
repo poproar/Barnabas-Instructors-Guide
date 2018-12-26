@@ -72,6 +72,9 @@ reflection:
       - What are the 4 major parts of any robot?
       - What type of engineering is related to each of those parts?
       - What are we going to learn about and how are we going to learn?
+    mindset:
+        - How can you help make the class a good learning community?
+
 
 ---
 

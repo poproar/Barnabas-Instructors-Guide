@@ -92,9 +92,6 @@ reflection:
       - Why is the design process important to the overall process of making?
       - How would you describe the design process? (is it a straight line?)
       - Describe the challenges you had while making your robot.
-    mindset:
-      - What did you learn about yourself? 
-      - What would you like to improve?
 
 ---
 
