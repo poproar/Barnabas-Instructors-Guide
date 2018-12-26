@@ -101,13 +101,13 @@ Onshape is a very convenient CAD tool. It uses your internet browser and saves a
 
 1. Once you are logged into OnShape, open the Barnabas-Bot Template file. 
 2. Create a copy by L-CLICKing on "Make a private copy"
-![fig 3.1](fig-3_1.jpg){:class="image fit"}
+![fig 3.1](fig-3_1.jpg){:class="image "}
 
 3.  Name the project: "BARNABAS-BOT 2.3 [YOUR NAME]. Make sure to choose "Public".
-![fig 3.2](fig-3_2.jpg){:class="image fit"}
+![fig 3.2](fig-3_2.jpg){:class="image "}
 
 4. Once you do this, a new project should open up, which will be a copy of the original project, but with this new name.
-![fig 3.3](fig-3_3.jpg){:class="image fit"}
+![fig 3.3](fig-3_3.jpg){:class="image"}
 
 5. You are now ready to customize your robot's body!
 
@@ -135,22 +135,18 @@ Now we will begin the design of our own custom robot. This starts by customizing
   * Double L-CLICK on the “B” until you see a number pop up on the right side of the screen ![fig 3.6](fig-3_6.jpg){:class="image fit"}
     * Change the number to a larger number (like 2 or 3). The B should be larger now!
     * Change the value to “0.5”. The B should be smaller now!
-
     ![fig 3.7](fig-3_7.jpg){:class="image left"}
     * Click on the green check mark to save your changes
     {:style="overflow: hidden;"}
-
 3. Move the location of the text.
   * R-CLICK on the “B” and L-CLICK on “Edit Sketch 1…”
   * L-CLICK on one of the 4 blue corners (they are kinda small, you might need to zoom in) of the rectangle around the B and drag the blue rectangle up and down ![fig 3.8](fig-3_8.jpg){:class="image "}{:style="overflow: hidden;"}
-
   * Click on the green check mark to save your change
 4. Change the text.
   * R-CLICK on the “B” and L-CLICK on “Edit Sketch 1…”
   * R-CLICK on the “B” again and L-CLICK on “Edit Text”
   ![fig 3.9](fig-3_9.jpg){:class="image "}
   {:style="overflow: hidden;"}
-
   * Now change the text to “C”. Click on the green check mark and see if it changes!
   * Now change the text to “BARNABAS”. You’ll see that it doesn’t fit on the robot face. How can you make it fit? (Change the size of the text to 0.3 or less)
   * Click on the green check mark and see if it changes!
@@ -164,12 +160,11 @@ This is where you will put all your robot's body parts together and create the f
   * L-CLICK on the “+” sign at the bottom left of your screen
   * L-CLICK on “Create Assembly”
   * Your assembly file should automatically open up
-  ![fig 3.10](fig-3_10.jpg){:class="image fit"}
-
+  ![fig 3.10](fig-3_10.jpg){:class="image"}
 
 2. Insert your body
   * Insert your body by clicking on the insert button
-  ![fig 3.11](fig-3_11.jpg){:class="image fit"}
+  ![fig 3.11](fig-3_11.jpg){:class="image"}
   * Now select the "robot body" file by selecting it in the list of files. Place it in your assembly file and click on the green check mark to save your work!
   * Now go to the Front View
 
@@ -188,14 +183,12 @@ This is where you will put all your robot's body parts together and create the f
   ![fig 3.14](fig-3_14.jpg){:class="image left"}
   {:style="overflow: hidden;"}
 
-
 6. Insert your right arm
   * You'll need to rotate it to align it correctly
   * L-CLICK on the arm to show the rotation tool
   * Click on the circle shown in the picture to rotate it
   ![fig 3.15](fig-3_15.jpg){:class="image left"}
   {:style="overflow: hidden;"}
-
   * After it is rotated, align it correctly with the hole
   ![fig 3.16](fig-3_16.jpg){:class="image left"}
   {:style="overflow: hidden;"}
