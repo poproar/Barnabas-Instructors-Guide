@@ -84,6 +84,7 @@ reflection:
 
 #### Review
    * Review the four parts of a robot and how it relates to the human body
+   * What is the difference between design and build?
 
 ### Step 1: What Is CAD? (15 minutes) 
 Computer-Aided Design (or CAD) is used by engineers across many disciplines.  Specifically, when building a robot, CAD is used by a mechanical engineer to create the frame or body of the robot.  CAD software allows us to create very precise designs with perfect lines and shape, that would be difficult to sketch by hand.  CAD is also advantageous because the blueprint is stored digitally and can be accessed on most devices anywhere in the world at a moment’s notice.  With an electronically-stored blueprint, an engineer can then create the design using a machine and material of their preference.  Our robots will be 3D-printed using plastic.
