@@ -162,39 +162,26 @@ Now we will begin the design of our own custom robot. This starts by customizing
 #### Putting Your Robot Together
 This is where you will put all your robot's body parts together and create the final file that you will share with us. You will need to drag and rotate your robot’s pieces into place. Keep in mind that you shouldn’t be concerned with perfection. Regardless of mistakes in the assembly file, the parts will be 3D printed appropriately. Follow along with the steps below to assemble your robot:
 
-![fig 3.10](fig-insert_new_element.png){:class="image right"}  **Create an assembly file**
-1. L-CLICK on the “+” sign at the bottom left of your screen  
-2. L-CLICK on “Create Assembly”  
-Your assembly file should automatically open up  
+![fig 3.10](fig-insert_new_element.png){:class="image right"}  **Create an assembly file** L-CLICK on the “+” sign at the bottom left of your screen. L-CLICK on “Create Assembly”. Your assembly file should automatically open up
 {:style="overflow: hidden;"}
 
-![fig 3.11](fig-insert_part_body.png){:class="image right"}  **Insert the body**
-1. Insert your body by clicking on the insert button  
-2.  Now select the "robot body" file by selecting it in the list of files. Place it in your assembly file and click on the green check mark to save your work!  
-* Now go to the Front View  
+![fig 3.11](fig-insert_part_body.png){:class="image right"}  **Insert the body** Insert your body by clicking on the insert button. Now select the "robot body" file by selecting it in the list of files. Place it in your assembly file and click on the green check mark to save your work! Now go to the Front View.
 {:style="overflow: hidden;"}
 
-![fig 3.12](fig-3_12.jpg){:class="image right"} **Insert the front plate**  
-Now insert your "robot body front plate" file. Align the front plate with the body by left clicking on it and dragging it. You’ll need to rotate the views to get it to align correctly.  
+![fig 3.12](fig-3_12.jpg){:class="image right"} **Insert the front plate** Now insert your "robot body front plate" file. Align the front plate with the body by left clicking on it and dragging it. You’ll need to rotate the views to get it to align correctly.
 {:style="overflow: hidden;"}
 
-![fig 3.13](fig-head_choice.png){:class="image right"} **Insert one head**  
-Using the same process as before, insert the head that you want 
+![fig 3.13](fig-head_choice.png){:class="image right"} **Insert one head** Using the same process as before, insert the head that you want.
 {:style="overflow: hidden;"}
 
 ![fig 3.14](fig-3_14.jpg){:class="image right"} **Insert your left arm and align it**
 {:style="overflow: hidden;"}
 
-![fig 3.15](fig-3_15.jpg){:class="image right"} **Insert your right arm**  
-* You'll need to rotate it to align it correctly  
-* L-CLICK on the arm to show the rotation tool  
-* Click on the circle shown in the picture to rotate   
+![fig 3.15](fig-3_15.jpg){:class="image right"} **Insert your right arm** You'll need to rotate it to align it correctly. L-CLICK on the arm to show the rotation tool. Click on the circle shown in the picture to rotate.
 {:style="overflow: hidden;"}
 
-![fig 3.16](fig-3_16.jpg){:class="image right"} **Line it up**  
-* After it is rotated, align it correctly with the hole  
+![fig 3.16](fig-3_16.jpg){:class="image right"} **Line it up** After it is rotated, align it correctly with the hole
 {:style="overflow: hidden;"}
-
 
 #### Vocabularyte
 * **Dimension**: A measurable extent, such as length, depth, or height.
