@@ -66,6 +66,8 @@ reflection:
 ---
 
 #### Review
+* What does C.A.D. stand for?
+* Can you explain what 3-D means?
 * What advantages does CAD give us as opposed to designing by hand?
 
 ### Step 1: Creating An Assembly File (10 -15 minutes) 
