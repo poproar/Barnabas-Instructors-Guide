@@ -99,7 +99,8 @@ Computer-Aided Design (or CAD) is used by engineers across many disciplines.  Sp
 
 Onshape is a very convenient CAD tool. It uses your internet browser and saves all your files to a cloud server. Because of this we do not have to worry about installing software or misplacing files. After creating your own Onshape account follow the instructions below:
 
-1. Once you are logged into OnShape, open the Barnabas-Bot Template file. 
+1. Once you are logged into OnShape, open the Barnabas-Bot Template file.
+
 2. Create a copy by L-CLICKing on "Make a private copy"
 ![fig 3.1](fig-3_1.jpg){:class="image "}
 
@@ -130,7 +131,9 @@ Before diving into things you will need to become somewhat proficient with OnSha
 
 #### Writing on Your Robot's Body
 Now we will begin the design of our own custom robot. This starts by customizing the text on the front plate (chest) of your robot. In this section we will learn both how to enlarge and how to change text:
-1. Open the "robot body front plate" file in OnShape.  
+
+1. Open the "robot body front plate" file in OnShape. 
+
 2. Change the size of the text
   * Double L-CLICK on the “B” until you see a number pop up on the right side of the screen ![fig 3.6](fig-3_6.jpg){:class="image fit"}
     * Change the number to a larger number (like 2 or 3). The B should be larger now!
@@ -138,6 +141,7 @@ Now we will begin the design of our own custom robot. This starts by customizing
     ![fig 3.7](fig-3_7.jpg){:class="image left"}
     * Click on the green check mark to save your changes
     {:style="overflow: hidden;"}
+
 3. Move the location of the text.
   * R-CLICK on the “B” and L-CLICK on “Edit Sketch 1…”
   * L-CLICK on one of the 4 blue corners (they are kinda small, you might need to zoom in) of the rectangle around the B and drag the blue rectangle up and down ![fig 3.8](fig-3_8.jpg){:class="image "}{:style="overflow: hidden;"}
@@ -147,9 +151,11 @@ Now we will begin the design of our own custom robot. This starts by customizing
   * R-CLICK on the “B” again and L-CLICK on “Edit Text”
   ![fig 3.9](fig-3_9.jpg){:class="image "}
   {:style="overflow: hidden;"}
+
   * Now change the text to “C”. Click on the green check mark and see if it changes!
   * Now change the text to “BARNABAS”. You’ll see that it doesn’t fit on the robot face. How can you make it fit? (Change the size of the text to 0.3 or less)
   * Click on the green check mark and see if it changes!
+
 5. Now change the text to whatever you want!
   * It can be a single letter, or many letters. Play with different sizes. Make sure that all of the text fit on the robot! Remember to click on the green check mark to save your changes! Make sure to keep the size of the text larger than 0.3 so that it comes out well during printing!
 
