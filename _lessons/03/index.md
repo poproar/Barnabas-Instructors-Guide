@@ -164,41 +164,41 @@ This is where you will put all your robot's body parts together and create the f
   * L-CLICK on the “+” sign at the bottom left of your screen
   * L-CLICK on “Create Assembly”
   * Your assembly file should automatically open up
-![fig 3.10](fig-3_10.jpg){:class="image fit"}
+  ![fig 3.10](fig-3_10.jpg){:class="image fit"}
 
 
 2. Insert your body
   * Insert your body by clicking on the insert button
-![fig 3.11](fig-3_11.jpg){:class="image fit"}
+  ![fig 3.11](fig-3_11.jpg){:class="image fit"}
   * Now select the "robot body" file by selecting it in the list of files. Place it in your assembly file and click on the green check mark to save your work!
   * Now go to the Front View
 
 3. Insert your custom plate
   * Now insert your "robot body front plate" file.
   * Align the front plate with the body by left clicking on it and dragging it. You’ll need to rotate the views to get it to align correctly
-![fig 3.12](fig-3_12.jpg){:class="image left"}
-{:style="overflow: hidden;"}
+  ![fig 3.12](fig-3_12.jpg){:class="image left"}
+  {:style="overflow: hidden;"}
 
 4. Insert your head
   * Using the same process as before, insert the head that you want
-![fig 3.13](fig-3_13.jpg){:class="image left"}
-{:style="overflow: hidden;"}
+  ![fig 3.13](fig-3_13.jpg){:class="image left"}
+  {:style="overflow: hidden;"}
 
 5. Insert your left arm and align it
-![fig 3.14](fig-3_14.jpg){:class="image left"}
-{:style="overflow: hidden;"}
+  ![fig 3.14](fig-3_14.jpg){:class="image left"}
+  {:style="overflow: hidden;"}
 
 
 6. Insert your right arm
   * You'll need to rotate it to align it correctly
   * L-CLICK on the arm to show the rotation tool
   * Click on the circle shown in the picture to rotate it
-![fig 3.15](fig-3_15.jpg){:class="image left"}
-{:style="overflow: hidden;"}
+  ![fig 3.15](fig-3_15.jpg){:class="image left"}
+  {:style="overflow: hidden;"}
 
   * After it is rotated, align it correctly with the hole
-![fig 3.16](fig-3_16.jpg){:class="image left"}
-{:style="overflow: hidden;"}
+  ![fig 3.16](fig-3_16.jpg){:class="image left"}
+  {:style="overflow: hidden;"}
 
 
 #### Vocabulary
