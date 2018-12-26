@@ -30,8 +30,8 @@ vocab:
     - Goal
 
 videos:
-    - link: https://youtu.be/8PLF9KwbckM 
-      text: I am the link
+    - link: https://www.brainpop.com/technology/computerscience/robots/
+      text: Free BrainPop video about Robots (Video available in Spanish and French only with paid language-specific BrainPop log-in)
     - link: https://youtu.be/wr4QnkbMrf8  
       text: Some other video link
 documents:
@@ -81,7 +81,7 @@ reflection:
 
 ### Step 1: Introducing Barnabas Robotics (10 minutes)
 #### Project Objective
-The overall goal of all Barnabas Robotics’ projects is to create a robot, while learning more about engineering...and about ourselves.  Throughout the Barnabas-Bot project, students will explore the various disciplines of engineering--including mechanical, electrical, hardware, and software engineering--which each play a critical role in robotics.  Additionally, students will have the opportunity to learn about more about themselves and their peers, as the project also promotes teamwork, communication, and self-reflection.
+The overall goal of all Barnabas Robotics’ projects is to create a robot, while learning more about engineering...and about ourselves.  Throughout the Barnabas-Bot project, students will explore the various disciplines of engineering--including mechanical, electrical, hardware, and software engineering--which each play a critical role in robotics.  Additionally, students will have the opportunity to learn about themselves and their peers, as the project also promotes teamwork, communication, and self-reflection.
 
 Take the time at the very beginning of the project to explain these goals to your students to set the tone and expectation for the rest of the project.
 
