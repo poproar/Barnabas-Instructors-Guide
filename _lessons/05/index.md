@@ -65,6 +65,9 @@ reflection:
 
 ---
 
+#### Review
+* What CAD operations did we learn to do last week?
+
 ### Step 1: Introduction To 3-D Printing (25 minutes) 
 Over the last two lessons the process of 3-D printing has been mentioned, but I think it is time to explicitly ask: “What is 3-D printing?”. That question is much more complicated than it originally seems. We can begin to answer it by drawing similarities and differences between a 3-D printer and your paper printer at home. The big difference is that a 3-D printer will print layers one on top of another, accumulating height while doing so. Using an analogy we can say that the 3-D printing process is much like writing your name on a cake, the icing sits atop the rest of the cake.
 
@@ -94,8 +97,10 @@ Have the students attempt to point out these parts on the 3-D printer. Perhaps a
 ### Step 2: Industrial Design (20 minutes) 
 Industrial design is a term that refers to two different aspects of a manufactured product. The first is the object’s usefulness (function). The second is the object’s beauty (form). When engineers design products for the public they need to carefully consider the role of the product and determine how much of their effort goes into the form of the product and how much goes into the function of the product. Some things do not need to look pretty, they just need to work. Others need to draw people's attention to have a chance in the market.
 
-Lead the students in a discussion about common items (especially electronics) and ask the students if they think that form or function is more important for that item. Some examples could be cars, microwaves, phones, etc. Have your students design a smartphone for themselves and one for someone they know, like a relative, friend or sibling. How do those two phones differ? Perform the same exercise with something simpler, like a sandwich. How is the sandwich you made for yourself different from the sandwich you made for the other person? Why are they different?
+Lead the students in a discussion about common items (especially electronics) and ask the students if they think that form or function is more important for that item. 
+
+{% include badge.html type='activity' content='Have the class discuss reasons they like either Samsung or Apple phones.  Group each reason into two categories: function or beauty.   Explain the story of the <a href="https://bgr.com/2018/05/24/samsung-apple-lawsuit-patents-rounded-corners-setllement/" target="_blank">Samsung and Apple dispute</a> over rounded edges.  This activity enforces that looks do matter!' %}
+
+{% include badge.html type='activity' content='Have your students design a smartphone for themselves and one for someone they know, like a relative, friend or sibling. How do those two phones differ? Perform the same exercise with something simpler, like a sandwich. How is the sandwich you made for yourself different from the sandwich you made for the other person? Why are they different?' %}
 
 Hand each student the drawing of their robot as well as a box with the robot parts inside. The box should contain everything except the custom 3-D printed parts. You can hand those out next time. The drawing of their robot can be placed inside the box under the top. 
-
-With the remaining time explain to the students that the next class they will be able to paint/color their robot. Have the students individually come up with a design plan or color scheme with their robot.
