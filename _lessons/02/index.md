@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Lesson 2 &middot; Building our First Robot
+title: Lesson 2 &middot; Teamwork Through Robotics
 suggested_time: 60 - 75 minutes
 disciplines:
     - "3-5-ETS1-1. Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost."
@@ -38,10 +38,13 @@ videos:
   - link: https://youtu.be/-K1fE6fdUIw
     text: Shove or Sweep or Tip
   - link: https://youtu.be/RM-__kgLIhk
+    text: Example
   - link: https://youtu.be/3EYNjyEtKho
-  - link: https://youtu.be/ZlEpG98o4Is
+    text: Example
+  - link: https://youtu.be/
+    text: Example
   - link: https://youtu.be/b37fPzDEjO8
-    text: ehh whatever
+    text: Example
 documents:
 other:
 
@@ -89,6 +92,10 @@ reflection:
       - Why is the design process important to the overall process of making?
       - How would you describe the design process? (is it a straight line?)
       - Describe the challenges you had while making your robot.
+    mindset:
+      - What did you learn about yourself? 
+      - What would you like to improve?
+
 ---
 
 #### Review
@@ -99,12 +106,13 @@ reflection:
 
 #### Project Overview
 
-* Objective:  The goal of the Trash-Bot Challenge is to work in teams to construct a robot that will knock over a cup from at least 8 inches away.  
-* Method:  Each team will be given a bag of miscellaneous household objects with which to construct their Trash-Bots.  Not all teams will be given the same parts.  However, each team may choose to barter and/or share with one another team to accomplish the goal if they so choose.  
-* Learning Mindset:  There is a more important common goal of all groups succeeding.  This is a great opportunity for the students to experience a more collaborative mindset than a competitive one.
-Vocabulary
-* Servo Motor: A motor that allows for precise control of angular position. Our servo motors only have 180o range of motion.
-* Servo Motor Controller: The brain of this robot. A controller capable of instructing the motor to move to an angle. The controller has multiple modes which alter the behavior of the motor.
+* __Objective__:  The goal of the Trash-Bot Challenge is to work in teams to construct a robot that will knock over a cup from at least 8 inches away.  
+* _Method_:  Each team will be given a bag of miscellaneous household objects with which to construct their Trash-Bots.  Not all teams will be given the same parts.  However, each team may choose to barter and/or share with one another team to accomplish the goal if they so choose.  
+* _Learning Mindset_:  There is a more important common goal of all groups succeeding.  This is a great opportunity for the students to experience a more collaborative mindset than a competitive one.
+
+#### Vocabulary
+* _Servo Motor_: A motor that allows for precise control of angular position. Our servo motors only have 180o range of motion.
+* _Servo Motor Controller_: The brain of this robot. A controller capable of instructing the motor to move to an angle. The controller has multiple modes which alter the behavior of the motor.
 
 ### Step 1:  Forming Teams (10 minutes)
 Group students into teams of two or three.  Introduce and explain the main parts of the project:
@@ -115,11 +123,10 @@ Group students into teams of two or three.  Introduce and explain the main parts
 * 4 x AA battery: This is what powers the motor.
 
 This is a good time to review the parts of a robot described in the last lesson. The parts provided all resemble things previously mentioned:
-
-* The Body: The household items + servo motor
-* Heart: The batteries
-* Brain: The servo motor controller
-* Personality: You cannot see it, but it is the programming on the brain. It tells the motor when to spin and how much to spin.
+  * The Body: The household items + servo motor
+  * Heart: The batteries
+  * Brain: The servo motor controller
+  * Personality: You cannot see it, but it is the programming on the brain. It tells the motor when to spin and how much to spin.
 
 ### Step 2: The Design Process (10 minutes) 
 Before building, it is always a good idea to plan out what we intend to build.  This is called the design process.  The design process plays a very important role in overall creative process. Design not only focuses on making things functional, but making them beautiful as well. 
@@ -129,8 +136,6 @@ Each team should collaborate to come up with at least one design plan, which inc
 ### Step 3: The Build Process (40 minutes) 
 After a team has completed its design plan, they can start building.  You can periodically have the kids bring their design up to test with the brain and battery.  Encourage students to provide a hypothesis of what will happen before they activate their Trash-Bot.  Ask the students to observe what actually happens.
 
-{% include badge.html type='best_practice' content='Regardless of a group’s success or failure, you should encourage them to redesign their robots. For those who succeeded, challenge them to knock the cup over from further away. For those who failed, ask critical questions: Did the robot stay together? How did you fasten parts of the robot together? Did the robot move? Which part moved? How did it move? Can that motion be used to complete the task? Can things be added to the current design to complete the task or is an overhaul of the design necessary?' %}
-
-The students need to understand that the design process is not linear, it is circular with the best creators iterating their projects countless times.
-
-![fig 2.1](fig-2_1.png){:class="image right"}
+{% include badge.html type='best_practice' content='Regardless of a group’s success or failure, you should encourage them to redesign their robots. For those who succeeded, challenge them to knock the cup over from further away. For those who failed, ask critical questions: Did the robot stay together? How did you fasten parts of the robot together? Did the robot move? Which part moved? How did it move? Can that motion be used to complete the task? Can things be added to the current design to complete the task or is an overhaul of the design necessary?
+<img src="fig-2_1.png" alt="fig 2.1" class="image right />
+The students need to understand that the design process is not linear, it is circular with the best creators iterating their projects countless times.' %}

@@ -211,12 +211,11 @@ layout: index
                 <img src="{{ site.baseurl }}/assets/images/reflection.png" width="150" /></span>
             </div>
             <div class="col-10">
-                <h1 class="align-right"><a href="{{ site.baseurl }}{{ lesson.url }}">{{ page.title }}</a></h1>
+                <h1 class="align-right">REFLECTION</h1>
                 <hr />
             </div>
         </div>
 
-    <h2><i class="icon fa-comments"></i> REFLECTION</h2>
     <h3>Comprehension</h3>
     <ul class="alt">
         {% for item in page.reflection.comprehension %}
@@ -226,6 +225,7 @@ layout: index
 
     <h3>Challenges</h3>
     <ul class="alt">
+        <li>What was hard in today's class?</li>
         {% for item in page.reflection.challenges %}
         <li>{{ item }}</li>
         {% endfor %}
@@ -233,6 +233,7 @@ layout: index
 
     <h3>Enjoyment</h3>
     <ul class="alt">
+        <li>What was fun about today's class?</li>
         {% for item in page.reflection.enjoyment %}
         <li>{{ item }}</li>
         {% endfor %}
@@ -240,6 +241,7 @@ layout: index
 
     <h3>Mindset</h3>
     <ul class="alt">
+        <li>How can you help make the class a good learning community?</li>
         {% for item in page.reflection.mindset %}
         <li>{{ item }}</li>
         {% endfor %}
@@ -247,6 +249,7 @@ layout: index
 
     <h3>Community</h3>
     <ul class="alt">
+        <li>How can what you learned impact those around you?</li>>
         {% for item in page.reflection.community %}
         <li>{{ item }}</li>
         {% endfor %}
