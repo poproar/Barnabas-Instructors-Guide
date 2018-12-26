@@ -162,34 +162,29 @@ This is where you will put all your robot's body parts together and create the f
   2. L-CLICK on “Create Assembly”  
   Your assembly file should automatically open up
   {:style="overflow: hidden;"}
-
 2. Insert your 
   ![fig 3.11](fig-insert_part_body.png){:class="image right"}
   1. Insert your body by clicking on the insert button
   2.  Now select the "robot body" file by selecting it in the list of files. Place it in your assembly file and click on the green check mark to save your work!
   * Now go to the Front View
    {:style="overflow: hidden;"}
-
 3. Insert your custom plate
   ![fig 3.12](fig-3_12.jpg){:class="image right"} Now insert your "robot body front plate" file. Align the front plate with the body by left clicking on it and dragging it. You’ll need to rotate the views to get it to align correctly.
   {:style="overflow: hidden;"}
-
 4. Insert your head
   ![fig 3.13](fig-3_13.jpg){:class="image right"}
   * Using the same process as before, insert the head that you want
   {:style="overflow: hidden;"}
-
 5. Insert your left arm and align it
   ![fig 3.14](fig-3_14.jpg){:class="image right"}
   {:style="overflow: hidden;"}
-
 6. Insert your right arm
   ![fig 3.15](fig-3_15.jpg){:class="image right"}
   * You'll need to rotate it to align it correctly
   * L-CLICK on the arm to show the rotation tool
   * Click on the circle shown in the picture to rotate it
   {:style="overflow: hidden;"}
-  
+7. Line it up
   ![fig 3.16](fig-3_16.jpg){:class="image right"}
   * After it is rotated, align it correctly with the hole
   {:style="overflow: hidden;"}
