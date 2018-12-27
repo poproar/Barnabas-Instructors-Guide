@@ -7,26 +7,39 @@ disciplines:
 - "ETS1.B: Developing Possible Solutions: At whatever stage, communicating with peers about proposed solutions is an important part of the design process, and shared ideas can lead to improved designs. (3-5-ETS1-2)"
 - "Tests are often designed to identify failure points or difficulties, which suggest the elements of the design that need to be improved. (3-5-ETS1-3)"
 - "ETS1.C: Optimizing the Design Solution: Different solutions need to be tested in order to determine which of them best solves the problem, given the criteria and the constraints. (3-5-ETS1-3)"
-
+- "At whatever stage, communicating with peers about proposed solutions is an important part of the design process, and shared ideas can lead to improved designs. (3-5-ETS1-2)"
+- "Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3-4)"
 ### Science and Engineering Practices
 - "Constructing Explanations and Designing Solutions: Generate and compare multiple solutions to a problem based on how well they meet the criteria and constraints of the design problem. (3-5-ETS1-2)"
 
 technical_skills:
+- Knowledge of how morse code functions.
+- Understanding of how to condense code.
+- Improved understanding of how code is executed block by block.
 life_skills:
-- Communication
+- Communicating
+- Planing
+- Testing
+- Altering a hypothesis
 
 essential_questions: 
-- What is the importance of precision in coding?  
+- What is morse code? How does one communicate using morse code?
+- How can we condense our code to make blinking in morse code easier to achieve.
+- Does your code vary the time the LED spends off? Why or why not?
 
 vocab:
-- Period
-- Sequence
+- Repeat
+- Morse Code
+#- Sequence (morse code)
+#- Period (duration)
 
 videos:
 documents:
 other:
-- link: Wikipedia morse code chart is good  find link
-  text: Wikipedia morse code chart is good  find link
+- link: https://upload.wikimedia.org/wikipedia/commons/b/b5/International_Morse_Code.svg
+  text: Morse Code Browser Cheat Sheet
+- link: https://drive.google.com/open?id=1liBuEK5mu3E04ymCv_On7b9cEDAkBJO1
+  text: Morse Code PDF
 
 depth:
 - "Level 1:  Recall and Reproduction"
@@ -40,7 +53,7 @@ barriers:
 
 anticipatory:
 - We will create and decode a message using Morse Code by using coding skills in ArduBlock.  
-- Demonstrate a simple pre-coded flashing LED with a Morse Code message (ie. Go go go!) and ask students to decode it using the Morse Code decoder  
+- Demonstrate a simple pre-coded flashing LED with a Morse Code message (ie. S-O-S!) and ask students to decode it using the Morse Code decoder  
 
 practice:
 - Student practicing different letters to code.  
@@ -48,11 +61,17 @@ practice:
 assessment:
 - Student has a completed, decodable message.  
 - Is the breadboard correct to light up LED  
-- Student following 100ms, 300ms, 1000ms in their coding?  
 
 materials:
-- Barnabas Lesson 10 worksheet
-- Same setup as Lesson 9
+- USB to mini cable (x1)
+- 3V LED (x1)
+- Jumper wires
+- Resistors (470 Ohm - yellow violet brown gold and 4.7K Ohm - yellow violet red gold)
+- Mini breadboard (x1)
+- Computer (x1)
+- Engineering Journal (x1)
+- Pencil (x1)
+
 
 
 reflection:
@@ -60,6 +79,7 @@ reflection:
   - What i morse code? How is morse code communicated?
   - When making blinks of different speeds, how does not changing the delay after turning the LED off benefit us?
   - Describe how the repeat block helps us create code?
+  - What is the importance of precision in coding?
 ---
 
 ### Review

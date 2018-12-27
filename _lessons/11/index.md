@@ -11,12 +11,17 @@ disciplines:
 - "Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3-4)"
   
 technical_skills:
+- Fine motor skills
+- Following a procedure
 life_skills:
-- Patience
+- Perseverance
+- Teamwork
+
 
 essential_questions:
 
 vocab:
+- Fastener
 
 videos:
 - link: https://youtu.be/Bq8QKORWx4k
@@ -41,14 +46,13 @@ barriers:
 - Fine motor skills and patience  
 
 anticipatory:
-- We will assemble the robot
+- Students will assemble the robot
 
 practice:
-- Putting the robot together  
+- Following step by step instructions to assemble the robot.
 
 assessment:
 - Completed robot with head and arms connected to servo motors  
-- Make sure students have all necessary parts  
 
 materials:
 - All 3D printed and painted materials

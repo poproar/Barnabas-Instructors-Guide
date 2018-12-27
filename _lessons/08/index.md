@@ -24,10 +24,10 @@ life_skills:
 - Teamwork
 
 essential_questions:
-- How has breadboarding changed the way a person creates a circuit?  
-- What does freedom mean to you?
-- Freedom to learn?  
-- Freedom to fail?  
+- How does the breadboard help us make circuits?
+- How does one create a closed circuit on the breadboard?
+- What is the purpose of the resistor in our circuit?
+- Which of the two types of resistor is stronger? Is the LED dimmer or brighter with the stronger resistor.
 
 vocab:
 - Breadboard
@@ -58,11 +58,9 @@ other:
 depth:
 
 barriers: 
-- Fine motor skills
 - Minimal experience with household electronics.
 - No working knowledge of electricity.
 - Poor understanding of lesson 7.
-- Understanding circuitry - making sure that positive and negative sides are identified  
 
 anticipatory:
 - Demonstrate a completed breadboard circuit without going over all the steps 
@@ -80,12 +78,12 @@ assessment:
 - The breadboard circuit is complete with a LED that is able to light up  
 
 materials:
-- Barnabas Lesson 8 worksheet
-- Breadboards (1 per student or per group of 2 or 3)
-- Wires
-- AA batteries (2 per student or group)
-- AA battery holder
-- LED lights (1 per student or group
+- Engineering Journal
+- Mini Breadboard (x1)
+- Jumper Wires
+- AA batteries (x1 min2)
+- AA battery holder(x1 min2)
+- 3V LED (x1)
 - Resistors  (470 Ohm - yellow violet brown gold and 4.7K Ohm - yellow violet red gold)
 
 reflection:
@@ -93,6 +91,10 @@ reflection:
   - What is the breadboard used for? How does the breadboard work?
   - What is resistance? How does resistance affect our circuit?
   - What part(s) of the robot does the Barnabas Noggin represent?
+  mindset:
+  - What does freedom mean to you?
+  - Freedom to learn?  
+  - Freedom to fail?  
 
 ---
 
@@ -135,7 +137,7 @@ To create the circuit using the breadboard you need to make the same exact conne
 
 {% include badge.html type="troubleshoot" content="A common mistake is to put far too many connections on the same row of the breadboard. This is generally the most common reason a group’s circuit will not work. This is something you should keep an eye out for and simply remind students that only things should be in any row of the breadboard at once. Reminding them of their method of creating the circuit from last week’s lesson may also help, as this is essentially the same circuit." %}
 
-#### Step 3: Introducing The Barnabas Noggin and Resistance (20 minutes) 
+### Step 3: Introducing The Barnabas Noggin and Resistance (20 minutes) 
 For the first time we are now going to use the Barnabas Noggin to create a circuit. With the Noggin we will be powering the circuit with 5V instead of 3V. What do you think will happen when we increase the voltage? (The LED will be brighter, and we no longer need the AA batteries) In fact, the 5V is too much.  Ask what will happen if you push 5V through a 3V LED (it will burn out). Talk about what happens in our body if our heart (battery) pumps blood too fast through our veins (it may burst!).  Explain that the same thing happens in electronics, so to combat that, we need to slow the blood (current) down using a resistor.  Have the kids take out the 4.7K resistor (red band).  Explain that a resistor is the component, and that resistance is the value (4.7K or 4,700 in this case). Draw the following schematic.
 
 ![fig 8.5](fig-8_5.png){:class="image "}

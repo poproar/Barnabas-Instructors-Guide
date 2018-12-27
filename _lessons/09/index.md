@@ -59,13 +59,7 @@ other:
 - link: https://docs.google.com/document/d/1i_FVrwEXDOQY791zeHScGpZF_IAIIequutYzS-uE-0s/edit?usp=sharing
   text: Connecting Barnabas-Bot to a Mac
 
-depth:
-- 1
-- 2
-
 barriers: 
-- Understanding that programs are fast and need pauses  
-- Ability to break down actions  
 - Minimal experience with computers.
 
 anticipatory:
@@ -77,7 +71,6 @@ anticipatory:
 - Understand that the robot can be physically manipulated through code.
 
 practice:
-- Student create the circuit and write a program to turn on and off the LED
 - Use Ardublock to turn the LED on, then to turn the LED off.
 - Create a program in Ardublock that continuously blinks the light on and off.
 
@@ -86,16 +79,15 @@ assessment:
 - Determine the smallest millisecond delay that still appears to blink.  
 
 materials:
-- Barnabas Lesson 9 worksheet
-- Computer
+- Engineering Journal
+- Computer (mouse preferred)
 - Mini Breadboard
-- Mouse
-- Keyboard
 - ArduBlock [Arduino IDE Tool]
 - Barnabas arduino board
 - Jumper wires
 - 3V LED
-- USB cable
+- Resistors (470 Ohm - yellow violet brown gold and 4.7K Ohm - yellow violet red gold)
+- USB cable (A to mini)
 
 reflection:
   comprehension: 
@@ -113,9 +105,9 @@ Rather than go through the process here, please look at the Additional Resources
 #### Vocabulary
    * **Arduino**: Both hardware and software. The hardware is a line of microcontrollers (very simple computers). In fact, the Barnabas Noggin utilizes an Arduino microcontroller itself. The software is a C based IDE (integrated development environment… A place where you code). Because Arduino handles both sides of things the process of coding, then uploading your code to a microcontroller is very easy. The Arduino IDE can be out of scope for younger classes as the ability to type acts as a barrier to entry.
 
-{% include badge.html type='best_practice' content='Have the students make a step by step checklist on how to connect the Barnabas-Bot to the computer in explicit detail.' %}
+{% include badge.html type='best_practice' content='Have the students make a step by step checklist in their journal on how to connect the Barnabas-Bot to the computer in explicit detail.' %}
 
- The checklist should look something like the following:
+Use the following checklist to prepare your robot for coding:
 
    1. Turn on the computer.
    2. Input password.
@@ -124,7 +116,7 @@ Rather than go through the process here, please look at the Additional Resources
    5. Go to tools -> port -> select port (not com1 or serial port ex. for windows pc).
    6. Go to tools -> board -> select Arduino Nano
    
-This process must be done each lesson that you intend to program.
+_This process must be done each lesson that you intend to program._
 
 ### Step 2: Getting Started With Ardublock (5 minutes) 
 Now that our computer is talking to our Barnabas Noggin, let's get started with ArduBlock!  ArduBlock is a block-based programming language that is great for those who are new to programming.  
@@ -194,7 +186,7 @@ After changing the pin number to 7 have all the students press upload to arduino
 
 Next you should ask the students to turn the LED off by changing the code. Let them figure out how to do so on their own (Switch the HIGH to LOW). In order to see the change the students will need to upload their code again. The Barnabas Noggin is only capable of holding one program at a time. This means that uploading the LED off code will permanently erase the LED on code from the robot. To turn the LED on again they would have to re-upload a set digital pin HIGH code to the robot.
 
-![fig 9.9](pinHigh.png){:class="image "} LED on  ![fig 9.10](pinLow.png){:class="image "} LED off
+LED on [fig 9.9](pinHigh.png){:class="image "}  ![fig 9.10](pinLow.png){:class="image "} LED off
 
 #### Vocabulary
    * **Programmable pin**: One of the pins on the Barnabas Noggin labelled 0-13 (it has more labelled A0-A5, but we are not using those in this class). These pins can be controlled by the code we create in Ardublock rather than just being innately on or off.

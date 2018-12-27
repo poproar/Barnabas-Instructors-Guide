@@ -17,7 +17,6 @@ essential_questions:
 - How important are our functions (talents, skills, etc)?  
 
 barriers: 
-- Fine motor skills  
 - Students who change their minds  
 
 anticipatory:
@@ -27,12 +26,10 @@ practice:
 - Students painting and carrying out their designs
 
 assessment:
-- All parts are painted and decorated  
-- Make sure students are following their designs and the rules for art space  
-- For students making changes from their designs, ask for justification  
+- Fully decorated robot
 
 materials:
-- Barnabas Lesson 5 design worksheets
+- Engineering Journal
 - Acrylic paint, various colors
 - Paint brush, various sizes
 - Construction paper, various colors

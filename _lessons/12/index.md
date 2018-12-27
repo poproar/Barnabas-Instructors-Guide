@@ -13,13 +13,16 @@ disciplines:
 - "Science is a Human Endeavor: Science affects everyday life. (4-PS3-4)"
 
 technical_skills:
+- Deeper understanding of Arduino hardware, I/O pins.
+- Use previous coding knowledge to sound buzzer at different frequencies and make music.
 life_skills:
+- Communal responsibility
 
 essential_questions: 
 - What relationships can be found between patterns and music?  
 
 vocab:
-
+- Tone
 
 videos:
 - link: https://youtu.be/dQNqwrBMXYU
@@ -34,6 +37,8 @@ documents:
 - link: https://goo.gl/DZUBAa
   text: Happy Birthday Piano Tutorial for comparison
 other:
+- link: https://engineering.purdue.edu/ece477/Archive/2014/Spring/S14-Grp1/images/je/note_frequencies.jpg
+  text: Frequency Chart
 
 depth:
 - "Level 1:  Recall and Reproduction"
@@ -42,28 +47,30 @@ depth:
 - "Level 4:  Extended Thinking"
 
 barriers: 
-- Students with hearing difficulties or trouble differentiating sound frequencies  
-- Students who have a hard time with rhythm  
+- Students with hearing difficulties 
+- Poor understanding of blinking light lesson
+- Inability to distinguish between known blocks in Ardublock
+ 
 
 anticipatory:
 - We will transfer our previous coding skills toward coding a buzzer to buzz at different frequencies to create music.  
 - "Hearing or singing the songs to be used in this lesson: Hot Cross Buns, Twinkle Twinkle Little Star, and Happy Birthday (in case students don’t know them)"
 
 practice:
-- Creating the songs Twinkle Twinkle Little Star, Happy Birthday, or Mary had a Little Lamb  
+- Creating the buzzer circuit
+- Experimenting with the different tones the buzzer can make through coding
+ 
 
 assessment:
-- The buzzer plays a song that the student has created  
+- Creating a coherent array of tones such as a siren, a scale or a song
 
 materials:
-- Barnabas Lesson 12 worksheet
-- Materials used for setup in Lesson 10
-- Speaker
+- Engineering Journal
+- Buzzer
 - Resistor (4.7K Ohm)
 - Computer with Arduino software
-- Engineering Notebooks
-- Pencils
 - Mini Breadboard
+- Assembled Robot
 
 reflection:
   comprehension: 

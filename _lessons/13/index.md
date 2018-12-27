@@ -10,25 +10,28 @@ disciplines:
 - "Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3-4)"
 
 technical_skills:
+- Understanding physical limitations; range of motion (angles), power consumption
 life_skills:
+- Perseverance
 
 essential_questions:
 - What can limit a robot’s movements? 
+- Do we program the servo motors by giving them angles of position, or angles of motion? What is the difference between the two?
 
 vocab:
 - Servo
 - Limits
-- Pulse Width Modulation
+- Modulation
 
 videos:
-- link: https://youtu.be/x2z0ARKediA
-  text: link
-- link: https://youtu.be/7oYKnPWtt2E
-  text: link
 - link: https://youtu.be/gviUtLsHDtg
-  text: link
+  text: How servo motors work
 - link: https://youtu.be/iTdQKmu6R1o
   text: Wiring your first servo motor
+- link: https://youtu.be/x2z0ARKediA
+  text: Waving demo
+- link: https://youtu.be/7oYKnPWtt2E
+  text: Wiring all three servo motors
 - link: https://youtu.be/qSbMojcwunk
   text: Programming your servo motor
 documents:
@@ -41,22 +44,26 @@ depth:
 - "Level 4:  Extended Thinking"
 
 barriers: 
-- Understanding angles (0°-180°)
+- Poor understanding of range of motion, angle position vs. angle of motion
+- Inability to distinguish between known blocks in Ardublock
+- Poor understanding of previous coding exercises i.e. blinking light and buzzer
 
 anticipatory:
-- We will use the servo motors to move the robot’s arms and turn its head.  
+- Students will learn to code their motors to move the extremities of the robot and achieve repeated motion
 
 practice:
-- Practice 3-5 and challenges 1-3  
+- Wiring a single motor using the breadboard
+- Using code to experiment with the range of motion of the motors as well as the necessary sequence for repeated motion to occur
 
 assessment:
-- Robot with head and arms movement with possible inclusion of music and blinking LED.  
-- Make sure that the pins for head and arms are correct and the breadboard is completed correctly.  
+- Getting the robot to wave or shake its head
 
 materials:
-- Barnabas Lesson 12 worksheet
-- Materials in the Barnabas kit
-- Servo Motors
+- Jumper wires (preferably yellow, red, black)
+- Engineering journal
+- Computer with Arduino/Ardublock software
+- Assembled robot or servo motor
+
 
 reflection:
   comprehension: 
@@ -81,9 +88,9 @@ Start by drawing the circuit schematic below:
 ![fig 13.2](fig-13_2.png){:class="image "}
 ![fig 13.3](fig-13_3.jpg){:class="image "}
 
-A more official looking schematic, however it may be difficult for your students to understand what this schematic is saying.
+The first image is a more official looking schematic, however it may be difficult for your students to understand what this schematic is saying.
 
-While this schematic looks more primitive, it will probably seem less abstract to the students.
+While the following schematic looks more primitive, it will probably seem less abstract to the students.
 
 In general I would advise drawing the schematic on the right, however if you are looking to challenge your students you can draw the more abstract schematic on the left.
 

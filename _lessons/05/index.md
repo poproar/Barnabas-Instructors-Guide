@@ -14,7 +14,7 @@ technical_skills:
     - We will learn the parts and properties of a 3-D printer.
     - We will learn about industrial design and the importance of form and function in design.
 life_skills:
-    - Support
+    - How to have a discussion
 
 essential_questions: 
     - What are the limitations of 3-D printing?
@@ -32,8 +32,6 @@ videos:
       text: 3-D Printer and How it is Made
     - link: https://youtu.be/Gwro2HzxMgw
       text: 3-D Printer in Action
-    - link: https://youtu.be/mQGYvx2O8AA
-      text: unknown
 documents:
 other:
 
