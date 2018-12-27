@@ -24,7 +24,7 @@ videos:
 - link: https://www.youtube.com/watch?v=WfxuXAahr1Y
   text: Programming multiple servo motors
 - link: https://youtu.be/HYT9UPo5FmE
-  text: Making your robot light up, sing and dance
+  text: Programming the motors, LED, and buzzer
 documents:
 other:
 

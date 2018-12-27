@@ -11,7 +11,7 @@ disciplines:
 
 ### Learning Target(s)
 technical_skills:
-- Learning to integrate new ideas, subroutines, with old ones, motors, LEDs and buzzers.
+- Integration of multiple technical skill
 life_skills:
 - Helping Others
 - Sharing
