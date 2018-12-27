@@ -22,14 +22,7 @@ essential_questions:
     - Does teaching help others? ourselves?  
 
 vocab:
-    - Assembly
-    - Plane
-    - Axis
-    - Rotation
-    - Translation
-    - Zoom
-    - Isometric
-
+    - Production
 
 videos:
     - link: https://youtu.be/chbKu-L9G5U
@@ -63,6 +56,9 @@ reflection:
       - What constraints or challenges did you have to keep in mind in designing your robot?
       - Can you describe the four views in the drawing using last week’s vocabulary?
       - Describe, in your own words, an assembly.
+    community:
+      - Why should we take the opportunity to teach others what we know?  
+      - Does it help others?  Does it help ourselves?
 ---
 
 #### Review
@@ -97,6 +93,6 @@ This step is necessary if you would like us to 3-D print your robot for you.
 
 Once you share it with us, we will provide a confirmation within 24 hrs.  Now just sit back and relax as we start putting your robot kit together!
 
-{% include badge.html type='activity' content='Create a Custom Part (BONUS)
-https://youtu.be/f5TutKGCvLM Dimensions and Constraints https://youtu.be/_2kt-yNn5HU' %}
+{% include badge.html type='activity' content='<a href="https://youtu.be/f5TutKGCvLM" target="_blank">Create a Custom Part</a> (BONUS)
+ <a href="https://youtu.be/_2kt-yNn5HU" target="_blank">Dimensions and Constraints</a>' %}
  
