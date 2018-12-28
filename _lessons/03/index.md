@@ -135,21 +135,22 @@ Now we will begin the design of our own custom robot. This starts by customizing
 1. Open the "robot body front plate" file in OnShape. 
 
 2. Change the size of the text
-  * Double L-CLICK on the “B” until you see a number pop up on the right side of the screen ![fig 3.6](fig-3_6.jpg){:class="image fit"}
+  * Double L-CLICK on the “B” until you see a number pop up on the right side of the screen ![fig 3.6](fig-3_6.png){:class="image fit"}
     * Change the number to a larger number (like 2 or 3). The B should be larger now!
     * Change the value to “0.5”. The B should be smaller now!
     * Click on the green check mark to save your changes
-    ![fig 3.7](fig-3_7.jpg){:class="image left"}{:style="overflow: hidden;"}  
+    ![fig 3.7](fig-3_7.png){:class="image left"}{:style="overflow: hidden;"}  
 
 3. Move the location of the text.
   * R-CLICK on the “B” and L-CLICK on “Edit Sketch 1…”
-  * L-CLICK on one of the 4 blue corners (they are kinda small, you might need to zoom in) of the rectangle around the B and drag the blue rectangle up and down ![fig 3.8](fig-3_8.jpg){:class="image "}{:style="overflow: hidden;"}  
+  * L-CLICK on one of the 4 blue corners (they are kinda small, you might need to zoom in) of the rectangle around the B and drag the blue rectangle up and down ![fig 3.8](fig-3_8.png){:class="image "}{:style="overflow: hidden;"}  
   * Click on the green check mark to save your change
 
 4. Change the text.
   * R-CLICK on the “B” and L-CLICK on “Edit Sketch 1…”
   * R-CLICK on the “B” again and L-CLICK on “Edit Text”
-  ![fig 3.9](fig-3_9.jpg){:class="image "}{:style="overflow: hidden;"}  
+  ![fig 3.9](fig-edit_text.png){:class="image "}
+  ![fig 3.9](fig-3_9.png){:class="image "}{:style="overflow: hidden;"}  
   * Now change the text to “C”. Click on the green check mark and see if it changes!
   * Now change the text to “BARNABAS”. You’ll see that it doesn’t fit on the robot face. How can you make it fit? (Change the size of the text to 0.3 or less)
   * Click on the green check mark and see if it changes!
