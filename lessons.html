@@ -1,0 +1,15 @@
+---
+layout: index
+---
+<!-- Main -->
+<h1>What to expect</h1>
+
+{% for lesson in site.lessons %}
+
+<h2><a href="{{ site.baseurl }}{{ lesson.url }}">{{ lesson.title }}</a></h2>
+<ul>
+    {% for item in lesson.anticipatory %}
+    <li>{{ item }}</li>
+    {% endfor %}
+</ul>
+{% endfor %}
