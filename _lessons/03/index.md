@@ -149,9 +149,7 @@ Now we will begin the design of our own custom robot. This starts by customizing
 4. Change the text.
   * R-CLICK on the “B” and L-CLICK on “Edit Sketch 1…”
   * R-CLICK on the “B” again and L-CLICK on “Edit Text”
-  ![fig 3.9](fig-3_9.jpg){:class="image "}
-  {:style="overflow: hidden;"}
-
+  ![fig 3.9](fig-3_9.jpg){:class="image "}{:style="overflow: hidden;"}
   * Now change the text to “C”. Click on the green check mark and see if it changes!
   * Now change the text to “BARNABAS”. You’ll see that it doesn’t fit on the robot face. How can you make it fit? (Change the size of the text to 0.3 or less)
   * Click on the green check mark and see if it changes!
