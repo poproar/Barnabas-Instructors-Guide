@@ -139,7 +139,7 @@ Now we will begin the design of our own custom robot. This starts by customizing
     * Change the number to a larger number (like 2 or 3). The B should be larger now!
     * Change the value to “0.5”. The B should be smaller now!
     * Click on the green check mark to save your changes  
-    ![fig 3.7](fig-3_7.png){:class="image "}{:style="overflow: hidden;"}  
+    ![fig 3.7](fig-3_7.png){:class="image img-responsive"}{:style="overflow: hidden;"}  
 
 3. Move the location of the text.
   * R-CLICK on the “B” and L-CLICK on “Edit Sketch 1…”
