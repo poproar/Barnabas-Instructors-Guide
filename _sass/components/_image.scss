@@ -15,6 +15,9 @@
 		img {
 			border-radius: _size(border-radius);
 			display: block;
+			width: auto ;
+			max-width: 100% ;
+			height: auto ;
 		}
 
 		&.left,
