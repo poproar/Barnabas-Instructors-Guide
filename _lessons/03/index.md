@@ -144,10 +144,8 @@ Now we will begin the design of our own custom robot. This starts by customizing
 
 3. Move the location of the text.
   * R-CLICK on the “B” and L-CLICK on “Edit Sketch 1…”
-  * L-CLICK on one of the 4 blue corners (they are kinda small, you might need to zoom in) of the rectangle around the B and drag the blue rectangle up and down ![fig 3.8](fig-3_8.jpg){:class="image "}
+  * L-CLICK on one of the 4 blue corners (they are kinda small, you might need to zoom in) of the rectangle around the B and drag the blue rectangle up and down ![fig 3.8](fig-3_8.jpg){:class="image "}{:style="overflow: hidden;"}
   * Click on the green check mark to save your change
-  {:style="overflow: hidden;"}
-
 4. Change the text.
   * R-CLICK on the “B” and L-CLICK on “Edit Sketch 1…”
   * R-CLICK on the “B” again and L-CLICK on “Edit Text”
