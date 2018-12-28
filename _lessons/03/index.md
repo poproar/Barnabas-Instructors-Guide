@@ -99,7 +99,7 @@ Computer-Aided Design (or CAD) is used by engineers across many disciplines.  Sp
 
 Onshape is a very convenient CAD tool. It uses your internet browser and saves all your files to a cloud server. Because of this we do not have to worry about installing software or misplacing files. After creating your own Onshape account follow the instructions below:
 
-1. Once you are logged into OnShape, open the (Barnabas-Bot Template file)[https://goo.gl/DlDJ53].
+1. Once you are logged into OnShape, open the [Barnabas-Bot Template file](https://goo.gl/DlDJ53).
 
 2. Create a copy by L-CLICKing on "Make a private copy"
 ![fig 3.1](fig-3_1.jpg){:class="image fit"}
