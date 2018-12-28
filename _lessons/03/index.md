@@ -102,13 +102,13 @@ Onshape is a very convenient CAD tool. It uses your internet browser and saves a
 1. Once you are logged into OnShape, open the [Barnabas-Bot Template file](https://goo.gl/DlDJ53).
 
 2. Create a copy by L-CLICKing on "Make a private copy"
-![fig 3.1](fig-3_1.jpg){:class="image fit"}
+![fig 3.1](fig-3_1.png){:class="image fit"}
 
 3.  Name the project: "BARNABAS-BOT 2.3 [YOUR NAME]. Make sure to choose "Public".
-![fig 3.2](fig-3_2.jpg){:class="image fit"}
+![fig 3.2](fig-3_2.png){:class="image center-block"}
 
 4. Once you do this, a new project should open up, which will be a copy of the original project, but with this new name.
-![fig 3.3](fig-3_3.jpg){:class="image fit"}
+![fig 3.3](fig-3_3.png){:class="image fit"}
 
 5. You are now ready to customize your robot's body!
 
