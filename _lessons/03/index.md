@@ -135,11 +135,11 @@ Now we will begin the design of our own custom robot. This starts by customizing
 1. Open the "robot body front plate" file in OnShape. 
 
 2. Change the size of the text
-  * Double L-CLICK on the “B” until you see a number pop up on the right side of the screen ![fig 3.6](fig-3_6.png){:class="image img-responsive"}
+  * Double L-CLICK on the “B” until you see a number pop up on the right side of the screen ![fig 3.6](fig-3_6.png){:class="image fit"}
     * Change the number to a larger number (like 2 or 3). The B should be larger now!
     * Change the value to “0.5”. The B should be smaller now!
     * Click on the green check mark to save your changes  
-    ![fig 3.7](fig-3_7.png){:class="image img-responsive"}{:style="overflow: hidden;"}  
+    ![fig 3.7](fig-3_7.png){:class="image "}{:style="overflow: hidden;"}  
 
 3. Move the location of the text.
   * R-CLICK on the “B” and L-CLICK on “Edit Sketch 1…”
@@ -151,7 +151,7 @@ Now we will begin the design of our own custom robot. This starts by customizing
   * R-CLICK on the “B” again and L-CLICK on “Edit Text”  
   ![fig 3.9](fig-edit_text.png){:class="image "}  
   * Now change the text to “C”. Click on the green check mark and see if it changes!  
-  ![fig 3.9](fig-3_9.png){:class="image img-responsive"}{:style="overflow: hidden;"}  
+  ![fig 3.9](fig-3_9.png){:class="image fit"}{:style="overflow: hidden;"}  
   * Now change the text to “BARNABAS”. You’ll see that it doesn’t fit on the robot face. How can you make it fit? (Change the size of the text to 0.3 or less)
   * Click on the green check mark and see if it changes!
 
@@ -161,12 +161,12 @@ Now we will begin the design of our own custom robot. This starts by customizing
 #### Putting Your Robot Together
 This is where you will put all your robot's body parts together and create the final file that you will share with us. You will need to drag and rotate your robot’s pieces into place. Keep in mind that you shouldn’t be concerned with perfection. Regardless of mistakes in the assembly file, the parts will be 3D printed appropriately. Follow along with the steps below to assemble your robot:
 
-![fig 3.10](fig-insert_new_element.png){:class="image right"}  **Create an assembly file**  
+![fig 3.10](fig-insert_new_element.png){:class="image fit"}  **Create an assembly file**  
 L-CLICK on the “+” sign at the bottom left of your screen.  
 L-CLICK on “Create Assembly”. Your assembly file should automatically open up
 {:style="overflow: hidden;"}
 
-![fig 3.11](fig-insert_part_body.png){:class="image right"}  **Insert the body**  
+![fig 3.11](fig-insert_part_body.png){:class="image fit"}  **Insert the body**  
 Insert your body by clicking on the insert button.  
 Now select the "robot body" file by selecting it in the list of files.  
 Place it in your assembly file and click on the green check mark to save your work!  
