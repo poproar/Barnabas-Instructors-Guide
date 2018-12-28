@@ -166,7 +166,7 @@ L-CLICK on the “+” sign at the bottom left of your screen.
 L-CLICK on “Create Assembly”. Your assembly file should automatically open up
 {:style="overflow: hidden;"}
 
-![fig 3.11](fig-insert_part_body.png){:class="image fit"}  **Insert the body**  
+![fig 3.11](fig-insert_part_body.png){:class="image "}{:style="max-width: 100%;"}   **Insert the body**  
 Insert your body by clicking on the insert button.  
 Now select the "robot body" file by selecting it in the list of files.  
 Place it in your assembly file and click on the green check mark to save your work!  
