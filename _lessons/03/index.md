@@ -135,7 +135,7 @@ Now we will begin the design of our own custom robot. This starts by customizing
 1. Open the "robot body front plate" file in OnShape. 
 
 2. Change the size of the text
-  * Double L-CLICK on the “B” until you see a number pop up on the right side of the screen ![fig 3.6](fig-3_6.png){:class="image "}
+  * Double L-CLICK on the “B” until you see a number pop up on the right side of the screen ![fig 3.6](fig-3_6.png){:class="image img-responsive"}
     * Change the number to a larger number (like 2 or 3). The B should be larger now!
     * Change the value to “0.5”. The B should be smaller now!
     * Click on the green check mark to save your changes  
@@ -151,7 +151,7 @@ Now we will begin the design of our own custom robot. This starts by customizing
   * R-CLICK on the “B” again and L-CLICK on “Edit Text”  
   ![fig 3.9](fig-edit_text.png){:class="image "}  
   * Now change the text to “C”. Click on the green check mark and see if it changes!  
-  ![fig 3.9](fig-3_9.png){:class="image "}{:style="overflow: hidden;"}  
+  ![fig 3.9](fig-3_9.png){:class="image img-responsive"}{:style="overflow: hidden;"}  
   * Now change the text to “BARNABAS”. You’ll see that it doesn’t fit on the robot face. How can you make it fit? (Change the size of the text to 0.3 or less)
   * Click on the green check mark and see if it changes!
 
