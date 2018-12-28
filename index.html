@@ -1,20 +1,22 @@
 ---
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: index
 ---
 <!-- Main -->
+<h1>Barnabas Bot</h1>
+Level - 1 Introduction to Robotics
 
-Home page. How do you want this set up. I usually want to get to something else straight away like a class overview or my customized dashboard.
+OPEN-SOURCE CURRICULUM
+<img src="{{ site.baseurl }}/assets/images/coverImage.png" alt="student with finished robot"/>
 
-Here is list of lessons that should also be available in the sidebar.
+<div>
+    <a href="revisions">Revision {{ site.version }}</a>
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/" class="ximage"><img src="{{ site.baseurl }}/assets/images/cc-by-sa.png" alt="creative commons share alike license badge" /></a>
+    <p>Attribution-ShareAlike</p> 
+</div>
 
-{% for lesson in site.lessons %}
+<p>CC BY-SA</p>
 
-<h2><a href="{{ site.baseurl }}{{ lesson.url }}">{{ lesson.title }}</a></h2>
-<ul>
-    {% for item in lesson.materials %}
-    <li>{{ item }}</li>
-    {% endfor %}
-</ul>
-{% endfor %}
+<p>This license lets others remix, tweak, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms. This license is often compared to “copyleft” free and open source software licenses. All new works based on yours will carry the same license, so any derivatives will also allow commercial use.</p>
+
+
+<a href="{{ site.baseurl }}/lessons/01">Let's Get Started</a>
