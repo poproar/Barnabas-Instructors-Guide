@@ -166,7 +166,8 @@ L-CLICK on the “+” sign at the bottom left of your screen.
 L-CLICK on “Create Assembly”. Your assembly file should automatically open up
 {:style="overflow: hidden;"}
 
-![fig 3.11](fig-insert_part_body.png){:class="image "}{:style="max-width: 100%;"}   **Insert the body**  
+![fig 3.11](fig-insert_part_body.png){:class="image "}{:style="max-width: 100%;"}  
+**Insert the body**  
 Insert your body by clicking on the insert button.  
 Now select the "robot body" file by selecting it in the list of files.  
 Place it in your assembly file and click on the green check mark to save your work!  
@@ -198,7 +199,7 @@ After it is rotated,
 align it correctly with the hole  
 {:style="overflow: hidden;"}
 
-#### Vocabularyte
+#### Vocabulary
 * **Dimension**: A measurable extent, such as length, depth, or height.
 * **Axis**: An imaginary line an object rotates around. Ex. the Earth has an axis that goes through its north and south pole. It rotates around this axis once every day.
 * **Plane**: A flat, two dimensional object that extends infinitely far.
