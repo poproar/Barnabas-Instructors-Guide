@@ -38,13 +38,11 @@ videos:
   - link: https://youtu.be/-K1fE6fdUIw
     text: Shove or Sweep or Tip
   - link: https://youtu.be/RM-__kgLIhk
-    text: Example
+    text: Cantilever 
   - link: https://youtu.be/3EYNjyEtKho
-    text: Example
-  - link: https://youtu.be/
-    text: Example
+    text: Plow 
   - link: https://youtu.be/b37fPzDEjO8
-    text: Example
+    text: Hook and Tip
 documents:
 other:
 
@@ -134,5 +132,5 @@ Each team should collaborate to come up with at least one design plan, which inc
 After a team has completed its design plan, they can start building.  You can periodically have the kids bring their design up to test with the brain and battery.  Encourage students to provide a hypothesis of what will happen before they activate their Trash-Bot.  Ask the students to observe what actually happens.
 
 {% include badge.html type='best_practice' content='Regardless of a group’s success or failure, you should encourage them to redesign their robots. For those who succeeded, challenge them to knock the cup over from further away. For those who failed, ask critical questions: Did the robot stay together? How did you fasten parts of the robot together? Did the robot move? Which part moved? How did it move? Can that motion be used to complete the task? Can things be added to the current design to complete the task or is an overhaul of the design necessary?
-<img src="fig-2_1.png" alt="fig 2.1" class="image right />
+<img src="fig-2_1.png" alt="fig 2.1" class="image right" />
 The students need to understand that the design process is not linear, it is circular with the best creators iterating their projects countless times.' %}
