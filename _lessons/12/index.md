@@ -82,7 +82,7 @@ reflection:
 ### Step 1: Building The Buzzer Circuit (10 minutes) 
 In this lesson we will be adding the buzzer to our robot in the same way we added the LED. There is no need to take the LED circuit off the breadboard. We are not replacing it, we are adding to it. Start by drawing the circuit schematic on the board:
 
-![fig 12.1](fig-12_1.png){:class="image fit"}
+![fig 12.1](fig-12_1.png){:class="image "}
 
 In addition to giving the students a schematic to follow have them closely examine the buzzer. They should recognize that one leg of the buzzer is longer than the other, much like the LED. The different length legs, much like the LED indicate that one leg must be placed closer to the positive end of the circuit (the long leg), the high voltage end of the circuit if you will. With this information the students should be able to build the buzzer circuit. It would be wise to construct it a fair distance away from the LED circuit on the breadboard to avoid confusion. If this is not enough then as a class attempt to create a diagram of the circuit on the whiteboard, which would look like the following:
 
@@ -104,7 +104,7 @@ To program our buzzer we will use the tone block found in the pins tab in Ardubl
 
 The tone block, like the set digital pin block, requires us to input two pieces of information. Both the pin the buzzer is located on (pin 6), and the frequency of the tone we would like the buzzer to make:
 
-![fig 12.4](fig-12_4.png){:class="image fit"}
+![fig 12.4](fig-12_4.png){:class="image "}
 
 The frequencies that can be chosen relate to different musical note like those shown below:
 
@@ -120,11 +120,11 @@ The no tone block silences the buzzer. However, much like the LED, we need to be
 
 Let us say that we are trying to have the buzzer make a tone for a small amount of time, then be silent for a similar amount of time. A common mistake is to just put the tone and no tone blocks into the loop do with nothing else accompanying them:
 
-![fig 12.7](fig-12_7.png){:class="image fit"}
+![fig 12.7](fig-12_7.png){:class="image "}
 
 I’m not sure how I would describe the noise the above code makes, but it is definitely not what we are looking for. We have the same issue here that we had when first attempting the blinking light code. Neither of these blocks are given time to take place. Delays need to be added so each block has an opportunity to influence the buzzer:
 
-![fig 12.8](fig-12_8.png){:class="image fit"}
+![fig 12.8](fig-12_8.png){:class="image "}
 
 Instead of the no tone block, we can just place another tone block of a different frequency to make a siren:
 

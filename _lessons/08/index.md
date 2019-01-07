@@ -109,7 +109,7 @@ In this lesson we are introduced to a very valuable tool, The breadboard. What i
 
 A breadboard helps us connect our wires (analogous to blood vessels) together.  We can connect our wires to the holes in the breadboard to make secure connections without needing to tie the wires together.  This is useful, especially when we need to change the connections often.  This is common while engineers figure out how to best make their ideas happen. Draw a picture of the miniature breadboard on the whiteboard.  NOTE: You can use the 1-17 (rows) and A-J (columns) references to tell kids where to place wires as the lesson progresses.
 
-![fig 8.1](empty_breadboard.png){:class="image fit"}
+![fig 8.1](empty_breadboard.png){:class="image "}
 
    * How many rows are there? (17)
    * How many columns are there? (2 sets of 5)
@@ -125,11 +125,11 @@ In a breadboard All the holes on each row of 5 are connected to each other. By c
 ### Step 2: Creating Our First Breadboard Circuit (15 minutes) 
 Now that we understand how to use the breadboard we can recreate the 3V LED circuit from the last lesson. This time as a completely hands free circuit. Let’s start by recalling the schematic for that circuit.
 
-![fig 8.2](fig-8_2.png){:class="image fit"}
+![fig 8.2](fig-8_2.png){:class="image "}
   
 To create the circuit using the breadboard you need to make the same exact connections as before. A helpful tip is that any two wires/legs that were held together in the previous circuit must now be in a row together. Not necessarily in the same hole though. Also, both ends of a component should never be in the same row together. That is the same as touching the two sides together which, in the case of the battery, creates a short circuit. They should end up with a circuit that looks similar to the one below.
 
-![fig 8.3](fig-8_3.png){:class="image fit"}
+![fig 8.3](fig-8_3.png){:class="image "}
 
 ![fig 8.4](fig-8_4.jpg){:class="image fit"}
 
