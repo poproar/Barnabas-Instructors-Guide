@@ -186,7 +186,7 @@ After changing the pin number to 7 have all the students press upload to arduino
 
 Next you should ask the students to turn the LED off by changing the code. Let them figure out how to do so on their own (Switch the HIGH to LOW). In order to see the change the students will need to upload their code again. The Barnabas Noggin is only capable of holding one program at a time. This means that uploading the LED off code will permanently erase the LED on code from the robot. To turn the LED on again they would have to re-upload a set digital pin HIGH code to the robot.
 
-LED on [fig 9.9](pinHigh.png){:class="image "}  ![fig 9.10](pinLow.png){:class="image "} LED off
+LED on ![fig 9.9](pinHigh.png){:class="image "}  ![fig 9.10](pinLow.png){:class="image "} LED off
 
 #### Vocabulary
    * **Programmable pin**: One of the pins on the Barnabas Noggin labelled 0-13 (it has more labelled A0-A5, but we are not using those in this class). These pins can be controlled by the code we create in Ardublock rather than just being innately on or off.

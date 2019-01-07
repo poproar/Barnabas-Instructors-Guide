@@ -128,7 +128,7 @@ I’m not sure how I would describe the noise the above code makes, but it is de
 
 Instead of the no tone block, we can just place another tone block of a different frequency to make a siren:
 
-![fig 12.9](fig-12_9.png){:class="image fit"}
+![fig 12.9](fig-12_9.png){:class="image "}
 
 #### Vocabulary
   * **Tone**: The tone block is capable of making the buzzer emit sounds of different frequencies. To do so the tone block must be given the correct pin number (for us 6) as well as a frequency. The frequency given dictates how high or low the pitch of the sound is and can be related back to musical notes.
