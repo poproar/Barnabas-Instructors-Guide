@@ -24,8 +24,6 @@ essential_questions:
 vocab:
 
 videos:
-- link: https://youtu.be/11LaYv3RFtc
-  text: Broken Link
 - link: https://youtu.be/HYT9UPo5FmE
   text: Making your robot light up, sing and dance
 documents:
