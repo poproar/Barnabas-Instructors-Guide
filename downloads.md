@@ -12,7 +12,7 @@ We have several different formats for you to access our curriculum for your conv
 [Microsoft Word Document](barnabasrobotics.com/Barnabas-Bot-Curriculum.docx)  
 [Open Document Format](barnabasrobotics.com/Barnabas-Bot-Curriculum.odf) for libreOffice and others  
 [PDF](barnabasrobotics.com/Barnabas-Bot-Curriculum.pdf) for Adobe Reader and many other apps  
-[EPUB](barnabasrobotics.com/Barnabas-Bot-Curriculum.epub) for use with Google Play Book and Apple Books [adoption](https://en.wikipedia.org/wiki/EPUB#Adoption)
+[EPUB](barnabasrobotics.com/Barnabas-Bot-Curriculum.epub) for use with Google Play Book and Apple Books ([about .epub adoption](https://en.wikipedia.org/wiki/EPUB#Adoption))
 
 ## Others
 
