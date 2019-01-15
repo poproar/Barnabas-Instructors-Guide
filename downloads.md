@@ -7,7 +7,7 @@ title: Downloads
 
 We have several different formats for you to access our curriculum for your convenience.
 
-## Curriculm
+## Curriculum
 
 [Microsoft Word Document](barnabasrobotics.com/Barnabas-Bot-Curriculum.docx)  
 [Open Document Format](barnabasrobotics.com/Barnabas-Bot-Curriculum.odf) for libreOffice and others  
@@ -18,6 +18,6 @@ We have several different formats for you to access our curriculum for your conv
 
 {% for lesson in site.lessons %}
 {% for item in lesson.other %}
-  - [ {{ item.text }} ]( {{ item.link}} )
+[ {{ item.text }} ]( {{ item.link}} )  
 {% endfor %}
 {% endfor %}
