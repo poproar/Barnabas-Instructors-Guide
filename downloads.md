@@ -18,6 +18,6 @@ We have several different formats for you to access our curriculum for your conv
 
 {% for lesson in site.lessons %}
 {% for item in lesson.other %}
-  - [ {{ item.text }} ]( {{ item.link}} )
+[ {{ item.text }} ]( {{ item.link}} )  
 {% endfor %}
 {% endfor %}
