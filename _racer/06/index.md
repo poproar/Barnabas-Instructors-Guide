@@ -107,11 +107,11 @@ We can give our motors a command including an angle. Our continuous servo motors
 ##### How Continuous Servos Work
 Continuous servos are similar to the servos that we used from Barnabas-Bot, except that they move like wheels, rather than just from 0 degrees to 180 degrees.  You will be using the same "Servo" block that you used from your Barnabas-Bot project.  See below for a table that explains what happens when you input different angle values.
 
-Angle | Direction        | Speed
-:=====|:================:|=====:
-0     |Clock-wise        | Full
-90    |None              | Zero
-180   |Counter Clock-wise| Full
+|Angle | Direction        | Speed |
+|:---  |       :---:      | ---: |
+|0     |Clock-wise        | Full |
+|90    |None              | Zero |
+|180   |Counter Clock-wise| Full |
 
 ##### Moving Forward
 ![fig 6.6](fig-6_6.png){:class="image "}
