@@ -21,7 +21,7 @@ vocab:
 
 videos:
     - link: https://youtu.be/mJztttmdFj8
-      text: Subroutines Tutorial Video
+      text: Explaining Subroutines in Ardublock
 documents:
     - link: https://docs.google.com/document/d/1H_km_mIsBEoC7kPoM5fyjfje3Bg5KI3XoUvjNfSUag4/view
       text: Introduction To Subroutines
