@@ -29,7 +29,7 @@ repository: poproar/barnabas-instructors-guide
 version: 1.0.0
 
 collections:
-   lessons:
+  lessons:
     layout: lesson
     output: true
   racerlessons:
