@@ -33,10 +33,6 @@ collections:
     layout: lesson
     output: true
 
-  racer:
-    layout: lesson
-    output: true
-
 # Build settings
 
 plugins:
