@@ -32,6 +32,7 @@ collections:
   lessons:
     layout: lesson
     output: true
+
   racer:
     layout: lesson
     output: true
