@@ -30,12 +30,9 @@ version: 1.0.0
 
 collections:
   bot:
-    layout: lesson
     output: true
   racer:
-    layout: lesson
     output: true
-
 collections_dir: lessons
 
 
