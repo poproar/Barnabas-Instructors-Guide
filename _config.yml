@@ -26,7 +26,7 @@ facebook_username: barnabasrobotics
 youtube_username: barnabasrobotics
 instagram_username: barnabasrobotics
 repository: poproar/barnabas-instructors-guide
-version: 1.0.0
+version: 1.0.1
 
 collections:
   bot_lessons:
@@ -41,7 +41,7 @@ collections_dir: lessons
 plugins:
   - jekyll-feed
   - jemoji
-  # - jekyll-github-metadata
+  - jekyll-github-metadata
 
 exclude:
   - README.
