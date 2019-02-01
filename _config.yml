@@ -29,9 +29,9 @@ repository: poproar/barnabas-instructors-guide
 version: 1.0.0
 
 collections:
-  bot:
+  bot_lessons:
     output: true
-  racer:
+  racer_lessons:
     output: true
 collections_dir: lessons
 
@@ -41,7 +41,7 @@ collections_dir: lessons
 plugins:
   - jekyll-feed
   - jemoji
-  - jekyll-github-metadata
+  # - jekyll-github-metadata
 
 exclude:
   - README.
