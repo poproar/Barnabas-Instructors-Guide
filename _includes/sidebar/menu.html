@@ -24,7 +24,14 @@
             </ul>
         </li>
         {% if page.url contains "lessons"%}
-            {% for links in site.lessons %}
+
+            {% if page.collection == "bot_lessons" %}
+                {% assign this_collection = site.bot_lessons %}
+            {% elsif page.collection == "racer_lessons" %}
+                {% assign this_collection = site.racer_lessons %}
+            {% endif %}
+
+            {% for links in this_collection %}
                 {% if links.title == page.title %}
                 
                     {% unless forloop.first %}
@@ -33,7 +40,7 @@
                     {% endunless %}
 
                     {% unless forloop.last %}
-                        {% assign next = site.lessons[forloop.index] %}
+                        {% assign next = this_collection[forloop.index] %}
                         {% assign nexturl = next.url %}
                         {% assign nexttitle = next.title %}
                     {% endunless %}
@@ -41,6 +48,7 @@
                 {% endif %}
                 {% assign prev = links %}
             {% endfor %}
+
             {% if prevurl %}
             <li>
                 <a href="{{ site.baseurl }}{{prevurl}}" class="prev">
@@ -48,6 +56,7 @@
                 </a>
             </li>
             {% endif %}
+
             <li><span class="opener active"><i class="icon fa-book"></i> {{ page.title }}</span>
                 <ul>
                     <li><a href="#additional-resources"><i class="icon fa-cubes"></i> Additional Resources</a></li>
@@ -55,6 +64,7 @@
                     <li><a href="#reflection"><i class="icon fa-comments"></i> Reflection</a></li>
                 </ul>
             </li>
+
             {% if nexturl %}
             <li>
                 <a href="{{ site.baseurl }}{{nexturl}}" class="next">
