@@ -30,13 +30,7 @@ vocab:
     - Goal
 
 videos:
-    - link: https://www.brainpop.com/technology/computerscience/robots/
-      text: Free BrainPop video about Robots (Video available in Spanish and French only with paid language-specific BrainPop log-in)
-    - link: https://youtu.be/wr4QnkbMrf8  
-      text: Some other video link
 documents:
-    - link: https://schoology.com
-      text: Test out thi link text method
 other:
     - link: https://scratch.mit.edu/projects/124980272/#player
       text: Scratch "paper doll" robot as demonstration
