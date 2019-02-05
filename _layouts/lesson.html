@@ -257,8 +257,13 @@ layout: index
     </ul>
 
 </section>
+{% if page.collection == "bot_lessons" %}
+    {% assign this_collection = site.bot_lessons %}
+{% elsif page.collection == "racer_lessons" %}
+    {% assign this_collection = site.racer_lessons %}
+{% endif %}
 
-{% for links in site.lessons %}
+{% for links in this_collection %}
     {% if links.title == page.title %}
 
         {% unless forloop.first %}
@@ -267,7 +272,7 @@ layout: index
         {% endunless %}
 
         {% unless forloop.last %}
-            {% assign next = site.lessons[forloop.index] %}
+            {% assign next = this_collection[forloop.index] %}
             {% assign nexturl = next.url %}
             {% assign nexttitle = next.title %}
         {% endunless %}

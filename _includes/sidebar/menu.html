@@ -8,53 +8,71 @@
         <li><a href="{{ site.baseurl }}/"><i class="icon fa-home"></i> Home</a></li>
         {% endif %}
         <li>
-            <span class="opener"><i class="icon fa-book"></i> Lessons</span>
+            <span class="opener"><i class="icon fa-android"></i> Bot Lessons</span>
             <ul>
-                    {% for lesson in site.lessons %}
+                    {% for lesson in site.bot_lessons %}
+                    <li><a href="{{ site.baseurl }}{{ lesson.url }}">{{ lesson.title }}</a></li>
+                    {% endfor %}
+            </ul>
+        </li>
+        <li>
+            <span class="opener"><i class="icon fa-car"></i> Racer Lessons</span>
+            <ul>
+                    {% for lesson in site.racer_lessons %}
                     <li><a href="{{ site.baseurl }}{{ lesson.url }}">{{ lesson.title }}</a></li>
                     {% endfor %}
             </ul>
         </li>
         {% if page.url contains "lessons"%}
-        {% for links in site.lessons %}
-            {% if links.title == page.title %}
-            
-                {% unless forloop.first %}
-                    {% assign prevurl = prev.url %}
-                    {% assign prevtitle = prev.title %}
-                    {% endunless %}
 
-                {% unless forloop.last %}
-                    {% assign next = site.lessons[forloop.index] %}
-                    {% assign nexturl = next.url %}
-                    {% assign nexttitle = next.title %}
-                    {% endunless %}
-
+            {% if page.collection == "bot_lessons" %}
+                {% assign this_collection = site.bot_lessons %}
+            {% elsif page.collection == "racer_lessons" %}
+                {% assign this_collection = site.racer_lessons %}
             {% endif %}
-            {% assign prev = links %}
+
+            {% for links in this_collection %}
+                {% if links.title == page.title %}
+                
+                    {% unless forloop.first %}
+                        {% assign prevurl = prev.url %}
+                        {% assign prevtitle = prev.title %}
+                    {% endunless %}
+
+                    {% unless forloop.last %}
+                        {% assign next = this_collection[forloop.index] %}
+                        {% assign nexturl = next.url %}
+                        {% assign nexttitle = next.title %}
+                    {% endunless %}
+
+                {% endif %}
+                {% assign prev = links %}
             {% endfor %}
+
             {% if prevurl %}
             <li>
-            <a href="{{ site.baseurl }}{{prevurl}}" class="prev">
-                <i class="icon fa-arrow-circle-left"></i> {{prevtitle}}
-            </a>
-        </li>
-        {% endif %}
-        <li><span class="opener active"><i class="icon fa-book"></i> {{ page.title }}</span>
-            <ul>
-            <li><a href="#additional-resources"><i class="icon fa-cubes"></i> Additional Resources</a></li>
-            <li><a href="#lesson-plan"><i class="icon fa-pencil"></i> Lesson Plan</a></li>
-            <li><a href="#reflection"><i class="icon fa-comments"></i> Reflection</a></li>
-        </ul>
-        </li>
-        {% if nexturl %}
-        <li>
-            <a href="{{ site.baseurl }}{{nexturl}}" class="next">
-                <i class="icon fa-arrow-circle-right"></i> {{nexttitle}}
-            </a>
-        </li>
-        {% endif %}
-        
+                <a href="{{ site.baseurl }}{{prevurl}}" class="prev">
+                    <i class="icon fa-arrow-circle-left"></i> {{prevtitle}}
+                </a>
+            </li>
+            {% endif %}
+
+            <li><span class="opener active"><i class="icon fa-book"></i> {{ page.title }}</span>
+                <ul>
+                    <li><a href="#additional-resources"><i class="icon fa-cubes"></i> Additional Resources</a></li>
+                    <li><a href="#lesson-plan"><i class="icon fa-pencil"></i> Lesson Plan</a></li>
+                    <li><a href="#reflection"><i class="icon fa-comments"></i> Reflection</a></li>
+                </ul>
+            </li>
+
+            {% if nexturl %}
+            <li>
+                <a href="{{ site.baseurl }}{{nexturl}}" class="next">
+                    <i class="icon fa-arrow-circle-right"></i> {{nexttitle}}
+                </a>
+            </li>
+            {% endif %}
+            
         {% endif %}
         <li><a href="https://github.com/poproar/Barnabas-Instructors-Guide/edit/master/{{ page.path }}"><i class="icon fa-edit"></i> &nbsp;Improve this page</a></li>
         <li><a href="{{ site.baseurl }}/downloads"><i class="icon fa-download"></i> &nbsp;Downloads</a></li>

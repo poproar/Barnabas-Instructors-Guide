@@ -25,13 +25,16 @@ github_username:  barnabasrobotics
 facebook_username: barnabasrobotics
 youtube_username: barnabasrobotics
 instagram_username: barnabasrobotics
-repository: BarnabasRobotics/Barnabas-Instructors-Guide
-version: 1.0.0
+repository: poproar/barnabas-instructors-guide
+version: 1.0.1
 
 collections:
-  lessons:
-    layout: lesson
+  bot_lessons:
     output: true
+  racer_lessons:
+    output: true
+collections_dir: lessons
+
 
 # Build settings
 
