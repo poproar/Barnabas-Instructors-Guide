@@ -75,7 +75,7 @@ Now that the students can work with the LED and buzzer, have them integrate both
 Make your circuit do this!
 [Light And Buzzer Challenge #1](https://youtu.be/ARKQP-Zd3dY)
 
-{% include youtube.html link="https://youtu.be/ARKQP-Zd3dY" %}
+{% include youtube.html id="ARKQP-Zd3dY" %}
 
 {% include badge.html type='activity' content='contentGoesHere' %}
 
