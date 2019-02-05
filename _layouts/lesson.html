@@ -18,7 +18,7 @@ layout: index
     </header>
 
     <h2 id="overview">Lesson Overview</h2>
-    {% unless page.collection == "bot" %}
+    {% if page.collection == "bot" %}
     <div class="box">
     <h3>Disciplinary Core Ideas</h3>
     <ul>
@@ -188,7 +188,7 @@ layout: index
         }
     }
     </script>
-    {% endunless %}
+    {% endif %}
 
     <div id="lesson-plan" class="row">
             <div class="col-2">
