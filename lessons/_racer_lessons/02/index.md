@@ -77,7 +77,5 @@ Make your circuit do this!
 
 {% include youtube.html id="ARKQP-Zd3dY" %}
 
-{% include badge.html type='activity' content='contentGoesHere' %}
-
 ### Solution 
 ![fig 2.2](led_buzzer_challenge_2.png){:class="image fit"}
