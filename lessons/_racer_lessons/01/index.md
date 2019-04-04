@@ -14,6 +14,7 @@ life_skills:
 
 essential_questions: 
     - Good Questions?
+    - What is a better question?
 
 vocab:
     - Word
