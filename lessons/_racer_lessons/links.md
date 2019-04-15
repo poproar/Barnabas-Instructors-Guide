@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 # layout: links
 title: Additional Links &middot; Racer
 
