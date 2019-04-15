@@ -3,7 +3,7 @@ published: true
 # layout: links
 title: Additional Links &middot; Racer
 
-items:
+documents:
     - link: https://youtu.be/L7ud2i_yfRI
       text: Basic Viewing 
     - link: https://goo.gl/DlDJ53
