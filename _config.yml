@@ -18,15 +18,15 @@ title: Barnabas Robotics
 email: class@barnabasrobotics.com
 description: > # this means to ignore newlines until "baseurl:"
   Barnabas Robotics is a for-profit company that values giving more than receiving.  We strive to empower others through creating a sustainable business that brings great value to our partners and customers.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://lessons.barnabasrobotics.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/barnabas-instructors-guide" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter_username: barnabasrobotic
 github_username:  barnabasrobotics
 facebook_username: barnabasrobotics
 youtube_username: barnabasrobotics
 instagram_username: barnabasrobotics
-repository: BarnabasRobotics/Barnabas-Instructors-Guide
+repository: poproar/barnabas-instructors-guide
 version: 1.0.1
 
 collections:
