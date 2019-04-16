@@ -129,6 +129,7 @@ Once you download the code, click on "Serial Monitor" on ArduBlock and see the d
 Now we will modify the message so that it says "the button status is: _____".  Try the program below!
 
 ![fig 4.3](fig-4_3.png){:class="image "}
+
 {% include youtube.html id='u_sgzyL4H04' %}
 [Variables and Serial Monitor](https://youtu.be/u_sgzyL4H04)
 
