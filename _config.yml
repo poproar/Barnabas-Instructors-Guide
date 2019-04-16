@@ -20,6 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Barnabas Robotics is a for-profit company that values giving more than receiving.  We strive to empower others through creating a sustainable business that brings great value to our partners and customers.
 baseurl: "/barnabas-instructors-guide" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
 twitter_username: barnabasrobotic
 github_username:  barnabasrobotics
 facebook_username: barnabasrobotics

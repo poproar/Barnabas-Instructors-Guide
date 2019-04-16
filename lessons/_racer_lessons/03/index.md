@@ -101,7 +101,7 @@ The above block is used to check whether the button has been pressed and act acc
 ![fig 3.7](fig-3_7.png){:class="image "}
 Create this code yourself and try it out!
 
-{% include youtube.html link='https://youtu.be/VlEWea9keUY' %}
+{% include youtube.html id='VlEWea9keUY' %}
 [Programming the Button with Ardublock](https://youtu.be/VlEWea9keUY).
 
 ##### as Text
@@ -129,7 +129,7 @@ void loop()
 }
 ```
 
-{% include youtube.html link='https://youtu.be/OA2PoLzCDMI' %}
+{% include youtube.html id='OA2PoLzCDMI' %}
 [Programming The Button and LED with Arduino IDE](https://youtu.be/OA2PoLzCDMI)
 
 #### Extra Challenges

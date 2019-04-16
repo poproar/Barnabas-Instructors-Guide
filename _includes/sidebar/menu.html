@@ -23,7 +23,9 @@
                     {% endfor %}
             </ul>
         </li>
+        {% assign ifLesson = '' %}
         {% if page.url contains "lessons"%}
+        {% assign ifLesson = 'lessons/' %}
 
             {% if page.collection == "bot_lessons" %}
                 {% assign this_collection = site.bot_lessons %}
@@ -43,7 +45,7 @@
                         {% assign next = this_collection[forloop.index] %}
                         {% assign nexturl = next.url %}
                         {% assign nexttitle = next.title %}
-                    {% endunless %}
+    {% endunless %}   
 
                 {% endif %}
                 {% assign prev = links %}
@@ -74,7 +76,7 @@
             {% endif %}
             
         {% endif %}
-        <li><a href="https://github.com/poproar/Barnabas-Instructors-Guide/edit/master/{{ page.path }}"><i class="icon fa-edit"></i> &nbsp;Improve this page</a></li>
+        <li><a href="https://github.com/{{ site.repository }}/edit/master/{{ ifLesson }}{{ page.path }}"><i class="icon fa-edit"></i> &nbsp;Improve this page</a></li>
         <li><a href="{{ site.baseurl }}/downloads"><i class="icon fa-download"></i> &nbsp;Downloads</a></li>
         <li><a href="https://barnabasrobotics.com"><i class="icon fa-cogs"></i> BarnabasRobotics.com</a></li>
     </ul>

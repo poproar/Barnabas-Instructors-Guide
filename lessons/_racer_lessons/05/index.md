@@ -58,7 +58,8 @@ reflection:
 
 ### Step 1: Assembling the Racer (40 minutes) 
 Study the instructions below and put the car together
-![fig 5.1](fig-5_1.jpg)
+![fig 5.1](fig-5_1.jpg){:class="image fit"}
+
 
 ![fig 5.2](fig-5_2.jpg){:class="image right"} **Servo Motors**  
 Attach the servo motors with the nuts and bolts.  

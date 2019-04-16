@@ -14,6 +14,7 @@ life_skills:
 
 essential_questions: 
     - Good Questions?
+    - What is a better question?
 
 vocab:
     - Word
@@ -91,7 +92,7 @@ reflection:
 - What would you do to improve your robot?
 - What can you do to improve yourself this semester?
 
-{% include badge.html type='activity' content='contentGoesHere' %}
+{% include badge.html type='activity' content='' %}
 
 ### Step 2: Lesson (45 minutes) 
 #### What does it mean to be like Barnabas?

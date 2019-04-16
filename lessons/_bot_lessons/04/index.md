@@ -93,6 +93,6 @@ This step is necessary if you would like us to 3-D print your robot for you.
 
 Once you share it with us, we will provide a confirmation within 24 hrs.  Now just sit back and relax as we start putting your robot kit together!
 
-{% include badge.html type='activity' content='<a href="https://youtu.be/f5TutKGCvLM" target="_blank">Create a Custom Part</a> (BONUS)
- <a href="https://youtu.be/_2kt-yNn5HU" target="_blank">Dimensions and Constraints</a>' %}
+{% include badge.html type='activity' content='<ul><li><a href="https://youtu.be/f5TutKGCvLM" target="_blank">Create a Custom Part</a></li><li> (BONUS)
+ <a href="https://youtu.be/_2kt-yNn5HU" target="_blank">Dimensions and Constraints</a></li></ul>' %}
  
