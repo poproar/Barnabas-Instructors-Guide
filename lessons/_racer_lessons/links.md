@@ -1,6 +1,6 @@
 ---
 published: true
-# layout: links
+layout: index
 title: Additional Links &middot; Racer
 
 documents:
@@ -12,6 +12,9 @@ documents:
       text: Designing your Barnabas-Bot
 ---
 
-## About this page
+# {{ page.title }}
 
-I do not think this content will render except in a repo page. The purpose of this page is to create a list of additional links for our material that is not already included in our lessons. It may be also helpful to access the org metadata to share other repos. Our content is a work in progress and we appreciate input. 
+The links provided here are items our instructors find useful or have created themselves for use in the classroom and not currently associated with our cirriculum. Please feel free to browse through them or even add your own by contributing to the page.
+
+{% for item in page.documents %}[ {{ item.text }} ]( {{ item.link}} ){:target="_blank"}  
+{% endfor %}
