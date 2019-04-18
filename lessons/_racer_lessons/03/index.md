@@ -100,7 +100,9 @@ We want to the light to turn ON if we press the button and turn OFF if we let go
 ![fig 3.6](fig-3_6.png){:class="image "}
 
 The above block is used to check whether the button has been pressed and act accordingly. In the following code it is crucial to getting the behavior we are looking for;
+
 ![fig 3.7](fig-3_7.png){:class="image "}
+
 Create this code yourself and try it out!
 
 {% include youtube.html id='VlEWea9keUY' %}
