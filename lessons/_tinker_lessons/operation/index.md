@@ -61,8 +61,8 @@ ___
 
 Once it turns on, you have successfully created what we call a closed-circuit. It is called a closed-circuit because there is a closed-loop. Imagine you are a piece of electricity traveling from the + of the battery. You can follow a path all the way through the buzzer and back into the - of the battery. When you break the connections, the buzzer turns off, and it is called an open-circuit. In this case, the electricity can't make it all around the circuit. Take a moment to draw an open-circuit schematic in addition to the closed-circuit schematic.
 
-{:class="image "}
-![image8](image8.jpg)
+
+![image8](image8.jpg){:class="image "}
 
 Now that we know how open-circuits and closed-circuits work, let's take our battery out of the battery holder and put it on the side. This will keep things nice an quiet as we finish building our game.
 
