@@ -75,7 +75,7 @@ Finally, add the wheels to the servo motors with the pin tipped screws.
 {:style="overflow: hidden;"}
 
 {% include youtube.html link='r8sPTs3qcEo' %}
-[Car Chassis Assembly](https://youtu.be/r8sPTs3qcEo)
+[Car Chassis Assembly](https://www.youtube.com/watch?v=r8sPTs3qcEo&list=PL0Z988iPSaSauTYTaiOWTpmf9h1X-tr7j)
 
 ### Step 2: Placing the Hardware (15 minutes)
 Using your zip ties, tie your hardware down onto the car.  
