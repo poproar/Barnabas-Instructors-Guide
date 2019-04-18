@@ -97,12 +97,13 @@ Throughout the level 1 class the only type of components used were output compon
 In programming, conditional logic is used to decide a course of action depending on a condition. For example; an LED turning on if the button is pressed and turning off if the button is not pressed. Conditional logic is something we use in our everyday life without even recognizing it. If hungry, eat; if cold, wear a jacket, etc. In this section we will learn how to use conditional logic which will become the basis of how our robot makes decisions.
 ###### as Blocks
 We want to the light to turn ON if we press the button and turn OFF if we let go of the button.  We’ll need a new block.  See below!
-
 ![fig 3.6](fig-3_6.png){:class="image "}
 
 The above block is used to check whether the button has been pressed and act accordingly. In the following code it is crucial to getting the behavior we are looking for;
 
 ![fig 3.7](fig-3_7.png){:class="image "}
+
+
 
 Create this code yourself and try it out!
 
