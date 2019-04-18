@@ -85,12 +85,8 @@ Draw in a metal pincher connected to the - of the battery holder. We will add th
 ![image40](image40.jpg){:class="image fit"}
 
 Add three circles to your schematic and label them A, B and C. This is where we will put our aluminum bowls. Draw lines that connect A, B and C. Using a marker, draw these three circles on your cardboard. Also draw lines that the circles. These lines represent the wires that will connect A, B and C together.
-___
 
-![image12](image12.png){:class="image fit"}
-
-Aluminum is like a wire. Electricity can flow through it because it is a conductor.  
-___
+{% include badge.html type='tidbit' content='Aluminum is like a wire. Electricity can flow through it because it is a conductor.' %}  
 
 ![image32](image32.jpg){:class="image fit"}
 
@@ -121,13 +117,8 @@ If not, it's time to figure out where your circuit is open!
 ![image16](image16.jpg){:class="image fit"}
 
 ![image33](image33.jpg){:class="image fit"}
-___
 
-![image25](image25.png){:class="image fit"}
-
-You want to make sure that the electricity from the - wire of the buzzer can go
-through the bowl. Make sure that metal is touching metal!  
-___
+{% include badge.html type='troubleshoot' content='You want to make sure that the electricity from the - wire of the buzzer can go through the bowl. Make sure that metal is touching metal!' %}  
 
 Lay down a piece of sticky foam near near the B. Connect the other end of the metal wire to the foam and also a new metal wire. Now simply press the bowl onto the sticky foam firmly. Put the battery in the battery holder and touch the - of the battery holder to the new metal wire to see if electricity flows through the entire circuit and buzzes. If not, it's time to figure out where your circuit is open! At this time, touching both bowl A and bowl B should turn the buzzer on.
 
@@ -157,6 +148,7 @@ Wrap the metal part of the black wire of the battery holder to the pincher. It h
 ![image6](image6.jpg){:class="image fit"}
 
 ![image35](image35.jpg){:class="image fit"}
+
 #### Decorate your Operation Game! (15 min)
 ![image7](image7.jpg){:class="image fit"}
 
