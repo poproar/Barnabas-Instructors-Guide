@@ -36,59 +36,56 @@ In today's project, we will learn how to draw a schematic on paper and then foll
 #### Creating A Buzzer Circuit (10min)
 Draw the following schematic. The battery is what we like to call the heart of the circuit. It is what gives power to the circuit. Instead of pumping blood like a heart, the battery pumps electricity. The buzzer is like a speaker - where sound comes out. Notice that both the battery and buzzer have pluses and minuses on them. This will be important later on. Don't mix them up!
 
-![image11](image11.jpg){:class="image fit"}
+![figure buzzer schematic](fig-op_01.jpg){:class="image "}
 
 Examine the buzzer and notice that there are both red and black wires. 
 The red wire is the positive wire, and the black wire is the negative wire.
 
-![image1](image1.jpg){:class="image fit"}
+![fig battery holder]((fig-op_02.jpg){:class="image "}
 
 Look at the battery and see if you can see where it says 1.5 Volts. This is the amount of power that is inside the battery. The more voltage, the more powerful your circuit will be! Also find where there is a + and - on your battery. Turn on the buzzer by connecting: 1) the positive end (red wire) of the buzzer to the positive end (+) of the AA battery; and 2) the negative end (black wire) of the buzzer to the negative end (-) of the AA battery. You should hear a buzzing sound coming from the buzzer. (This will verify that AA battery and the buzzer are working properly.)  
 
 Place the battery into the battery holder. Tip: + connects to the red wire, and - connects to the black wire.
 
-![image37](image37.jpg){:class="image fit"}
+![fig buzzer](fig-op_03.jpg){:class="image "}
 
 Now let's look at the schematic that we drew. If we follow the map, it will help us build the path. Connect the red wire of the buzzer with the red wire of the battery holder, while simultaneously holding the black wire of the buzzer with the black wire of the batter holder. Again, you should hear a buzzing sound coming from the buzzer. (This will verify that battery holder is working properly.)
 
-![image4](image4.jpg){:class="image fit"}
-___
+![touch the wires together](fig-op_04.jpg){:class="image fit"}
 
-![image12](image12.png){:class="image fit"}
+{% include badge.html type='tidbit' content='When making connections between the battery and buzzer, you will need to make sure that the metal touches metal. The black and red plastic parts of the wires don't allow electricity to flow. They are insulators. The metal wire inside is the part that allows electricity to flow. The metal wire is a conductor.' %}  
 
-When making connections between the battery and buzzer, you will need to make sure that the metal touches metal. The black and red plastic parts of the wires don't allow electricity to flow. They are insulators. The metal wire inside is the part that allows electricity to flow. The metal wire is a conductor.  
-___
 
 Once it turns on, you have successfully created what we call a closed-circuit. It is called a closed-circuit because there is a closed-loop. Imagine you are a piece of electricity traveling from the + of the battery. You can follow a path all the way through the buzzer and back into the - of the battery. When you break the connections, the buzzer turns off, and it is called an open-circuit. In this case, the electricity can't make it all around the circuit. Take a moment to draw an open-circuit schematic in addition to the closed-circuit schematic.
 
 
-![image8](image8.jpg){:class="image "}
+![schematic with switch and buzzer](fig-op_05.jpg){:class="image "}
 
 Now that we know how open-circuits and closed-circuits work, let's take our battery out of the battery holder and put it on the side. This will keep things nice an quiet as we finish building our game.
 
 #### Adding Our Buzzer and Battery (15 min)
 
-Draw the placement of the buzzer and battery holder. After you do that, use double stick foam to attach the buzzer and battery holder to your piece of cardboard.
+1. Draw the placement of the buzzer and battery holder. After you do that, use double stick foam to attach the buzzer and battery holder to your piece of cardboard.
 
-![image29](image29.jpg){:class="image fit"}
+![fig ](fig-op_06.jpg){:class="image"}
 
 ![image28](image28.jpg){:class="image fit"}
 
-Draw the connection between the two red wires. Connect the red wires together on the back of the cardboard. Use tape to reinforce the connection. Put the battery in and make sure that your circuit is working by connecting the black wires with your finger. Notice that this will create a closed-circuit.  
+2. Draw the connection between the two red wires. Connect the red wires together on the back of the cardboard. Use tape to reinforce the connection. Put the battery in and make sure that your circuit is working by connecting the black wires with your finger. Notice that this will create a closed-circuit.  
 
-![image30](image30.jpg){:class="image fit"}
+![fig b](fig-op_07.jpg){:class="image fit"}
 
 ![image26](image26.jpg){:class="image fit"}
 
 Draw in a metal pincher connected to the - of the battery holder. We will add the pincher later, but we first want to put it into our design.
 
-![image40](image40.jpg){:class="image fit"}
+![figure with hook](fig-op_08.jpg){:class="image fit"}
 
 Add three circles to your schematic and label them A, B and C. This is where we will put our aluminum bowls. Draw lines that connect A, B and C. Using a marker, draw these three circles on your cardboard. Also draw lines that the circles. These lines represent the wires that will connect A, B and C together.
 
 {% include badge.html type='tidbit' content='Aluminum is like a wire. Electricity can flow through it because it is a conductor.' %}  
 
-![image32](image32.jpg){:class="image fit"}
+![fig added circles](fig-op_09.jpg){:class="image fit"}
 
 ![image27](image27.jpg){:class="image fit"}
 
@@ -96,6 +93,8 @@ Add three circles to your schematic and label them A, B and C. This is where we 
 Use the bottle cap to form bowls. Once you form the aluminum bowl, take the
 bottle cap out from the bottom and pinch the sides of the aluminum foil so that the bowl can stand on its own.
 You will need to make three of these in total.   
+
+![fig foil caps](fig-op_10.jpg){:class="image fit"}
 
 ![image3](image3.jpg){:class="image fit"}
 
