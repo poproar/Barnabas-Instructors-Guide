@@ -53,7 +53,7 @@ Now let's look at the schematic that we drew. If we follow the map, it will help
 
 ![touch the wires together](fig-op_04.jpg){:class="image fit"}
 
-{% include badge.html type='tidbit' content='When making connections between the battery and buzzer, you will need to make sure that the metal touches metal. The black and red plastic parts of the wires don't allow electricity to flow. They are insulators. The metal wire inside is the part that allows electricity to flow. The metal wire is a conductor.' %}  
+{% include badge.html type='tidbit' content='When making connections between the battery and buzzer, you will need to make sure that the metal touches metal. The black and red plastic parts of the wires do not allow electricity to flow. They are insulators. The metal wire inside is the part that allows electricity to flow. The metal wire is a conductor.' %}  
 
 
 Once it turns on, you have successfully created what we call a closed-circuit. It is called a closed-circuit because there is a closed-loop. Imagine you are a piece of electricity traveling from the + of the battery. You can follow a path all the way through the buzzer and back into the - of the battery. When you break the connections, the buzzer turns off, and it is called an open-circuit. In this case, the electricity can't make it all around the circuit. Take a moment to draw an open-circuit schematic in addition to the closed-circuit schematic.
