@@ -21,17 +21,20 @@ ___
 <div class="tab" id="bot">
 <h2><a href="#bot"><i class="icon fa-android"></i> Site Content from Bot Lessons</a></h2>
 <div class="content">
+	
 {% for lesson in site.bot_lessons %}
 	
-#### [{{ lesson.title }}]({{ site.baseurl }}{{ lesson.url }})
-{% for item in lesson.videos %} [ {{ item.text }} ]( {{ item.link}} ){:target="_blank"}  
+<h4><a href="{{ site.baseurl }}{{ lesson.url }}" target="_balnk">{{ lesson.title }}</a></h4>
+{% for item in lesson.videos %}
+<a href="{{ item.link}}" target="_balnk">{{ item.text }}</a>
 {% endfor %}
-{% for item in lesson.documents %} [ {{ item.text }} ]( {{ item.link}} ){:target="_blank"}  
+<a href="{{ item.link}}" target="_balnk">{{ item.text }}</a>
 {% endfor %}
-{% for item in lesson.other %} [ {{ item.text }} ]( {{ item.link}} ){:target="_blank"}  
+<a href="{{ item.link}}" target="_balnk">{{ item.text }}</a>
 {% endfor %}
-    
+
 {% endfor %}
+
 </div>
 </div>
 
@@ -50,6 +53,7 @@ ___
 {% endfor %}
     
 {% endfor %}
+
 </div>
 </div>
 
