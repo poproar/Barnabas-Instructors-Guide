@@ -94,7 +94,7 @@ Use the bottle cap to form bowls. Once you form the aluminum bowl, take the
 bottle cap out from the bottom and pinch the sides of the aluminum foil so that the bowl can stand on its own.
 You will need to make three of these in total.   
 
-![fig foil caps](fig-op_10.jpg){:class="image fit"}
+![fig foil caps](fig-op_10.png){:class="image fit"}
 
 ![image3](image3.jpg){:class="image fit"}
 
