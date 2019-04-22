@@ -16,10 +16,13 @@ We have several different formats for you to access our curriculum for your conv
 
 ## Others
 ___
-<h2><i class="icon fa-android"></i> Site Content from Bot Lessons</h2>
-
+<div class="tabs">
+	
+<div class="tab" id="bot">
+<h2><a href="#bot"><i class="icon fa-android"></i> Site Content from Bot Lessons</a></h2>
+<div class="content">
 {% for lesson in site.bot_lessons %}
-
+	
 #### [{{ lesson.title }}]({{ site.baseurl }}{{ lesson.url }})
 {% for item in lesson.videos %} [ {{ item.text }} ]( {{ item.link}} ){:target="_blank"}  
 {% endfor %}
@@ -29,8 +32,12 @@ ___
 {% endfor %}
     
 {% endfor %}
-___
-<h2><i class="icon fa-car"></i> Site Content from Racer Lessons</h2>
+</div>
+</div>
+
+<div class="tab" id="racer">
+<h2><a href="#racer"><i class="icon fa-car"></i> Site Content from Racer Lessons</a></h2>
+<div class="content">
 
 {% for lesson in site.racer_lessons %}
 
@@ -43,29 +50,7 @@ ___
 {% endfor %}
     
 {% endfor %}
-
-<div class="tabs">
-		
-    <div class="tab" id="tab1">
-        <a href="#tab1">Tab 1</a>
-        <div class="content">
-            Content of Tab1
-        </div>
-    </div>
-
-    <div class="tab" id="tab2">
-        <a href="#tab2">Tab 2</a>
-        <div class="content">
-            Content of Tab2
-        </div>
-    </div>
-
-    <div class="tab" id="tab3">
-        <a href="#tab3">Tab 3</a>
-        <div class="content">
-            Content of Tab3
-        </div>
-    </div>
-
+</div>
+</div>
 
 </div>
