@@ -28,8 +28,10 @@ ___
 {% for item in lesson.videos %}
 <a href="{{ item.link}}" target="_balnk">{{ item.text }}</a>
 {% endfor %}
+{% for item in lesson.documents %}
 <a href="{{ item.link}}" target="_balnk">{{ item.text }}</a>
 {% endfor %}
+{% for item in lesson.other %}
 <a href="{{ item.link}}" target="_balnk">{{ item.text }}</a>
 {% endfor %}
 
