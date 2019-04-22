@@ -51,7 +51,7 @@ Place the battery into the battery holder. Tip: + connects to the red wire, and 
 
 Now let's look at the schematic that we drew. If we follow the map, it will help us build the path. Connect the red wire of the buzzer with the red wire of the battery holder, while simultaneously holding the black wire of the buzzer with the black wire of the batter holder. Again, you should hear a buzzing sound coming from the buzzer. (This will verify that battery holder is working properly.)
 
-![touch the wires together](fig-op_04.jpg){:class="image fit"}
+![touch the wires together](fig-op_04.jpg){:class="image "}
 
 {% include badge.html type='tidbit' content='When making connections between the battery and buzzer, you will need to make sure that the metal touches metal. The black and red plastic parts of the wires do not allow electricity to flow. They are insulators. The metal wire inside is the part that allows electricity to flow. The metal wire is a conductor.' %}  
 
@@ -94,7 +94,7 @@ Use the bottle cap to form bowls. Once you form the aluminum bowl, take the
 bottle cap out from the bottom and pinch the sides of the aluminum foil so that the bowl can stand on its own.
 You will need to make three of these in total.   
 
-![fig foil caps](fig-op_10.png){:class="image fit"}
+![fig foil caps](fig-op_10.png){:class="image "}
 
 ![image3](image3.jpg){:class="image fit"}
 
