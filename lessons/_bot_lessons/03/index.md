@@ -42,7 +42,7 @@ videos:
     - link: https://youtu.be/aynBOY_6TBM
       text: What to do if the "B" dissapears 
 documents:
-    - link: https://goo.gl/DlDJ53
+    - link: https://cad.onshape.com/documents/57c5da093fd7ed1164d35f1e/w/36aca67b7584d9437861fe36/e/e71612367a4a32d647d8f7fa
       text: Barnabas Template File
 other:
     - link: https://youtu.be/L7ud2i_yfRI
@@ -99,7 +99,7 @@ Computer-Aided Design (or CAD) is used by engineers across many disciplines.  Sp
 
 Onshape is a very convenient CAD tool. It uses your internet browser and saves all your files to a cloud server. Because of this we do not have to worry about installing software or misplacing files. After creating your own Onshape account follow the instructions below:
 
-1. Once you are logged into OnShape, open the [Barnabas-Bot Template file](https://goo.gl/DlDJ53).
+1. Once you are logged into OnShape, open the [Barnabas-Bot Template file](https://cad.onshape.com/documents/57c5da093fd7ed1164d35f1e/w/36aca67b7584d9437861fe36/e/e71612367a4a32d647d8f7fa).
 
 2. Create a copy by L-CLICKing on "Make a private copy"
 ![fig 3.1](fig-3_1.png){:class="image fit"}
