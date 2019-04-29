@@ -85,6 +85,10 @@ With the robot assembled we have the opportunity to generate a drawing of the ro
 
 * You are done!
 
+{% include badge.html type="suggestion" content='If you get done early or have extra time and want to make your frontplate extra special, try to add some shapes or patterns.' %}
+
+{% include youtube.html id="chbKu-L9G5U" %}
+
 #### Share your robot with us!
 This step is necessary if you would like us to 3-D print your robot for you.  
 

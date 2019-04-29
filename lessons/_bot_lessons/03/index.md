@@ -161,12 +161,12 @@ Now we will begin the design of our own custom robot. This starts by customizing
   * It can be a single letter, or many letters. Play with different sizes. Make sure that all of the text fit on the robot! Remember to click on the green check mark to save your changes! Make sure to keep the size of the text larger than 0.3 so that it comes out well during printing!
 
 > What if I lose the dimensions?
-
 {% include youtube.html id="7Tk3Te7UkmU" %}
 
 > Or what if I lose the the **WHOLE LETTER** B?
-
 {% include youtube.html id="aynBOY_6TBM" %}
+
+___
 
 #### Putting Your Robot Together
 This is where you will put all your robot's body parts together and create the final file that you will share with us. You will need to drag and rotate your robot’s pieces into place. Keep in mind that you shouldn’t be concerned with perfection. Regardless of mistakes in the assembly file, the parts will be 3D printed appropriately. Follow along with the steps below to assemble your robot:
