@@ -101,7 +101,7 @@ Onshape is a very convenient CAD tool. It uses your internet browser and saves a
 
 {% include youtube.html id="L7ud2i_yfRI" %}
 
-1. Once you are logged into OnShape, open the [Barnabas-Bot Template file](https://cad.onshape.com/documents/57c5da093fd7ed1164d35f1e/w/36aca67b7584d9437861fe36/e/e71612367a4a32d647d8f7fa).
+1. Once you are logged into OnShape, open the [Barnabas-Bot Template file](https://cad.onshape.com/documents/57c5da093fd7ed1164d35f1e/w/36aca67b7584d9437861fe36/e/e71612367a4a32d647d8f7fa){:target="_blank"}.
 
 2. Create a copy by L-CLICKing on "Make a private copy"
 ![fig 3.1](fig-3_1.png){:class="image fit"}
