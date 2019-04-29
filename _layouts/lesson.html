@@ -18,6 +18,7 @@ layout: index
         </div>
     </header>
 
+    <div id="teacher">
     <h2 id="overview">Lesson Overview</h2>
    
     <div class="box">
@@ -189,6 +190,7 @@ layout: index
         }
     }
     </script>
+    </div>
     {% endif %}
 
     <div id="lesson-plan" class="row">
@@ -292,3 +294,9 @@ layout: index
     <li><a href="{{ site.baseurl }}{{nexturl}}" class="button primary fit small icon fa-arrow-circle-right"> Next Lesson</a></li>
 {% endif %}
 </ul>
+
+<script>
+if (!(/teacher/.test(window.location.href))) {
+	document.getElementById('teacher').style.display = 'none';
+}
+</script>
