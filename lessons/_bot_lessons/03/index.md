@@ -40,7 +40,7 @@ videos:
     - link: https://youtu.be/7Tk3Te7UkmU
       text: What to do if the dimension doesn't show up on your "B" 
     - link: https://youtu.be/aynBOY_6TBM
-      text: What to do if the "B" dissapears 
+      text: What to do if the "B" disappears 
 documents:
     - link: https://cad.onshape.com/documents/57c5da093fd7ed1164d35f1e/w/36aca67b7584d9437861fe36/e/e71612367a4a32d647d8f7fa
       text: Barnabas Template File
@@ -98,6 +98,8 @@ Computer-Aided Design (or CAD) is used by engineers across many disciplines.  Sp
    * **R-CLICK**: Clicking with the right button of your mouse or mouse pad.
 
 Onshape is a very convenient CAD tool. It uses your internet browser and saves all your files to a cloud server. Because of this we do not have to worry about installing software or misplacing files. After creating your own Onshape account follow the instructions below:
+
+{% include youtube.html id="L7ud2i_yfRI" %}
 
 1. Once you are logged into OnShape, open the [Barnabas-Bot Template file](https://cad.onshape.com/documents/57c5da093fd7ed1164d35f1e/w/36aca67b7584d9437861fe36/e/e71612367a4a32d647d8f7fa).
 
@@ -157,6 +159,14 @@ Now we will begin the design of our own custom robot. This starts by customizing
 
 5. Now change the text to whatever you want!
   * It can be a single letter, or many letters. Play with different sizes. Make sure that all of the text fit on the robot! Remember to click on the green check mark to save your changes! Make sure to keep the size of the text larger than 0.3 so that it comes out well during printing!
+
+> What if I lose the dimensions?
+
+{% include youtube.html id="7Tk3Te7UkmU" %}
+
+> Or what if I lose the the **WHOLE LETTER** B?
+
+{% include youtube.html id="aynBOY_6TBM" %}
 
 #### Putting Your Robot Together
 This is where you will put all your robot's body parts together and create the final file that you will share with us. You will need to drag and rotate your robot’s pieces into place. Keep in mind that you shouldn’t be concerned with perfection. Regardless of mistakes in the assembly file, the parts will be 3D printed appropriately. Follow along with the steps below to assemble your robot:
