@@ -75,7 +75,7 @@ Finally, add the wheels to the servo motors with the pin tipped screws.
 {:style="overflow: hidden;"}
 
 {% include youtube.html id='r8sPTs3qcEo' %}
-[Car Chassis Assembly](https://www.youtube.com/watch?v=r8sPTs3qcEo)
+[Car Chassis Assembly](https://www.youtube.com/watch?v=r8sPTs3qcEo){:target="_blank"}
 
 ### Step 2: Placing the Hardware (15 minutes)
 Using your zip ties, tie your hardware down onto the car.  
@@ -91,6 +91,6 @@ Place the 9 Volt battery on the underside of the chassis with double stick foam.
 {:style="overflow: hidden;"}
 
 {% include youtube.html id='tjeida4DhIM' %}
-[Mounting Hardware](https://youtu.be/tjeida4DhIM)
+[Mounting Hardware](https://youtu.be/tjeida4DhIM){:target="_blank"}
 
 {% include badge.html type='suggestion' content='Have the kids work together to build the robot. You can have each kid decide for the team what to build first. Remind everyone that we want to do it together.' %}
