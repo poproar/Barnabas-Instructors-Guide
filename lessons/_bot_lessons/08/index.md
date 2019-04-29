@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Lesson 7 &middot; Exploring the Robot’s Heart
+title: Lesson 8 &middot; Exploring the Robot’s Heart
 suggested_time: 60-75 minutes
 
 disciplines:

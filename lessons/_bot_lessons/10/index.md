@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Lesson 9 &middot; The Blinking Light Challenge
+title: Lesson 10 &middot; The Blinking Light Challenge
 suggested_time:  60-75 minutes
 
 disciplines:

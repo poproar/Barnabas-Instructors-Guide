@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Lesson 07 &middot; Assembling your Robot
+title: Lesson 7 &middot; Assembling your Robot
 suggested_time: 60-75 minutes
 
 disciplines:

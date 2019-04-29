@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Lesson 8 &middot; Introduction to Breadboards
+title: Lesson 9 &middot; Introduction to Breadboards
 suggested_time: 60-75 minutes
 
 disciplines:
