@@ -12,13 +12,19 @@
 
 <script>
 function isTeacher() {
-	if (localStorage.getItem("teacher"))
-	{
-		localStorage.setItem("teacher", false);
-	}
-	else
-	{
-		localStorage.setItem("teacher", true);
-	}
+// Check browser support
+  if (typeof(Storage) !== "undefined") {
+    // Store
+    if(localStorage.getItem("user") == 'teacher')
+    {
+      localStorage.setItem("user", "student");
+    } else {
+      localStorage.setItem("user", "teacher");
+    }
+  // Retrieve
+  console.log("Switch to " +localStorage.getItem("user"));
+  } else {
+    console.error("Sorry, your browser does not support Web Storage...");
+  }
 }
 </script>
