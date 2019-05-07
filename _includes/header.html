@@ -21,7 +21,7 @@ function isTeacher() {
       document.getElementById("teacherSetting").href = "?teacher";
     } else {
       localStorage.setItem("user", "teacher");
-      document.getElementById("teacherSetting").href = "";
+      document.getElementById("teacherSetting").href = "?student";
     }
   // Retrieve
   console.log("Switch to " +localStorage.getItem("user"));
