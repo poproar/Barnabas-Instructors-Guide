@@ -56,7 +56,7 @@ reflection:
 
 ### Step 1: Getting The Input Value Into A Variable (15 minutes)  
 A variable is like a bucket that stores information.  A variable has a name, which is the name of the bucket, and it also has a value, which is the stuff that is inside the bucket.
-
+#### as Block
 The program below creates a variable named "button", and it sets it the value "1" if the button is pushed, and "0" if the button is not pushed.
 
 Study the program below to make sure that you understand how it works.
@@ -89,6 +89,7 @@ void loop()
 ```
 
 ### Step 2: Displaying The Variable On The Serial Monitor (45 minutes) 
+#### as Block
 Now we will display our variable to the screen.  We do this by using the "serial println" block.
 
 ![fig 4.2](fig-4_2.png){:class="image "}

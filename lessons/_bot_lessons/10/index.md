@@ -1,147 +1,216 @@
 ---
 layout: lesson
-title: Lesson 10 &middot; Blinking in Code
-suggested_time: 60-75 minutes
+title: Lesson 10 &middot; The Blinking Light Challenge
+suggested_time:  60-75 minutes
 
 disciplines:
-- "ETS1.B: Developing Possible Solutions: At whatever stage, communicating with peers about proposed solutions is an important part of the design process, and shared ideas can lead to improved designs. (3-5-ETS1-2)"
-- "Tests are often designed to identify failure points or difficulties, which suggest the elements of the design that need to be improved. (3-5-ETS1-3)"
+- "ETS1.B: Developing Possible Solutions: Tests are often designed to identify failure points or difficulties, which suggest the elements of the design that need to be improved. (3-5-ETS1-3)"
 - "ETS1.C: Optimizing the Design Solution: Different solutions need to be tested in order to determine which of them best solves the problem, given the criteria and the constraints. (3-5-ETS1-3)"
-- "At whatever stage, communicating with peers about proposed solutions is an important part of the design process, and shared ideas can lead to improved designs. (3-5-ETS1-2)"
-- "Science is a Human Endeavor: Most scientists and engineers work in teams. (4-PS3-4)"
-### Science and Engineering Practices
-- "Constructing Explanations and Designing Solutions: Generate and compare multiple solutions to a problem based on how well they meet the criteria and constraints of the design problem. (3-5-ETS1-2)"
+### Cross-Cutting Concepts
+- "Energy and Matter: Energy can be transferred in various ways and between objects. (4-PS3-1),(4-PS3-2),(4-PS3-3),(4-PS3-4)"
 
 technical_skills:
-- Knowledge of how morse code functions.
-- Understanding of how to condense code.
-- Improved understanding of how code is executed block by block.
-life_skills:
-- Communicating
-- Planing
-- Testing
-- Altering a hypothesis
+- Ability to operate a computer.
+- Understanding of physical computing fundamentals.
+- Understanding of cooperation between hardware and software in physical computing. 
+- Working knowledge of Arduino/Ardublock and how the Barnabas-Bot interfaces with the computer.
 
-essential_questions: 
-- What is morse code? How does one communicate using morse code?
-- How can we condense our code to make blinking in morse code easier to achieve.
-- Does your code vary the time the LED spends off? Why or why not?
+life_skills:
+- Procedure
+
+essential_questions:
+- Think of all the electronics in our lives that are automated. Do you perceive these devices to be simple or complex?
+- What are the main drawbacks of Arduino?
+- Can we upload code to our bots immediately after connecting them to the computer? Why or why not?
+- Why do we have to change the pin \# block from 1 to 7 on the set digital pin block.
+- Why can’t we see the LED blink without delay blocks?
 
 vocab:
-- Repeat
-- Morse Code
-#- Sequence (morse code)
-#- Period (duration)
+# - Coding
+# - Program
+# - Compile
+- Arduino
+- Ardublock
+- Loop Do
+- Programmable Pin
+- Set Digital Pin
+- Delay
+
 
 videos:
+- link: https://youtu.be/UfxJx9LQ9u0
+  text: Wiring up the LED and programming it in Ardublock
+- link: https://youtu.be/JHJoiSG9jWw
+  text: How to comment your code
+- link: https://youtu.be/i2l7I9PdE2o
+  text: Easy Ardublock install
+- link: https://youtu.be/bBSZ8REdUYA
+  text: Advanced Ardublock install
+- link: https://youtu.be/UfxJx9LQ9u0
+  text: Blinking Light Challenge
 documents:
 other:
-- link: https://upload.wikimedia.org/wikipedia/commons/b/b5/International_Morse_Code.svg
-  text: Morse Code Browser Cheat Sheet
-- link: https://drive.google.com/open?id=1liBuEK5mu3E04ymCv_On7b9cEDAkBJO1
-  text: Morse Code PDF
-
-depth:
-- "Level 1:  Recall and Reproduction"
-- "Level 2:  Skills and Concepts"
-- "Level 3:  Strategic Thinking and Reasoning"
-- "Level 4:  Extended Thinking"
+- link: https://docs.google.com/document/d/1sDz2-crxL3YPCPiS6wtUBbhqJtMYeFzgs56nUAafHik/edit?usp=sharing
+  text: Software setup on Windows
+- link: https://docs.google.com/document/d/1ULIuHSl1rNucHNq35fZh8eQJxEY3afcOX8tWPj6X_n4/edit?usp=sharing
+  text: Connecting Barnabas-Bot to a Windows PC
+- link: https://docs.google.com/document/d/1BVIaZwNlZEG0om7E13G6qr_O3muZJSE-u3bn53Z1BXg/edit?usp=sharing
+  text: Software setup on Mac
+- link: https://docs.google.com/document/d/1i_FVrwEXDOQY791zeHScGpZF_IAIIequutYzS-uE-0s/edit?usp=sharing
+  text: Connecting Barnabas-Bot to a Mac
 
 barriers: 
-- Understanding the pauses necessary in coding  
-- Correct breadboard set up to power LED  
+- Minimal experience with computers.
 
 anticipatory:
-- We will create and decode a message using Morse Code by using coding skills in ArduBlock.  
-- Demonstrate a simple pre-coded flashing LED with a Morse Code message (ie. S-O-S!) and ask students to decode it using the Morse Code decoder  
+- We will create a light circuit and write a program with our computer so it turns on and off automatically. 
+- Understanding coding activity - students giving explicit 1-step instructions to accomplish a task  
+- Learn how to to connect Barnabas-bot to a computer.
+- Learn procedure that allows code to be uploaded to the robot.
+- 'Learn the function of three blocks in Ardublock: Loop do, Set digital pin, and delay.'
+- Understand that the robot can be physically manipulated through code.
 
 practice:
-- Student practicing different letters to code.  
+- Use Ardublock to turn the LED on, then to turn the LED off.
+- Create a program in Ardublock that continuously blinks the light on and off.
 
 assessment:
-- Student has a completed, decodable message.  
-- Is the breadboard correct to light up LED  
+- Blinking LED connected to the breadboard  
+- Determine the smallest millisecond delay that still appears to blink.  
 
 materials:
-- USB to mini cable (x1)
-- 3V LED (x1)
+- Engineering Journal
+- Computer (mouse preferred)
+- Mini Breadboard
+- ArduBlock [Arduino IDE Tool]
+- Barnabas arduino board
 - Jumper wires
+- 3V LED
 - Resistors (470 Ohm - yellow violet brown gold and 4.7K Ohm - yellow violet red gold)
-- Mini breadboard (x1)
-- Computer (x1)
-- Engineering Journal (x1)
-- Pencil (x1)
-
-
+- USB cable (A to mini)
 
 reflection:
   comprehension: 
-  - What i morse code? How is morse code communicated?
-  - When making blinks of different speeds, how does not changing the delay after turning the LED off benefit us?
-  - Describe how the repeat block helps us create code?
-  - What is the importance of precision in coding?
+  - What significance does changing the number attached to the Set Digital Pin block to 7 have?
+  - What effect does the delay block have? Why do we only use the delay milliseconds block?
+  - Why do we need two delay blocks to make the LED blink?
 ---
 
 ### Review
-   * What block is used to turn the LED on and off.
-   * How is the delay block important in getting the LED to visibly blink?
+   * What is resistance? What is the job of a resistor in a circuit?
 
-### Step 1: Blinking At Different Speeds (25 minutes) 
-We spent last week learning to blink our LEDs and playing with the speed at which it blinks. We are going to pick up where we left off by using the skills learned last week. The first challenge of this lesson is to create a program that causes the LED to blink at two distinct speeds. It will be on for a long period of time (long as in about a second), then off, then on for a short period of time, then off. 
-
-
-How should our code from last week, the blinking light code, be altered to accomplish this? Well we need to first understand we will need two different blinks, and will therefore need more blocks. If we stick to the status quo of four blocks in our code we will be limited to only one of the two behaviors; either the fast blink or the slow blink.
-  
-![fig 10.1](fig-10_1.png){:class="image "}
-One blink
-![fig 10.2](fig-10_2.png){:class="image "}
-Two blinks
-	
-In the example on the right we have enough blocks to create two distinctly different blinks, however at the moment the code on the right and the code on the left behave identically. Why is that?
-
-The right hand code may have enough blocks for two blinks but currently all of the delay blocks have the default value of 1000. So in either code every blink we see will be the same length of time. In order to vary the blink speeds we need to alter the value of one or more of the delay blocks. The question is which delays need to be altered? Let’s have a look at the code below:
-  
-![fig 10.3](fig-10_3.png){:class="image "}
-
-You can see here that the first two delays are kept at the same value, and the last two delays are kept at the same value. They are separated into two blinks, each with their own specific delay. There is a small problem with this code however, which will be apparent as you watch the LED. The second blink, in particular the low part of it, is short enough that the blink becomes hard to distinguish from the longer blink. This can be solved by making sure that the delays after set digital pin LOW blocks are equal in value, like in the example below:
-
-![fig 10.4](fig-10_4.png){:class="image "}  
-
-With the delays set at these values both blinks will be clearly visible as separate blinks and it will be clear that one is longer than the other.
-
-### Step 2: What Is Morse Code (10 minutes) 
-In order to accomplish this lessons challenge we first need to understand morse code. Both what morse code is as well as how it is used. Morse code is essentially an alternate way of producing the alphabet using an assortment of dots and dashes to represent any one letter. A message in morse code is usually conveyed through either light or sound rather than just on paper. At this point I’d like you to look at the morse code PDF located here as well as in the additional resources section at the top of the lesson. This is a resource that you should consider distributing to your students.
-
-
-That PDF does ask that the short and long blinks be timed in a different manner. It asks for significantly shorter blinks in both cases, which would look like the following:
-
-![fig 10.5](fig-10_dot.png){:class="image "}
-Short blink. A dot.
-	  
-![fig 10.6](fig-10_dash.png){:class="image "}
-Long blink. A dash.
-	
-In addition the morse code pdf gives us rules for ending letters and ending words. We are told to have a 1000 millisecond delay at the end of a letter and a 2000 millisecond delay at the end of a word. This helps us interpret the morse code message a little easier, as we can better distinguish between individual letters and words.
+### Step 1:  Connecting The Barnabas-Bot (10 minutes) 
+Rather than go through the process here, please look at the Additional Resources provided in the Lesson overview. There are two separate documents. One for Mac users and one for PC users. There you will find instructions to connect the Barnabas-bot to the computer. They will also include instructions on how to ensure the robot and computer can communicate with one another (upload code). 
 
 #### Vocabulary
-   * **Morse Code**: A method of transmitting information as a series of on-off tones, lights, or clicks that can be interpreted by a skilled observer without the use of equipment.
+   * **Arduino**: Both hardware and software. The hardware is a line of microcontrollers (very simple computers). In fact, the Barnabas Noggin utilizes an Arduino microcontroller itself. The software is a C based IDE (integrated development environment… A place where you code). Because Arduino handles both sides of things the process of coding, then uploading your code to a microcontroller is very easy. The Arduino IDE can be out of scope for younger classes as the ability to type acts as a barrier to entry.
 
-### Step 3: Our First Morse Code Message (20 minutes) 
-Morse code is probably most commonly known as as an emergency method of communication, with the most commonly known message being S-O-S (help). This will be the first message we try to create using the LED. It is actually one of the easiest messages to create in morse code as S is represented by three dots, and O is represented by three dashes. Because both S and O are defined with repetitive signals it would be best for me to introduce a new block.
+{% include badge.html type='best_practice' content='Have the students make a step by step checklist in their journal on how to connect the Barnabas-Bot to the computer in explicit detail.' %}
 
+Use the following checklist to prepare your robot for coding:
 
-The repeat block can be found in the control tab. It is the first of the three repeat blocks seen, the others being repeat and count, and repeat between. This block behaves somewhat like the loop do in that other blocks can be placed inside it. There is a small integer block attached to it, much like the other blocks we have used thus far, which can have its value changed. That number will dictate how many times the code within the repeat block will run before further blocks in your code are. Take a look at the example below:
+   1. Turn on the computer.
+   2. Input password.
+   3. Open Arduino.
+   4. Plug the robot into the computer via the USB cable.
+   5. Go to tools -> port -> select port (not com1 or serial port ex. for windows pc).
+   6. Go to tools -> board -> select Arduino Nano
+   
+_This process must be done each lesson that you intend to program._
+
+### Step 2: Getting Started With Ardublock (5 minutes) 
+Now that our computer is talking to our Barnabas Noggin, let's get started with ArduBlock!  ArduBlock is a block-based programming language that is great for those who are new to programming.  
+
+Open ArduBlock by going to TOOLS->ARDUBLOCK.
+
+![fig 10.1](fig-10_1.jpg){:class="image "}
+
+Once ArduBlock opens, you should see the following screen.  Note that your screen may differ a little depending on which version of Ardublock you have installed.
+
+![fig 10.2](fig-10_2.jpg){:class="image "}
   
+Go to `CONTROL`, and drag in a `LOOP-DO` block (if it isn't there already).  Click on `SAVE`, type in your name, and click `SAVE` again.  Note that every program needs a `LOOP-DO`.
+
+![fig 10.3](fig-10_3.jpg){:class="image "}
+  
+Now click `UPLOAD`, type in your name, and click `SAVE`.  Your program will now upload code into your robot. 
+
+![fig 10.4](fig-10_4.jpg){:class="image "}
+  
+Congratulations, you just wrote your first program!  In the future, you will want to always click `SAVE`, and then `UPLOAD` when loading your program to your Barnabas-Bot.
+
+
+#### Vocabulary
+   * **Ardublock**: A GUI (graphic user interface… another place to code) that runs with Arduino. This means that closing Arduino also closes Ardublock so be careful! Ardublock is a block based coding platform, allowing us to sidestep the need to type.
+
+{% include badge.html type='best_practice' content='Uploading blank code may seem frivolous but it is important. By attempting to upload now any technical issues can be addressed. If the Arduino window shows any kind of error, you know there is a problem. The three most likely reasons a student would get an error message here are: They did not choose the correct port, they did not choose the correct board, or their robot is not connected to the computer.' %}
+
+### Step 3: Ardublock Basics (5 minutes) 
+Before we can begin coding we should familiarize ourselves with the basics of ardublock. How to move around, create and delete code.
+
+The first thing to mention is the loop do. The loop do is the most important block in Ardublock. Code is only able to be uploaded to your robot if there is one and only one loop do. The loop do will house any other blocks used in our code and will change its size to accommodate. As inferred by its name, the loop do will loop through your code. When it reaches the end of your code, it will start again at the beginning. Luckily for us, this integral part of our code will always be in a new Ardublock file by default. 
+
+Let’s say that the loop do is not there when opening Ardublock. We can add the loop do to the code, as well as any add any other block, by the following method. All of the colored tabs on the left side of the Ardublock window can be selected. After selecting one of them a menu will pop up with several similarly colored blocks. You can drag any of the blocks into the grey coding area (generally putting them inside of the loop do.
+
+In the case of the loop do you would navigate to the yellow tab labelled control, then drag and drop loop do into the gray area.
+
+![fig 10.5](fig-10_5.png){:class="image "}
+
+The last skill we need to learn is how to delete blocks of code. Say we have the case of multiple loop do’s, and we want to get rid of the extras. Just use your cursor to grab one of the unwanted blocks and drag it over to the tabs on the left side of the window. Then, just drop it and it should disappear.
+
+#### Vocabulary
+   * **Loop Do**: The most important block in Ardublock. It is important that one and only one loop do is in the code at a time, otherwise your code cannot be uploaded. The loop do will run whatever code is placed inside it repeatedly, starting again at the beginning whenever the end is reached.
+
+### Step 4: Our First Program, Programming The LED (20 minutes) 
+In this section we are finally going to code our LED. However, we must make a small change to the current circuit first. 
+
+The wire that is currently in the 5V pin must be placed in the pin labelled 7.
+
+![fig 10.6](fig-10_6.png){:class="image fit"}
+
+You may notice that the LED no longer turns on. This is because while the 5V pin is always on, pin 7 is what is called a programmable pin, meaning we decide whether it is on or off with code. 
+
+With that out of the way let’s begin coding by grabbing a Set Digital Pin block out of the Pins tab and place it in the loop do.
+
 ![fig 10.7](fig-10_7.png){:class="image "}
 
-This code will blink fast three times before waiting a second, then starting over. Based on what we already know, this code creates the message S-S-S-S-S….. 
+The `Set Digital Pin` block should snap into place when dropped on the loop do.
 
-Putting together the rest of the S-O-S code should be easy to accomplish. We just need to add three long blinks, followed by three more short blinks, with the appropriate delays in between.
-  
 ![fig 10.8](fig-10_8.png){:class="image "}
+  
+There are two smaller blocks attached to the `Set Digital Pin` block. The number 1 and the word `HIGH`. The number 1 refers to the pin on the robot that this block will attempt to control. Remember that we placed the LED circuit on pin 7, so that 1 needs to be changed to a 7. This can be done by clicking on the block, pressing 7, then pressing enter.
 
-Notice that the last delay is for 2000 milliseconds (2 seconds). This is appropriate if we consider S-O-S to be a word.
+The `HIGH` block is telling us that it will be turning the pin on (giving it power). By mousing over this block with your mouse cursor and clicking on the upside down triangle that appears on it a menu will appear. That menu has only two options `HIGH` and `LOW`. As you may have guessed LOW will turn the pin off.
+
+After changing the pin number to 7 have all the students press upload to arduino at the top of the Ardublock window. You will be prompted to save, go ahead and do so. Afterwards you will see a green progress bar in the Arduino window showing the code being uploaded. You should see the LED turn on. 
+
+Next you should ask the students to turn the LED off by changing the code. Let them figure out how to do so on their own (Switch the HIGH to LOW). In order to see the change the students will need to upload their code again. The Barnabas Noggin is only capable of holding one program at a time. This means that uploading the LED off code will permanently erase the LED on code from the robot. To turn the LED on again they would have to re-upload a set digital pin HIGH code to the robot.
+
+LED on ![fig 10.9](pinHigh.png){:class="image "}  ![fig 10.10](pinLow.png){:class="image "} LED off
+
 #### Vocabulary
-   * **Repeat**: The repeat block, like the loop block, can have other blocks placed within it. Any blocks within the repeat block will be run a number of times equal to the integer that innately comes with the block. Afterwards, subsequent blocks of the code will be run as expected.
+   * **Programmable pin**: One of the pins on the Barnabas Noggin labelled 0-13 (it has more labelled A0-A5, but we are not using those in this class). These pins can be controlled by the code we create in Ardublock rather than just being innately on or off.
+   * **Set Digital Pin**: Located in the aqua colored pins tab, this is the block we use to turn the LED on and off. To properly use this block we need to pick a pin number (for us 7) and choose between HIGH or LOW (on or off). This block must be placed inside the loop do.
 
-{% include badge.html type='activity' content='Have the students attempt custom messages in morse code, such as their name, and see if other students can decipher them.' %}
+
+### Step 5: Blinking The LED (20 minutes) 
+Now it’s time for the big challenge, blinking the LED. I generally start by asking the class for suggestions on how to do this. The answer I’m looking for at this point is that we should place another Set Digital Pin block into our loop do. By having two `Set Digital Pin` blocks, one `HIGH` and the other `LOW`, We should see both behaviors happen. Have the students do this and upload the code. What kind of behavior do they see?
+
+![fig 10.11](fig-10_11.png){:class="image "}
+
+They should see the light turn off momentarily before turning back on, and staying on there after. Don’t be fooled by the initial turning off of the LED, that is not do to our code working as intended. The Noggin will always stop whatever it is doing to accept new code. In this case turning the LED off just after our code is uploaded. Unfortunately this is not part of a blink. Because the loop do repeats we should see the LED blink over and over, which we do not with the code as written.
+
+The reason we can not see a repeated blink is due to the speed at which the Barnabas Noggin is processing commands. The Barnabas Noggin thinks fast enough to do hundreds of commands in a second, far to fast for our eyes to keep up with. The LED is blinking, but too fast for us to make out.
+
+There is a way to slow our code down deliberately. In the controls tab there are two blocks labelled Delay. One says `Delay milliseconds` (a _milli_ second is one *thousandth* of a second), and the other says `delay microseconds` (a _micro_ second is one *millionth* of a second). We will always use the Delay milliseconds block, as the Delay microseconds block yields the same problem as before; the LED will be blinking too fast for us to see. The question is where do we place the Delay millisecond block in our current code. There are two immediate options:  
+
+![fig 10.12](fig-10_12.png){:class="image "} ![fig 10.13](fig-10_13.png){:class="image "}
+
+You're probably wondering why there isn’t a third option for the delay block bing at the top of the code. It turns out that would be identical to the code on the left due to the code repeating. Unfortunately, these don’t work either. The one on the left seems to stay off, and the one on the right seems to stay on. In either case the delay block is only pausing after one of the actions, either turning off or turning on. We need to pause our code after each action, allowing both of them to happen for some observable amount of time, like below:
+
+![fig 10.14](fig-10_14.png){:class="image "}
+
+#### Vocabulary
+   * **Delay**: The delay block comes in two different flavors, delay milliseconds and delay microseconds. We only make use of the delay milliseconds block. The delay block will stop code from progressing forward until a certain amount of time has elapsed.
+
+{% include badge.html type='activity' content='Once your students have the LED blinking challenge them to change the numbers inside the delay block and identify how that changes the behavior of the LED. Challenge the students to find the smallest delay where they can still see the LED blink.' %}

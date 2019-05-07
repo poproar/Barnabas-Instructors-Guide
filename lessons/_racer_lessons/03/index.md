@@ -92,19 +92,25 @@ How do you do that?
 
 ### Step 3: Programming the Buton (15 minutes) 
 #### Introduction to Inputs
-##### as Blocks
-###### Conditional Logic
+Throughout the level 1 class the only type of components used were output components. This simply means that the LED, buzzer and motors needed to get a signal *from* the robot's brain to work. The button is fundamentally different. It is an input component, meaning that it will send a signal *to* the robot's brain. Inputs, also known as sensors, will help our robot interact with the world around it, starting with the button.
+##### Conditional Logic
+In programming, conditional logic is used to decide a course of action depending on a condition. For example; an LED turning on if the button is pressed and turning off if the button is not pressed. Conditional logic is something we use in our everyday life without even recognizing it. If hungry, eat; if cold, wear a jacket, etc. In this section we will learn how to use conditional logic which will become the basis of how our robot makes decisions.
+###### as Blocks
 We want to the light to turn ON if we press the button and turn OFF if we let go of the button.  We’ll need a new block.  See below!
 ![fig 3.6](fig-3_6.png){:class="image "}
 
 The above block is used to check whether the button has been pressed and act accordingly. In the following code it is crucial to getting the behavior we are looking for;
+
 ![fig 3.7](fig-3_7.png){:class="image "}
+
+
+
 Create this code yourself and try it out!
 
 {% include youtube.html id='VlEWea9keUY' %}
 [Programming the Button with Ardublock](https://youtu.be/VlEWea9keUY).
 
-##### as Text
+###### as Text
 In order to use your button, you need to tell your Barnabas Noggin to do something IF it is pushed.  How do you do that?  
 Here, we will learn about a few new commands
 

@@ -85,6 +85,10 @@ With the robot assembled we have the opportunity to generate a drawing of the ro
 
 * You are done!
 
+{% include badge.html type="suggestion" content='If you get done early or have extra time and want to make your frontplate extra special, try to add some shapes or patterns.' %}
+
+{% include youtube.html id="chbKu-L9G5U" %}
+
 #### Share your robot with us!
 This step is necessary if you would like us to 3-D print your robot for you.  
 
@@ -93,6 +97,4 @@ This step is necessary if you would like us to 3-D print your robot for you.
 
 Once you share it with us, we will provide a confirmation within 24 hrs.  Now just sit back and relax as we start putting your robot kit together!
 
-{% include badge.html type='activity' content='<ul><li><a href="https://youtu.be/f5TutKGCvLM" target="_blank">Create a Custom Part</a></li><li> (BONUS)
- <a href="https://youtu.be/_2kt-yNn5HU" target="_blank">Dimensions and Constraints</a></li></ul>' %}
- 
+{% include badge.html type='activity' content='<a href="https://youtu.be/f5TutKGCvLM" target="_blank">Create a Custom Part</a>' %}
