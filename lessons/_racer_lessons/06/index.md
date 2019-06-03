@@ -143,6 +143,7 @@ We can see that the two motors are oriented differently, with on pointing out in
 
 ##### Stop Your Motors
 The code below will move your car forward for 1 second, stop and then loop forever.
+
 ![fig 6.8](fig-6_8.png){:class="image "}
 ###### as Text
 ```
