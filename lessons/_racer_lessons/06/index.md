@@ -171,6 +171,10 @@ void loop()
 
 Because there is a button attached to our robot we can create a far more convenient code. We can use the button to trigger movement of the car. In other words have the car be stopped until the button is pressed;
 
+![fig 6.8](fig-6_10.png){:class="image "}
+
+###### as Text
+
 ```
 #include <Servo.h>
 
