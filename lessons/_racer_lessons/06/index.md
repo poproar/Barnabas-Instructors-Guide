@@ -67,7 +67,7 @@ Keep in mind that the servo motors can also be attached via the servo pin header
 
 See video links included on this page.
 
-### Step 1: Geting Your Car Moving (15 minutes) 
+### Step 1: Geting Your Car Moving (DC Motor Version Only) (15 minutes) 
 Lets just try uploading a simple code to the robot to see if we can get it moving. I'm going to show you an incomplete code to begin and I encourage you to allow the students some time to fill in the blanks themselves. This will give them time to re-familiarize themselves with Ardublock and hopefully cement the logic of paired pins and voltage difference into their heads. Here is the code I encourage showing them; 
 
 ![fig 6.1](fig-6_1.png){:class="image "}
@@ -94,7 +94,7 @@ While experimenting, your students probably found that some combination of HIGHs
 Notice that the second half of the code only has two set digital pin blocks. More can be used but since we only need to make sure that all pins are either LOW or HIGH simply setting the two that were HIGH to be LOW will do the trick. So this code will now move the robot forward for one second, then hold the robot still for one second. It is recommended that before changing directions, let's say for example if you wanted to move forward then backwards, that you stop briefly before moving again. So your robot would move forward->stop->backwards rather than forwards->backwards.
 
 
-### Step 2: Motor Control (15 minutes) 
+### Step 2: Motor Control (Servo Motor Version Only) (15 minutes) 
 #### Throttle
 A throttle is an instrument used in some kinds of motorized vehicles, such as boats, to control speed. These throttles behave in a particular way; the position of the throttle is what dictates the speed and direction of the motor. For example, a throttle may begin in a position which has the motor stopped. When the throttle is pushed forward from that position the motor begins to move forward. The farther forward the throttle is pushed, the faster the motor moves in that direction. If, instead, I pull the throttle backwards, the motor will begin moving backwards, with it picking up speed as I pull the throttle back further and further. 
 
