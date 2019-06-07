@@ -67,7 +67,7 @@ Keep in mind that the servo motors can also be attached via the servo pin header
 
 See video links included on this page.
 
-### Step 1: Geting Your Car Moving (15 minutes) 
+### Step 1: Geting Your Car Moving (DC Motor Version Only) (15 minutes) 
 Lets just try uploading a simple code to the robot to see if we can get it moving. I'm going to show you an incomplete code to begin and I encourage you to allow the students some time to fill in the blanks themselves. This will give them time to re-familiarize themselves with Ardublock and hopefully cement the logic of paired pins and voltage difference into their heads. Here is the code I encourage showing them; 
 
 ![fig 6.1](fig-6_1.png){:class="image "}
@@ -94,7 +94,7 @@ While experimenting, your students probably found that some combination of HIGHs
 Notice that the second half of the code only has two set digital pin blocks. More can be used but since we only need to make sure that all pins are either LOW or HIGH simply setting the two that were HIGH to be LOW will do the trick. So this code will now move the robot forward for one second, then hold the robot still for one second. It is recommended that before changing directions, let's say for example if you wanted to move forward then backwards, that you stop briefly before moving again. So your robot would move forward->stop->backwards rather than forwards->backwards.
 
 
-### Step 2: Motor Control (15 minutes) 
+### Step 2: Motor Control (Servo Motor Version Only) (15 minutes) 
 #### Throttle
 A throttle is an instrument used in some kinds of motorized vehicles, such as boats, to control speed. These throttles behave in a particular way; the position of the throttle is what dictates the speed and direction of the motor. For example, a throttle may begin in a position which has the motor stopped. When the throttle is pushed forward from that position the motor begins to move forward. The farther forward the throttle is pushed, the faster the motor moves in that direction. If, instead, I pull the throttle backwards, the motor will begin moving backwards, with it picking up speed as I pull the throttle back further and further. 
 
@@ -115,6 +115,7 @@ Continuous servos are similar to the servos that we used from Barnabas-Bot, exce
 
 ##### Moving Forward
 ![fig 6.6](fig-6_6.png){:class="image "}
+
 The code above should move your car forward.  Notice that it seems like the motor should be moving in opposite directions.  Look at how your car is constructed and see if you can see why the car moves forward even though the motors are moving in opposite directions.
 ###### as Text
 ```
@@ -142,6 +143,7 @@ We can see that the two motors are oriented differently, with on pointing out in
 
 ##### Stop Your Motors
 The code below will move your car forward for 1 second, stop and then loop forever.
+
 ![fig 6.8](fig-6_8.png){:class="image "}
 ###### as Text
 ```
@@ -169,6 +171,10 @@ void loop()
 
 Because there is a button attached to our robot we can create a far more convenient code. We can use the button to trigger movement of the car. In other words have the car be stopped until the button is pressed;
 
+![fig 6.10](fig-6_10.png){:class="image "}
+
+###### as Text
+
 ```
 #include <Servo.h>
 
@@ -195,8 +201,6 @@ void loop()
 
 #### Calibration
 {% include badge.html type='troubleshoot' content='If you notice that your motors are not moving at the right speed, or they do not stop entirely, you will need to calibrate your motors.  We will cover this in the next section, though I highly recommend looking through it before attempting to complete this section, as it will answer many questions and better allow you to problem solve.s it will prove helpful in the problem solving process.' %}
-
-[How to calibrate continuous servos](https://youtu.be/Db-M5C3b7DA)
 
 {% include badge.html type='troubleshoot' content='Before making any moves, make sure to first program the motors to stop, otherwise the behavior will be erratic' %}
 
