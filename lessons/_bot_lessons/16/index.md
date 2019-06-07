@@ -57,6 +57,8 @@ reflection:
 
 ---
 
+{% include youtube.html id="HYT9UPo5FmE" %}
+
 ### Step 1: Putting It All Together (45 min)
 In this lesson there will be no new concepts introduced. Instead this lesson is meant to be treated as more of an open lab style class, meaning the students work independently for the majority of class. What I would recommend is to have each of the students draft an ordered list of things they want their robot to do, much like the list shown in the last lesson, which I will show again here:
 
