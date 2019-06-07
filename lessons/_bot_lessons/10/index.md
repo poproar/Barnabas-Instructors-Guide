@@ -102,6 +102,9 @@ reflection:
 ### Step 1:  Connecting The Barnabas-Bot (10 minutes) 
 Rather than go through the process here, please look at the Additional Resources provided in the Lesson overview. There are two separate documents. One for Mac users and one for PC users. There you will find instructions to connect the Barnabas-bot to the computer. They will also include instructions on how to ensure the robot and computer can communicate with one another (upload code). 
 
+{% include youtube.html id="i2l7I9PdE2o" %}
+{% include youtube.html id="bBSZ8REdUYA" %}
+
 #### Vocabulary
    * **Arduino**: Both hardware and software. The hardware is a line of microcontrollers (very simple computers). In fact, the Barnabas Noggin utilizes an Arduino microcontroller itself. The software is a C based IDE (integrated development environment… A place where you code). Because Arduino handles both sides of things the process of coding, then uploading your code to a microcontroller is very easy. The Arduino IDE can be out of scope for younger classes as the ability to type acts as a barrier to entry.
 
@@ -186,6 +189,9 @@ After changing the pin number to 7 have all the students press upload to arduino
 
 Next you should ask the students to turn the LED off by changing the code. Let them figure out how to do so on their own (Switch the HIGH to LOW). In order to see the change the students will need to upload their code again. The Barnabas Noggin is only capable of holding one program at a time. This means that uploading the LED off code will permanently erase the LED on code from the robot. To turn the LED on again they would have to re-upload a set digital pin HIGH code to the robot.
 
+{% include youtube.html id="UfxJx9LQ9u0" %}
+{% include youtube.html id="JHJoiSG9jWw" %}
+
 LED on ![fig 10.9](pinHigh.png){:class="image "}  ![fig 10.10](pinLow.png){:class="image "} LED off
 
 #### Vocabulary
@@ -214,3 +220,5 @@ You're probably wondering why there isn’t a third option for the delay block b
    * **Delay**: The delay block comes in two different flavors, delay milliseconds and delay microseconds. We only make use of the delay milliseconds block. The delay block will stop code from progressing forward until a certain amount of time has elapsed.
 
 {% include badge.html type='activity' content='Once your students have the LED blinking challenge them to change the numbers inside the delay block and identify how that changes the behavior of the LED. Challenge the students to find the smallest delay where they can still see the LED blink.' %}
+
+{% include youtube.html id="UfxJx9LQ9u0" %}
