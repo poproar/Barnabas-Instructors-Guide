@@ -160,10 +160,11 @@ Now we will begin the design of our own custom robot. This starts by customizing
 5. Now change the text to whatever you want!
   * It can be a single letter, or many letters. Play with different sizes. Make sure that all of the text fit on the robot! Remember to click on the green check mark to save your changes! Make sure to keep the size of the text larger than 0.3 so that it comes out well during printing!
 
-> What if I lose the dimensions?
+##### What if I lose the dimensions?
 {% include youtube.html id="7Tk3Te7UkmU" %}
 
-> Or what if I lose the the **WHOLE LETTER** B?
+
+##### What if I lose the the WHOLE LETTER B?
 {% include youtube.html id="aynBOY_6TBM" %}
 
 ___
