@@ -92,6 +92,8 @@ This diagram has the LED circuit on it as well, but that is not necessary unless
 
 {% include badge.html type='best_practice' content='If it is necessary to draw the diagram on the board try having the students participate. Have students suggest additions to the diagram and engage in a conversation about how the circuit needs to be put together' %}
 
+{% include youtube.html id="dQNqwrBMXYU" %}
+
 ### Step 2: How Does The Buzzer Work (5 minutes) 
 The choice of putting the buzzer on pin 6 is not arbitrary. Pin 6 is what is called a PWM pin, which stands for pulse width modulation. PWM is a fairly complicated process to describe and is beyond the scope of this class. However we can talk about how it functions. A pin that is capable of PWM can vary the voltage that comes from it, as opposed to the other pins which can only give 5 Volts or 0 Volts.
 
@@ -133,6 +135,8 @@ Instead of the no tone block, we can just place another tone block of a differen
 #### Vocabulary
   * **Tone**: The tone block is capable of making the buzzer emit sounds of different frequencies. To do so the tone block must be given the correct pin number (for us 6) as well as a frequency. The frequency given dictates how high or low the pitch of the sound is and can be related back to musical notes.
   * **No Tone**: The no tone block silences the the buzzer, assuming the correct pin (6) is specified. It does so simply by setting the pin LOW.
+
+{% include youtube.html id="DjNMpiLLQb4" %}
 
 {% include badge.html type='tidbit' content='Did you know that the human ear can hear frequencies from 20Hz to 20,000Hz. Unfortunately the buzzer isn’t capable of making all those sounds. It has an effective range of about 200Hz to 1,000Hz. The buzzer will make noise if you input a frequency outside of that range, but do not expect the sound it makes to match the frequency given.' %}
 
