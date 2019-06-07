@@ -133,4 +133,4 @@ After a team has completed its design plan, they can start building.  You can pe
 
 {% include badge.html type='best_practice' content='Regardless of a group’s success or failure, you should encourage them to redesign their robots. For those who succeeded, challenge them to knock the cup over from further away. For those who failed, ask critical questions: Did the robot stay together? How did you fasten parts of the robot together? Did the robot move? Which part moved? How did it move? Can that motion be used to complete the task? Can things be added to the current design to complete the task or is an overhaul of the design necessary?
 <img src="fig-2_1.png" alt="fig 2.1" class="image right" />
-The students need to understand that the design process is not linear, it is circular with the best creators iterating their projects countless times.' %}
+The students need to understand that the design process is not linear, it is circular with the best creators iterating their projects countless times.<br><br><a href="#additional-resources">Check out some samples under the video section of the additional resources</a>' %}
