@@ -30,8 +30,6 @@ videos:
   text: Wiring your first servo motor
 - link: https://youtu.be/x2z0ARKediA
   text: Waving demo
-- link: https://youtu.be/7oYKnPWtt2E
-  text: Wiring all three servo motors
 - link: https://youtu.be/qSbMojcwunk
   text: Programming your servo motor
 documents:
@@ -82,6 +80,8 @@ Each servo motor has three wires attached to it: an orange wire, a red wire and 
 #### Vocabulary
   * **Servo Motor**: The servo motors our robot uses are 180 degree rotation servo motors, meaning they only have a range of motion of about half a circle. The servo motors require much more power than the LED or the buzzer, which necessitates a third wire attached to the motor. The motor has one wire dedicated to ground (GND), one dedicated to power (5V), and one dedicated to receiving a signal from the Arduino.
 
+{% include youtube.html id="gviUtLsHDtg" %}
+
 ### Step 2: Connecting The Motor (10min)
 Start by drawing the circuit schematic below:
 
@@ -99,6 +99,8 @@ In order to attach our motors to the breadboard we will need to augment the serv
 Just like it was recommended in past lessons, try having your students collectively build a breadboard diagram of the circuit based on the schematic you have drawn. Below is a diagram with all of the components we currently have attached to the robot:
 
 ![fig 13.4](fig-13_4.png){:class="image fit"}
+
+{% include youtube.html id="iTdQKmu6R1o" %}
 
 ### Step 3: Getting Our Robot To Wave (45 min)
 To control the servo motor we will need the servo block, located in the pins tab:
@@ -123,6 +125,9 @@ Can we do better than this? Can we do better than repeatedly uploading code to t
 ![fig 13.7](fig-13_7.png){:class="image "}
 
 The code above will move one of the robot’s motors back and forth over the span of two seconds.
+
+{% include youtube.html id="x2z0ARKediA" %}
+
 
 #### Vocabulary
   * **Servo Block**: The servo block is the block used to control the servo motors on the robot. It requires two things, the pin the motor is located on and the angle the motor is meant to move to. The angle can accept any number but the physical limitations of the servo motor limit the effective range from 0 to 180.
