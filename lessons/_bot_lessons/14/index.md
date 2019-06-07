@@ -21,7 +21,7 @@ vocab:
 videos:
 - link: https://youtu.be/7oYKnPWtt2E
   text: Wiring all 3 servo motors
-- link: https://www.youtube.com/watch?v=WfxuXAahr1Y
+- link: https://youtu.be/WfxuXAahr1Y
   text: Programming multiple servo motors
 - link: https://youtu.be/HYT9UPo5FmE
   text: Programming the motors, LED, and buzzer
@@ -59,6 +59,7 @@ reflection:
   comprehension: 
   - Explain the process of making multiple motors move in the same code. What are some common mistakes that must be avoided?
 ---
+{% include youtube.html id="7oYKnPWtt2E" %}
 
 ### Step 1:  Wiring The Other Two Motors (10 min)
 The two remaining servo motors will be wired in the same way the first motor was. For each motor grab a yellow, red and black jumper wire and place them in the ends of the motor wires, color coding them like before. Next the red wires (5V) should be placed on the same row of the breadboard as the red (5V) wire of our first motor, and the black wire can be placed on any row of the breadboard that is already home to a black wire. Finally the last two yellow wires must be plugged into pins 10 and 11,  like shown below:
