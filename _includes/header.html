@@ -6,27 +6,5 @@
 										<li><a href="https://github.com/{{site.repository}}/" target="_blank" class="icon fa-github"><span class="label">GitHub</span></a></li>
 										<li><a href="https://www.instagram.com/{{site.instagram_username}}/"  target="_blank" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
 										<li><a href="https://www.youtube.com/user/{{site.youtube_username}}"  target="_blank" class="icon fa-youtube"><span class="label">Youtube</span></a></li>
-										<li><a href="?teacher" id="teacherSetting" onclick="isTeacher()" class="icon fa-cog"><span class="label">Settings</span></a></li>
 									</ul>
 								</header>
-
-<script>
-function isTeacher() {
-// Check browser support
-  if (typeof(Storage) !== "undefined") {
-    // Store
-    if(localStorage.getItem("user") == 'teacher')
-    {
-      localStorage.setItem("user", "student");
-      document.getElementById("teacherSetting").setAttribute('href', "?teacher");
-    } else {
-      localStorage.setItem("user", "teacher");
-      document.getElementById("teacherSetting").setAttribute('href', "?");
-    }
-  // Retrieve
-  console.log("Switch to " +localStorage.getItem("user"));
-  } else {
-    console.error("Sorry, your browser does not support Web Storage...");
-  }
-}
-</script>
