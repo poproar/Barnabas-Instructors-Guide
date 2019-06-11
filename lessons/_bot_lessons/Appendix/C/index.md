@@ -8,15 +8,11 @@ title: Wood Bot Addendum
 
 The laser cut wood version of the barnabas bot has a body made up of distinct parts that fit together like a jigsaw puzzle. Because of this it is very important that we can easily identify all of the parts as well as how they should be oriented.
 
-![wood 116](wood-image116.jpg){:class="image right"} 
+![wood 116](wood-image116.jpg){:class="image right"} Array all of the wood pieces and make sure that you have all of the pieces shown in the picture to the left.
+{:style="overflow: hidden;"}
 
-- Array all of the wood pieces and make sure that you have all of the pieces shown in the picture to the left.
-
-![wood 84](wood-image84.jpg){:class="image right"} 
-
-Without any glue, put the wood pieces together. It should become fairly obvious that the full robot body will only fit together if the parts are oriented a certain way. This means that for each piece there is an inside edge and an outside edge. After fitting all the pieces together mark the inside faces with a pencil.
-
-![wood 79](wood-image79.jpg){:class="image right"} 
+![wood 84](wood-image84.jpg){:class="image right"} ![wood 79](wood-image79.jpg){:class="image right"} Without any glue, put the wood pieces together. It should become fairly obvious that the full robot body will only fit together if the parts are oriented a certain way. This means that for each piece there is an inside edge and an outside edge. After fitting all the pieces together mark the inside faces with a pencil.
+{:style="overflow: hidden;"}
 
 ### Step 2: Placing The Noggin and Servo motors
 
