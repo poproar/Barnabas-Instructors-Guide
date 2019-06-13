@@ -422,7 +422,9 @@ function isTeacher() {
     console.error("Sorry, your browser does not support Web Storage...");
     }
 }
-teachChecked();
+document.addEventListener('DOMContentLoaded', function() {
+    teachChecked();
+}, false);
 </script>
 
 
@@ -449,14 +451,14 @@ function teachChecked() {
     if(localStorage.getItem("user") == 'teacher')
     {
         document.getElementById("teacherCheck").checked = true;
-        for (let el of document.querySelectorAll('.block-based')) el.style.display = '';
-        for (let el of document.querySelectorAll('.text-based')) el.style.display = 'none';
-        tTip.innerHTML ="Block Mode";
-    }
-    else {
         for (let el of document.querySelectorAll('.block-based')) el.style.display = 'none';
         for (let el of document.querySelectorAll('.text-based')) el.style.display = '';
-        tTip.innerHTML= "Text Mode";
+        tTip.innerHTML ="Text Mode";
+    }
+    else {
+        for (let el of document.querySelectorAll('.block-based')) el.style.display = '';
+        for (let el of document.querySelectorAll('.text-based')) el.style.display = 'none';
+        tTip.innerHTML= "Block Mode";
     }
 }
 </script>
