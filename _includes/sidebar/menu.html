@@ -15,6 +15,15 @@
                     {% endfor %}
             </ul>
         </li>
+        {% assign ifLesson = '' %}
+        {% if page.url contains "lessons" %}
+        {% assign ifLesson = 'lessons/' %}
+        {% endif %}
+
+        {% if page.collection == "bot_lessons" %}
+        {% include sidebar/lessonsegment.html %}
+        {% endif %}
+
         <li>
             <span class="opener"><i class="icon fa-car"></i> Racer Lessons</span>
             <ul>
@@ -23,60 +32,10 @@
                     {% endfor %}
             </ul>
         </li>
-        {% assign ifLesson = '' %}
-        {% if page.url contains "lessons"%}
-        {% assign ifLesson = 'lessons/' %}
-
-            {% if page.collection == "bot_lessons" %}
-                {% assign this_collection = site.bot_lessons %}
-            {% elsif page.collection == "racer_lessons" %}
-                {% assign this_collection = site.racer_lessons %}
-            {% endif %}
-
-            {% for links in this_collection %}
-                {% if links.title == page.title %}
-                
-                    {% unless forloop.first %}
-                        {% assign prevurl = prev.url %}
-                        {% assign prevtitle = prev.title %}
-                    {% endunless %}
-
-                    {% unless forloop.last %}
-                        {% assign next = this_collection[forloop.index] %}
-                        {% assign nexturl = next.url %}
-                        {% assign nexttitle = next.title %}
-                    {% endunless %}   
-
-                {% endif %}
-                {% assign prev = links %}
-            {% endfor %}
-
-            {% if prevurl %}
-            <li>
-                <a href="{{ site.baseurl }}{{prevurl}}" class="prev">
-                    <i class="icon fa-arrow-circle-left"></i> {{prevtitle}}
-                </a>
-            </li>
-            {% endif %}
-
-            <li><span class="opener active"><i class="icon fa-book"></i> {{ page.title }}</span>
-                <ul>
-                    <!-- li> class="teacher"><a href="?teacher"><i class="icon fa-university"></i> Overview</a></li-->
-                    <li><a href="#lesson-plan"><i class="icon fa-pencil"></i> Lesson Plan</a></li>
-                    <li><a href="#reflection"><i class="icon fa-comments"></i> Reflection</a></li>
-                    <li><a href="#additional-resources"><i class="icon fa-cubes"></i> Additional Resources</a></li>
-                </ul>
-            </li>
-
-            {% if nexturl %}
-            <li>
-                <a href="{{ site.baseurl }}{{nexturl}}" class="next">
-                    <i class="icon fa-arrow-circle-right"></i> {{nexttitle}}
-                </a>
-            </li>
-            {% endif %}
-            
+        {% if page.collection == "racer_lessons"%}
+        {% include sidebar/lessonsegment.html %}
         {% endif %}
+
         <li><a href="https://github.com/{{ site.repository }}/edit/master/{{ ifLesson }}{{ page.path }}"><i class="icon fa-edit"></i> &nbsp;Improve this page</a></li>
         <li><a href="{{ site.baseurl }}/downloads"><i class="icon fa-download"></i> &nbsp;Downloads</a></li>
         <li><a href="https://barnabasrobotics.com"><i class="icon fa-cogs"></i> BarnabasRobotics.com</a></li>
