@@ -176,7 +176,7 @@ Just remember that it will be impossible to see how long a turn lasts for if the
 
 ![fig 7.6](fig-7_5.png){:.image .block-based}
 
-{% highlight c %}
+```c
 #include <Servo.h>
 
 Servo servo_pin_11;
@@ -202,7 +202,7 @@ void loop()
   servo_pin_10.write( 1 ); //both being 180 will turn the robot right
   delay(500);
 }
-{% endhighlight %}
+```
 {:.text-based}
 
 {:.block-based}
