@@ -70,11 +70,11 @@ See video links included on this page.
 ### Step 1: Geting Your Car Moving (DC Motor Version Only) (15 minutes) 
 Lets just try uploading a simple code to the robot to see if we can get it moving. I'm going to show you an incomplete code to begin and I encourage you to allow the students some time to fill in the blanks themselves. This will give them time to re-familiarize themselves with Ardublock and hopefully cement the logic of paired pins and voltage difference into their heads. Here is the code I encourage showing them; 
 
-![fig 6.1](fig-6_1.png){:class="image "}
+![fig 6.1](fig-6_1.png){:.image .block-based}
 
 This code is missing the HIGH/LOW and constant value blocks (shown below) found in the variables/constants tab;
 
-![fig 6.2](fig-6_2.png){:class="image "}
+![fig 6.2](fig-6_2.png){:.image .block-based}
 
 Luckily when your students drag the set digital pin blocks into their code it will contain those blocks, however the students will be tasked with giving those blocks the appropriate value to make their robot move forward. This will take some trial and error on the part of the students. If you feel they need it these are the 'big picture' ideas you may want to reiterate;
 
@@ -85,11 +85,11 @@ Luckily when your students drag the set digital pin blocks into their code it wi
 
 If you are still struggling the final code should look like this;
 
-![fig 6.3](fig-6_3.png){:class="image "}
+![fig 6.3](fig-6_3.png){:.block-based}
 
 While experimenting, your students probably found that some combination of HIGHs and LOWs that allows them to turn one way or the other, or to move backwards instead of forwards. They however probably did not figure out how to make the motors stop, short of disconnecting power. To acheive that, simply add blocks at the end of the code that set the HIGH pins LOW or vice versa. Also remember to add another delay block afterwards so that the stop takes place for a noticable length of time, like this;
 
-![fig 6.4](fig-6_4.png){:class="image "}
+![fig 6.4](fig-6_4.png){:.block-based}
 
 Notice that the second half of the code only has two set digital pin blocks. More can be used but since we only need to make sure that all pins are either LOW or HIGH simply setting the two that were HIGH to be LOW will do the trick. So this code will now move the robot forward for one second, then hold the robot still for one second. It is recommended that before changing directions, let's say for example if you wanted to move forward then backwards, that you stop briefly before moving again. So your robot would move forward->stop->backwards rather than forwards->backwards.
 
@@ -114,11 +114,12 @@ Continuous servos are similar to the servos that we used from Barnabas-Bot, exce
 |180   |Counter Clock-wise| Full |
 
 ##### Moving Forward
-![fig 6.6](fig-6_6.png){:class="image "}
 
 The code above should move your car forward.  Notice that it seems like the motor should be moving in opposite directions.  Look at how your car is constructed and see if you can see why the car moves forward even though the motors are moving in opposite directions.
-###### as Text
-```
+
+![fig 6.6](fig-6_6.png){:.image .block-based}
+
+```c
 #include <Servo.h>
 
 Servo servo_pin_11;
@@ -136,6 +137,7 @@ void loop()
   servo_pin_10.write( 180 );
 }
 ```
+{:.text-based}
 
 Well, if we look at the robot from underneath;
 ![fig 6.7](fig-6_7.png){:class="image fit"}
@@ -144,9 +146,9 @@ We can see that the two motors are oriented differently, with on pointing out in
 ##### Stop Your Motors
 The code below will move your car forward for 1 second, stop and then loop forever.
 
-![fig 6.8](fig-6_8.png){:class="image "}
-###### as Text
-```
+![fig 6.8](fig-6_8.png){:.image .block-based}
+
+```c
 #include <Servo.h>
 
 Servo servo_pin_11;
@@ -168,14 +170,14 @@ void loop()
   delay( 1000 );
 }
 ```
+{:.text-based}
 
 Because there is a button attached to our robot we can create a far more convenient code. We can use the button to trigger movement of the car. In other words have the car be stopped until the button is pressed;
 
-![fig 6.10](fig-6_10.png){:class="image "}
+![fig 6.10](fig-6_10.png){:.image .block-based}
 
-###### as Text
 
-```
+```c
 #include <Servo.h>
 
 Servo servo_pin_11;
@@ -198,6 +200,7 @@ void loop()
   servo_pin_10.write( 180 );
 }
 ```
+{:.text-based}
 
 #### Calibration
 {% include badge.html type='troubleshoot' content='If you notice that your motors are not moving at the right speed, or they do not stop entirely, you will need to calibrate your motors.  We will cover this in the next section, though I highly recommend looking through it before attempting to complete this section, as it will answer many questions and better allow you to problem solve.s it will prove helpful in the problem solving process.' %}
