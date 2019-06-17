@@ -55,7 +55,7 @@ Let's recall The code that ultimately got our robot moving forward;
 
 ![fig 7.1](fig-7_1.png){:.image .block-based}
 
-Getting each motor to move depends on geving it a non 90 degree angle. An angle further from 90 will cause the motor to move faster, and choosing a number on the other side of 90 will cause the motor to change directions. As we learned in the last lesson the two motors are flipped, so that one motor must be given the "opposite" angle to move in the same direction as thwe other.
+Getting each motor to move depends on geving it a non 90 degree angle. An angle further from 90 will cause the motor to move faster, and choosing a number on the other side of 90 will cause the motor to change directions. As we learned in the last lesson the two motors are flipped, so that one motor must be given the "opposite" angle to move in the same direction as each other.
 
 ```c
 #include <Servo.h>
@@ -84,6 +84,9 @@ void loop()
 {:.text-based}
 
 ### Step 1: Let's Move Backwards!
+
+Drawing from the knowledge we gained to make the racer move forward, we should easily be able to make it move backwards as well. Simply remember that a number on the other side of 90 will make a motor move in the opposite direction:
+
 ![fig 7.3](fig-7_3.png){:.image .block-based}
 
 ```c
@@ -114,9 +117,6 @@ void loop()
 That's great! We now know how to put our robots into reverse. 
 
 ### Step 2: Can We Make Our Car Turn? (45 minutes) 
-Lets jump back to our original forward code for a second;
-
-![fig 7.2](fig-7_2.png){:.image .block-based}
 
 ```c
 #include <Servo.h>
@@ -146,6 +146,8 @@ void loop()
 Now let's say that from here we instead want to turn in one direction, how do we do that? Thinking about the direction we want to turn our motors if I wanted to turn left I would have the right motor continue moving forward but change the direction of the left motor. I could do likewise with the right motor if I wanted to turn right instead. The code to do either is below;
 
 ![fig 7.4](fig-7_4.png){:.image .block-based}
+
+![fig 7.6](fig-7_5.png){:.image .block-based}
 
 ```c
 #include <Servo.h>
@@ -177,7 +179,7 @@ You should find that changing the amount of time one wheel turns either shortens
  
 Just remember that it will be impossible to see how long a turn lasts for if the turn is the only command being given. Instead, the robot will just turn continuously and appear to spin in place. Instead have a code that will move either forward or backward for some amount of time before turning, like so;
 
-![fig 7.6](fig-7_5.png){:.image .block-based}
+![fig 7.2](fig-7_2.png){:.image .block-based}
 
 ```c
 #include <Servo.h>
