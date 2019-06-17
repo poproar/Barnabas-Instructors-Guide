@@ -67,7 +67,7 @@ Keep in mind that the servo motors can also be attached via the servo pin header
 
 See video links included on this page.
 
-### Step 2: Motor Control (Servo Motor Version Only) (15 minutes) 
+### Step 2: Motor Control (Servo Motor Version Only) (45 minutes) 
 #### Throttle
 A throttle is an instrument used in some kinds of motorized vehicles, such as boats, to control speed. These throttles behave in a particular way; the position of the throttle is what dictates the speed and direction of the motor. For example, a throttle may begin in a position which has the motor stopped. When the throttle is pushed forward from that position the motor begins to move forward. The farther forward the throttle is pushed, the faster the motor moves in that direction. If, instead, I pull the throttle backwards, the motor will begin moving backwards, with it picking up speed as I pull the throttle back further and further. 
 
