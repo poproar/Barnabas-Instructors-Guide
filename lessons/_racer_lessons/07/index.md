@@ -51,9 +51,11 @@ reflection:
 ---
 
 #### Review
-   * Let's recall The code that ultimately got our robot moving forward;
+Let's recall The code that ultimately got our robot moving forward;
 
 ![fig 7.1](fig-7_1.png){:.image .block-based}
+
+Getting each motor to move depends on geving it a non 90 degree angle. An angle further from 90 will cause the motor to move faster, and choosing a number on the other side of 90 will cause the motor to change directions. As we learned in the last lesson the two motors are flipped, so that one motor must be given the "opposite" angle to move in the same direction as thwe other.
 
 ```c
 #include <Servo.h>
@@ -82,7 +84,7 @@ void loop()
 {:.text-based}
 
 ### Step 1: Let's Move Backwards!
-![fig 7.2](fig-7_2.png){:.image .block-based}
+![fig 7.3](fig-7_3.png){:.image .block-based}
 
 ```c
 #include <Servo.h>
@@ -113,7 +115,8 @@ That's great! We now know how to put our robots into reverse.
 
 ### Step 2: Can We Make Our Car Turn? (45 minutes) 
 Lets jump back to our original forward code for a second;
-![fig 7.3](fig-7_3.png){:.image .block-based}
+
+![fig 7.2](fig-7_2.png){:.image .block-based}
 
 ```c
 #include <Servo.h>
