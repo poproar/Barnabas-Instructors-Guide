@@ -60,39 +60,12 @@ reflection:
    * Previous week  
    * Critical think based on previous question
 
-### Step 0: Wiring Your Continuous Servo Motors (15 minutes) 
+### Step 1: Wiring Your Continuous Servo Motors (15 minutes) 
 ![fig 6.0](fig-6_0.png){:class="image "}
 
 Keep in mind that the servo motors can also be attached via the servo pin headers on the Barnabas Noggin. Doing so will ensure, however, that that motor function will be greatly diminished while the noggin is only powered by USB.
 
 See video links included on this page.
-
-### Step 1: Geting Your Car Moving (DC Motor Version Only) (15 minutes) 
-Lets just try uploading a simple code to the robot to see if we can get it moving. I'm going to show you an incomplete code to begin and I encourage you to allow the students some time to fill in the blanks themselves. This will give them time to re-familiarize themselves with Ardublock and hopefully cement the logic of paired pins and voltage difference into their heads. Here is the code I encourage showing them; 
-
-![fig 6.1](fig-6_1.png){:.image .block-based}
-
-This code is missing the HIGH/LOW and constant value blocks (shown below) found in the variables/constants tab;
-
-![fig 6.2](fig-6_2.png){:.image .block-based}
-
-Luckily when your students drag the set digital pin blocks into their code it will contain those blocks, however the students will be tasked with giving those blocks the appropriate value to make their robot move forward. This will take some trial and error on the part of the students. If you feel they need it these are the 'big picture' ideas you may want to reiterate;
-
-1. The DC motors are controlled by two pins, so the students should think of the code as two pairs of set digital pin blocks.
-2. Those pairs should relate back to the pins the motors are attached to, so if I have attached pins 8 and 11 to the left motor I should pair those together in my code.
-3. The DC motors need a voltage difference to operate, so each pair of pins should have a HIGH and LOW set pin.
-4. At this point they should upload thier code and see what it does. There's likely going to be alot of robots moving in circles and robots going backwards, as well as some lucky ones that will move forward on the first try. Assuming the pins are paired together correctly (which you can check by look at how they are attached to the motor drive board. The two on the left are paired and the two on the right are paired) the only things that need to be changed are the HIGH/LOW blocks. if the robot is moving in circles switch the places of HIGH and LOW in only one pair of pins. At this point it may move backwards or it may move forwards. If it is moving backwards switch the places of HIGH and LOW in all pins.
-
-If you are still struggling the final code should look like this;
-
-![fig 6.3](fig-6_3.png){:.block-based}
-
-While experimenting, your students probably found that some combination of HIGHs and LOWs that allows them to turn one way or the other, or to move backwards instead of forwards. They however probably did not figure out how to make the motors stop, short of disconnecting power. To acheive that, simply add blocks at the end of the code that set the HIGH pins LOW or vice versa. Also remember to add another delay block afterwards so that the stop takes place for a noticable length of time, like this;
-
-![fig 6.4](fig-6_4.png){:.block-based}
-
-Notice that the second half of the code only has two set digital pin blocks. More can be used but since we only need to make sure that all pins are either LOW or HIGH simply setting the two that were HIGH to be LOW will do the trick. So this code will now move the robot forward for one second, then hold the robot still for one second. It is recommended that before changing directions, let's say for example if you wanted to move forward then backwards, that you stop briefly before moving again. So your robot would move forward->stop->backwards rather than forwards->backwards.
-
 
 ### Step 2: Motor Control (Servo Motor Version Only) (15 minutes) 
 #### Throttle
