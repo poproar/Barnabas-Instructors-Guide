@@ -211,34 +211,7 @@ void loop()
 {:.text-based}
 
 {:.block-based}
-### DC
-![fig 7.6](fig-7_6.png){:.image .block-based}
 
-{:.block-based}
-Why did this work again? Well aside from the Uno, Drive board and motors being wired together correctly we also came to the conclusion that each pair of pins had to have a voltage difference between them to engage the motors, as you can see above. Now during last week's activity some of the students likely got their robots to turn or move backwards, but this week we would like to come up with a repeatable procedure that allows us to intentionally do these things.
-
-{:.block-based}
-I would like to start with moving backwards. Looking at our two pairs of pins (8+11 and 12+10) you can see the specific pin of each pair that is LOW and the one that is HIGH. It turns out that this matters. The order in Which HIGH and LOW are assigned change the direction that the motors move. Knowing that, moving backwards is as easy as switching the places of HIGH and LOW for both pairs of pins;
-
-![fig 7.7](fig-7_7.png){:.image .block-based}
-
-{:.block-based}
-This works simply because the voltage difference between our pins, and therefore across the motor, is in the opposite direction. That is what turns the motors in the opposite direction.
-
-{:.block-based}
-That's great! We now know how to put our robots into reverse. Lets jump back to our original forward code for a second;
-
-![fig 7.8](fig-7_8.png){:.image .block-based}
-
-{:.block-based}
-Now let's say that from here we instead want to turn in one direction, how do we do that? Thinking about the direction we want to turn our motors if I wanted to turn left I would have the right motor continue moving forward but change the direction of the left motor. I could do likewise with the right motor if I wanted to turn right instead. To do this we will change HIGH and LOW between one pair of pins.
-
-{:.block-based}
-The question for your students to answer is which pair of pins corresponds to the left motor and which pair of pins corresponds to the right motor. Many may be able to take an educated guess based on how the motors are wired, but challenge them to test that intuition by experimenting. Have them play with the pin settings in Ardublock until the class comes to a consensus on which pins are the right motor pins and which are the left.
-
-{:.block-based}
-After the class has figured that out, ask them to change the number of milliseconds in the delay block and see what effect that has on their robots. They should find that changing that number shortens or lengthens the time the robot spends turning and therefore changes how far the robot turns.  This is pretty important as, at some point, we will want to precisely turn our robots say... 90 degrees. Challenge your students to find that delay that makes a perfect 90 degree turn.
+Have your students change the delay vaules of this code and see how the robot reacts. Afterwards, challenge them to move the robot in all directions; forwards, backwards, left and right in one program.
 
 - **Note**: Remember that you want to make a portion of your code at the end of any movement that brings your robot to a stop before having it move again. Without this it will be difficult to determine how far the robot is turning in a single command, as it will appear to turn continuously.
-
-After doing that, if there is still time, ask your students to try implimenting a code that moves the robot in all directions. For example a code that moves the robot forward, then turn it left, then move backwards, then turn it right. Keep in mind the note above when attempting this. 
