@@ -1,18 +1,10 @@
 ---
 layout: index
 ---
-
-<label class="tooltip switch">
-    <input onload="teachChecked()" onclick="isTeacher()" id="teacherCheck" type="checkbox" >
-    <span class="slider round"></span>
-    <span id="tooltiptext" class="tooltiptext"></span>
-</label>
-
 <!-- content -->
 <section>
-
-    {% if page.collection == "bot_lessons" %}
     <div id="teacher">
+    {% if page.collection == "bot_lessons" %}
     <header class="main upper">
         <div class="row">
             <div class="col-2">
@@ -168,8 +160,8 @@ layout: index
         }
     }
     </script>
-    </div>
     {% endif %}
+    </div>
 
     <div id="lesson-plan" class="row">
         <div class="col-2">
@@ -304,162 +296,12 @@ layout: index
 {% endif %}
 </ul>
 
-<style>
-.switch {
-    position: relative;
-    display: inline-block;
-    width: 60px;
-    height: 34px;
-    margin-top: 10px;
-    margin-bottom: 0px;
-}
+{% include modal.html %}
 
-.switch input { 
-    opacity: 0;
-    width: 0;
-    height: 0;
-}
-
-.slider {
-    position: absolute;
-    cursor: pointer;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-color: #ccc;
-    -webkit-transition: .2s;
-    transition: .2s;
-}
-
-.slider:before {
-    position: absolute;
-    content: "";
-    height: 26px;
-    width: 26px;
-    left: 4px;
-    bottom: 4px;
-    background-color: white;
-    -webkit-transition: .2s;
-    transition: .2s;
-}
-
-input:checked + .slider {
-    background-color: #77B900;
-}
-
-input:focus + .slider {
-    box-shadow: 0 0 1px #77B900;
-}
-
-input:checked + .slider:before {
-    -webkit-transform: translateX(26px);
-    -ms-transform: translateX(26px);
-    transform: translateX(26px);
-}
-
-/* Rounded sliders */
-.slider.round {
-    border-radius: 34px;
-}
-
-.slider.round:before {
-    border-radius: 50%;
-}
-
-/* Tooltip container */
-.tooltip {
-  position: relative;
-  display: inline-block;
-  /* border-bottom: 1px dotted black; */
-}
-
-.tooltip .tooltiptext {
-  visibility: visible;
-  width: 120px;
-  color: #77B900;
-  text-align: center;
-  border-radius: 6px;
-  padding: 5px 0;
-  position: absolute;
-  z-index: 1;
-  top: -5px;
-  left: 110%;
-}
-
-.tooltip .tooltiptext::after {
-  content: "";
-  position: absolute;
-  top: 50%;
-  right: 100%;
-  margin-top: -5px;
-  /* border-width: 5px; */
-  /* border-style: solid; */
-  /* border-color: transparent #77B900 transparent transparent; */
-}
-/*.tooltip:hover .tooltiptext {
-  visibility: visible;
-  color: #fff;
-  background-color: rgba(120, 185, 0, 0.85);
-}*/
-</style>
-
+<script src="{{site.baseurl}}/assets/js/usermodes.js"></script>
 <script>
-function isTeacher() {
-// Check browser support
-    if (typeof(Storage) !== "undefined") {
-    // Store  
-    if(localStorage.getItem("user") == 'teacher')
-    {
-        localStorage.setItem("user", "student");
-    } else {
-        localStorage.setItem("user", "teacher");
-    }
-    teachChecked();
-    // Retrieve
-    console.log("Switch to " +localStorage.getItem("user"));
-    } else {
-    console.error("Sorry, your browser does not support Web Storage...");
-    }
-}
 document.addEventListener('DOMContentLoaded', function() {
     teachChecked();
+    textChecked();
 }, false);
 </script>
-
-
-{% if page.collection == "bot_lessons" %}
-<script>
-function teachChecked() {
-    tTip = document.getElementById("tooltiptext");
-    if(localStorage.getItem("user") == 'teacher')
-    {
-        document.getElementById("teacherCheck").checked = true;
-        document.getElementById('teacher').style.display = '';
-        tTip.innerHTML ="Teacher Mode";
-    }
-    else {
-        document.getElementById('teacher').style.display = 'none';
-        tTip.innerHTML= "Student Mode";
-    }
-}
-</script>
-{%else%}
-<script>
-function teachChecked() {
-    tTip = document.getElementById("tooltiptext");
-    if(localStorage.getItem("user") == 'teacher')
-    {
-        document.getElementById("teacherCheck").checked = true;
-        for (let el of document.querySelectorAll('.block-based')) el.style.display = 'none';
-        for (let el of document.querySelectorAll('.text-based')) el.style.display = '';
-        tTip.innerHTML ="Text Mode";
-    }
-    else {
-        for (let el of document.querySelectorAll('.block-based')) el.style.display = '';
-        for (let el of document.querySelectorAll('.text-based')) el.style.display = 'none';
-        tTip.innerHTML= "Block Mode";
-    }
-}
-</script>
-{%endif%}
