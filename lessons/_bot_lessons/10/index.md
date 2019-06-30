@@ -218,3 +218,7 @@ You're probably wondering why there isn’t a third option for the delay block b
    * **Delay**: The delay block comes in two different flavors, delay milliseconds and delay microseconds. We only make use of the delay milliseconds block. The delay block will stop code from progressing forward until a certain amount of time has elapsed.
 
 {% include badge.html type='activity' content='Once your students have the LED blinking challenge them to change the numbers inside the delay block and identify how that changes the behavior of the LED. Challenge the students to find the smallest delay where they can still see the LED blink.' %}
+
+#### FOR TESTING PURPOSES
+
+{% include blockly.html %}
