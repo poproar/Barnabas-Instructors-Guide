@@ -132,6 +132,8 @@ Ask the students to identify the difference between this schematic and our previ
 
 Have the students work together to build the circuit. Everyone will need to find a partner to have enough batteries for the circuit. If you have an odd number of students, you as the instructor can fill in as a partner for one of your students.After giving the students an opportunity to build the circuit themselves, bring the class together and walk through building the circuit one step at a time.
 
+{% include youtube.html id="5P-3rSK79Uo" %}
+
 ![fig 8.4a](fig-8_4a.jpg){:class="image right"} Connect the + wire(red) of the first battery to the + leg(the longer leg) of the LED.
 {:style="overflow: hidden;"}
 

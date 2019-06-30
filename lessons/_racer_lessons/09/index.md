@@ -65,14 +65,12 @@ You can change the speed of your motor by using different angle values.  See the
 | 91-179| Counter Clockwise | Partial |
 | 180   | Counter Clockwise | Full |
 
-{% include badge.html type='activity' content='contentGoesHere' %}
-
 ![fig 9.1](fig-9_1.png){:class="image "}
 
 #### Similar But Not Equal
 Keep in mind that there are multiple subroutines that you can construct that can do something like turn left or go forward, but they aren't exactly equivalent. For example;
 
-![fig 9.2](fig-9_2.png){:class="image "}
+![fig 9.2](fig-9_2.png){:.image .block-based}
 
 in the above example both subroutines will turn the car left. However one causes the left wheel to rotate backward while the right wheel remains still. The other causes the right wheel to move forward while the left wheel remains still. Either of these subroutines are effective but they end up giving your robot different behaviors. Having your robot backup slightly or move forward slightly while performing a turn could have a big impact when navigating obstacles. Worse yet, you may program the right turn in one way but the left turn in the other, leading to desynchronized behavior between the two turns, which can be very frustrating.
 
@@ -114,7 +112,7 @@ Now that you know how to control speed, try the following challenges.  The follo
 #### SPEED CONTROL QUIZ
 Try to guess the nature of each of the subroutines below. Feel free to experiment using your robot;
 
-![fig 9.3](fig-9_3.png){:class="image "}
+![fig 9.3](fig-9_3.png){:.image .block-based}
 
 ### Answers  
 A: Backwards very slowly.
@@ -123,13 +121,11 @@ C: Moves forward at less than half speed.
 
 #### DC Version
 
-{% include badge.html type='best_practice' content='moreContent' %}
-
 ### Motor Speed Control and the Set Analog Pin Block
 #### The Set Analog Pin block
 So for we have been making use of the set digital pin block to move our robot. This works but has it's limitations as we can only make a voltage difference of 5V or 0V between our pins, meaning we can only go full speed or stop completely. Luckily we have access to the set analog pin block which you can see below;
 
-![fig DC9.1](fig-dc9_1.png){:class="image fit"}
+![fig DC9.1](fig-dc9_1.png){:.image .block-based}
 
 This pin allows us to control the motor's speed by administering not 5V or 0V but somewhere in between. You'll notice that like the set digital pin block there are two smaller blocks attached to it. The higher of the two once again represents the pin you are attempting to control. The second is a bit harder to explain. Remember what was in this spot for the set digital pin block? It was a smaller block that only gave you the choice of two options, HIGH or LOW. What do those two values mean? LOW tells the robot to send a 0V signal to the pin while HIGH will send a 5V signal instead. As it turns out, the second part of our set analog pin block (the piece displaying 255 in the picture above) can mimic that exact same behavior. If I keep the value in the set analog pin block at 255, it will tell the robot to send a 5V signal, just like the HIGH value did in the set digital pin block. Likewise setting the value to 0 does the same as the LOW setting in the set digital pin block, it will cause the robot to send a 0V signal to that pin.
 
@@ -157,7 +153,7 @@ At this point, you're probably wondering what pulse width modulation means. I'm 
 
 Our problem is that to control our robot we use an Arduino... a microcontrller... a small computer... that uses digital electronics. This doesn't necessarily mean that we have to comprimise the control we are after, we just need to be clever. The way we will trick the motors into thinking we have sent them a 2.5V or 3.3V signal is by switching between HIGH and LOW so fast that the circuit is only able to see the average value rather than seeing power being switched on and off repeatedly. We can also change the flicking so that we leave the circuit on a little longer than we have it off, making the average higher. The picture below should give you a good intuition for this concept;
 
-![fig DC9.2](fig-dc9_2.png){:class="image fit"}
+![fig DC9.2](fig-dc9_2.png){:.image .block-based}
 
 So thinking back to the set analog pin block, what do those numbers 0 through 255 stand for. well the number 0 means that the circuit is always off. The number one would mean that 1/255th of the time the circuit would be on, And so on until you get to 255 when the circuit is always on.
 
@@ -166,11 +162,11 @@ I want you to keep in mind that this discussion about the inner workings of how 
 #### Programming The Motors' Speed
 We now have the tools to control the speed of our robot, we just need to program it to do so using the set analog pin block. Once again I would like to go back to our original move forward code;
 
-![fig DC9.3](fig-dc9_3.png){:class="image fit"}
+![fig DC9.3](fig-dc9_3.png){:.image .block-based}
 
 What I am going to do is simply replace the two appropriate set digital pin blocks with the set analog pin block, without changing what the code does (move forward at full speed). The question is which two blocks do we replace? Well, remember that the set analog pin block only works on certain pins, namely 3, 5, 6, 9, 10, 11. Notice that we are using two of those pins, 10 and 11. Also notice that those two pins are attached to different motors, allowing for speed control on both. So we can replace those two blocks like so;
 
-![fig DC9.4](fig-dc9_4.png){:class="image fit"}
+![fig DC9.4](fig-dc9_4.png){:.image .block-based}
 
 We have a code that does the exact same thing but looks slightly different. Remember that 255 is the same as HIGH, they both send a 5V signal to the motor.
 
@@ -178,13 +174,13 @@ We now have the control that we were after. While this code doesn't do anything 
 
 What if we wanted to move backwards? How would we accomplish that now? Before we simply switched the HIGH and LOW values in our set digital pin blocks. We can do more or less the same thing now if we remember that the number 0 corresponds to LOW and the number 255 corresponds to HIGH. So what I will do is change the LOW values to HIGH, like before, and I will change the 255s to 0s, which is the same as switching the HIGHs to LOWs in the previous code;
 
-![fig DC9.5](fig-dc9_5.png){:class="image fit"}
+![fig DC9.5](fig-dc9_5.png){:.image .block-based}
 
 And at this point changing speed backwards is as simple as changing the 0s to another number.
 
 Now turning at different speeds is the real challenge. Let's first establish what turning looks like using the set analog pin block;
 
-![fig DC9.6](fig-dc9_6.png){:class="image fit"}
+![fig DC9.6](fig-dc9_6.png){:.image .block-based}
 
 This is a full speed turn. If I were to do a half speed turn it would be as easy as setting both analog pin blocks to a value of 127, but wht if I wanted to move at one quarter speed? Would I just change both numbers to 64 instead? Let's think for a second what that would do. Let's start with the top pair of pins. Remember that each pair of pins are attched to the same motor. So pin 8 would still be set LOW and pin 11 would be set to the value of 64. Rermembering that LOW means the same as 0 we see that there is a difference of 64 between those two pins. 64 is almost exactly one fourth of 255 so that motor will be receiving one fourth of its maximum voltage and therefore move at one fourth of its maximum speed. The other two pins attached to the opposite motor are flipped for starters, with the digital pin block HIGH instead of LOW and the analog pin block 0 instead of 255.  This is ok because we are turning, and one motor's commands need to be switched to do that. However if I change the 0 in that motor's analog pin block to 64 I now have one of its pins HIGH, which is the same as 255, and the other at 64. The difference between those two is 191, about three fourths 0f 255. This means that motor will receive threee fourths of its maximum voltage and move at three fourths of its speed. Because our motors are moving at different speeds our turn is going to be fairly uncontrolled, which we want to avoid.
 

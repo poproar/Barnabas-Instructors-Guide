@@ -283,3 +283,18 @@
 	});
 
 })(jQuery);
+
+// CODELAB: Register service worker.
+// if ('serviceWorker' in navigator) {
+// 	window.addEventListener('load', () => {
+// 	  navigator.serviceWorker.register('/service-worker.js')
+// 		  .then((reg) => {
+// 			console.log('Service worker registered.', reg);
+// 		  });
+// 	});
+//   }
+
+// FROM DRAGON app? is above better? 
+navigator.serviceWorker && navigator.serviceWorker.register('sw.js').then(function(registration) {
+	console.log('Excellent, registered with scope: ', registration.scope);
+  });

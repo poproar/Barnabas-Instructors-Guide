@@ -70,7 +70,7 @@ They just tell you to take the trash out, and you understand the list of steps t
 ### Subroutines
 We are going to achieve this by using what Ardublock refers to as subroutines. The two subroutine blocks are found at the bottom of the control tab as shown below;
 
-![fig 8.1](fig-8_1.png){:class="image fit"}
+![fig 8.1](fig-8_1.png){:.image .fit .block-based}
 
 
 One of these, the subroutine commands block, is the block we use to teach our robot to do a certain list of orders under a single named command. The other block simply says subroutine, but I like to refer to it as the subroutine run block. This block when placed into our Loop Do will run the list of commands we created earlier. Using the subroutine blocks is different than using the other blocks we have utilized this far. Because of this I'm going to walk through our first subroutine in great detail.
@@ -78,11 +78,11 @@ One of these, the subroutine commands block, is the block we use to teach our ro
 #### What Is A Subroutine?
 The first subroutine we are going to make will move our robot forward, something we have done twice already. We will start by dragging a Loop Do into the coding environment (unless one is already there) and also dragging a subroutine commands block into the environment as well. Unlike all the other blocks in Ardublock, we are not going to attach the subroutine commands block to the Loop Do.
 
-![fig 8.2](fig-8_2.png){:class="image fit"}
+![fig 8.2](fig-8_2.png){:.image .fit .block-based}
 
 If you are following along using Arduino without Ardublock, notice in the code below that we first declare a function called “forward()”.  We must do this before we call it in the “loop()” function.  
 
-```
+```c
 #include <Servo.h>
 
 Servo servo_pin_11;
@@ -114,24 +114,25 @@ void loop()
   forward();
 }
 ```
+{:.block-based}
 
 #### Let's Make One…
 The subroutine commands block is strange for another reason. We can change what it is called in the same way we can change number values in our other blocks, by left clicking on the word subroutine you open a text box that you can type in. I'm going to erase the word subroutine and replace it with forward.
 
-![fig 8.3](fig-8_3.png){:class="image "}
+![fig 8.3](fig-8_3.png){:.image .block-based}
 
 I'm just doing this so that in the future, when we have more than one subroutine, giving my robot the command I want will be easy. The only thing I'll need to remember to go forward is the word forward. Now we need to input the list of orders that the robot will do whenever we say forward. We'll just use the code from the last section;
 
-![fig 8.4](fig-8_4.png){:class="image "}
+![fig 8.4](fig-8_4.png){:.image .block-based}
 
 #### Calling A Subroutine
 Now we only need to put a subroutine run block inside of our Loop Do and rename it forward as well;
 
-![fig 8.5](fig-8_5.png){:class="image "}
+![fig 8.5](fig-8_5.png){:.image .block-based}
 
 Rather than the simple code above, you could add your newfound knowledge of subroutines to the code we've created which utilizes the button;
 
-![fig 8.6](fig-8_6.png){:class="image "}
+![fig 8.6](fig-8_6.png){:.image .block-based}
 
 #### How Do Subroutines Help Me?
 You're probably thinking 'What was the point of all this? This was more work than before!' Well for now it seems that way, but before we're done with this class our robot is going to be navigating through very complicated paths, and we will need to give our robot several commands. At that point this process becomes extremely worthwhile. The way I put it is that we do a lot of work up front so that the rest our code is easier to write.
@@ -161,7 +162,7 @@ You're probably thinking 'What was the point of all this? This was more work tha
 
 #### Answers
 
-![fig 8.7](fig-8_7.png){:class="image "}
-![fig 8.8](fig-8_8.png){:class="image "}
-![fig 8.9](fig-8_9.png){:class="image "}
-![fig 8.10](fig-8_10.png){:class="image "}
+![fig 8.7](fig-8_7.png){:.image .block-based}
+![fig 8.8](fig-8_8.png){:.image .block-based}
+![fig 8.9](fig-8_9.png){:.image .block-based}
+![fig 8.10](fig-8_10.png){:.image .block-based}
