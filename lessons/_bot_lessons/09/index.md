@@ -120,6 +120,8 @@ In a breadboard All the holes on each row of 5 are connected to each other. By c
    * **Breadboard**: A tool used to create circuits. The breadboard is able to connect two or more components together as if their were touching so long as they are on the same row.
    * **Component**: A single element of a circuit. Ex: battery, LED.
 
+{% include youtube.html id="QFm8Gkofgs8" %}
+
 {% include badge.html type="best_practice" content="It is important that the students have a good grasp of how the breadboard works. To ensure comprehension you can draw boxes around each set of holes that are connected on your whiteboard drawing. Another method would be to remove the adhesive from the back of a breadboard (I would suggest you use a spare for this rather than using a student’s) exposing the strips of metal underneath. This may help them understand why the breadboard works as it does." %}
 
 ### Step 2: Creating Our First Breadboard Circuit (15 minutes) 
@@ -151,6 +153,8 @@ Plug the 9V battery into the jack on the Noggin and your LED should light up!
 #### Vocabulary
    * **Barnabas Noggin**: The brain of our soon to be robot! The Barnabas Noggin houses the brain of the Barnabas bot. It also contains a large amount of internal circuitry, making it somewhat related to the robot’s heart as well. We will often treat the Noggin as a power source, as it can give us 5V, a voltage we are comfortable with.
    * **Resistance**: The difficulty of passing an electric current through an object. If an object is very difficult to pass current through, it has a high resistance.
+
+{% include youtube.html id="iY3Ygg6Ucq0" %}
 
 {% include badge.html type="troubleshoot" content="Sometimes your students' LEDs may burn out because of incorrect connections.  This is all part of the learning process.  We recommend having a working Arduino + breadboard setup that you can use to test to see if students' LEDs are in fact burned out or if there is perhaps another wiring issue." %}
 

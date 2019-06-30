@@ -52,19 +52,18 @@ reflection:
 
 #### Review
    * Previous week  
-   * Critical think based on previous question
+   * Critical thinking based on previous question
 
 ### Step 1: Getting The Input Value Into A Variable (15 minutes)  
 A variable is like a bucket that stores information.  A variable has a name, which is the name of the bucket, and it also has a value, which is the stuff that is inside the bucket.
-#### as Block
+
 The program below creates a variable named "button", and it sets it the value "1" if the button is pushed, and "0" if the button is not pushed.
 
 Study the program below to make sure that you understand how it works.
 
-![fig 4.1](fig-4_1.png){:class="image "}
+![fig 4.1](fig-4_1.png){:.image .block-based}
 
-#### as Text
-```
+```c
 int button = 0 ;
 
 void setup()
@@ -87,15 +86,15 @@ void loop()
   }
 }
 ```
+{:.text-based}
 
 ### Step 2: Displaying The Variable On The Serial Monitor (45 minutes) 
-#### as Block
-Now we will display our variable to the screen.  We do this by using the "serial println" block.
 
-![fig 4.2](fig-4_2.png){:class="image "}
+Now we will display our variable to the screen.  We do this by using `serial println`.
 
-#### as Text
-```
+![fig 4.2](fig-4_2.png){:.image .block-based}
+
+```c
 int button = 0 ;
 
 void setup()
@@ -123,16 +122,17 @@ void loop()
   delay(500);
 }
 ```
+{:.text-based}
 
-Once you download the code, click on "Serial Monitor" on ArduBlock and see the data display!
+Once you upload the code, click on "Serial Monitor" to see your data displayed!
 
 ### Step 3: Customizing Your Message
-Now we will modify the message so that it says "the button status is: _____".  Try the program below!
+Modify the message so that it says "the button status is: _____". 
 
-![fig 4.3](fig-4_3.png){:class="image "}
+![fig 4.3](fig-4_3.png){:.image .block-based }
 
-{% include youtube.html id='u_sgzyL4H04' %}
-[Variables and Serial Monitor](https://youtu.be/u_sgzyL4H04)
+{% include youtube.html id='u_sgzyL4H04' %}{:.block-based}
+[Variables and Serial Monitor](https://youtu.be/u_sgzyL4H04){:.block-based}
 
 #### Challenges
 Now that you know how to store input values and display them, try the following challenges!
