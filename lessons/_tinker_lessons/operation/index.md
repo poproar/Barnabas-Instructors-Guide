@@ -180,3 +180,6 @@ Wrap the metal part of the black wire of the battery holder to the pincher. It h
 - Find a partner and try to take out the objects using your metal pincher. See who is the best operator!
 
 ![image21](image21.jpg){:class="image fit"}
+
+#### Additional Resources
+[External Doc](https://docs.google.com/document/d/1dB4QCPW3kvROx7-HR0IJLWUO6zU1Ya95UQMl5_9bkLs/view)
