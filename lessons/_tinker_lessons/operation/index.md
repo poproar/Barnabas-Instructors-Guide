@@ -28,6 +28,19 @@ Circuits, Schematics, Open-Circuit, Closed-Circuit, Conductivity
 
 </div>
 
+#### Materials
+- battery
+- buzzer
+- foil
+- paper clip
+- (3) bottle caps 
+- cardboard
+- construction paper
+- tape
+- markers
+- scissors
+- imagination
+
 ###  Project Steps
 #### Introductions (5 min)
 Today we will be creating a game while experimenting with electricity. We will take time to plan (design) our creation and actually build it based on those plans. The things we build might not work the first time, but this is OK, because things not working is a part of tinkering/inventing. It will be important for us to keep trying as we experiment!  
