@@ -6,6 +6,9 @@ title: TS13 &middot; Robot Operation Game
 ---
 
 ## Lesson Plan
+
+<div class="teacher">
+
 ###  Overview
 Learn about electricity while building your very own operation game!  
 
@@ -22,6 +25,8 @@ Circuits, Schematics, Open-Circuit, Closed-Circuit, Conductivity
 #### Energy (3rd Grade)
 
 - PS3.B: Conservation of Energy and Energy Transfer
+
+</div>
 
 ###  Project Steps
 #### Introductions (5 min)
