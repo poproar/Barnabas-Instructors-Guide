@@ -7,26 +7,30 @@ title: TS13 &middot; Robot Operation Game
 
 ## Lesson Plan
 
-<div class="teacher">
-
+{:.teacher}
 ###  Overview
 Learn about electricity while building your very own operation game!  
+{:.teacher}
 
+{:.teacher}
 ###  Topics Covered
 Circuits, Schematics, Open-Circuit, Closed-Circuit, Conductivity  
+{:.teacher}
 
+{:.teacher}
 ###  Disciplinary Core Ideas
 #### Engineering Design (K-5th Grade)
 
 - ETS1.A: Defining and Delimiting Engineering Problems
 - ETS1.B: Developing Possible Solutions
 - ETS1.C: Optimizing the Design Solution
+{:.teacher}
 
+{:.teacher}
 #### Energy (3rd Grade)
 
 - PS3.B: Conservation of Energy and Energy Transfer
-
-</div>
+{:.teacher}
 
 #### Materials
 - battery
