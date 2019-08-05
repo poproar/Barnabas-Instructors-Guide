@@ -91,25 +91,25 @@ Now that we know how open-circuits and closed-circuits work, let's take our batt
 
 ![fig ](fig-op_06.jpg){:class="image"}
 
-![image28](image28.jpg){:class="image fit"}
+![image28](image28.jpg){:class="image "}
 
 2. Draw the connection between the two red wires. Connect the red wires together on the back of the cardboard. Use tape to reinforce the connection. Put the battery in and make sure that your circuit is working by connecting the black wires with your finger. Notice that this will create a closed-circuit.  
 
-![fig b](fig-op_07.jpg){:class="image fit"}
+![fig b](fig-op_07.jpg){:class="image "}
 
-![image26](image26.jpg){:class="image fit"}
+![image26](image26.jpg){:class="image "}
 
 Draw in a metal pincher connected to the - of the battery holder. We will add the pincher later, but we first want to put it into our design.
 
-![figure with hook](fig-op_08.jpg){:class="image fit"}
+![figure with hook](fig-op_08.jpg){:class="image "}
 
 Add three circles to your schematic and label them A, B and C. This is where we will put our aluminum bowls. Draw lines that connect A, B and C. Using a marker, draw these three circles on your cardboard. Also draw lines that the circles. These lines represent the wires that will connect A, B and C together.
 
 {% include badge.html type='tidbit' content='Aluminum is like a wire. Electricity can flow through it because it is a conductor.' %}  
 
-![fig added circles](fig-op_09.jpg){:class="image fit"}
+![fig added circles](fig-op_09.jpg){:class="image "}
 
-![image27](image27.jpg){:class="image fit"}
+![image27](image27.jpg){:class="image "}
 
 #### Creating Our Metal Bowls (5 min)
 Use the bottle cap to form bowls. Once you form the aluminum bowl, take the
@@ -118,62 +118,62 @@ You will need to make three of these in total.
 
 ![fig foil caps](fig-op_10.png){:class="image "}
 
-![image3](image3.jpg){:class="image fit"}
+![image3](image3.jpg){:class="image "}
 
-![image10](image10.jpg){:class="image fit"}
+![image10](image10.jpg){:class="image "}
 
-![image20](image20.jpg){:class="image fit"}
+![image20](image20.jpg){:class="image "}
 
-![image34](image34.jpg){:class="image fit"}
+![image34](image34.jpg){:class="image "}
 
-![image13](image13.jpg){:class="image fit"}
+![image13](image13.jpg){:class="image "}
 
 #### Placing & Connecting Our Bowls (15 min)
 Lay down a piece of sticky foam near near the A. Place the - wire of the buzzer on the stick foam. Also take a metal wire and put one end on the same sticky foam. Now simply press the bowl onto the sticky foam firmly. Put the battery in the battery holder and touch the of the battery holder to the metal wire to see if electricity flows through the entire circuit and buzzes.  
 If not, it's time to figure out where your circuit is open! 
 
-![image31](image31.jpg){:class="image fit"}
+![image31](image31.jpg){:class="image "}
 
-![image24](image24.jpg){:class="image fit"}
-![image16](image16.jpg){:class="image fit"}
+![image24](image24.jpg){:class="image "}
+![image16](image16.jpg){:class="image "}
 
-![image33](image33.jpg){:class="image fit"}
+![image33](image33.jpg){:class="image "}
 
 {% include badge.html type='troubleshoot' content='You want to make sure that the electricity from the - wire of the buzzer can go through the bowl. Make sure that metal is touching metal!' %}  
 
 Lay down a piece of sticky foam near near the B. Connect the other end of the metal wire to the foam and also a new metal wire. Now simply press the bowl onto the sticky foam firmly. Put the battery in the battery holder and touch the - of the battery holder to the new metal wire to see if electricity flows through the entire circuit and buzzes. If not, it's time to figure out where your circuit is open! At this time, touching both bowl A and bowl B should turn the buzzer on.
 
-![image18](image18.jpg){:class="image fit"}
+![image18](image18.jpg){:class="image "}
 
-![image22](image22.jpg){:class="image fit"}
+![image22](image22.jpg){:class="image "}
 
-![image15](image15.jpg){:class="image fit"}
+![image15](image15.jpg){:class="image "}
 
 Lay down a piece of sticky foam near near the C. Place the - wire of the buzzer on the stick foam. Also take a metal wire and put one end on the same sticky foam. Now simply press the bowl C onto the sticky foam firmly. Put the battery in the battery holder and touch the - of the battery holder to the bowl to see if electricity flows through the entire circuit and buzzes. If not, it's time to figure out where your circuit is open! At this point, touching bowls A, B and C should create a buzz sound.
 
-![image2](image2.jpg){:class="image fit"}
+![image2](image2.jpg){:class="image "}
 
-![image5](image5.jpg){:class="image fit"}
+![image5](image5.jpg){:class="image "}
 
 #### Creating The Tweezers (10 min)
 Unfold the paper clip so that it looks like a U.
 
-![image19](image19.jpg){:class="image fit"}
+![image19](image19.jpg){:class="image "}
 
-![image39](image39.jpg){:class="image fit"}
+![image39](image39.jpg){:class="image "}
 
 Wrap the metal part of the black wire of the battery holder to the pincher. It helps to create a little hook with the wire (see picture). Once the pincher is hanging on, twist the wires (see picture). Now tape it together to secure the connection.  Remember that metal needs to touch metal!
 
-![image17](image17.jpg){:class="image fit"}
+![image17](image17.jpg){:class="image "}
 
-![image6](image6.jpg){:class="image fit"}
+![image6](image6.jpg){:class="image "}
 
-![image35](image35.jpg){:class="image fit"}
+![image35](image35.jpg){:class="image "}
 
 #### Decorate your Operation Game! (15 min)
-![image7](image7.jpg){:class="image fit"}
+![image7](image7.jpg){:class="image "}
 
-![image14](image14.jpg){:class="image fit"}
+![image14](image14.jpg){:class="image "}
 
 - Use construction paper to create a head and arms. Tape them on (see picture)!
 - Add some googly eyes.
@@ -183,7 +183,7 @@ Wrap the metal part of the black wire of the battery holder to the pincher. It h
 - Use cut up straws to create foreign objects for the stomach
 - Find a partner and try to take out the objects using your metal pincher. See who is the best operator!
 
-![image21](image21.jpg){:class="image fit"}
+![image21](image21.jpg){:class="image "}
 
 #### Additional Resources
 [External Doc](https://docs.google.com/document/d/1dB4QCPW3kvROx7-HR0IJLWUO6zU1Ya95UQMl5_9bkLs/view)
