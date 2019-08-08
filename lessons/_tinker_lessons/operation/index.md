@@ -3,47 +3,30 @@ published: true
 layout: lesson
 title: TS13 &middot; Robot Operation Game
 
+disciplines:
+    - "ETS1.A: Defining and Delimiting Engineering Problems"
+    - "ETS1.B: Developing Possible Solutions"
+    - "ETS1.C: Optimizing the Design Solution"
+    - "PS3.B: Conservation of Energy and Energy Transfer"
+technical_skills:
+    - Circuits, Schematics, Open-Circuit, Closed-Circuit, Conductivity
+
+anticipatory:
+    - Learn about electricity while building your very own operation game!  
+
+materials:
+    - battery
+    - buzzer
+    - foil
+    - paper clip
+    - (3) bottle caps 
+    - cardboard
+    - construction paper
+    - tape
+    - markers
+    - scissors
+    - imagination
 ---
-
-## Lesson Plan
-
-{:.teacher}
-###  Overview
-Learn about electricity while building your very own operation game!  
-{:.teacher}
-
-{:.teacher}
-###  Topics Covered
-Circuits, Schematics, Open-Circuit, Closed-Circuit, Conductivity  
-{:.teacher}
-
-{:.teacher}
-###  Disciplinary Core Ideas
-#### Engineering Design (K-5th Grade)
-
-- ETS1.A: Defining and Delimiting Engineering Problems
-- ETS1.B: Developing Possible Solutions
-- ETS1.C: Optimizing the Design Solution
-{:.teacher}
-
-{:.teacher}
-#### Energy (3rd Grade)
-
-- PS3.B: Conservation of Energy and Energy Transfer
-{:.teacher}
-
-#### Materials
-- battery
-- buzzer
-- foil
-- paper clip
-- (3) bottle caps 
-- cardboard
-- construction paper
-- tape
-- markers
-- scissors
-- imagination
 
 ###  Project Steps
 #### Introductions (5 min)
@@ -63,7 +46,7 @@ Draw the following schematic. The battery is what we like to call the heart of t
 Examine the buzzer and notice that there are both red and black wires. 
 The red wire is the positive wire, and the black wire is the negative wire.
 
-![fig battery holder]((fig-op_02.jpg){:class="image "}
+![fig battery holder](fig-op_02.jpg){:class="image "}
 
 Look at the battery and see if you can see where it says 1.5 Volts. This is the amount of power that is inside the battery. The more voltage, the more powerful your circuit will be! Also find where there is a + and - on your battery. Turn on the buzzer by connecting: 1) the positive end (red wire) of the buzzer to the positive end (+) of the AA battery; and 2) the negative end (black wire) of the buzzer to the negative end (-) of the AA battery. You should hear a buzzing sound coming from the buzzer. (This will verify that AA battery and the buzzer are working properly.)  
 
@@ -91,13 +74,9 @@ Now that we know how open-circuits and closed-circuits work, let's take our batt
 
 ![fig ](fig-op_06.jpg){:class="image"}
 
-![image28](image28.jpg){:class="image "}
-
 2. Draw the connection between the two red wires. Connect the red wires together on the back of the cardboard. Use tape to reinforce the connection. Put the battery in and make sure that your circuit is working by connecting the black wires with your finger. Notice that this will create a closed-circuit.  
 
 ![fig b](fig-op_07.jpg){:class="image "}
-
-![image26](image26.jpg){:class="image "}
 
 Draw in a metal pincher connected to the - of the battery holder. We will add the pincher later, but we first want to put it into our design.
 
@@ -109,24 +88,12 @@ Add three circles to your schematic and label them A, B and C. This is where we 
 
 ![fig added circles](fig-op_09.jpg){:class="image "}
 
-![image27](image27.jpg){:class="image "}
-
 #### Creating Our Metal Bowls (5 min)
 Use the bottle cap to form bowls. Once you form the aluminum bowl, take the
 bottle cap out from the bottom and pinch the sides of the aluminum foil so that the bowl can stand on its own.
 You will need to make three of these in total.   
 
 ![fig foil caps](fig-op_10.png){:class="image "}
-
-![image3](image3.jpg){:class="image "}
-
-![image10](image10.jpg){:class="image "}
-
-![image20](image20.jpg){:class="image "}
-
-![image34](image34.jpg){:class="image "}
-
-![image13](image13.jpg){:class="image "}
 
 #### Placing & Connecting Our Bowls (15 min)
 Lay down a piece of sticky foam near near the A. Place the - wire of the buzzer on the stick foam. Also take a metal wire and put one end on the same sticky foam. Now simply press the bowl onto the sticky foam firmly. Put the battery in the battery holder and touch the of the battery holder to the metal wire to see if electricity flows through the entire circuit and buzzes.  
