@@ -52,8 +52,6 @@ Look at the battery and see if you can see where it says 1.5 Volts. This is the 
 
 Place the battery into the battery holder. Tip: + connects to the red wire, and - connects to the black wire.
 
-![fig buzzer](fig-op_03.jpg){:class="image "}
-
 Now let's look at the schematic that we drew. If we follow the map, it will help us build the path. Connect the red wire of the buzzer with the red wire of the battery holder, while simultaneously holding the black wire of the buzzer with the black wire of the batter holder. Again, you should hear a buzzing sound coming from the buzzer. (This will verify that battery holder is working properly.)
 
 ![touch the wires together](fig-op_04.jpg){:class="image "}
